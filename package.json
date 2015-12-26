@@ -1,7 +1,7 @@
 {
   "name": "jsdoc2md-testbed",
   "author": "Lloyd Brookes <75pound@gmail.com>",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "testbed",
   "repository": "https://github.com/jsdoc2md/testbed.git",
   "license": "MIT",
