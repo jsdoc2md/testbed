@@ -12,5 +12,11 @@
   "scripts": {
     "test": "tape test/*.js",
     "docs": "jsdoc2md -t jsdoc2md/README.hbs lib/*.js > README.md; echo"
+  },
+  "devDependencies": {
+    "dmd": "^1.3.3",
+    "jsdoc-api": "^0.3.0",
+    "jsdoc-parse": "^1.2.5",
+    "work": "^0.2.0"
   }
 }
