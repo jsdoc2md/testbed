@@ -6,6 +6,7 @@ const Queue = require('work').Queue
 const commandLineArgs = require('command-line-args')
 const tool = require('command-line-tool')
 const command = require('./command')
+const Task = require('work').Task
 
 const cli = commandLineArgs([
   { name: 'folders', type: String, multiple: true }
@@ -22,18 +23,25 @@ function * makeFolderList () {
   }
 }
 
-const queue = new Queue()
+const mainQueue = new Queue({ maxConcurrent: 10 })
 const folderList = options.folders || makeFolderList()
 
 for (let folder of folderList) {
-  queue.push(command.jsdoc(folder))
-  queue.push(command.jsdocParse(folder))
-  queue.push(command.dmd(folder))
+  const task = new Task(function (deferred) {
+    const queue = new Queue()
+    queue
+      .push(command.jsdoc(folder))
+      .push(command.jsdocParse(folder))
+      .push(command.dmd(folder))
+      .on('shift', task => console.log(task.name))
+      .on('complete', deferred.resolve)
+      .on('error', deferred.reject)
+      .process()
+  })
+  mainQueue.push(task)
 }
 
-queue
-  .on('shift', task => console.log(task.name))
-  .process()
+mainQueue.process()
 
 // process.on('unhandledRejection', (err, p) => {
 //   console.log('UNHANDLED', p)
