@@ -1,0 +1,200 @@
+[
+  {
+    "comment": "/**\nexports a class\n@module cjs/human\n@typicalname d\n*/",
+    "meta": {
+      "range": [
+        0,
+        55
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/human",
+      "code": {}
+    },
+    "description": "exports a class",
+    "kind": "module",
+    "name": "cjs/human",
+    "tags": [
+      {
+        "originalTitle": "typicalname",
+        "title": "typicalname",
+        "text": "d",
+        "value": "d"
+      }
+    ],
+    "longname": "module:cjs/human"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        56,
+        78
+      ],
+      "filename": "0-src.js",
+      "lineno": 6,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/human",
+      "code": {
+        "id": "astnode100000002",
+        "name": "module.exports",
+        "type": "Identifier",
+        "value": "Human",
+        "paramnames": []
+      }
+    },
+    "undocumented": true,
+    "name": "module:cjs/human",
+    "longname": "module:cjs/human",
+    "kind": "member"
+  },
+  {
+    "comment": "/**\nthe exported contructor\n@class\n@classdesc the exported class\n@alias module:cjs/human\n*/",
+    "meta": {
+      "range": [
+        172,
+        583
+      ],
+      "filename": "0-src.js",
+      "lineno": 14,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/human",
+      "code": {
+        "id": "astnode100000007",
+        "name": "Human",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      },
+      "vars": {
+        "Organ": "module:cjs/human~Organ",
+        "this.liver": "module:cjs/human#liver"
+      }
+    },
+    "description": "the exported contructor",
+    "kind": "class",
+    "classdesc": "the exported class",
+    "alias": "module:cjs/human",
+    "name": "module:cjs/human",
+    "longname": "module:cjs/human",
+    "params": []
+  },
+  {
+    "comment": "/**\n  @class\n  @classdesc a class inside a class\n  */",
+    "meta": {
+      "range": [
+        250,
+        486
+      ],
+      "filename": "0-src.js",
+      "lineno": 19,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/human",
+      "code": {
+        "id": "astnode100000010",
+        "name": "Organ",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      },
+      "vars": {
+        "Cell": "module:cjs/human~Organ~Cell",
+        "this.redCell": "module:cjs/human~Organ#redCell"
+      }
+    },
+    "kind": "class",
+    "classdesc": "a class inside a class",
+    "name": "Organ",
+    "longname": "module:cjs/human~Organ",
+    "memberof": "module:cjs/human",
+    "scope": "inner",
+    "params": []
+  },
+  {
+    "comment": "/**\n    @class\n    @classdesc a class inside a class inside a class\n    */",
+    "meta": {
+      "range": [
+        353,
+        372
+      ],
+      "filename": "0-src.js",
+      "lineno": 24,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/human",
+      "code": {
+        "id": "astnode100000013",
+        "name": "Cell",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "kind": "class",
+    "classdesc": "a class inside a class inside a class",
+    "name": "Cell",
+    "longname": "module:cjs/human~Organ~Cell",
+    "memberof": "module:cjs/human~Organ",
+    "scope": "inner",
+    "params": []
+  },
+  {
+    "comment": "/**\n    an instance of Cell\n    @type {module:cjs/human~Organ~Cell}\n    */",
+    "meta": {
+      "range": [
+        457,
+        482
+      ],
+      "filename": "0-src.js",
+      "lineno": 30,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/human",
+      "code": {
+        "id": "astnode100000017",
+        "name": "this.redCell",
+        "type": "NewExpression",
+        "value": "",
+        "paramnames": []
+      }
+    },
+    "description": "an instance of Cell",
+    "type": {
+      "names": [
+        "module:cjs/human~Organ~Cell"
+      ]
+    },
+    "name": "redCell",
+    "longname": "module:cjs/human~Organ#redCell",
+    "kind": "member",
+    "memberof": "module:cjs/human~Organ",
+    "scope": "instance"
+  },
+  {
+    "comment": "/**\n  an instance of Organ\n  @type {module:cjs/human~Organ}\n  */",
+    "meta": {
+      "range": [
+        557,
+        581
+      ],
+      "filename": "0-src.js",
+      "lineno": 37,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/human",
+      "code": {
+        "id": "astnode100000024",
+        "name": "this.liver",
+        "type": "NewExpression",
+        "value": "",
+        "paramnames": []
+      }
+    },
+    "description": "an instance of Organ",
+    "type": {
+      "names": [
+        "module:cjs/human~Organ"
+      ]
+    },
+    "name": "liver",
+    "longname": "module:cjs/human#liver",
+    "kind": "member",
+    "memberof": "module:cjs/human",
+    "scope": "instance"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/build/commonjs/human/0-src.js"
+    ]
+  }
+]

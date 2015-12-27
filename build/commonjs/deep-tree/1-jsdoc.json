@@ -1,0 +1,172 @@
+[
+  {
+    "comment": "/**\n * test to check deep trees render ok\n *\n * @module farm\n */",
+    "meta": {
+      "range": [
+        0,
+        64
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree",
+      "code": {}
+    },
+    "description": "test to check deep trees render ok",
+    "kind": "module",
+    "name": "farm",
+    "longname": "module:farm"
+  },
+  {
+    "comment": "/**\n * size of farm\n */",
+    "meta": {
+      "range": [
+        90,
+        109
+      ],
+      "filename": "0-src.js",
+      "lineno": 10,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree",
+      "code": {
+        "id": "astnode100000002",
+        "name": "exports.size",
+        "type": "Literal",
+        "value": 1000,
+        "paramnames": []
+      }
+    },
+    "description": "size of farm",
+    "name": "size",
+    "longname": "module:farm.size",
+    "kind": "member",
+    "memberof": "module:farm",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n * machinary\n */",
+    "meta": {
+      "range": [
+        133,
+        407
+      ],
+      "filename": "0-src.js",
+      "lineno": 15,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree",
+      "code": {
+        "id": "astnode100000008",
+        "name": "exports.equipment",
+        "type": "ObjectExpression",
+        "value": "{\"tractor\":\"\"}",
+        "paramnames": []
+      }
+    },
+    "description": "machinary",
+    "name": "equipment",
+    "longname": "module:farm.equipment",
+    "kind": "member",
+    "memberof": "module:farm",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n    * tractor details\n    */",
+    "meta": {
+      "range": [
+        195,
+        404
+      ],
+      "filename": "0-src.js",
+      "lineno": 20,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree",
+      "code": {
+        "id": "astnode100000013",
+        "name": "tractor",
+        "type": "ObjectExpression",
+        "value": "{\"engine\":\"\"}"
+      }
+    },
+    "description": "tractor details",
+    "name": "tractor",
+    "longname": "module:farm.equipment.tractor",
+    "kind": "member",
+    "memberof": "module:farm.equipment",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n      * engine details\n      */",
+    "meta": {
+      "range": [
+        252,
+        399
+      ],
+      "filename": "0-src.js",
+      "lineno": 24,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree",
+      "code": {
+        "id": "astnode100000015",
+        "name": "engine",
+        "type": "ObjectExpression",
+        "value": "{\"manufacturer\":\"one\",\"size\":2}"
+      }
+    },
+    "description": "engine details",
+    "name": "engine",
+    "longname": "module:farm.equipment.tractor.engine",
+    "kind": "member",
+    "memberof": "module:farm.equipment.tractor",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n        * who made it\n        */",
+    "meta": {
+      "range": [
+        313,
+        332
+      ],
+      "filename": "0-src.js",
+      "lineno": 28,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree",
+      "code": {
+        "id": "astnode100000017",
+        "name": "manufacturer",
+        "type": "Literal",
+        "value": "one"
+      }
+    },
+    "description": "who made it",
+    "name": "manufacturer",
+    "longname": "module:farm.equipment.tractor.engine.manufacturer",
+    "kind": "member",
+    "memberof": "module:farm.equipment.tractor.engine",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n        * size of it\n        */",
+    "meta": {
+      "range": [
+        385,
+        392
+      ],
+      "filename": "0-src.js",
+      "lineno": 33,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree",
+      "code": {
+        "id": "astnode100000019",
+        "name": "size",
+        "type": "Literal",
+        "value": 2
+      }
+    },
+    "description": "size of it",
+    "name": "size",
+    "longname": "module:farm.equipment.tractor.engine.size",
+    "kind": "member",
+    "memberof": "module:farm.equipment.tractor.engine",
+    "scope": "static"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree/0-src.js"
+    ]
+  }
+]

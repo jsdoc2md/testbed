@@ -1,0 +1,76 @@
+[
+  {
+    "id": "module:cjs/function-alias",
+    "longname": "module:cjs/function-alias",
+    "name": "cjs/function-alias",
+    "kind": "module",
+    "description": "exports a pointer to a function",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/function-alias"
+    },
+    "order": 0
+  },
+  {
+    "id": "module:cjs/function-alias--sum",
+    "longname": "module:cjs/function-alias",
+    "name": "sum",
+    "kind": "function",
+    "isExported": true,
+    "description": "the function",
+    "memberof": "module:cjs/function-alias",
+    "alias": "module:cjs/function-alias",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "the first number",
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "the second number",
+        "name": "two"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "the calculation result"
+      }
+    ],
+    "meta": {
+      "lineno": 14,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/function-alias"
+    },
+    "order": 1
+  },
+  {
+    "id": "module:cjs/function-alias--sum.sumthingStatic",
+    "longname": "module:cjs/function-alias.sumthingStatic",
+    "name": "sumthingStatic",
+    "scope": "static",
+    "kind": "member",
+    "description": "an additional static property",
+    "memberof": "module:cjs/function-alias--sum",
+    "meta": {
+      "lineno": 19,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/function-alias"
+    },
+    "order": 2
+  }
+]

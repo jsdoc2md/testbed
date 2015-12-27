@@ -1,0 +1,409 @@
+[
+  {
+    "comment": "/**\n * a global class\n */",
+    "meta": {
+      "range": [
+        26,
+        498
+      ],
+      "filename": "0-src.js",
+      "lineno": 4,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "code": {
+        "id": "astnode100000001",
+        "name": "GlobalClass",
+        "type": "ClassDeclaration",
+        "paramnames": [
+          "one",
+          "two"
+        ]
+      }
+    },
+    "classdesc": "a global class",
+    "name": "GlobalClass",
+    "longname": "GlobalClass",
+    "kind": "class",
+    "scope": "global",
+    "description": "the global class constructor",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "first param",
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "second param",
+        "name": "two"
+      }
+    ],
+    "exceptions": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "A serious error occurred."
+      }
+    ],
+    "examples": [
+      "var one = 1"
+    ]
+  },
+  {
+    "comment": "/**\n   * the global class constructor\n   * @param {number} - first param\n   * @param {string} - second param\n   * @throws {string} A serious error occurred.\n   * @example\n   * var one = 1\n   */",
+    "meta": {
+      "range": [
+        244,
+        359
+      ],
+      "filename": "0-src.js",
+      "lineno": 13,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "code": {
+        "id": "astnode100000004",
+        "name": "GlobalClass",
+        "type": "MethodDefinition",
+        "paramnames": [
+          "one",
+          "two"
+        ]
+      },
+      "vars": {
+        "": null
+      }
+    },
+    "description": "the global class constructor",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "first param",
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "second param",
+        "name": "two"
+      }
+    ],
+    "exceptions": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "A serious error occurred."
+      }
+    ],
+    "examples": [
+      "var one = 1"
+    ],
+    "name": "GlobalClass",
+    "longname": "GlobalClass",
+    "kind": "class",
+    "scope": "global",
+    "undocumented": true
+  },
+  {
+    "comment": "/**\n     * an instance property\n     * @type {number}\n     */",
+    "meta": {
+      "range": [
+        339,
+        355
+      ],
+      "filename": "0-src.js",
+      "lineno": 18,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "code": {
+        "id": "astnode100000011",
+        "name": "this.propOne",
+        "type": "Literal",
+        "value": 1,
+        "paramnames": []
+      }
+    },
+    "description": "an instance property",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "name": "propOne",
+    "longname": "GlobalClass#propOne",
+    "kind": "member",
+    "memberof": "GlobalClass",
+    "scope": "instance"
+  },
+  {
+    "comment": "/** a static method */",
+    "meta": {
+      "range": [
+        388,
+        405
+      ],
+      "filename": "0-src.js",
+      "lineno": 22,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "code": {
+        "id": "astnode100000016",
+        "name": "GlobalClass.shat",
+        "type": "MethodDefinition",
+        "paramnames": []
+      },
+      "vars": {
+        "": null
+      }
+    },
+    "description": "a static method",
+    "name": "shat",
+    "longname": "GlobalClass.shat",
+    "kind": "function",
+    "memberof": "GlobalClass",
+    "scope": "static"
+  },
+  {
+    "comment": "/** parent method one */",
+    "meta": {
+      "range": [
+        436,
+        451
+      ],
+      "filename": "0-src.js",
+      "lineno": 25,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "code": {
+        "id": "astnode100000020",
+        "name": "GlobalClass#methodOne",
+        "type": "MethodDefinition",
+        "paramnames": []
+      },
+      "vars": {
+        "": null
+      }
+    },
+    "description": "parent method one",
+    "name": "methodOne",
+    "longname": "GlobalClass#methodOne",
+    "kind": "function",
+    "memberof": "GlobalClass",
+    "scope": "instance"
+  },
+  {
+    "comment": "/** parent method two */",
+    "meta": {
+      "range": [
+        481,
+        496
+      ],
+      "filename": "0-src.js",
+      "lineno": 27,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "code": {
+        "id": "astnode100000024",
+        "name": "GlobalClass#methodTwo",
+        "type": "MethodDefinition",
+        "paramnames": []
+      },
+      "vars": {
+        "": null
+      }
+    },
+    "description": "parent method two",
+    "name": "methodTwo",
+    "longname": "GlobalClass#methodTwo",
+    "kind": "function",
+    "memberof": "GlobalClass",
+    "scope": "instance"
+  },
+  {
+    "comment": "/**\n * the child of global class\n * @extends GlobalClass\n */",
+    "meta": {
+      "range": [
+        561,
+        740
+      ],
+      "filename": "0-src.js",
+      "lineno": 34,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "code": {
+        "id": "astnode100000028",
+        "name": "GlobalChildClass",
+        "type": "ClassDeclaration",
+        "paramnames": []
+      }
+    },
+    "classdesc": "the child of global class",
+    "augments": [
+      "GlobalClass"
+    ],
+    "name": "GlobalChildClass",
+    "longname": "GlobalChildClass",
+    "kind": "class",
+    "scope": "global"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        608,
+        683
+      ],
+      "filename": "0-src.js",
+      "lineno": 35,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "code": {
+        "id": "astnode100000032",
+        "name": "GlobalChildClass",
+        "type": "MethodDefinition",
+        "paramnames": []
+      },
+      "vars": {
+        "": null
+      }
+    },
+    "undocumented": true,
+    "name": "GlobalChildClass",
+    "longname": "GlobalChildClass",
+    "kind": "class",
+    "scope": "global"
+  },
+  {
+    "comment": "/** an instance property */",
+    "meta": {
+      "range": [
+        661,
+        679
+      ],
+      "filename": "0-src.js",
+      "lineno": 37,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "code": {
+        "id": "astnode100000037",
+        "name": "this.propThree",
+        "type": "Literal",
+        "value": 1,
+        "paramnames": []
+      }
+    },
+    "description": "an instance property",
+    "name": "propThree",
+    "longname": "GlobalChildClass#propThree",
+    "kind": "member",
+    "memberof": "GlobalChildClass",
+    "scope": "instance"
+  },
+  {
+    "comment": "/** overridden child methodTwo */",
+    "meta": {
+      "range": [
+        723,
+        738
+      ],
+      "filename": "0-src.js",
+      "lineno": 41,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "code": {
+        "id": "astnode100000042",
+        "name": "GlobalChildClass#methodTwo",
+        "type": "MethodDefinition",
+        "paramnames": []
+      },
+      "vars": {
+        "": null
+      }
+    },
+    "description": "overridden child methodTwo",
+    "name": "methodTwo",
+    "longname": "GlobalChildClass#methodTwo",
+    "kind": "function",
+    "memberof": "GlobalChildClass",
+    "scope": "instance",
+    "overrides": "GlobalClass#methodTwo"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class/0-src.js"
+    ]
+  },
+  {
+    "comment": "/**\n     * an instance property\n     * @type {number}\n     */",
+    "meta": {
+      "range": [
+        339,
+        355
+      ],
+      "filename": "0-src.js",
+      "lineno": 18,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "code": {
+        "id": "astnode100000011",
+        "name": "this.propOne",
+        "type": "Literal",
+        "value": 1,
+        "paramnames": []
+      }
+    },
+    "description": "an instance property",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "name": "propOne",
+    "longname": "GlobalChildClass#propOne",
+    "kind": "member",
+    "memberof": "GlobalChildClass",
+    "scope": "instance",
+    "inherits": "GlobalClass#propOne",
+    "inherited": true
+  },
+  {
+    "comment": "/** parent method one */",
+    "meta": {
+      "range": [
+        436,
+        451
+      ],
+      "filename": "0-src.js",
+      "lineno": 25,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "code": {
+        "id": "astnode100000020",
+        "name": "GlobalClass#methodOne",
+        "type": "MethodDefinition",
+        "paramnames": []
+      },
+      "vars": {
+        "": null
+      }
+    },
+    "description": "parent method one",
+    "name": "methodOne",
+    "longname": "GlobalChildClass#methodOne",
+    "kind": "function",
+    "memberof": "GlobalChildClass",
+    "scope": "instance",
+    "inherits": "GlobalClass#methodOne",
+    "inherited": true
+  }
+]

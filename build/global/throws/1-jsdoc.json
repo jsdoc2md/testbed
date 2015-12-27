@@ -1,0 +1,52 @@
+[
+  {
+    "comment": "/**\n@throws Will throw an error if the argument is null\n@throws {InvalidArgumentException}\n@throws {DivideByZero} Argument x must be non-zero\n*/",
+    "meta": {
+      "range": [
+        145,
+        176
+      ],
+      "filename": "0-src.js",
+      "lineno": 6,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/throws",
+      "code": {
+        "id": "astnode100000001",
+        "name": "throwingFunction",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "exceptions": [
+      {
+        "description": "Will throw an error if the argument is null"
+      },
+      {
+        "type": {
+          "names": [
+            "InvalidArgumentException"
+          ]
+        }
+      },
+      {
+        "type": {
+          "names": [
+            "DivideByZero"
+          ]
+        },
+        "description": "Argument x must be non-zero"
+      }
+    ],
+    "name": "throwingFunction",
+    "longname": "throwingFunction",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/build/global/throws/0-src.js"
+    ]
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "id": "module:heaven",
+    "longname": "module:heaven",
+    "name": "heaven",
+    "kind": "module",
+    "description": "factory module creating dodgy cloud. object-with-static-class.",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class"
+    },
+    "order": 0
+  },
+  {
+    "id": "module:heaven~Cloud()",
+    "longname": "module:heaven~Cloud",
+    "name": "Cloud",
+    "kind": "constructor",
+    "description": "cloud constructor",
+    "memberof": "module:heaven~Cloud",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "the options",
+        "name": "options"
+      }
+    ],
+    "order": 4
+  },
+  {
+    "id": "module:heaven~Cloud#size",
+    "longname": "module:heaven~Cloud#size",
+    "name": "size",
+    "scope": "instance",
+    "kind": "member",
+    "memberof": "module:heaven~Cloud",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "defaultvalue": 4,
+    "meta": {
+      "lineno": 28,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class"
+    },
+    "order": 5
+  },
+  {
+    "id": "module:heaven~Cloud#rain",
+    "longname": "module:heaven~Cloud#rain",
+    "name": "rain",
+    "scope": "instance",
+    "kind": "member",
+    "memberof": "module:heaven~Cloud",
+    "type": {
+      "names": [
+        "boolean"
+      ]
+    },
+    "defaultvalue": false,
+    "meta": {
+      "lineno": 34,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class"
+    },
+    "order": 6
+  },
+  {
+    "id": "module:heaven.Cloud",
+    "longname": "module:heaven.Cloud",
+    "name": "Cloud",
+    "scope": "static",
+    "kind": "member",
+    "description": "access to the Cloud class",
+    "memberof": "module:heaven",
+    "type": {
+      "names": [
+        "module:heaven~Cloud"
+      ]
+    },
+    "meta": {
+      "lineno": 15,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class"
+    },
+    "order": 2
+  },
+  {
+    "id": "module:heaven~Cloud.SPACES",
+    "longname": "module:heaven~Cloud.SPACES",
+    "name": "SPACES",
+    "scope": "static",
+    "kind": "constant",
+    "description": "a class constant",
+    "memberof": "module:heaven~Cloud",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "meta": {
+      "lineno": 46,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class"
+    },
+    "order": 8
+  },
+  {
+    "id": "module:heaven.createCloud",
+    "longname": "module:heaven.createCloud",
+    "name": "createCloud",
+    "scope": "static",
+    "kind": "function",
+    "memberof": "module:heaven",
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "module:heaven~Cloud"
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "lineno": 9,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class"
+    },
+    "order": 1
+  },
+  {
+    "id": "module:heaven~Cloud.classMethod",
+    "longname": "module:heaven~Cloud.classMethod",
+    "name": "classMethod",
+    "scope": "static",
+    "kind": "function",
+    "description": "a class method",
+    "memberof": "module:heaven~Cloud",
+    "meta": {
+      "lineno": 40,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class"
+    },
+    "order": 7
+  },
+  {
+    "id": "module:heaven~Cloud",
+    "longname": "module:heaven~Cloud",
+    "name": "Cloud",
+    "scope": "inner",
+    "kind": "class",
+    "description": "The main class for a cloud",
+    "memberof": "module:heaven",
+    "meta": {
+      "lineno": 23,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class"
+    },
+    "order": 3
+  },
+  {
+    "id": "module:heaven~FACT",
+    "longname": "module:heaven~FACT",
+    "name": "FACT",
+    "scope": "inner",
+    "kind": "constant",
+    "description": "an inner constant",
+    "memberof": "module:heaven",
+    "type": {
+      "names": [
+        "boolean"
+      ]
+    },
+    "meta": {
+      "lineno": 52,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class"
+    },
+    "order": 9
+  }
+]

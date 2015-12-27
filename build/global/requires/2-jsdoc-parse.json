@@ -1,0 +1,20 @@
+[
+  {
+    "id": "requirer",
+    "longname": "requirer",
+    "name": "requirer",
+    "scope": "global",
+    "kind": "function",
+    "description": "ensure you have some-module installed",
+    "params": [],
+    "requires": [
+      "module:some-module"
+    ],
+    "meta": {
+      "lineno": 5,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/requires"
+    },
+    "order": 0
+  }
+]

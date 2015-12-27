@@ -1,0 +1,55 @@
+[
+  {
+    "id": "firesError",
+    "longname": "firesError",
+    "name": "firesError",
+    "scope": "global",
+    "kind": "function",
+    "params": [],
+    "fires": [
+      "event:error"
+    ],
+    "meta": {
+      "lineno": 4,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/fires"
+    },
+    "order": 0
+  },
+  {
+    "id": "firesMany",
+    "longname": "firesMany",
+    "name": "firesMany",
+    "scope": "global",
+    "kind": "function",
+    "params": [],
+    "fires": [
+      "event:error",
+      "event:begin",
+      "event:end"
+    ],
+    "meta": {
+      "lineno": 11,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/fires"
+    },
+    "order": 1
+  },
+  {
+    "id": "firesDefinedEvent",
+    "longname": "firesDefinedEvent",
+    "name": "firesDefinedEvent",
+    "scope": "global",
+    "kind": "function",
+    "params": [],
+    "fires": [
+      "event:docletEvent"
+    ],
+    "meta": {
+      "lineno": 16,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/fires"
+    },
+    "order": 2
+  }
+]

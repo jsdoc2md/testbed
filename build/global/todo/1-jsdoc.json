@@ -1,0 +1,114 @@
+[
+  {
+    "comment": "/**\n * @todo Write the documentation.\n * @todo Implement this function.\n */",
+    "meta": {
+      "range": [
+        76,
+        104
+      ],
+      "filename": "0-src.js",
+      "lineno": 5,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/todo",
+      "code": {
+        "id": "astnode100000001",
+        "name": "todoFunction1",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "todo": [
+      "Write the documentation.",
+      "Implement this function."
+    ],
+    "name": "todoFunction1",
+    "longname": "todoFunction1",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\n * @todo Write the documentation.\n * @todo Implement this function.\n * @done this one is done\n * @done finished\n */",
+    "meta": {
+      "range": [
+        226,
+        254
+      ],
+      "filename": "0-src.js",
+      "lineno": 13,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/todo",
+      "code": {
+        "id": "astnode100000004",
+        "name": "todoFunction2",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "todo": [
+      "Write the documentation.",
+      "Implement this function."
+    ],
+    "tags": [
+      {
+        "originalTitle": "done",
+        "title": "done",
+        "text": "this one is done",
+        "value": "this one is done"
+      },
+      {
+        "originalTitle": "done",
+        "title": "done",
+        "text": "finished",
+        "value": "finished"
+      }
+    ],
+    "name": "todoFunction2",
+    "longname": "todoFunction2",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\n * @done this one is done\n * @done finished\n */",
+    "meta": {
+      "range": [
+        308,
+        336
+      ],
+      "filename": "0-src.js",
+      "lineno": 19,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/todo",
+      "code": {
+        "id": "astnode100000007",
+        "name": "todoFunction3",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "tags": [
+      {
+        "originalTitle": "done",
+        "title": "done",
+        "text": "this one is done",
+        "value": "this one is done"
+      },
+      {
+        "originalTitle": "done",
+        "title": "done",
+        "text": "finished",
+        "value": "finished"
+      }
+    ],
+    "name": "todoFunction3",
+    "longname": "todoFunction3",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/build/global/todo/0-src.js"
+    ]
+  }
+]

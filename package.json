@@ -9,9 +9,13 @@
   "engines": {
     "node": ">=0.10.0"
   },
+  "bin": {
+    "testbed": "bin/cli.js"
+  },
   "scripts": {
     "test": "tape test/*.js",
-    "docs": "jsdoc2md -t jsdoc2md/README.hbs lib/*.js > README.md; echo"
+    "docs": "jsdoc2md -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
+    "build": "node bin/cli.js"
   },
   "devDependencies": {
     "command-line-args": "^2.1.3",

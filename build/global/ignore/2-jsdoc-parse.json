@@ -1,0 +1,16 @@
+[
+  {
+    "id": "visible",
+    "longname": "visible",
+    "name": "visible",
+    "scope": "global",
+    "kind": "member",
+    "description": "a visible global",
+    "meta": {
+      "lineno": 4,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/ignore"
+    },
+    "order": 0
+  }
+]

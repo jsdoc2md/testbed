@@ -1,0 +1,177 @@
+[
+  {
+    "comment": "/**\nthis module exports a class constructor\n@module file-set\n@example\n```js\nvar FileSet = require(\"file-set\")\n```\n*/",
+    "meta": {
+      "range": [
+        0,
+        116
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/class-fileset",
+      "code": {}
+    },
+    "description": "this module exports a class constructor",
+    "kind": "module",
+    "name": "file-set",
+    "examples": [
+      "```js\nvar FileSet = require(\"file-set\")\n```"
+    ],
+    "longname": "module:file-set"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        117,
+        141
+      ],
+      "filename": "0-src.js",
+      "lineno": 9,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/class-fileset",
+      "code": {
+        "id": "astnode100000002",
+        "name": "module.exports",
+        "type": "Identifier",
+        "value": "FileSet",
+        "paramnames": []
+      }
+    },
+    "undocumented": true,
+    "name": "module:file-set",
+    "longname": "module:file-set",
+    "kind": "member"
+  },
+  {
+    "comment": "/**\nTakes a list of path patterns\n@class\n@classdesc this class returns a set of files\n@param {string[]} - a list of file patterns\n@alias module:file-set\n@example\n```js\nvar cowFiles = new FileSet(\"cow/*\")\n```\n*/",
+    "meta": {
+      "range": [
+        358,
+        412
+      ],
+      "filename": "0-src.js",
+      "lineno": 22,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/class-fileset",
+      "code": {
+        "id": "astnode100000008",
+        "name": "FileSet",
+        "type": "FunctionExpression"
+      },
+      "vars": {
+        "the": "module:file-set~the"
+      }
+    },
+    "description": "Takes a list of path patterns",
+    "kind": "class",
+    "classdesc": "this class returns a set of files",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "Array.<string>"
+          ]
+        },
+        "description": "a list of file patterns"
+      }
+    ],
+    "alias": "module:file-set",
+    "examples": [
+      "```js\nvar cowFiles = new FileSet(\"cow/*\")\n```"
+    ],
+    "name": "module:file-set",
+    "longname": "module:file-set"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        391,
+        410
+      ],
+      "filename": "0-src.js",
+      "lineno": 23,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/class-fileset",
+      "code": {
+        "id": "astnode100000014",
+        "name": "the",
+        "type": "Literal",
+        "value": "constructor"
+      }
+    },
+    "undocumented": true,
+    "name": "the",
+    "longname": "module:file-set~the",
+    "kind": "member",
+    "memberof": "module:file-set",
+    "scope": "inner"
+  },
+  {
+    "comment": "/**\nthe prototype instance property\n*/",
+    "meta": {
+      "range": [
+        453,
+        483
+      ],
+      "filename": "0-src.js",
+      "lineno": 29,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/class-fileset",
+      "code": {
+        "id": "astnode100000018",
+        "name": "FileSet.prototype.files",
+        "type": "Literal",
+        "value": true,
+        "paramnames": []
+      }
+    },
+    "description": "the prototype instance property",
+    "name": "files",
+    "longname": "module:file-set#files",
+    "kind": "member",
+    "memberof": "module:file-set",
+    "scope": "instance"
+  },
+  {
+    "comment": "/**\nA prototype instance methy meth\n@param {array} - the paths to delete\n*/",
+    "meta": {
+      "range": [
+        561,
+        607
+      ],
+      "filename": "0-src.js",
+      "lineno": 35,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/class-fileset",
+      "code": {
+        "id": "astnode100000026",
+        "name": "FileSet.prototype.delete",
+        "type": "FunctionExpression",
+        "paramnames": [
+          "paths"
+        ]
+      }
+    },
+    "description": "A prototype instance methy meth",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "array"
+          ]
+        },
+        "description": "the paths to delete",
+        "name": "paths"
+      }
+    ],
+    "name": "delete",
+    "longname": "module:file-set#delete",
+    "kind": "function",
+    "memberof": "module:file-set",
+    "scope": "instance"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/build/commonjs/class-fileset/0-src.js"
+    ]
+  }
+]

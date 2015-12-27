@@ -1,0 +1,215 @@
+[
+  {
+    "comment": "/**\nEnum for the `type` value\n@readonly\n@enum {number}\n*/",
+    "meta": {
+      "range": [
+        62,
+        111
+      ],
+      "filename": "0-src.js",
+      "lineno": 6,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+      "code": {
+        "id": "astnode100000002",
+        "name": "eFileType",
+        "type": "ObjectExpression",
+        "value": "{\"NOEXIST\":0,\"FILE\":1,\"DIR\":2}"
+      }
+    },
+    "description": "Enum for the `type` value",
+    "readonly": true,
+    "kind": "member",
+    "isEnum": true,
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "name": "eFileType",
+    "longname": "eFileType",
+    "scope": "global",
+    "properties": [
+      {
+        "comment": "",
+        "meta": {
+          "range": [
+            78,
+            88
+          ],
+          "filename": "0-src.js",
+          "lineno": 7,
+          "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+          "code": {
+            "id": "astnode100000005",
+            "name": "NOEXIST",
+            "type": "Literal",
+            "value": 0
+          }
+        },
+        "name": "NOEXIST",
+        "longname": "eFileType.NOEXIST",
+        "kind": "member",
+        "memberof": "eFileType",
+        "scope": "static",
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "defaultvalue": 0
+      },
+      {
+        "comment": "",
+        "meta": {
+          "range": [
+            92,
+            99
+          ],
+          "filename": "0-src.js",
+          "lineno": 8,
+          "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+          "code": {
+            "id": "astnode100000007",
+            "name": "FILE",
+            "type": "Literal",
+            "value": 1
+          }
+        },
+        "name": "FILE",
+        "longname": "eFileType.FILE",
+        "kind": "member",
+        "memberof": "eFileType",
+        "scope": "static",
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "defaultvalue": 1
+      },
+      {
+        "comment": "",
+        "meta": {
+          "range": [
+            103,
+            109
+          ],
+          "filename": "0-src.js",
+          "lineno": 9,
+          "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+          "code": {
+            "id": "astnode100000009",
+            "name": "DIR",
+            "type": "Literal",
+            "value": 2
+          }
+        },
+        "name": "DIR",
+        "longname": "eFileType.DIR",
+        "kind": "member",
+        "memberof": "eFileType",
+        "scope": "static",
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "defaultvalue": 2
+      }
+    ]
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        78,
+        88
+      ],
+      "filename": "0-src.js",
+      "lineno": 7,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+      "code": {
+        "id": "astnode100000005",
+        "name": "NOEXIST",
+        "type": "Literal",
+        "value": 0
+      }
+    },
+    "name": "NOEXIST",
+    "longname": "eFileType.NOEXIST",
+    "kind": "member",
+    "memberof": "eFileType",
+    "scope": "static",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "defaultvalue": 0
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        92,
+        99
+      ],
+      "filename": "0-src.js",
+      "lineno": 8,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+      "code": {
+        "id": "astnode100000007",
+        "name": "FILE",
+        "type": "Literal",
+        "value": 1
+      }
+    },
+    "name": "FILE",
+    "longname": "eFileType.FILE",
+    "kind": "member",
+    "memberof": "eFileType",
+    "scope": "static",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "defaultvalue": 1
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        103,
+        109
+      ],
+      "filename": "0-src.js",
+      "lineno": 9,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+      "code": {
+        "id": "astnode100000009",
+        "name": "DIR",
+        "type": "Literal",
+        "value": 2
+      }
+    },
+    "name": "DIR",
+    "longname": "eFileType.DIR",
+    "kind": "member",
+    "memberof": "eFileType",
+    "scope": "static",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "defaultvalue": 2
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/build/global/enum/0-src.js"
+    ]
+  }
+]

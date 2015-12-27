@@ -1,0 +1,72 @@
+[
+  {
+    "comment": "/**\n * A module representing a jacket.\n * @module jacket\n */",
+    "meta": {
+      "range": [
+        0,
+        60
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/amd/jacket",
+      "code": {}
+    },
+    "description": "A module representing a jacket.",
+    "kind": "module",
+    "name": "jacket",
+    "longname": "module:jacket"
+  },
+  {
+    "comment": "/**\n   * @constructor\n   * @alias module:jacket\n   */",
+    "meta": {
+      "range": [
+        154,
+        177
+      ],
+      "filename": "0-src.js",
+      "lineno": 10,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/amd/jacket",
+      "code": {
+        "id": "astnode100000008",
+        "name": "Jacket",
+        "type": "FunctionExpression"
+      }
+    },
+    "kind": "class",
+    "alias": "module:jacket",
+    "name": "module:jacket",
+    "longname": "module:jacket"
+  },
+  {
+    "comment": "/** Open and close your Jacket. */",
+    "meta": {
+      "range": [
+        218,
+        255
+      ],
+      "filename": "0-src.js",
+      "lineno": 13,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/amd/jacket",
+      "code": {
+        "id": "astnode100000013",
+        "name": "Jacket.prototype.zip",
+        "type": "FunctionExpression",
+        "funcscope": "<anonymous>",
+        "paramnames": []
+      }
+    },
+    "description": "Open and close your Jacket.",
+    "name": "zip",
+    "longname": "module:jacket#zip",
+    "kind": "function",
+    "memberof": "module:jacket",
+    "scope": "instance"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/build/amd/jacket/0-src.js"
+    ]
+  }
+]

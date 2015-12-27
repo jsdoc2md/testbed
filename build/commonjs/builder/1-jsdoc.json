@@ -1,0 +1,118 @@
+[
+  {
+    "comment": "/**\nAside from humans, who are the most prolific and versatile builders, building behaviour is common in many mammals, birds, insects and arachnids. It is also seen in a few species of fish, reptiles, amphibians, molluscs, urochordates, crustaceans, annelids and some other arthropods. It is virtually absent from all the other animal phyla.\n@module builder\n*/",
+    "meta": {
+      "range": [
+        0,
+        360
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/builder",
+      "code": {}
+    },
+    "description": "Aside from humans, who are the most prolific and versatile builders, building behaviour is common in many mammals, birds, insects and arachnids. It is also seen in a few species of fish, reptiles, amphibians, molluscs, urochordates, crustaceans, annelids and some other arthropods. It is virtually absent from all the other animal phyla.",
+    "kind": "module",
+    "name": "builder",
+    "longname": "module:builder"
+  },
+  {
+    "comment": "/**\n@mixin\n*/",
+    "meta": {
+      "range": [
+        380,
+        510
+      ],
+      "filename": "0-src.js",
+      "lineno": 9,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/builder",
+      "code": {
+        "id": "astnode100000002",
+        "name": "builder",
+        "type": "ObjectExpression",
+        "value": "{\"construct\":\"\",\"repair\":\"\"}"
+      }
+    },
+    "kind": "mixin",
+    "name": "builder",
+    "longname": "module:builder~builder",
+    "scope": "inner",
+    "memberof": "module:builder"
+  },
+  {
+    "comment": "/**\n  construct something\n  */",
+    "meta": {
+      "range": [
+        427,
+        452
+      ],
+      "filename": "0-src.js",
+      "lineno": 13,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/builder",
+      "code": {
+        "id": "astnode100000005",
+        "name": "construct",
+        "type": "FunctionExpression"
+      }
+    },
+    "description": "construct something",
+    "name": "construct",
+    "longname": "module:builder~builder.construct",
+    "kind": "function",
+    "memberof": "module:builder~builder",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n  repair something\n  */",
+    "meta": {
+      "range": [
+        486,
+        508
+      ],
+      "filename": "0-src.js",
+      "lineno": 17,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/builder",
+      "code": {
+        "id": "astnode100000008",
+        "name": "repair",
+        "type": "FunctionExpression"
+      }
+    },
+    "description": "repair something",
+    "name": "repair",
+    "longname": "module:builder~builder.repair",
+    "kind": "function",
+    "memberof": "module:builder~builder",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        512,
+        536
+      ],
+      "filename": "0-src.js",
+      "lineno": 20,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/builder",
+      "code": {
+        "id": "astnode100000012",
+        "name": "module.exports",
+        "type": "Identifier",
+        "value": "builder",
+        "paramnames": []
+      }
+    },
+    "undocumented": true,
+    "name": "module:builder",
+    "longname": "module:builder",
+    "kind": "member"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/build/commonjs/builder/0-src.js"
+    ]
+  }
+]
