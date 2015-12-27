@@ -1,0 +1,31 @@
+[
+  {
+    "id": "module:0-src",
+    "longname": "module:0-src",
+    "name": "0-src",
+    "kind": "module",
+    "description": "module with ignored shiz",
+    "alias": "ignore",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/ignore"
+    },
+    "order": 0
+  },
+  {
+    "id": "module:0-src.visible",
+    "longname": "module:0-src.visible",
+    "name": "visible",
+    "scope": "static",
+    "kind": "member",
+    "description": "visible property",
+    "memberof": "module:0-src",
+    "meta": {
+      "lineno": 10,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/ignore"
+    },
+    "order": 1
+  }
+]

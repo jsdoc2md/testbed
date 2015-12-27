@@ -1,0 +1,40 @@
+[
+  {
+    "id": "module:function-tools",
+    "longname": "module:function-tools",
+    "name": "function-tools",
+    "kind": "module",
+    "description": "This is the module description",
+    "customTags": [
+      {
+        "tag": "variablename",
+        "value": "f"
+      },
+      {
+        "tag": "context",
+        "value": "{customContext}"
+      }
+    ],
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/customTag"
+    },
+    "order": 0
+  },
+  {
+    "id": "module:function-tools.one",
+    "longname": "module:function-tools.one",
+    "name": "one",
+    "scope": "static",
+    "kind": "function",
+    "description": "the main function description",
+    "memberof": "module:function-tools",
+    "meta": {
+      "lineno": 11,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/customTag"
+    },
+    "order": 1
+  }
+]

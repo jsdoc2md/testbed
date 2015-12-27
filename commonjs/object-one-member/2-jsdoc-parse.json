@@ -1,0 +1,69 @@
+[
+  {
+    "id": "module:one-member",
+    "longname": "module:one-member",
+    "name": "one-member",
+    "kind": "module",
+    "description": "simple object, one member. It shouldn't have an index.",
+    "alias": "object",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/object-one-member"
+    },
+    "order": 0
+  },
+  {
+    "id": "module:one-member.three",
+    "longname": "module:one-member.three",
+    "name": "three",
+    "scope": "static",
+    "kind": "function",
+    "description": "a function",
+    "memberof": "module:one-member",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "The input string",
+        "name": "four"
+      },
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "a second input",
+        "name": "five"
+      }
+    ],
+    "examples": [
+      "```js\nallTogether(true)\n```"
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "object",
+            "string"
+          ]
+        },
+        "description": "this return has several types"
+      }
+    ],
+    "author": [
+      "Lloyd <75pound@gmail.com>"
+    ],
+    "since": "v0.10.28",
+    "meta": {
+      "lineno": 19,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/object-one-member"
+    },
+    "order": 1
+  }
+]

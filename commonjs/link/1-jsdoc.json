@@ -1,0 +1,117 @@
+[
+  {
+    "comment": "/** \nA module. Refer to it using {@link module:linkMod|this link}.\n@module linkMod\n*/",
+    "meta": {
+      "range": [
+        0,
+        85
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/link",
+      "code": {}
+    },
+    "description": "A module. Refer to it using {@link module:linkMod|this link}.",
+    "kind": "module",
+    "name": "linkMod",
+    "longname": "module:linkMod"
+  },
+  {
+    "comment": "/** \nThe built in Math object. Refer to it with {@link external:Math}.\n@external Math\n@see http://www.math.com\n*/",
+    "meta": {
+      "range": [
+        86,
+        199
+      ],
+      "filename": "0-src.js",
+      "lineno": 5,
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/link",
+      "code": {}
+    },
+    "description": "The built in Math object. Refer to it with {@link external:Math}.",
+    "kind": "external",
+    "name": "Math",
+    "see": [
+      "http://www.math.com"
+    ],
+    "longname": "external:Math",
+    "scope": "inner",
+    "memberof": "module:linkMod"
+  },
+  {
+    "comment": "/** \nThe built in Date object, it has no see tag. Refer to it with {@link external:Date}.\n@external Date\n*/",
+    "meta": {
+      "range": [
+        200,
+        307
+      ],
+      "filename": "0-src.js",
+      "lineno": 10,
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/link",
+      "code": {}
+    },
+    "description": "The built in Date object, it has no see tag. Refer to it with {@link external:Date}.",
+    "kind": "external",
+    "name": "Date",
+    "longname": "external:Date",
+    "scope": "inner",
+    "memberof": "module:linkMod"
+  },
+  {
+    "comment": "/** \nAn event. Refer to with {@link module:linkMod.event:MyEvent this link}.\n@event module:linkMod.event:MyEvent\n*/",
+    "meta": {
+      "range": [
+        308,
+        423
+      ],
+      "filename": "0-src.js",
+      "lineno": 14,
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/link",
+      "code": {}
+    },
+    "description": "An event. Refer to with {@link module:linkMod.event:MyEvent this link}.",
+    "kind": "event",
+    "name": "event:MyEvent",
+    "memberof": "module:linkMod",
+    "longname": "module:linkMod.event:MyEvent",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\nthis is from {@link module:linkMod}.. it also references {@link external:Math}\n@class\n@extends external:Math\n@emits module:linkMod.event:MyEvent\n*/",
+    "meta": {
+      "range": [
+        577,
+        601
+      ],
+      "filename": "0-src.js",
+      "lineno": 25,
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/link",
+      "code": {
+        "id": "astnode100000001",
+        "name": "linksYeah",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "description": "this is from {@link module:linkMod}.. it also references {@link external:Math}",
+    "kind": "class",
+    "augments": [
+      "external:Math"
+    ],
+    "fires": [
+      "module:linkMod.event:MyEvent"
+    ],
+    "name": "linksYeah",
+    "longname": "module:linkMod~linksYeah",
+    "scope": "inner",
+    "memberof": "module:linkMod",
+    "params": []
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/commonjs/link/0-src.js"
+    ]
+  }
+]

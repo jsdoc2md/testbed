@@ -67,7 +67,7 @@ function jsdocParseResolver (deferred) {
   const files = path.resolve(this.data.dir, this.data.options.html ? file.SRC_HTML : file.SRC)
   const outputStream = fs.createWriteStream(path.resolve(this.data.dir, file.JSDOCPARSE))
   this.data.options.src = files
-  console.log(this.data)
+  // console.log(this.data)
   jsdocParse(this.data.options)
     .pipe(outputStream)
     .on('close', function () {

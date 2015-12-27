@@ -1,0 +1,35 @@
+[
+  {
+    "id": "module:0-src",
+    "longname": "module:0-src",
+    "name": "0-src",
+    "kind": "module",
+    "description": "this module exports one value, that's it",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/single-value"
+    },
+    "order": 0
+  },
+  {
+    "id": "module:0-src--module.exports",
+    "longname": "module:0-src",
+    "name": "module.exports",
+    "kind": "member",
+    "isExported": true,
+    "memberof": "module:0-src",
+    "type": {
+      "names": [
+        "boolean"
+      ]
+    },
+    "defaultvalue": true,
+    "meta": {
+      "lineno": 10,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/single-value"
+    },
+    "order": 1
+  }
+]

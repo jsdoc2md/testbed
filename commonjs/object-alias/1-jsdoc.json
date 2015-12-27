@@ -1,0 +1,120 @@
+[
+  {
+    "comment": "/**\na module exporting an object\n@module cjs/object-alias\n*/",
+    "meta": {
+      "range": [
+        0,
+        60
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/object-alias",
+      "code": {}
+    },
+    "description": "a module exporting an object",
+    "kind": "module",
+    "name": "cjs/object-alias",
+    "longname": "module:cjs/object-alias"
+  },
+  {
+    "comment": "/**\nthe teams\n@alias module:cjs/object-alias\n*/",
+    "meta": {
+      "range": [
+        114,
+        161
+      ],
+      "filename": "0-src.js",
+      "lineno": 10,
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/object-alias",
+      "code": {
+        "id": "astnode100000002",
+        "name": "teams",
+        "type": "ObjectExpression",
+        "value": "{\"manu\":\"england\",\"lyon\":\"france\"}"
+      }
+    },
+    "description": "the teams",
+    "alias": "module:cjs/object-alias",
+    "name": "module:cjs/object-alias",
+    "longname": "module:cjs/object-alias",
+    "kind": "member"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        126,
+        141
+      ],
+      "filename": "0-src.js",
+      "lineno": 11,
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/object-alias",
+      "code": {
+        "id": "astnode100000005",
+        "name": "manu",
+        "type": "Literal",
+        "value": "england"
+      }
+    },
+    "undocumented": true,
+    "name": "manu",
+    "longname": "module:cjs/object-alias.manu",
+    "kind": "member",
+    "memberof": "module:cjs/object-alias",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        145,
+        159
+      ],
+      "filename": "0-src.js",
+      "lineno": 12,
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/object-alias",
+      "code": {
+        "id": "astnode100000007",
+        "name": "lyon",
+        "type": "Literal",
+        "value": "france"
+      }
+    },
+    "undocumented": true,
+    "name": "lyon",
+    "longname": "module:cjs/object-alias.lyon",
+    "kind": "member",
+    "memberof": "module:cjs/object-alias",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        163,
+        185
+      ],
+      "filename": "0-src.js",
+      "lineno": 15,
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/object-alias",
+      "code": {
+        "id": "astnode100000010",
+        "name": "module.exports",
+        "type": "Identifier",
+        "value": "teams",
+        "paramnames": []
+      }
+    },
+    "undocumented": true,
+    "name": "module:cjs/object-alias",
+    "longname": "module:cjs/object-alias",
+    "kind": "member"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/commonjs/object-alias/0-src.js"
+    ]
+  }
+]

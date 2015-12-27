@@ -1,0 +1,94 @@
+[
+  {
+    "comment": "/**\na module exporting `exports` directly\n@module cjs/object\n@typicalname obj\n*/",
+    "meta": {
+      "range": [
+        0,
+        80
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/object",
+      "code": {}
+    },
+    "description": "a module exporting `exports` directly",
+    "kind": "module",
+    "name": "cjs/object",
+    "tags": [
+      {
+        "originalTitle": "typicalname",
+        "title": "typicalname",
+        "text": "obj",
+        "value": "obj"
+      }
+    ],
+    "longname": "module:cjs/object"
+  },
+  {
+    "comment": "/**\nthe first property\n@type {number}\n*/",
+    "meta": {
+      "range": [
+        123,
+        138
+      ],
+      "filename": "0-src.js",
+      "lineno": 11,
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/object",
+      "code": {
+        "id": "astnode100000002",
+        "name": "exports.one",
+        "type": "Literal",
+        "value": 1,
+        "paramnames": []
+      }
+    },
+    "description": "the first property",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "name": "one",
+    "longname": "module:cjs/object.one",
+    "kind": "member",
+    "memberof": "module:cjs/object",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\nthe second property, a function\n@example\nthis is the example\n*/",
+    "meta": {
+      "range": [
+        208,
+        244
+      ],
+      "filename": "0-src.js",
+      "lineno": 18,
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/object",
+      "code": {
+        "id": "astnode100000008",
+        "name": "exports.two",
+        "type": "FunctionExpression",
+        "paramnames": [
+          "one",
+          "two"
+        ]
+      }
+    },
+    "description": "the second property, a function",
+    "examples": [
+      "this is the example"
+    ],
+    "name": "two",
+    "longname": "module:cjs/object.two",
+    "kind": "function",
+    "memberof": "module:cjs/object",
+    "scope": "static"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/commonjs/object/0-src.js"
+    ]
+  }
+]

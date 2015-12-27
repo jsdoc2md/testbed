@@ -1,0 +1,196 @@
+[
+  {
+    "comment": "/**\nexports animals\n@module\n*/",
+    "meta": {
+      "range": [
+        0,
+        30
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/animals",
+      "code": {}
+    },
+    "description": "exports animals",
+    "kind": "module",
+    "name": "0-src",
+    "longname": "module:0-src"
+  },
+  {
+    "comment": "/**\nthe exported cat\n@type {Animal}\n*/",
+    "meta": {
+      "range": [
+        71,
+        97
+      ],
+      "filename": "0-src.js",
+      "lineno": 10,
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/animals",
+      "code": {
+        "id": "astnode100000002",
+        "name": "exports.cat",
+        "type": "NewExpression",
+        "value": "",
+        "paramnames": []
+      }
+    },
+    "description": "the exported cat",
+    "type": {
+      "names": [
+        "Animal"
+      ]
+    },
+    "name": "cat",
+    "longname": "module:0-src.cat",
+    "kind": "member",
+    "memberof": "module:0-src",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\nthe exported dog\n@type {Animal}\n*/",
+    "meta": {
+      "range": [
+        138,
+        164
+      ],
+      "filename": "0-src.js",
+      "lineno": 16,
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/animals",
+      "code": {
+        "id": "astnode100000009",
+        "name": "exports.dog",
+        "type": "NewExpression",
+        "value": "",
+        "paramnames": []
+      }
+    },
+    "description": "the exported dog",
+    "type": {
+      "names": [
+        "Animal"
+      ]
+    },
+    "name": "dog",
+    "longname": "module:0-src.dog",
+    "kind": "member",
+    "memberof": "module:0-src",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n@class\n*/",
+    "meta": {
+      "range": [
+        180,
+        375
+      ],
+      "filename": "0-src.js",
+      "lineno": 21,
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/animals",
+      "code": {
+        "id": "astnode100000015",
+        "name": "Animal",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      },
+      "vars": {
+        "Quadroped": "module:0-src~Animal~Quadroped",
+        "this.type": "module:0-src~Animal#type"
+      }
+    },
+    "kind": "class",
+    "name": "Animal",
+    "longname": "module:0-src~Animal",
+    "scope": "inner",
+    "memberof": "module:0-src",
+    "params": []
+  },
+  {
+    "comment": "/**\n  @class\n  */",
+    "meta": {
+      "range": [
+        223,
+        297
+      ],
+      "filename": "0-src.js",
+      "lineno": 25,
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/animals",
+      "code": {
+        "id": "astnode100000018",
+        "name": "Quadroped",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      },
+      "vars": {
+        "this.legs": "module:0-src~Animal~Quadroped#legs"
+      }
+    },
+    "kind": "class",
+    "name": "Quadroped",
+    "longname": "module:0-src~Animal~Quadroped",
+    "memberof": "module:0-src~Animal",
+    "scope": "inner",
+    "params": []
+  },
+  {
+    "comment": "/**\n    leg count\n    */",
+    "meta": {
+      "range": [
+        280,
+        293
+      ],
+      "filename": "0-src.js",
+      "lineno": 29,
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/animals",
+      "code": {
+        "id": "astnode100000022",
+        "name": "this.legs",
+        "type": "Literal",
+        "value": 4,
+        "paramnames": []
+      }
+    },
+    "description": "leg count",
+    "name": "legs",
+    "longname": "module:0-src~Animal~Quadroped#legs",
+    "kind": "member",
+    "memberof": "module:0-src~Animal~Quadroped",
+    "scope": "instance"
+  },
+  {
+    "comment": "/**\n  animal type\n  @type {Quadroped}\n  */",
+    "meta": {
+      "range": [
+        346,
+        373
+      ],
+      "filename": "0-src.js",
+      "lineno": 36,
+      "path": "/Users/lloyd/Documents/75lb/testbed/commonjs/animals",
+      "code": {
+        "id": "astnode100000028",
+        "name": "this.type",
+        "type": "NewExpression",
+        "value": "",
+        "paramnames": []
+      }
+    },
+    "description": "animal type",
+    "type": {
+      "names": [
+        "Quadroped"
+      ]
+    },
+    "name": "type",
+    "longname": "module:0-src~Animal#type",
+    "kind": "member",
+    "memberof": "module:0-src~Animal",
+    "scope": "instance"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/commonjs/animals/0-src.js"
+    ]
+  }
+]
