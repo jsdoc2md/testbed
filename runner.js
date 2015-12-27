@@ -35,6 +35,11 @@ queue
   .on('shift', task => console.log(task.name))
   .process()
 
-process.on('unhandledRejection', err => {
-  tool.stop(err.stack, 1)
-})
+// process.on('unhandledRejection', (err, p) => {
+//   console.log('UNHANDLED', p)
+//   tool.stop(err.stack || err, 1)
+// })
+
+// process.on('handledRejection', p => {
+//   console.log('HANDLED', p)
+// })

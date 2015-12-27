@@ -11,19 +11,37 @@ exports.jsdocParse = getJsdocParse
 exports.dmd = getDmd
 
 function getJsdoc (folder) {
-  return new Task(jsdocResolver, { name: `${folder}: jsdoc`, data: { dir: folder } })
+  const task = new Task(jsdocResolver, { name: `${folder}: jsdoc`, data: { dir: folder } })
+  task.promise
+    .catch(err => {
+      console.error(err)
+    })
+  return task
 }
 
-function getJsdocParse (folder) {
-  return new Task(jsdocParseResolver, { name: `${folder}: jsdoc-parse`, data: { dir: folder } })
+function getJsdocParse (folder, options) {
+  const task = new Task(jsdocParseResolver, {
+    name: `${folder}: jsdoc-parse`,
+    data: {
+      dir: folder,
+      options: options
+    }
+  })
+  return task
 }
 
 function getDmd (folder) {
-  return new Task(dmdResolver, { name: `${folder}: dmd`, data: { dir: folder } })
+  const task = new Task(dmdResolver, { name: `${folder}: dmd`, data: { dir: folder } })
+  task.promise
+    .catch(err => {
+      console.error(err)
+    })
+  return task
 }
 
 const file = {
   SRC: '0-src.js',
+  SRC_HTML: '0-src.html',
   JSDOC: '1-jsdoc.json',
   JSDOCPARSE: '2-jsdoc-parse.json',
   DMD: '3-dmd.md'
@@ -34,6 +52,9 @@ function jsdocResolver (deferred) {
   const outputStream = fs.createWriteStream(path.resolve(this.data.dir, file.JSDOC))
   jsdoc
     .createExplainStream({ files: files })
+    .on('error', err => {
+      deferred.reject(`skipping ${this.name} [${err.message}]`)
+    })
     .pipe(outputStream)
     .on('close', function () {
       deferred.resolve()
@@ -41,9 +62,13 @@ function jsdocResolver (deferred) {
 }
 
 function jsdocParseResolver (deferred) {
-  const files = path.resolve(this.data.dir, file.SRC)
+  this.data.options = this.data.options || {}
+
+  const files = path.resolve(this.data.dir, this.data.options.html ? file.SRC_HTML : file.SRC)
   const outputStream = fs.createWriteStream(path.resolve(this.data.dir, file.JSDOCPARSE))
-  jsdocParse({ src: files })
+  this.data.options.src = files
+  console.log(this.data)
+  jsdocParse(this.data.options)
     .pipe(outputStream)
     .on('close', function () {
       deferred.resolve()

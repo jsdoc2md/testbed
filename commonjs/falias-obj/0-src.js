@@ -1,12 +1,12 @@
 /**
 exports a pointer to a function
-@module cjs/falias-obj
+@module falias-obj
 */
 module.exports = sum
 
 /**
 the function
-@alias module:cjs/falias-obj
+@alias module:falias-obj
 */
 function sum (one, two) {}
 
