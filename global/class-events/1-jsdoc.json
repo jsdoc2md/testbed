@@ -1,0 +1,70 @@
+[
+  {
+    "comment": "/**\n@class\n*/",
+    "meta": {
+      "range": [
+        14,
+        33
+      ],
+      "filename": "0-src.js",
+      "lineno": 4,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/class-events",
+      "code": {
+        "id": "astnode100000001",
+        "name": "Rice",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "kind": "class",
+    "name": "Rice",
+    "longname": "Rice",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\nFired when rice is ready\n@event Rice#cooked\n*/",
+    "meta": {
+      "range": [
+        35,
+        85
+      ],
+      "filename": "0-src.js",
+      "lineno": 6,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/class-events",
+      "code": {}
+    },
+    "description": "Fired when rice is ready",
+    "kind": "event",
+    "name": "cooked",
+    "memberof": "Rice",
+    "longname": "Rice#event:cooked",
+    "scope": "instance"
+  },
+  {
+    "comment": "/**\nFired when rice is cooking\n@event Rice#cooking\n*/",
+    "meta": {
+      "range": [
+        86,
+        139
+      ],
+      "filename": "0-src.js",
+      "lineno": 10,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/class-events",
+      "code": {}
+    },
+    "description": "Fired when rice is cooking",
+    "kind": "event",
+    "name": "cooking",
+    "memberof": "Rice",
+    "longname": "Rice#event:cooking",
+    "scope": "instance"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/global/class-events/0-src.js"
+    ]
+  }
+]

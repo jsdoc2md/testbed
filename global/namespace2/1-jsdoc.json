@@ -1,0 +1,378 @@
+[
+  {
+    "comment": "/**\nA missle object, with separate docs for each property.\n@namespace missle\n*/",
+    "meta": {
+      "range": [
+        0,
+        79
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/namespace2",
+      "code": {}
+    },
+    "description": "A missle object, with separate docs for each property.",
+    "kind": "namespace",
+    "name": "missle",
+    "longname": "missle",
+    "scope": "global"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        84,
+        386
+      ],
+      "filename": "0-src.js",
+      "lineno": 5,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/namespace2",
+      "code": {
+        "id": "astnode100000002",
+        "name": "missle",
+        "type": "ObjectExpression",
+        "value": "{\"range\":100000,\"ballistic\":true,\"hydrogen\":true,\"megaton\":200,\"destruction\":\"total\"}"
+      }
+    },
+    "undocumented": true,
+    "name": "missle",
+    "longname": "missle",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n  missile range\n  @default\n  @type {number}\n  */",
+    "meta": {
+      "range": [
+        152,
+        165
+      ],
+      "filename": "0-src.js",
+      "lineno": 11,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/namespace2",
+      "code": {
+        "id": "astnode100000005",
+        "name": "range",
+        "type": "Literal",
+        "value": 100000
+      }
+    },
+    "description": "missile range",
+    "defaultvalue": 100000,
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "name": "range",
+    "longname": "missle.range",
+    "kind": "member",
+    "memberof": "missle",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n  ballistic\n  @default\n  @type {boolean}\n  */",
+    "meta": {
+      "range": [
+        222,
+        237
+      ],
+      "filename": "0-src.js",
+      "lineno": 18,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/namespace2",
+      "code": {
+        "id": "astnode100000007",
+        "name": "ballistic",
+        "type": "Literal",
+        "value": true
+      }
+    },
+    "description": "ballistic",
+    "defaultvalue": true,
+    "type": {
+      "names": [
+        "boolean"
+      ]
+    },
+    "name": "ballistic",
+    "longname": "missle.ballistic",
+    "kind": "member",
+    "memberof": "missle",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n  hydrogen bomb?\n  */",
+    "meta": {
+      "range": [
+        269,
+        283
+      ],
+      "filename": "0-src.js",
+      "lineno": 22,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/namespace2",
+      "code": {
+        "id": "astnode100000009",
+        "name": "hydrogen",
+        "type": "Literal",
+        "value": true
+      }
+    },
+    "description": "hydrogen bomb?",
+    "name": "hydrogen",
+    "longname": "missle.hydrogen",
+    "kind": "member",
+    "memberof": "missle",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n  number of megatons\n  @default\n  @type {number}\n  */",
+    "meta": {
+      "range": [
+        348,
+        360
+      ],
+      "filename": "0-src.js",
+      "lineno": 29,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/namespace2",
+      "code": {
+        "id": "astnode100000011",
+        "name": "megaton",
+        "type": "Literal",
+        "value": 200
+      }
+    },
+    "description": "number of megatons",
+    "defaultvalue": 200,
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "name": "megaton",
+    "longname": "missle.megaton",
+    "kind": "member",
+    "memberof": "missle",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        364,
+        384
+      ],
+      "filename": "0-src.js",
+      "lineno": 30,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/namespace2",
+      "code": {
+        "id": "astnode100000013",
+        "name": "destruction",
+        "type": "Literal",
+        "value": "total"
+      }
+    },
+    "undocumented": true,
+    "name": "destruction",
+    "longname": "missle.destruction",
+    "kind": "member",
+    "memberof": "missle",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\nA personality object, documented using the more concise `@property` notation.\n@namespace\n@property openness {object} - openness\n@property conscientiousness {object} - conscientiousness\n@property extraversion {*} - extraversion\n@property agreeableness {object} - agreeableness\n@property neuroticism {object} - neuroticism\n*/",
+    "meta": {
+      "range": [
+        720,
+        837
+      ],
+      "filename": "0-src.js",
+      "lineno": 42,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/namespace2",
+      "code": {
+        "id": "astnode100000016",
+        "name": "personality",
+        "type": "ObjectExpression",
+        "value": "{\"openness\":\"\",\"conscientiousness\":\"\",\"extraversion\":\"\",\"agreeableness\":\"\",\"neuroticism\":\"\"}"
+      }
+    },
+    "description": "A personality object, documented using the more concise `@property` notation.",
+    "kind": "namespace",
+    "properties": [
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "openness",
+        "name": "openness"
+      },
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "conscientiousness",
+        "name": "conscientiousness"
+      },
+      {
+        "type": {
+          "names": [
+            "*"
+          ]
+        },
+        "description": "extraversion",
+        "name": "extraversion"
+      },
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "agreeableness",
+        "name": "agreeableness"
+      },
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "neuroticism",
+        "name": "neuroticism"
+      }
+    ],
+    "name": "personality",
+    "longname": "personality",
+    "scope": "global"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        738,
+        750
+      ],
+      "filename": "0-src.js",
+      "lineno": 43,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/namespace2",
+      "code": {
+        "id": "astnode100000019",
+        "name": "openness",
+        "type": "Literal",
+        "value": ""
+      }
+    },
+    "undocumented": true,
+    "name": "openness",
+    "longname": "personality.openness",
+    "kind": "member",
+    "memberof": "personality",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        754,
+        775
+      ],
+      "filename": "0-src.js",
+      "lineno": 44,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/namespace2",
+      "code": {
+        "id": "astnode100000021",
+        "name": "conscientiousness",
+        "type": "Literal",
+        "value": ""
+      }
+    },
+    "undocumented": true,
+    "name": "conscientiousness",
+    "longname": "personality.conscientiousness",
+    "kind": "member",
+    "memberof": "personality",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        779,
+        795
+      ],
+      "filename": "0-src.js",
+      "lineno": 45,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/namespace2",
+      "code": {
+        "id": "astnode100000023",
+        "name": "extraversion",
+        "type": "Literal",
+        "value": ""
+      }
+    },
+    "undocumented": true,
+    "name": "extraversion",
+    "longname": "personality.extraversion",
+    "kind": "member",
+    "memberof": "personality",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        799,
+        816
+      ],
+      "filename": "0-src.js",
+      "lineno": 46,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/namespace2",
+      "code": {
+        "id": "astnode100000025",
+        "name": "agreeableness",
+        "type": "Literal",
+        "value": ""
+      }
+    },
+    "undocumented": true,
+    "name": "agreeableness",
+    "longname": "personality.agreeableness",
+    "kind": "member",
+    "memberof": "personality",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        820,
+        835
+      ],
+      "filename": "0-src.js",
+      "lineno": 47,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/namespace2",
+      "code": {
+        "id": "astnode100000027",
+        "name": "neuroticism",
+        "type": "Literal",
+        "value": ""
+      }
+    },
+    "undocumented": true,
+    "name": "neuroticism",
+    "longname": "personality.neuroticism",
+    "kind": "member",
+    "memberof": "personality",
+    "scope": "static"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/global/namespace2/0-src.js"
+    ]
+  }
+]

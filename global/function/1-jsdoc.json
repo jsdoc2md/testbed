@@ -1,0 +1,76 @@
+[
+  {
+    "comment": "/**\na global function\n@param {number} - first param\n@param {string} - second param\n@param {number|string} - third\n@param {Array.<Number|String>} - fourth\n*/",
+    "meta": {
+      "range": [
+        157,
+        207
+      ],
+      "filename": "0-src.js",
+      "lineno": 8,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/function",
+      "code": {
+        "id": "astnode100000001",
+        "name": "globalFunction",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "one",
+          "two",
+          "three",
+          "four"
+        ]
+      }
+    },
+    "description": "a global function",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "first param",
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "second param",
+        "name": "two"
+      },
+      {
+        "type": {
+          "names": [
+            "number",
+            "string"
+          ]
+        },
+        "description": "third",
+        "name": "three"
+      },
+      {
+        "type": {
+          "names": [
+            "Array.<(Number|String)>"
+          ]
+        },
+        "description": "fourth",
+        "name": "four"
+      }
+    ],
+    "name": "globalFunction",
+    "longname": "globalFunction",
+    "kind": "function",
+    "scope": "global"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/global/function/0-src.js"
+    ]
+  }
+]

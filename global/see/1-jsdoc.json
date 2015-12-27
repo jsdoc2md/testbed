@@ -1,0 +1,90 @@
+[
+  {
+    "comment": "/**\na global var with a @see \n@see something or other\n*/",
+    "meta": {
+      "range": [
+        61,
+        85
+      ],
+      "filename": "0-src.js",
+      "lineno": 5,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/see",
+      "code": {
+        "id": "astnode100000002",
+        "name": "seeableVar",
+        "type": "Literal",
+        "value": "something"
+      }
+    },
+    "description": "a global var with a @see",
+    "see": [
+      "something or other"
+    ],
+    "name": "seeableVar",
+    "longname": "seeableVar",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n * Both of these will link to the bar function.\n * @see {@link seebar}\n * @see bar\n */",
+    "meta": {
+      "range": [
+        178,
+        199
+      ],
+      "filename": "0-src.js",
+      "lineno": 12,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/see",
+      "code": {
+        "id": "astnode100000005",
+        "name": "seefoo",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "description": "Both of these will link to the bar function.",
+    "see": [
+      "{@link seebar}",
+      "bar"
+    ],
+    "name": "seefoo",
+    "longname": "seefoo",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\n * @see {@link seefoo} for further information.\n * @see {@link http://github.com|GitHub}\n */",
+    "meta": {
+      "range": [
+        378,
+        399
+      ],
+      "filename": "0-src.js",
+      "lineno": 19,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/see",
+      "code": {
+        "id": "astnode100000008",
+        "name": "seebar",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "see": [
+      "{@link seefoo} for further information.",
+      "{@link http://github.com|GitHub}"
+    ],
+    "name": "seebar",
+    "longname": "seebar",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/global/see/0-src.js"
+    ]
+  }
+]

@@ -7,6 +7,14 @@ const fs = require('fs')
 const path = require('path')
 const Queue = require('work').Queue
 const Task = require('work').Task
+const commandLineArgs = require('command-line-args')
+const tool = require('command-line-tool')
+
+const cli = commandLineArgs([
+  { name: 'folders', type: String, multiple: true }
+])
+
+const options = cli.parse()
 
 const file = {
   SRC: '0-src.js',
@@ -15,7 +23,7 @@ const file = {
   DMD: '3-dmd.md'
 }
 
-function * folderList () {
+function * makeFolderList () {
   const folders = [ 'amd', 'commonjs', 'global' ]
   for (let one of folders) {
     for (let two of fs.readdirSync(one)) {
@@ -25,13 +33,12 @@ function * folderList () {
 }
 
 const queue = new Queue()
+const folderList = options.folders || makeFolderList()
 
-// console.log(folderList()); return
-
-for (let folder of folderList()) {
-  queue.push(new Task(jsdocResolver, { name: `jsdoc: ${folder}`, data: { dir: folder } }))
-  queue.push(new Task(jsdocParseResolver, { name: `jsdoc-parse: ${folder}`, data: { dir: folder } }))
-  queue.push(new Task(dmdResolver, { name: `dmd: ${folder}`, data: { dir: folder } }))
+for (let folder of folderList) {
+  queue.push(new Task(jsdocResolver, { name: `${folder}: jsdoc`, data: { dir: folder } }))
+  queue.push(new Task(jsdocParseResolver, { name: `${folder}: jsdoc-parse`, data: { dir: folder } }))
+  queue.push(new Task(dmdResolver, { name: `${folder}: dmd`, data: { dir: folder } }))
 }
 
 queue
@@ -69,3 +76,7 @@ function dmdResolver (deferred) {
       deferred.resolve()
     })
 }
+
+process.on('unhandledRejection', err => {
+  tool.stop(err.stack, 1)
+})

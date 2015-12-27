@@ -1,0 +1,49 @@
+[
+  {
+    "id": "returnsSomething",
+    "longname": "returnsSomething",
+    "name": "returnsSomething",
+    "scope": "global",
+    "kind": "function",
+    "params": [],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "lineno": 4,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/returns2"
+    },
+    "order": 0
+  },
+  {
+    "id": "returnsWithDesc",
+    "longname": "returnsWithDesc",
+    "name": "returnsWithDesc",
+    "scope": "global",
+    "kind": "function",
+    "params": [],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "returns a string"
+      }
+    ],
+    "meta": {
+      "lineno": 9,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/returns2"
+    },
+    "order": 1
+  }
+]

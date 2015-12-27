@@ -1,0 +1,134 @@
+[
+  {
+    "comment": "/**\n@enum\n*/",
+    "meta": {
+      "range": [
+        17,
+        91
+      ],
+      "filename": "0-src.js",
+      "lineno": 4,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/enum2",
+      "code": {
+        "id": "astnode100000002",
+        "name": "eType",
+        "type": "ObjectExpression",
+        "value": "{\"ONE\":1,\"TWO\":2}"
+      }
+    },
+    "kind": "member",
+    "isEnum": true,
+    "name": "eType",
+    "longname": "eType",
+    "scope": "global",
+    "properties": [
+      {
+        "comment": "/**\n  type one\n  */",
+        "meta": {
+          "range": [
+            51,
+            57
+          ],
+          "filename": "0-src.js",
+          "lineno": 8,
+          "path": "/Users/lloyd/Documents/75lb/testbed/global/enum2",
+          "code": {
+            "id": "astnode100000005",
+            "name": "ONE",
+            "type": "Literal",
+            "value": 1
+          }
+        },
+        "description": "type one",
+        "name": "ONE",
+        "longname": "eType.ONE",
+        "kind": "member",
+        "memberof": "eType",
+        "scope": "static",
+        "defaultvalue": 1
+      },
+      {
+        "comment": "/**\n  type two\n  */",
+        "meta": {
+          "range": [
+            83,
+            89
+          ],
+          "filename": "0-src.js",
+          "lineno": 12,
+          "path": "/Users/lloyd/Documents/75lb/testbed/global/enum2",
+          "code": {
+            "id": "astnode100000007",
+            "name": "TWO",
+            "type": "Literal",
+            "value": 2
+          }
+        },
+        "description": "type two",
+        "name": "TWO",
+        "longname": "eType.TWO",
+        "kind": "member",
+        "memberof": "eType",
+        "scope": "static",
+        "defaultvalue": 2
+      }
+    ]
+  },
+  {
+    "comment": "/**\n  type one\n  */",
+    "meta": {
+      "range": [
+        51,
+        57
+      ],
+      "filename": "0-src.js",
+      "lineno": 8,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/enum2",
+      "code": {
+        "id": "astnode100000005",
+        "name": "ONE",
+        "type": "Literal",
+        "value": 1
+      }
+    },
+    "description": "type one",
+    "name": "ONE",
+    "longname": "eType.ONE",
+    "kind": "member",
+    "memberof": "eType",
+    "scope": "static",
+    "defaultvalue": 1
+  },
+  {
+    "comment": "/**\n  type two\n  */",
+    "meta": {
+      "range": [
+        83,
+        89
+      ],
+      "filename": "0-src.js",
+      "lineno": 12,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/enum2",
+      "code": {
+        "id": "astnode100000007",
+        "name": "TWO",
+        "type": "Literal",
+        "value": 2
+      }
+    },
+    "description": "type two",
+    "name": "TWO",
+    "longname": "eType.TWO",
+    "kind": "member",
+    "memberof": "eType",
+    "scope": "static",
+    "defaultvalue": 2
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/global/enum2/0-src.js"
+    ]
+  }
+]

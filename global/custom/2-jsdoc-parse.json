@@ -1,0 +1,68 @@
+[
+  {
+    "id": "Tree",
+    "longname": "Tree",
+    "name": "Tree",
+    "scope": "global",
+    "kind": "class",
+    "meta": {
+      "lineno": 11,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/custom"
+    },
+    "order": 1
+  },
+  {
+    "id": "promiseSomething",
+    "longname": "promiseSomething",
+    "name": "promiseSomething",
+    "scope": "global",
+    "kind": "function",
+    "params": [],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "Promise"
+          ]
+        }
+      }
+    ],
+    "customTags": [
+      {
+        "tag": "fulfil",
+        "value": "{Tree} - Fulfils with a damn tree"
+      },
+      {
+        "tag": "reject",
+        "value": "{Error} This is an error which is passed back"
+      }
+    ],
+    "meta": {
+      "lineno": 6,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/custom"
+    },
+    "order": 0
+  },
+  {
+    "id": "Comedy",
+    "longname": "Comedy",
+    "name": "Comedy",
+    "scope": "global",
+    "kind": "function",
+    "params": [],
+    "customTags": [
+      {
+        "tag": "cast",
+        "value": "in order of appearance:\n1. David Jason\n2. Nicholas Lyndhurst\n3. Buster Merryfield"
+      }
+    ],
+    "meta": {
+      "lineno": 19,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/custom"
+    },
+    "order": 2
+  }
+]

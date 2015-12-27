@@ -1,0 +1,36 @@
+[
+  {
+    "id": "throwingFunction",
+    "longname": "throwingFunction",
+    "name": "throwingFunction",
+    "scope": "global",
+    "kind": "function",
+    "params": [],
+    "exceptions": [
+      {
+        "description": "Will throw an error if the argument is null"
+      },
+      {
+        "type": {
+          "names": [
+            "InvalidArgumentException"
+          ]
+        }
+      },
+      {
+        "type": {
+          "names": [
+            "DivideByZero"
+          ]
+        },
+        "description": "Argument x must be non-zero"
+      }
+    ],
+    "meta": {
+      "lineno": 6,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/throws"
+    },
+    "order": 0
+  }
+]

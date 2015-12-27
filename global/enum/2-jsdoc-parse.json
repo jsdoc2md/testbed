@@ -1,0 +1,64 @@
+[
+  {
+    "id": "eFileType",
+    "longname": "eFileType",
+    "name": "eFileType",
+    "scope": "global",
+    "kind": "member",
+    "description": "Enum for the `type` value",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "readonly": true,
+    "isEnum": true,
+    "properties": [
+      {
+        "name": "NOEXIST",
+        "longname": "eFileType.NOEXIST",
+        "kind": "member",
+        "memberof": "eFileType",
+        "scope": "static",
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "defaultvalue": 0
+      },
+      {
+        "name": "FILE",
+        "longname": "eFileType.FILE",
+        "kind": "member",
+        "memberof": "eFileType",
+        "scope": "static",
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "defaultvalue": 1
+      },
+      {
+        "name": "DIR",
+        "longname": "eFileType.DIR",
+        "kind": "member",
+        "memberof": "eFileType",
+        "scope": "static",
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "defaultvalue": 2
+      }
+    ],
+    "meta": {
+      "lineno": 6,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/enum"
+    },
+    "order": 0
+  }
+]

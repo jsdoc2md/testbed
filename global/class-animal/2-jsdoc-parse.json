@@ -1,0 +1,130 @@
+[
+  {
+    "id": "Animal()",
+    "longname": "Animal",
+    "name": "Animal",
+    "kind": "constructor",
+    "memberof": "Animal",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "array"
+          ]
+        },
+        "description": "an array of two parent {@link Animal} objects",
+        "name": "species"
+      },
+      {
+        "type": {
+          "names": [
+            "Species"
+          ]
+        },
+        "description": "the species",
+        "name": "parents"
+      }
+    ],
+    "order": 1
+  },
+  {
+    "id": "Animal",
+    "longname": "Animal",
+    "name": "Animal",
+    "scope": "global",
+    "summary": "It's an animal, yeah?",
+    "kind": "class",
+    "description": "Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\n\n- some markdown\n- in the module\n- description",
+    "meta": {
+      "lineno": 13,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/class-animal"
+    },
+    "order": 0
+  },
+  {
+    "id": "Animal#age",
+    "longname": "Animal#age",
+    "name": "age",
+    "scope": "instance",
+    "kind": "member",
+    "description": "the current age",
+    "memberof": "Animal",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "defaultvalue": 0,
+    "meta": {
+      "lineno": 19,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/class-animal"
+    },
+    "order": 2
+  },
+  {
+    "id": "Animal#species",
+    "longname": "Animal#species",
+    "name": "species",
+    "scope": "instance",
+    "kind": "member",
+    "memberof": "Animal",
+    "type": {
+      "names": [
+        "Species"
+      ]
+    },
+    "meta": {
+      "lineno": 24,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/class-animal"
+    },
+    "order": 3
+  },
+  {
+    "id": "Animal.eMood",
+    "longname": "Animal.eMood",
+    "name": "eMood",
+    "scope": "static",
+    "kind": "member",
+    "description": "Animal moods",
+    "memberof": "Animal",
+    "isEnum": true,
+    "properties": [
+      {
+        "description": "chilling",
+        "name": "satisfied",
+        "longname": "Animal.eMood.satisfied",
+        "kind": "member",
+        "memberof": "Animal.eMood",
+        "scope": "static",
+        "defaultvalue": 0
+      },
+      {
+        "description": "pissed off",
+        "name": "angry",
+        "longname": "Animal.eMood.angry",
+        "kind": "member",
+        "memberof": "Animal.eMood",
+        "scope": "static",
+        "defaultvalue": 1
+      },
+      {
+        "description": "need to eat",
+        "name": "hungry",
+        "longname": "Animal.eMood.hungry",
+        "kind": "member",
+        "memberof": "Animal.eMood",
+        "scope": "static",
+        "defaultvalue": 2
+      }
+    ],
+    "meta": {
+      "lineno": 31,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/class-animal"
+    },
+    "order": 4
+  }
+]

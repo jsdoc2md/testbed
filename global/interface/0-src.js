@@ -1,14 +1,13 @@
-/** @namespace */
-var SomeObject = {
-  /**
-   * yeah is now `SomeObject#yeah` rather than `SomeObject.yeah`.
-   * @instance
-   */
-  yeah: null
-}
+/**
+Interface for a Currah Speech Synth
 
-/** Generates SomeObject instances. */
-function yeahFactory (yeahValue) {
-  var props = { yeah: yeahValue }
-  return Object.create(SomeObject, props)
-}
+![currah](http://ecx.images-amazon.com/images/I/41NReuJn%2BGL._SX300_.jpg)
+@interface
+*/
+function Speech () {}
+
+/**
+what to say
+@param {string} - the text to speak
+*/
+Speech.prototype.say = function (text) {}

@@ -1,0 +1,122 @@
+[
+  {
+    "comment": "/**\n@class\n*/",
+    "meta": {
+      "range": [
+        14,
+        38
+      ],
+      "filename": "0-src.js",
+      "lineno": 4,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/class-methods",
+      "code": {
+        "id": "astnode100000001",
+        "name": "Something",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "kind": "class",
+    "name": "Something",
+    "longname": "Something",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\nmethod description\n*/",
+    "meta": {
+      "range": [
+        66,
+        112
+      ],
+      "filename": "0-src.js",
+      "lineno": 9,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/class-methods",
+      "code": {
+        "id": "astnode100000005",
+        "name": "Something.prototype.methodOne",
+        "type": "FunctionExpression",
+        "paramnames": []
+      }
+    },
+    "description": "method description",
+    "name": "methodOne",
+    "longname": "Something#methodOne",
+    "kind": "function",
+    "memberof": "Something",
+    "scope": "instance"
+  },
+  {
+    "comment": "/**\nThis function has all tags set\n@deprecated\n@param {string} - The input string\n@param {object} - a second input\n@author Lloyd <75pound@gmail.com>\n@since v0.10.28\n@returns {object | string} this return has several types\n@example\n```js\nsomething.allTogether(true)\n```\n*/",
+    "meta": {
+      "range": [
+        386,
+        442
+      ],
+      "filename": "0-src.js",
+      "lineno": 24,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/class-methods",
+      "code": {
+        "id": "astnode100000014",
+        "name": "Something.prototype.allTogether",
+        "type": "FunctionExpression",
+        "paramnames": [
+          "one",
+          "two"
+        ]
+      }
+    },
+    "description": "This function has all tags set",
+    "deprecated": true,
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "The input string",
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "a second input",
+        "name": "two"
+      }
+    ],
+    "author": [
+      "Lloyd <75pound@gmail.com>"
+    ],
+    "since": "v0.10.28",
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "object",
+            "string"
+          ]
+        },
+        "description": "this return has several types"
+      }
+    ],
+    "examples": [
+      "```js\nsomething.allTogether(true)\n```"
+    ],
+    "name": "allTogether",
+    "longname": "Something#allTogether",
+    "kind": "function",
+    "memberof": "Something",
+    "scope": "instance"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/global/class-methods/0-src.js"
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "comment": "/**\nthe function\n*/",
+    "meta": {
+      "range": [
+        20,
+        54
+      ],
+      "filename": "0-src.js",
+      "lineno": 4,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/function-obj",
+      "code": {
+        "id": "astnode100000001",
+        "name": "functionObj",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "one",
+          "two"
+        ]
+      }
+    },
+    "description": "the function",
+    "name": "functionObj",
+    "longname": "functionObj",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\na static method on the function\n*/",
+    "meta": {
+      "range": [
+        95,
+        129
+      ],
+      "filename": "0-src.js",
+      "lineno": 9,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/function-obj",
+      "code": {
+        "id": "astnode100000007",
+        "name": "functionObj.extra",
+        "type": "FunctionExpression",
+        "paramnames": []
+      }
+    },
+    "description": "a static method on the function",
+    "name": "extra",
+    "longname": "functionObj.extra",
+    "kind": "function",
+    "memberof": "functionObj",
+    "scope": "static"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/global/function-obj/0-src.js"
+    ]
+  }
+]

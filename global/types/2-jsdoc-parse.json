@@ -1,0 +1,119 @@
+[
+  {
+    "id": "returnsArrayOfType",
+    "longname": "returnsArrayOfType",
+    "name": "returnsArrayOfType",
+    "scope": "global",
+    "kind": "member",
+    "type": {
+      "names": [
+        "Array.<module:cjs/human>"
+      ]
+    },
+    "meta": {
+      "lineno": 4,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/types"
+    },
+    "order": 0
+  },
+  {
+    "id": "returnsArrayOfType2",
+    "longname": "returnsArrayOfType2",
+    "name": "returnsArrayOfType2",
+    "scope": "global",
+    "kind": "member",
+    "type": {
+      "names": [
+        "Array.<module:cjs/human>"
+      ]
+    },
+    "nullable": true,
+    "meta": {
+      "lineno": 9,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/types"
+    },
+    "order": 1
+  },
+  {
+    "id": "nullableNumber",
+    "longname": "nullableNumber",
+    "name": "nullableNumber",
+    "scope": "global",
+    "kind": "member",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "nullable": true,
+    "meta": {
+      "lineno": 14,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/types"
+    },
+    "order": 2
+  },
+  {
+    "id": "nonNullableNumber",
+    "longname": "nonNullableNumber",
+    "name": "nonNullableNumber",
+    "scope": "global",
+    "kind": "member",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "nullable": false,
+    "meta": {
+      "lineno": 19,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/types"
+    },
+    "order": 3
+  },
+  {
+    "id": "objectType",
+    "longname": "objectType",
+    "name": "objectType",
+    "scope": "global",
+    "kind": "member",
+    "type": {
+      "names": [
+        "Object"
+      ]
+    },
+    "meta": {
+      "lineno": 24,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/types"
+    },
+    "order": 4
+  },
+  {
+    "id": "nullableArrayTypeParam",
+    "longname": "nullableArrayTypeParam",
+    "name": "nullableArrayTypeParam",
+    "scope": "global",
+    "kind": "function",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "Array.<module:cjs/human>"
+          ]
+        },
+        "nullable": true,
+        "name": "one"
+      }
+    ],
+    "meta": {
+      "lineno": 29,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/types"
+    },
+    "order": 5
+  }
+]

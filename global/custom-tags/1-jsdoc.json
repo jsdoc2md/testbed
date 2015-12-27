@@ -1,0 +1,123 @@
+[
+  {
+    "comment": "/**\na global var with custom tags\n@sitcom The Office\n@character Oggmeister\n*/",
+    "meta": {
+      "range": [
+        82,
+        101
+      ],
+      "filename": "0-src.js",
+      "lineno": 6,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/custom-tags",
+      "code": {
+        "id": "astnode100000002",
+        "name": "customTagged",
+        "type": "Literal",
+        "value": true
+      }
+    },
+    "description": "a global var with custom tags",
+    "tags": [
+      {
+        "originalTitle": "sitcom",
+        "title": "sitcom",
+        "text": "The Office",
+        "value": "The Office"
+      },
+      {
+        "originalTitle": "character",
+        "title": "character",
+        "text": "Oggmeister",
+        "value": "Oggmeister"
+      }
+    ],
+    "name": "customTagged",
+    "longname": "customTagged",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\nthe constructor\n@class\n@classdesc a class that has custom tags\n@sitcom Only Fools\n@character Rodney Trotter\n*/",
+    "meta": {
+      "range": [
+        218,
+        244
+      ],
+      "filename": "0-src.js",
+      "lineno": 15,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/custom-tags",
+      "code": {
+        "id": "astnode100000005",
+        "name": "customClass",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "description": "the constructor",
+    "kind": "class",
+    "classdesc": "a class that has custom tags",
+    "tags": [
+      {
+        "originalTitle": "sitcom",
+        "title": "sitcom",
+        "text": "Only Fools",
+        "value": "Only Fools"
+      },
+      {
+        "originalTitle": "character",
+        "title": "character",
+        "text": "Rodney Trotter",
+        "value": "Rodney Trotter"
+      }
+    ],
+    "name": "customClass",
+    "longname": "customClass",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\na global function with custom tags\n@sitcom Brass Eye\n@character Noel Edmonds\n*/",
+    "meta": {
+      "range": [
+        330,
+        359
+      ],
+      "filename": "0-src.js",
+      "lineno": 22,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/custom-tags",
+      "code": {
+        "id": "astnode100000008",
+        "name": "customFunction",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "description": "a global function with custom tags",
+    "tags": [
+      {
+        "originalTitle": "sitcom",
+        "title": "sitcom",
+        "text": "Brass Eye",
+        "value": "Brass Eye"
+      },
+      {
+        "originalTitle": "character",
+        "title": "character",
+        "text": "Noel Edmonds",
+        "value": "Noel Edmonds"
+      }
+    ],
+    "name": "customFunction",
+    "longname": "customFunction",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/global/custom-tags/0-src.js"
+    ]
+  }
+]

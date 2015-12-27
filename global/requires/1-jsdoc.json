@@ -1,0 +1,36 @@
+[
+  {
+    "comment": "/**\nensure you have some-module installed\n@requires some-module\n*/",
+    "meta": {
+      "range": [
+        67,
+        90
+      ],
+      "filename": "0-src.js",
+      "lineno": 5,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/requires",
+      "code": {
+        "id": "astnode100000001",
+        "name": "requirer",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "description": "ensure you have some-module installed",
+    "requires": [
+      "module:some-module"
+    ],
+    "name": "requirer",
+    "longname": "requirer",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/global/requires/0-src.js"
+    ]
+  }
+]

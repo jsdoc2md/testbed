@@ -1,0 +1,74 @@
+[
+  {
+    "comment": "/**\n@returns {string}\n*/",
+    "meta": {
+      "range": [
+        25,
+        56
+      ],
+      "filename": "0-src.js",
+      "lineno": 4,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/returns2",
+      "code": {
+        "id": "astnode100000001",
+        "name": "returnsSomething",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        }
+      }
+    ],
+    "name": "returnsSomething",
+    "longname": "returnsSomething",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\n@returns {string} returns a string\n*/",
+    "meta": {
+      "range": [
+        100,
+        130
+      ],
+      "filename": "0-src.js",
+      "lineno": 9,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/returns2",
+      "code": {
+        "id": "astnode100000004",
+        "name": "returnsWithDesc",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "returns a string"
+      }
+    ],
+    "name": "returnsWithDesc",
+    "longname": "returnsWithDesc",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/global/returns2/0-src.js"
+    ]
+  }
+]

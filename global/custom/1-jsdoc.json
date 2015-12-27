@@ -1,0 +1,109 @@
+[
+  {
+    "comment": "/**\n@fulfil {Tree} - Fulfils with a damn tree\n@reject {Error} This is an error which is passed back\n@returns {Promise}\n*/",
+    "meta": {
+      "range": [
+        122,
+        153
+      ],
+      "filename": "0-src.js",
+      "lineno": 6,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/custom",
+      "code": {
+        "id": "astnode100000001",
+        "name": "promiseSomething",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "tags": [
+      {
+        "originalTitle": "fulfil",
+        "title": "fulfil",
+        "text": "{Tree} - Fulfils with a damn tree",
+        "value": "{Tree} - Fulfils with a damn tree"
+      },
+      {
+        "originalTitle": "reject",
+        "title": "reject",
+        "text": "{Error} This is an error which is passed back",
+        "value": "{Error} This is an error which is passed back"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "Promise"
+          ]
+        }
+      }
+    ],
+    "name": "promiseSomething",
+    "longname": "promiseSomething",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\n@class\n*/",
+    "meta": {
+      "range": [
+        169,
+        188
+      ],
+      "filename": "0-src.js",
+      "lineno": 11,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/custom",
+      "code": {
+        "id": "astnode100000004",
+        "name": "Tree",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "kind": "class",
+    "name": "Tree",
+    "longname": "Tree",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\n@cast in order of appearance:\n1. David Jason\n2. Nicholas Lyndhurst\n3. Buster Merryfield\n*/",
+    "meta": {
+      "range": [
+        285,
+        306
+      ],
+      "filename": "0-src.js",
+      "lineno": 19,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/custom",
+      "code": {
+        "id": "astnode100000007",
+        "name": "Comedy",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "tags": [
+      {
+        "originalTitle": "cast",
+        "title": "cast",
+        "text": "in order of appearance:\n1. David Jason\n2. Nicholas Lyndhurst\n3. Buster Merryfield",
+        "value": "in order of appearance:\n1. David Jason\n2. Nicholas Lyndhurst\n3. Buster Merryfield"
+      }
+    ],
+    "name": "Comedy",
+    "longname": "Comedy",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/global/custom/0-src.js"
+    ]
+  }
+]

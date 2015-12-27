@@ -1,0 +1,298 @@
+[
+  {
+    "comment": "/**\n@class\n@classdesc Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\n\n- some markdown\n- in the module\n- description\n\n@summary It's an animal, yeah? \n@param {array} - an array of two parent {@link Animal} objects\n@param {Species} - the species\n*/",
+    "meta": {
+      "range": [
+        598,
+        763
+      ],
+      "filename": "0-src.js",
+      "lineno": 13,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/class-animal",
+      "code": {
+        "id": "astnode100000001",
+        "name": "Animal",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "species",
+          "parents"
+        ]
+      },
+      "vars": {
+        "this.age": "Animal#age",
+        "this.species": "Animal#species"
+      }
+    },
+    "kind": "class",
+    "classdesc": "Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\n\n- some markdown\n- in the module\n- description",
+    "summary": "It's an animal, yeah?",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "array"
+          ]
+        },
+        "description": "an array of two parent {@link Animal} objects",
+        "name": "species"
+      },
+      {
+        "type": {
+          "names": [
+            "Species"
+          ]
+        },
+        "description": "the species",
+        "name": "parents"
+      }
+    ],
+    "name": "Animal",
+    "longname": "Animal",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n  the current age\n  @type {number}\n  @default\n  */",
+    "meta": {
+      "range": [
+        694,
+        706
+      ],
+      "filename": "0-src.js",
+      "lineno": 19,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/class-animal",
+      "code": {
+        "id": "astnode100000007",
+        "name": "this.age",
+        "type": "Literal",
+        "value": 0,
+        "paramnames": []
+      }
+    },
+    "description": "the current age",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "defaultvalue": 0,
+    "name": "age",
+    "longname": "Animal#age",
+    "kind": "member",
+    "memberof": "Animal",
+    "scope": "instance"
+  },
+  {
+    "comment": "/**\n  @type {Species}\n  */",
+    "meta": {
+      "range": [
+        739,
+        761
+      ],
+      "filename": "0-src.js",
+      "lineno": 24,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/class-animal",
+      "code": {
+        "id": "astnode100000013",
+        "name": "this.species",
+        "type": "Identifier",
+        "value": "species",
+        "paramnames": []
+      }
+    },
+    "type": {
+      "names": [
+        "Species"
+      ]
+    },
+    "name": "species",
+    "longname": "Animal#species",
+    "kind": "member",
+    "memberof": "Animal",
+    "scope": "instance"
+  },
+  {
+    "comment": "/**\nAnimal moods\n@enum \n*/",
+    "meta": {
+      "range": [
+        792,
+        909
+      ],
+      "filename": "0-src.js",
+      "lineno": 31,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/class-animal",
+      "code": {
+        "id": "astnode100000019",
+        "name": "Animal.eMood",
+        "type": "ObjectExpression",
+        "value": "{\"satisfied\":0,\"angry\":1,\"hungry\":2}",
+        "paramnames": []
+      }
+    },
+    "description": "Animal moods",
+    "kind": "member",
+    "isEnum": true,
+    "name": "eMood",
+    "longname": "Animal.eMood",
+    "memberof": "Animal",
+    "scope": "static",
+    "properties": [
+      {
+        "comment": "/** chilling */",
+        "meta": {
+          "range": [
+            829,
+            841
+          ],
+          "filename": "0-src.js",
+          "lineno": 33,
+          "path": "/Users/lloyd/Documents/75lb/testbed/global/class-animal",
+          "code": {
+            "id": "astnode100000024",
+            "name": "satisfied",
+            "type": "Literal",
+            "value": 0
+          }
+        },
+        "description": "chilling",
+        "name": "satisfied",
+        "longname": "Animal.eMood.satisfied",
+        "kind": "member",
+        "memberof": "Animal.eMood",
+        "scope": "static",
+        "defaultvalue": 0
+      },
+      {
+        "comment": "/** pissed off */",
+        "meta": {
+          "range": [
+            865,
+            873
+          ],
+          "filename": "0-src.js",
+          "lineno": 35,
+          "path": "/Users/lloyd/Documents/75lb/testbed/global/class-animal",
+          "code": {
+            "id": "astnode100000026",
+            "name": "angry",
+            "type": "Literal",
+            "value": 1
+          }
+        },
+        "description": "pissed off",
+        "name": "angry",
+        "longname": "Animal.eMood.angry",
+        "kind": "member",
+        "memberof": "Animal.eMood",
+        "scope": "static",
+        "defaultvalue": 1
+      },
+      {
+        "comment": "/** need to eat */",
+        "meta": {
+          "range": [
+            898,
+            907
+          ],
+          "filename": "0-src.js",
+          "lineno": 37,
+          "path": "/Users/lloyd/Documents/75lb/testbed/global/class-animal",
+          "code": {
+            "id": "astnode100000028",
+            "name": "hungry",
+            "type": "Literal",
+            "value": 2
+          }
+        },
+        "description": "need to eat",
+        "name": "hungry",
+        "longname": "Animal.eMood.hungry",
+        "kind": "member",
+        "memberof": "Animal.eMood",
+        "scope": "static",
+        "defaultvalue": 2
+      }
+    ]
+  },
+  {
+    "comment": "/** chilling */",
+    "meta": {
+      "range": [
+        829,
+        841
+      ],
+      "filename": "0-src.js",
+      "lineno": 33,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/class-animal",
+      "code": {
+        "id": "astnode100000024",
+        "name": "satisfied",
+        "type": "Literal",
+        "value": 0
+      }
+    },
+    "description": "chilling",
+    "name": "satisfied",
+    "longname": "Animal.eMood.satisfied",
+    "kind": "member",
+    "memberof": "Animal.eMood",
+    "scope": "static",
+    "defaultvalue": 0
+  },
+  {
+    "comment": "/** pissed off */",
+    "meta": {
+      "range": [
+        865,
+        873
+      ],
+      "filename": "0-src.js",
+      "lineno": 35,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/class-animal",
+      "code": {
+        "id": "astnode100000026",
+        "name": "angry",
+        "type": "Literal",
+        "value": 1
+      }
+    },
+    "description": "pissed off",
+    "name": "angry",
+    "longname": "Animal.eMood.angry",
+    "kind": "member",
+    "memberof": "Animal.eMood",
+    "scope": "static",
+    "defaultvalue": 1
+  },
+  {
+    "comment": "/** need to eat */",
+    "meta": {
+      "range": [
+        898,
+        907
+      ],
+      "filename": "0-src.js",
+      "lineno": 37,
+      "path": "/Users/lloyd/Documents/75lb/testbed/global/class-animal",
+      "code": {
+        "id": "astnode100000028",
+        "name": "hungry",
+        "type": "Literal",
+        "value": 2
+      }
+    },
+    "description": "need to eat",
+    "name": "hungry",
+    "longname": "Animal.eMood.hungry",
+    "kind": "member",
+    "memberof": "Animal.eMood",
+    "scope": "static",
+    "defaultvalue": 2
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/global/class-animal/0-src.js"
+    ]
+  }
+]
