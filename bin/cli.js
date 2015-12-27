@@ -27,27 +27,18 @@ const mainQueue = new Queue({ maxConcurrent: 10 })
 const folderList = options.folders || makeFolderList()
 
 for (let folder of folderList) {
-  const task = new Task(function (deferred) {
+  const task = new Task(function (resolve, reject) {
     const queue = new Queue()
     queue
-      .push(command.jsdoc(folder))
-      .push(command.jsdocParse(folder))
-      .push(command.dmd(folder))
+      .push(new command.Jsdoc(folder))
+      .push(new command.JsdocParse(folder))
+      .push(new command.Dmd(folder))
       .on('shift', task => console.log(task.name))
-      .on('complete', deferred.resolve)
-      .on('error', deferred.reject)
+      .on('complete', resolve)
+      .on('error', reject)
       .process()
   })
   mainQueue.push(task)
 }
 
 mainQueue.process()
-
-// process.on('unhandledRejection', (err, p) => {
-//   console.log('UNHANDLED', p)
-//   tool.stop(err.stack || err, 1)
-// })
-
-// process.on('handledRejection', p => {
-//   console.log('HANDLED', p)
-// })
