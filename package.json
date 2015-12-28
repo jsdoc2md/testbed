@@ -23,5 +23,10 @@
     "jsdoc-api": "^0.3.0",
     "jsdoc-parse": "^1.2.5",
     "work": "^0.2.0"
+  },
+  "standard": {
+    "ignore": [
+      "build"
+    ]
   }
 }
