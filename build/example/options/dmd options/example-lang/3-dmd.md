@@ -16,8 +16,8 @@
     ],
     "meta": {
       "lineno": 6,
-      "filename": "src.js",
-      "path": "/Users/lloyd/Documents/75lb/jsdoc-to-markdown/example/options/dmd options/example-lang"
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd options/example-lang"
     },
     "order": 0
   },
@@ -34,8 +34,8 @@
     ],
     "meta": {
       "lineno": 18,
-      "filename": "src.js",
-      "path": "/Users/lloyd/Documents/75lb/jsdoc-to-markdown/example/options/dmd options/example-lang"
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd options/example-lang"
     },
     "order": 1
   },
@@ -52,8 +52,8 @@
     ],
     "meta": {
       "lineno": 25,
-      "filename": "src.js",
-      "path": "/Users/lloyd/Documents/75lb/jsdoc-to-markdown/example/options/dmd options/example-lang"
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd options/example-lang"
     },
     "order": 2
   },
@@ -70,8 +70,8 @@
     ],
     "meta": {
       "lineno": 32,
-      "filename": "src.js",
-      "path": "/Users/lloyd/Documents/75lb/jsdoc-to-markdown/example/options/dmd options/example-lang"
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd options/example-lang"
     },
     "order": 3
   },
@@ -88,8 +88,8 @@
     ],
     "meta": {
       "lineno": 39,
-      "filename": "src.js",
-      "path": "/Users/lloyd/Documents/75lb/jsdoc-to-markdown/example/options/dmd options/example-lang"
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd options/example-lang"
     },
     "order": 4
   }

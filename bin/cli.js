@@ -7,38 +7,42 @@ const commandLineArgs = require('command-line-args')
 const tool = require('command-line-tool')
 const command = require('../lib/command')
 const Task = require('work').Task
+const fsIterable = require('../lib/iterator')
 
 const cli = commandLineArgs([
-  { name: 'folders', type: String, multiple: true }
+  { name: 'folders', type: String, multiple: true, defaultOption: true }
 ])
 
 const options = cli.parse()
 
-function * makeFolderList () {
-  const folders = [ 'build/amd', 'build/commonjs', 'build/global' ]
-  for (let one of folders) {
-    for (let two of fs.readdirSync(one)) {
-      yield path.join(one, two)
+if (options.folders) {
+  makeFolderQueue(options.folders).process()
+} else {
+  fsIterable.getDirTree('./build')
+    .then(folderList => {
+      makeFolderQueue(folderList).process()
+    })
+}
+
+function makeFolderQueue (folderList) {
+  const folderQueue = new Queue({ maxConcurrent: 10 })
+  for (let folder of folderList) {
+    if (fs.existsSync(path.resolve(folder, '0-src.js'))) {
+      const task = new Task(function (resolve, reject) {
+        const queue = new Queue()
+        queue
+          .push(new command.Jsdoc(folder))
+          .push(new command.JsdocParse(folder))
+          .push(new command.Dmd(folder))
+          .on('shift', task => console.log(task.name))
+          .on('complete', resolve)
+          .on('error', reject)
+          .process()
+      })
+      folderQueue.push(task)
+    } else {
+      console.log(`${folder}: skipping`)
     }
   }
+  return folderQueue
 }
-
-const mainQueue = new Queue({ maxConcurrent: 10 })
-const folderList = options.folders || makeFolderList()
-
-for (let folder of folderList) {
-  const task = new Task(function (resolve, reject) {
-    const queue = new Queue()
-    queue
-      .push(new command.Jsdoc(folder))
-      .push(new command.JsdocParse(folder))
-      .push(new command.Dmd(folder))
-      .on('shift', task => console.log(task.name))
-      .on('complete', resolve)
-      .on('error', reject)
-      .process()
-  })
-  mainQueue.push(task)
-}
-
-mainQueue.process()
