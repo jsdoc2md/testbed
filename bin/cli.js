@@ -27,22 +27,22 @@ if (options.folders) {
 function makeFolderQueue (folderList) {
   const folderQueue = new Queue({ maxConcurrent: 10 })
   for (let folder of folderList) {
-    if (fs.existsSync(path.resolve(folder, '0-src.js'))) {
-      const task = new Task(function (resolve, reject) {
-        const queue = new Queue()
-        queue
-          .push(new command.Jsdoc(folder))
-          .push(new command.JsdocParse(folder))
-          .push(new command.Dmd(folder))
-          .on('shift', task => console.log(task.name))
-          .on('complete', resolve)
-          .on('error', reject)
-          .process()
-      })
-      folderQueue.push(task)
-    } else {
-      console.log(`${folder}: skipping`)
-    }
+    const task = new Task(function (resolve, reject) {
+      const queue = new Queue()
+      queue
+        .push(new command.Jsdoc(folder))
+        .push(new command.JsdocParse(folder))
+        .push(new command.Dmd(folder))
+        .on('shift', task => console.log(task.name))
+        .on('complete', resolve)
+        .on('error', reject)
+        .process()
+    })
+    folderQueue.push(task)
   }
   return folderQueue
 }
+
+process.on('unhandledRejection', (err, p) => {
+  console.error(err)
+})
