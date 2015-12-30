@@ -12,13 +12,13 @@ const cli = commandLineArgs([
 
 const options = cli.parse()
 
-if (options.folders) {
-  makeFolderQueue(options.folders).process()
-} else {
-  fsIterable.getDirTree('./build')
-    .then(folderList => {
-      makeFolderQueue(folderList).process()
-    })
+function getFolderQueue () {
+  if (options.folders) {
+    return Promise.resolve(makeFolderQueue(options.folders))
+  } else {
+    return fsIterable.getDirTree('./build')
+      .then(folderList => makeFolderQueue(folderList))
+  }
 }
 
 function makeFolderQueue (folderList) {
@@ -40,6 +40,12 @@ function makeFolderQueue (folderList) {
   return folderQueue
 }
 
+getFolderQueue().then(queue => {
+  queue
+    .on('error', err => console.log('YEAH', err))
+    .process()
+})
+
 process.on('unhandledRejection', (err, p) => {
-  console.error(err.stack || err)
+  console.error('UNHANDLED', err.stack || err)
 })

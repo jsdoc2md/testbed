@@ -1,105 +1,25 @@
-***note:*** I can't show the source code and dmd output in this example, because nested fenced-code blocks [do not render correctly](https://github.com/vmg/redcarpet/issues/208).. 
+## Functions
 
-# jsdoc-parse output
-```json
-[
-  {
-    "id": "one",
-    "longname": "one",
-    "name": "one",
-    "scope": "global",
-    "kind": "function",
-    "description": "A simple example with some code.. it will format using the language specified by `--example-lang`",
-    "params": [],
-    "examples": [
-      "var result = one()"
-    ],
-    "meta": {
-      "lineno": 6,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd options/example-lang"
-    },
-    "order": 0
-  },
-  {
-    "id": "two",
-    "longname": "two",
-    "name": "two",
-    "scope": "global",
-    "kind": "function",
-    "description": "An example that already contains a fenced-code block (language `json`)",
-    "params": [],
-    "examples": [
-      "here is the example:\n```json\n{\n    \"clive\": \"yeah?\"\n}\n```"
-    ],
-    "meta": {
-      "lineno": 18,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd options/example-lang"
-    },
-    "order": 1
-  },
-  {
-    "id": "three",
-    "longname": "three",
-    "name": "three",
-    "scope": "global",
-    "kind": "function",
-    "description": "An example with no code, just text",
-    "params": [],
-    "examples": [
-      "This example is just some plain text, no code format or syntax highlighting required here."
-    ],
-    "meta": {
-      "lineno": 25,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd options/example-lang"
-    },
-    "order": 2
-  },
-  {
-    "id": "four",
-    "longname": "four",
-    "name": "four",
-    "scope": "global",
-    "kind": "function",
-    "description": "Another text example, using the `@lang off` sub-tag..",
-    "params": [],
-    "examples": [
-      "@lang off\nThis example is just some plain text, no code format or syntax highlighting required here."
-    ],
-    "meta": {
-      "lineno": 32,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd options/example-lang"
-    },
-    "order": 3
-  },
-  {
-    "id": "five",
-    "longname": "five",
-    "name": "five",
-    "scope": "global",
-    "kind": "function",
-    "description": "A simple example using `@example @lang hbs` to specify handlebars as the language",
-    "params": [],
-    "examples": [
-      "@lang hbs\nhello {{name}}, welcome to {{country}}."
-    ],
-    "meta": {
-      "lineno": 39,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd options/example-lang"
-    },
-    "order": 4
-  }
-]
-```
+<dl>
+<dt><a href="#one">one()</a></dt>
+<dd><p>A simple example with some code.. it will format using the language specified by <code>--example-lang</code></p>
+</dd>
+<dt><a href="#two">two()</a></dt>
+<dd><p>An example that already contains a fenced-code block (language <code>json</code>)</p>
+</dd>
+<dt><a href="#three">three()</a></dt>
+<dd><p>An example with no code, just text</p>
+</dd>
+<dt><a href="#four">four()</a></dt>
+<dd><p>Another text example, using the <code>@lang off</code> sub-tag..</p>
+</dd>
+<dt><a href="#five">five()</a></dt>
+<dd><p>A simple example using <code>@example @lang hbs</code> to specify handlebars as the language</p>
+</dd>
+</dl>
 
-# with `--example-lang js` set
-## rendered
 <a name="one"></a>
-### one()
+## one()
 A simple example with some code.. it will format using the language specified by `--example-lang`
 
 **Kind**: global function  
@@ -108,7 +28,7 @@ A simple example with some code.. it will format using the language specified by
 var result = one()
 ```
 <a name="two"></a>
-### two()
+## two()
 An example that already contains a fenced-code block (language `json`)
 
 **Kind**: global function  
@@ -120,7 +40,7 @@ here is the example:
 }
 ```
 <a name="three"></a>
-### three()
+## three()
 An example with no code, just text
 
 **Kind**: global function  
@@ -129,63 +49,14 @@ An example with no code, just text
 This example is just some plain text, no code format or syntax highlighting required here.
 ```
 <a name="four"></a>
-### four()
+## four()
 Another text example, using the `@lang off` sub-tag..
 
 **Kind**: global function  
 **Example**  
 This example is just some plain text, no code format or syntax highlighting required here.
 <a name="five"></a>
-### five()
-A simple example using `@example @lang hbs` to specify handlebars as the language
-
-**Kind**: global function  
-**Example**  
-```hbs
-hello {{name}}, welcome to {{country}}.
-```
-
-# with `--example-lang none` set
-## rendered
-<a name="one"></a>
-### one()
-A simple example with some code.. it will format using the language specified by `--example-lang`
-
-**Kind**: global function  
-**Example**  
-```none
-var result = one()
-```
-<a name="two"></a>
-### two()
-An example that already contains a fenced-code block (language `json`)
-
-**Kind**: global function  
-**Example**  
-here is the example:
-```json
-{
-    "clive": "yeah?"
-}
-```
-<a name="three"></a>
-### three()
-An example with no code, just text
-
-**Kind**: global function  
-**Example**  
-```none
-This example is just some plain text, no code format or syntax highlighting required here.
-```
-<a name="four"></a>
-### four()
-Another text example, using the `@lang off` sub-tag..
-
-**Kind**: global function  
-**Example**  
-This example is just some plain text, no code format or syntax highlighting required here.
-<a name="five"></a>
-### five()
+## five()
 A simple example using `@example @lang hbs` to specify handlebars as the language
 
 **Kind**: global function  

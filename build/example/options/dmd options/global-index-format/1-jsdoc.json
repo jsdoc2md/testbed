@@ -4384,6 +4384,2611 @@
     "scope": "global"
   },
   {
+    "comment": "/**\na global function\n@param {number} - first param\n@param {string} - second param\n@param {number|string} - third\n@param {Array.<Number|String>} - fourth\n*/",
+    "meta": {
+      "range": [
+        157,
+        207
+      ],
+      "filename": "0-src.js",
+      "lineno": 8,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/function",
+      "code": {
+        "id": "astnode100000596",
+        "name": "globalFunction",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "one",
+          "two",
+          "three",
+          "four"
+        ]
+      }
+    },
+    "description": "a global function",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "first param",
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "second param",
+        "name": "two"
+      },
+      {
+        "type": {
+          "names": [
+            "number",
+            "string"
+          ]
+        },
+        "description": "third",
+        "name": "three"
+      },
+      {
+        "type": {
+          "names": [
+            "Array.<(Number|String)>"
+          ]
+        },
+        "description": "fourth",
+        "name": "four"
+      }
+    ],
+    "name": "globalFunction",
+    "longname": "globalFunction",
+    "kind": "function",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\na global function \n*/",
+    "meta": {
+      "range": [
+        26,
+        51
+      ],
+      "filename": "0-src.js",
+      "lineno": 4,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "code": {
+        "id": "astnode100000604",
+        "name": "globalFunc",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "description": "a global function",
+    "name": "globalFunc",
+    "longname": "globalFunc",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\na function with an example\n@example\n```js\nvar result = exampled()\n```\n*/",
+    "meta": {
+      "range": [
+        130,
+        153
+      ],
+      "filename": "0-src.js",
+      "lineno": 13,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "code": {
+        "id": "astnode100000607",
+        "name": "exampled",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "description": "a function with an example",
+    "examples": [
+      "```js\nvar result = exampled()\n```"
+    ],
+    "name": "exampled",
+    "longname": "exampled",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\na function with multiple examples\n@example\n```js\nvar another = 100\n```\n@example\n```js\nvar next = \"p\"\n```\n*/",
+    "meta": {
+      "range": [
+        267,
+        295
+      ],
+      "filename": "0-src.js",
+      "lineno": 26,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "code": {
+        "id": "astnode100000610",
+        "name": "multiExampled",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "description": "a function with multiple examples",
+    "examples": [
+      "```js\nvar another = 100\n```",
+      "```js\nvar next = \"p\"\n```"
+    ],
+    "name": "multiExampled",
+    "longname": "multiExampled",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\n@protected\n*/",
+    "meta": {
+      "range": [
+        319,
+        346
+      ],
+      "filename": "0-src.js",
+      "lineno": 31,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "code": {
+        "id": "astnode100000614",
+        "name": "_protected",
+        "type": "FunctionExpression"
+      }
+    },
+    "access": "protected",
+    "name": "_protected",
+    "longname": "_protected",
+    "kind": "function",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n@private\n*/",
+    "meta": {
+      "range": [
+        368,
+        393
+      ],
+      "filename": "0-src.js",
+      "lineno": 36,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "code": {
+        "id": "astnode100000619",
+        "name": "_private",
+        "type": "FunctionExpression"
+      }
+    },
+    "access": "private",
+    "name": "_private",
+    "longname": "_private",
+    "kind": "function",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n@author Clive Jones <clive@jones.com>\n*/",
+    "meta": {
+      "range": [
+        440,
+        465
+      ],
+      "filename": "0-src.js",
+      "lineno": 41,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "code": {
+        "id": "astnode100000623",
+        "name": "withAuthor",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "author": [
+      "Clive Jones <clive@jones.com>"
+    ],
+    "name": "withAuthor",
+    "longname": "withAuthor",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\n@deprecated\n*/",
+    "meta": {
+      "range": [
+        486,
+        512
+      ],
+      "filename": "0-src.js",
+      "lineno": 46,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "code": {
+        "id": "astnode100000626",
+        "name": "oldFunction",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "deprecated": true,
+    "name": "oldFunction",
+    "longname": "oldFunction",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\n@since v0.10.28\n*/",
+    "meta": {
+      "range": [
+        537,
+        563
+      ],
+      "filename": "0-src.js",
+      "lineno": 51,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "code": {
+        "id": "astnode100000629",
+        "name": "newFunction",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "since": "v0.10.28",
+    "name": "newFunction",
+    "longname": "newFunction",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\n@param {string} - The input string\n*/",
+    "meta": {
+      "range": [
+        607,
+        639
+      ],
+      "filename": "0-src.js",
+      "lineno": 56,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "code": {
+        "id": "astnode100000632",
+        "name": "withParam",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "one",
+          "two"
+        ]
+      }
+    },
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "The input string",
+        "name": "one"
+      }
+    ],
+    "name": "withParam",
+    "longname": "withParam",
+    "kind": "function",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n@param {string} - The input string\n@param {object}\n*/",
+    "meta": {
+      "range": [
+        699,
+        732
+      ],
+      "filename": "0-src.js",
+      "lineno": 62,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "code": {
+        "id": "astnode100000637",
+        "name": "withParams",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "one",
+          "two"
+        ]
+      }
+    },
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "The input string",
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "name": "two"
+      }
+    ],
+    "name": "withParams",
+    "longname": "withParams",
+    "kind": "function",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n@param {string} - The input string\n@param [two]{object} - this one is optional\n*/",
+    "meta": {
+      "range": [
+        820,
+        855
+      ],
+      "filename": "0-src.js",
+      "lineno": 68,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "code": {
+        "id": "astnode100000642",
+        "name": "withOptional",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "one",
+          "two"
+        ]
+      }
+    },
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "The input string",
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "optional": true,
+        "description": "this one is optional",
+        "name": "two"
+      }
+    ],
+    "name": "withOptional",
+    "longname": "withOptional",
+    "kind": "function",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\nthis description has \n\n- bullet\n- points\n\nand needs this line to separate the above list from the below\n\n@param {string} - The input string\n@param {object} - a second input\n*/",
+    "meta": {
+      "range": [
+        1037,
+        1071
+      ],
+      "filename": "0-src.js",
+      "lineno": 81,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "code": {
+        "id": "astnode100000647",
+        "name": "withBullets",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "one",
+          "two"
+        ]
+      }
+    },
+    "description": "this description has \n\n- bullet\n- points\n\nand needs this line to separate the above list from the below",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "The input string",
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "a second input",
+        "name": "two"
+      }
+    ],
+    "name": "withBullets",
+    "longname": "withBullets",
+    "kind": "function",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n@returns {string}\n*/",
+    "meta": {
+      "range": [
+        1098,
+        1137
+      ],
+      "filename": "0-src.js",
+      "lineno": 86,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "code": {
+        "id": "astnode100000652",
+        "name": "returnsSomething",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "one",
+          "two"
+        ]
+      }
+    },
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        }
+      }
+    ],
+    "name": "returnsSomething",
+    "longname": "returnsSomething",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\n@returns {object} this return has a description\n*/",
+    "meta": {
+      "range": [
+        1194,
+        1237
+      ],
+      "filename": "0-src.js",
+      "lineno": 91,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "code": {
+        "id": "astnode100000657",
+        "name": "returnsSomethingDesc",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "one",
+          "two"
+        ]
+      }
+    },
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "this return has a description"
+      }
+    ],
+    "name": "returnsSomethingDesc",
+    "longname": "returnsSomethingDesc",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\n@returns {object | string} this return has several types\n*/",
+    "meta": {
+      "range": [
+        1303,
+        1340
+      ],
+      "filename": "0-src.js",
+      "lineno": 96,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "code": {
+        "id": "astnode100000662",
+        "name": "returnsSeveral",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "one",
+          "two"
+        ]
+      }
+    },
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "object",
+            "string"
+          ]
+        },
+        "description": "this return has several types"
+      }
+    ],
+    "name": "returnsSeveral",
+    "longname": "returnsSeveral",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\nThis function has all tags set\n@deprecated\n@param {string} - The input string\n@param {object} - a second input\n@author Lloyd <75pound@gmail.com>\n@since v0.10.28\n@returns {object | string} this return has several types\n@example\n```js\nallTogether(true)\n```\n*/",
+    "meta": {
+      "range": [
+        1604,
+        1638
+      ],
+      "filename": "0-src.js",
+      "lineno": 111,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "code": {
+        "id": "astnode100000667",
+        "name": "allTogether",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "one",
+          "two"
+        ]
+      }
+    },
+    "description": "This function has all tags set",
+    "deprecated": true,
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "The input string",
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "a second input",
+        "name": "two"
+      }
+    ],
+    "author": [
+      "Lloyd <75pound@gmail.com>"
+    ],
+    "since": "v0.10.28",
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "object",
+            "string"
+          ]
+        },
+        "description": "this return has several types"
+      }
+    ],
+    "examples": [
+      "```js\nallTogether(true)\n```"
+    ],
+    "name": "allTogether",
+    "longname": "allTogether",
+    "kind": "function",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\na visible global\n*/",
+    "meta": {
+      "range": [
+        28,
+        42
+      ],
+      "filename": "0-src.js",
+      "lineno": 4,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/ignore",
+      "code": {
+        "id": "astnode100000674",
+        "name": "visible",
+        "type": "Literal",
+        "value": true
+      }
+    },
+    "description": "a visible global",
+    "name": "visible",
+    "longname": "visible",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\nan ignored global\n@ignore\n*/",
+    "meta": {
+      "range": [
+        81,
+        97
+      ],
+      "filename": "0-src.js",
+      "lineno": 10,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/ignore",
+      "code": {
+        "id": "astnode100000678",
+        "name": "invisible",
+        "type": "Literal",
+        "value": true
+      }
+    },
+    "description": "an ignored global",
+    "ignore": true,
+    "name": "invisible",
+    "longname": "invisible",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n@implements {Speech}\n@class\n@classdesc a synth, that also implements speech\n*/",
+    "meta": {
+      "range": [
+        83,
+        223
+      ],
+      "filename": "0-src.js",
+      "lineno": 6,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/implements",
+      "code": {
+        "id": "astnode100000682",
+        "name": "Synth",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      },
+      "vars": {
+        "this.demo": "Synth#demo",
+        "": null,
+        "this.say": "Synth#say"
+      }
+    },
+    "implements": [
+      "Speech"
+    ],
+    "kind": "class",
+    "classdesc": "a synth, that also implements speech",
+    "name": "Synth",
+    "longname": "Synth",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\n  play a demo piece, Beethoven or something.. \n  */",
+    "meta": {
+      "range": [
+        163,
+        189
+      ],
+      "filename": "0-src.js",
+      "lineno": 10,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/implements",
+      "code": {
+        "id": "astnode100000686",
+        "name": "this.demo",
+        "type": "FunctionExpression",
+        "paramnames": []
+      }
+    },
+    "description": "play a demo piece, Beethoven or something..",
+    "name": "demo",
+    "longname": "Synth#demo",
+    "kind": "function",
+    "memberof": "Synth",
+    "scope": "instance"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        192,
+        221
+      ],
+      "filename": "0-src.js",
+      "lineno": 11,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/implements",
+      "code": {
+        "id": "astnode100000693",
+        "name": "this.say",
+        "type": "FunctionExpression",
+        "paramnames": [
+          "text"
+        ]
+      }
+    },
+    "undocumented": true,
+    "name": "say",
+    "longname": "Synth#say",
+    "kind": "function",
+    "memberof": "Synth",
+    "scope": "instance"
+  },
+  {
+    "comment": "/** @namespace */",
+    "meta": {
+      "range": [
+        22,
+        144
+      ],
+      "filename": "0-src.js",
+      "lineno": 2,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/instance",
+      "code": {
+        "id": "astnode100000702",
+        "name": "SomeObject",
+        "type": "ObjectExpression",
+        "value": "{\"yeah\":null}"
+      }
+    },
+    "kind": "namespace",
+    "name": "SomeObject",
+    "longname": "SomeObject",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n   * yeah is now `SomeObject#yeah` rather than `SomeObject.yeah`.\n   * @instance\n   */",
+    "meta": {
+      "range": [
+        132,
+        142
+      ],
+      "filename": "0-src.js",
+      "lineno": 7,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/instance",
+      "code": {
+        "id": "astnode100000705",
+        "name": "yeah",
+        "type": "Literal",
+        "value": null
+      }
+    },
+    "description": "yeah is now `SomeObject#yeah` rather than `SomeObject.yeah`.",
+    "scope": "instance",
+    "name": "yeah",
+    "longname": "SomeObject#yeah",
+    "kind": "member",
+    "memberof": "SomeObject"
+  },
+  {
+    "comment": "/** Generates SomeObject instances. */",
+    "meta": {
+      "range": [
+        185,
+        297
+      ],
+      "filename": "0-src.js",
+      "lineno": 11,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/instance",
+      "code": {
+        "id": "astnode100000707",
+        "name": "yeahFactory",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "yeahValue"
+        ]
+      },
+      "vars": {
+        "props": "yeahFactory~props"
+      }
+    },
+    "description": "Generates SomeObject instances.",
+    "name": "yeahFactory",
+    "longname": "yeahFactory",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        226,
+        253
+      ],
+      "filename": "0-src.js",
+      "lineno": 12,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/instance",
+      "code": {
+        "id": "astnode100000712",
+        "name": "props",
+        "type": "ObjectExpression",
+        "value": "{\"yeah\":\"\"}"
+      }
+    },
+    "undocumented": true,
+    "name": "props",
+    "longname": "yeahFactory~props",
+    "kind": "member",
+    "memberof": "yeahFactory",
+    "scope": "inner"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        236,
+        251
+      ],
+      "filename": "0-src.js",
+      "lineno": 12,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/instance",
+      "code": {
+        "id": "astnode100000715",
+        "name": "yeah",
+        "type": "Identifier",
+        "value": "yeahValue"
+      }
+    },
+    "undocumented": true,
+    "name": "yeah",
+    "longname": "yeahFactory~props.yeah",
+    "kind": "member",
+    "memberof": "yeahFactory~props",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\nInterface for a Currah Speech Synth\n\n![currah](http://ecx.images-amazon.com/images/I/41NReuJn%2BGL._SX300_.jpg)\n@interface\n*/",
+    "meta": {
+      "range": [
+        130,
+        151
+      ],
+      "filename": "0-src.js",
+      "lineno": 7,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/interface",
+      "code": {
+        "id": "astnode100000725",
+        "name": "Speech",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "description": "Interface for a Currah Speech Synth\n\n![currah](http://ecx.images-amazon.com/images/I/41NReuJn%2BGL._SX300_.jpg)",
+    "kind": "interface",
+    "name": "Speech",
+    "longname": "Speech",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\nwhat to say\n@param {string} - the text to speak\n*/",
+    "meta": {
+      "range": [
+        208,
+        249
+      ],
+      "filename": "0-src.js",
+      "lineno": 13,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/interface",
+      "code": {
+        "id": "astnode100000729",
+        "name": "Speech.prototype.say",
+        "type": "FunctionExpression",
+        "paramnames": [
+          "text"
+        ]
+      }
+    },
+    "description": "what to say",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "the text to speak",
+        "name": "text"
+      }
+    ],
+    "name": "say",
+    "longname": "Speech#say",
+    "kind": "function",
+    "memberof": "Speech",
+    "scope": "instance"
+  },
+  {
+    "comment": "/** @class */",
+    "meta": {
+      "range": [
+        18,
+        178
+      ],
+      "filename": "0-src.js",
+      "lineno": 2,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
+      "code": {
+        "id": "astnode100000740",
+        "name": "LendsClass",
+        "type": "CallExpression",
+        "value": ""
+      }
+    },
+    "kind": "class",
+    "name": "LendsClass",
+    "longname": "LendsClass",
+    "scope": "global"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        71,
+        176
+      ],
+      "filename": "0-src.js",
+      "lineno": 4,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
+      "code": {
+        "id": "astnode100000744",
+        "type": "ObjectExpression"
+      }
+    },
+    "alias": "LendsClass",
+    "undocumented": true,
+    "name": "LendsClass",
+    "longname": "LendsClass",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        77,
+        107
+      ],
+      "filename": "0-src.js",
+      "lineno": 5,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
+      "code": {
+        "id": "astnode100000745",
+        "name": "initialize",
+        "type": "FunctionExpression"
+      }
+    },
+    "undocumented": true,
+    "name": "initialize",
+    "longname": "LendsClass.initialize",
+    "kind": "function",
+    "memberof": "LendsClass",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n    say something\n    */",
+    "meta": {
+      "range": [
+        146,
+        172
+      ],
+      "filename": "0-src.js",
+      "lineno": 9,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
+      "code": {
+        "id": "astnode100000749",
+        "name": "say",
+        "type": "FunctionExpression"
+      }
+    },
+    "description": "say something",
+    "name": "say",
+    "longname": "LendsClass.say",
+    "kind": "function",
+    "memberof": "LendsClass",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        184,
+        387
+      ],
+      "filename": "0-src.js",
+      "lineno": 13,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
+      "code": {
+        "id": "astnode100000754",
+        "name": "LendsClass2",
+        "type": "CallExpression",
+        "value": ""
+      }
+    },
+    "undocumented": true,
+    "name": "LendsClass2",
+    "longname": "LendsClass2",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n    @constructs\n    */",
+    "meta": {
+      "range": [
+        286,
+        316
+      ],
+      "filename": "0-src.js",
+      "lineno": 19,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
+      "code": {
+        "id": "astnode100000759",
+        "name": "initialize",
+        "type": "FunctionExpression"
+      }
+    },
+    "alias": "LendsClass2",
+    "kind": "class",
+    "name": "LendsClass2",
+    "longname": "LendsClass2",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n    say something\n    */",
+    "meta": {
+      "range": [
+        355,
+        381
+      ],
+      "filename": "0-src.js",
+      "lineno": 23,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
+      "code": {
+        "id": "astnode100000763",
+        "name": "say",
+        "type": "FunctionExpression"
+      }
+    },
+    "description": "say something",
+    "name": "say",
+    "longname": "LendsClass2#say",
+    "kind": "function",
+    "memberof": "LendsClass2",
+    "scope": "instance"
+  },
+  {
+    "comment": "/** A module. Refer to it using {@link module:foo/bar}.\n * @module foo/bar\n */",
+    "meta": {
+      "range": [
+        0,
+        78
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link",
+      "code": {}
+    },
+    "description": "A module. Refer to it using {@link module:foo/bar}.",
+    "kind": "module",
+    "name": "foo/bar",
+    "longname": "module:foo/bar"
+  },
+  {
+    "comment": "/** The built in string object. Refer to it with {@link external:String}.\n * @external String\n */",
+    "meta": {
+      "range": [
+        79,
+        176
+      ],
+      "filename": "0-src.js",
+      "lineno": 4,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link",
+      "code": {}
+    },
+    "description": "The built in string object. Refer to it with {@link external:String}.",
+    "kind": "external",
+    "name": "String",
+    "longname": "external:String",
+    "scope": "inner",
+    "memberof": "module:foo/bar"
+  },
+  {
+    "comment": "/** An event. Refer to with {@link module:foo/bar.event:MyEvent}.\n * @event module:foo/bar.event:MyEvent\n */",
+    "meta": {
+      "range": [
+        177,
+        285
+      ],
+      "filename": "0-src.js",
+      "lineno": 7,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link",
+      "code": {}
+    },
+    "description": "An event. Refer to with {@link module:foo/bar.event:MyEvent}.",
+    "kind": "event",
+    "name": "event:MyEvent",
+    "memberof": "module:foo/bar",
+    "longname": "module:foo/bar.event:MyEvent",
+    "scope": "static"
+  },
+  {
+    "comment": "/** See {@link LinkClass} and [LinkClass's foo property]{@link LinkClass#foo}.\n * Also check out {@link http://www.google.com|Google} and {@link http://github.com GitHub}.\n */",
+    "meta": {
+      "range": [
+        463,
+        490
+      ],
+      "filename": "0-src.js",
+      "lineno": 14,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link",
+      "code": {
+        "id": "astnode100000768",
+        "name": "linkFunction",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "description": "See {@link LinkClass} and [LinkClass's foo property]{@link LinkClass#foo}.\nAlso check out {@link http://www.google.com|Google} and {@link http://github.com GitHub}.",
+    "name": "linkFunction",
+    "longname": "module:foo/bar~linkFunction",
+    "kind": "function",
+    "scope": "inner",
+    "memberof": "module:foo/bar",
+    "params": []
+  },
+  {
+    "comment": "/** A class.\n * @class */",
+    "meta": {
+      "range": [
+        518,
+        580
+      ],
+      "filename": "0-src.js",
+      "lineno": 18,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link",
+      "code": {
+        "id": "astnode100000771",
+        "name": "LinkClass",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      },
+      "vars": {
+        "this.foo": "module:foo/bar~LinkClass#foo"
+      }
+    },
+    "description": "A class.",
+    "kind": "class",
+    "name": "LinkClass",
+    "longname": "module:foo/bar~LinkClass",
+    "scope": "inner",
+    "memberof": "module:foo/bar",
+    "params": []
+  },
+  {
+    "comment": "/** foo property */",
+    "meta": {
+      "range": [
+        566,
+        578
+      ],
+      "filename": "0-src.js",
+      "lineno": 20,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link",
+      "code": {
+        "id": "astnode100000775",
+        "name": "this.foo",
+        "type": "Literal",
+        "value": 1,
+        "paramnames": []
+      }
+    },
+    "description": "foo property",
+    "name": "foo",
+    "longname": "module:foo/bar~LinkClass#foo",
+    "kind": "member",
+    "memberof": "module:foo/bar~LinkClass",
+    "scope": "instance"
+  },
+  {
+    "comment": "/**\na global variable\n*/",
+    "meta": {
+      "range": [
+        29,
+        41
+      ],
+      "filename": "0-src.js",
+      "lineno": 4,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
+      "code": {
+        "id": "astnode100000782",
+        "name": "variable",
+        "type": "Literal",
+        "value": 1
+      }
+    },
+    "description": "a global variable",
+    "name": "variable",
+    "longname": "variable",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n@type {string}\n*/",
+    "meta": {
+      "range": [
+        69,
+        78
+      ],
+      "filename": "0-src.js",
+      "lineno": 9,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
+      "code": {
+        "id": "astnode100000786",
+        "name": "typed",
+        "type": "Literal",
+        "value": 1
+      }
+    },
+    "type": {
+      "names": [
+        "string"
+      ]
+    },
+    "name": "typed",
+    "longname": "typed",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n@type {string|number}\n*/",
+    "meta": {
+      "range": [
+        113,
+        122
+      ],
+      "filename": "0-src.js",
+      "lineno": 14,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
+      "code": {
+        "id": "astnode100000790",
+        "name": "types",
+        "type": "Literal",
+        "value": 1
+      }
+    },
+    "type": {
+      "names": [
+        "string",
+        "number"
+      ]
+    },
+    "name": "types",
+    "longname": "types",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\na var with an example\n@example\n```js\nvar another = 100\n```\n*/",
+    "meta": {
+      "range": [
+        194,
+        206
+      ],
+      "filename": "0-src.js",
+      "lineno": 23,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
+      "code": {
+        "id": "astnode100000794",
+        "name": "exampled",
+        "type": "Literal",
+        "value": 1
+      }
+    },
+    "description": "a var with an example",
+    "examples": [
+      "```js\nvar another = 100\n```"
+    ],
+    "name": "exampled",
+    "longname": "exampled",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\na var with multiple examples\n@example\n```js\nvar another = 100\n```\n@example\n```js\nvar next = \"p\"\n```\n*/",
+    "meta": {
+      "range": [
+        319,
+        331
+      ],
+      "filename": "0-src.js",
+      "lineno": 36,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
+      "code": {
+        "id": "astnode100000798",
+        "name": "examples",
+        "type": "Literal",
+        "value": 1
+      }
+    },
+    "description": "a var with multiple examples",
+    "examples": [
+      "```js\nvar another = 100\n```",
+      "```js\nvar next = \"p\"\n```"
+    ],
+    "name": "examples",
+    "longname": "examples",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n@protected\n*/",
+    "meta": {
+      "range": [
+        355,
+        372
+      ],
+      "filename": "0-src.js",
+      "lineno": 41,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
+      "code": {
+        "id": "astnode100000802",
+        "name": "_protected",
+        "type": "Literal",
+        "value": true
+      }
+    },
+    "access": "protected",
+    "name": "_protected",
+    "longname": "_protected",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n@private\n*/",
+    "meta": {
+      "range": [
+        394,
+        409
+      ],
+      "filename": "0-src.js",
+      "lineno": 46,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
+      "code": {
+        "id": "astnode100000806",
+        "name": "_private",
+        "type": "Literal",
+        "value": true
+      }
+    },
+    "access": "private",
+    "name": "_private",
+    "longname": "_private",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n@author Clive Jones <clive@jones.com>\n*/",
+    "meta": {
+      "range": [
+        460,
+        477
+      ],
+      "filename": "0-src.js",
+      "lineno": 51,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
+      "code": {
+        "id": "astnode100000810",
+        "name": "withAuthor",
+        "type": "Literal",
+        "value": true
+      }
+    },
+    "author": [
+      "Clive Jones <clive@jones.com>"
+    ],
+    "name": "withAuthor",
+    "longname": "withAuthor",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n@default\n*/",
+    "meta": {
+      "range": [
+        499,
+        514
+      ],
+      "filename": "0-src.js",
+      "lineno": 56,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
+      "code": {
+        "id": "astnode100000814",
+        "name": "hasDefault",
+        "type": "Literal",
+        "value": 23
+      }
+    },
+    "defaultvalue": 23,
+    "name": "hasDefault",
+    "longname": "hasDefault",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n@default\n*/",
+    "meta": {
+      "range": [
+        536,
+        577
+      ],
+      "filename": "0-src.js",
+      "lineno": 61,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
+      "code": {
+        "id": "astnode100000818",
+        "name": "hasDefaultObject",
+        "type": "ObjectExpression",
+        "value": "{\"one\":1,\"two\":2}"
+      }
+    },
+    "defaultvalue": "{\"one\":1,\"two\":2}",
+    "defaultvaluetype": "object",
+    "name": "hasDefaultObject",
+    "longname": "hasDefaultObject",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        559,
+        565
+      ],
+      "filename": "0-src.js",
+      "lineno": 62,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
+      "code": {
+        "id": "astnode100000821",
+        "name": "one",
+        "type": "Literal",
+        "value": 1
+      }
+    },
+    "undocumented": true,
+    "name": "one",
+    "longname": "hasDefaultObject.one",
+    "kind": "member",
+    "memberof": "hasDefaultObject",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        569,
+        575
+      ],
+      "filename": "0-src.js",
+      "lineno": 63,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
+      "code": {
+        "id": "astnode100000823",
+        "name": "two",
+        "type": "Literal",
+        "value": 2
+      }
+    },
+    "undocumented": true,
+    "name": "two",
+    "longname": "hasDefaultObject.two",
+    "kind": "member",
+    "memberof": "hasDefaultObject",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n@deprecated\n*/",
+    "meta": {
+      "range": [
+        602,
+        619
+      ],
+      "filename": "0-src.js",
+      "lineno": 69,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
+      "code": {
+        "id": "astnode100000826",
+        "name": "deprecated",
+        "type": "Literal",
+        "value": true
+      }
+    },
+    "deprecated": true,
+    "name": "deprecated",
+    "longname": "deprecated",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n@readonly\n*/",
+    "meta": {
+      "range": [
+        642,
+        657
+      ],
+      "filename": "0-src.js",
+      "lineno": 74,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
+      "code": {
+        "id": "astnode100000830",
+        "name": "readOnly",
+        "type": "Literal",
+        "value": true
+      }
+    },
+    "readonly": true,
+    "name": "readOnly",
+    "longname": "readOnly",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n@since v0.10.28\n*/",
+    "meta": {
+      "range": [
+        686,
+        701
+      ],
+      "filename": "0-src.js",
+      "lineno": 79,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
+      "code": {
+        "id": "astnode100000834",
+        "name": "hasSince",
+        "type": "Literal",
+        "value": true
+      }
+    },
+    "since": "v0.10.28",
+    "name": "hasSince",
+    "longname": "hasSince",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\nThis variable has all tags set\n@deprecated\n@type {boolean}\n@private\n@default\n@readonly\n@author 75lb <75pound@gmail.com>\n@since v0.10.28\n@example\n```js\nvar allTogether = true\n```\n*/",
+    "meta": {
+      "range": [
+        892,
+        911
+      ],
+      "filename": "0-src.js",
+      "lineno": 95,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
+      "code": {
+        "id": "astnode100000838",
+        "name": "allTogether",
+        "type": "Literal",
+        "value": false
+      }
+    },
+    "description": "This variable has all tags set",
+    "deprecated": true,
+    "type": {
+      "names": [
+        "boolean"
+      ]
+    },
+    "access": "private",
+    "defaultvalue": false,
+    "readonly": true,
+    "author": [
+      "75lb <75pound@gmail.com>"
+    ],
+    "since": "v0.10.28",
+    "examples": [
+      "```js\nvar allTogether = true\n```"
+    ],
+    "name": "allTogether",
+    "longname": "allTogether",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n@class\n@classdesc a class which mixes in Eventful behaviour\n@mixes Eventful\n*/",
+    "meta": {
+      "range": [
+        83,
+        111
+      ],
+      "filename": "0-src.js",
+      "lineno": 6,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixes",
+      "code": {
+        "id": "astnode100000842",
+        "name": "EventfulClass",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "kind": "class",
+    "classdesc": "a class which mixes in Eventful behaviour",
+    "mixes": [
+      "Eventful"
+    ],
+    "name": "EventfulClass",
+    "longname": "EventfulClass",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\nAside from humans, who are the most prolific and versatile builders, building behaviour is common in many mammals, birds, insects and arachnids. It is also seen in a few species of fish, reptiles, amphibians, molluscs, urochordates, crustaceans, annelids and some other arthropods. It is virtually absent from all the other animal phyla.\n@mixin\n*/",
+    "meta": {
+      "range": [
+        356,
+        486
+      ],
+      "filename": "0-src.js",
+      "lineno": 5,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin-builder",
+      "code": {
+        "id": "astnode100000847",
+        "name": "builder",
+        "type": "ObjectExpression",
+        "value": "{\"construct\":\"\",\"repair\":\"\"}"
+      }
+    },
+    "description": "Aside from humans, who are the most prolific and versatile builders, building behaviour is common in many mammals, birds, insects and arachnids. It is also seen in a few species of fish, reptiles, amphibians, molluscs, urochordates, crustaceans, annelids and some other arthropods. It is virtually absent from all the other animal phyla.",
+    "kind": "mixin",
+    "name": "builder",
+    "longname": "builder",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n  construct something\n  */",
+    "meta": {
+      "range": [
+        403,
+        428
+      ],
+      "filename": "0-src.js",
+      "lineno": 9,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin-builder",
+      "code": {
+        "id": "astnode100000850",
+        "name": "construct",
+        "type": "FunctionExpression"
+      }
+    },
+    "description": "construct something",
+    "name": "construct",
+    "longname": "builder.construct",
+    "kind": "function",
+    "memberof": "builder",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n  repair something\n  */",
+    "meta": {
+      "range": [
+        462,
+        484
+      ],
+      "filename": "0-src.js",
+      "lineno": 13,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin-builder",
+      "code": {
+        "id": "astnode100000853",
+        "name": "repair",
+        "type": "FunctionExpression"
+      }
+    },
+    "description": "repair something",
+    "name": "repair",
+    "longname": "builder.repair",
+    "kind": "function",
+    "memberof": "builder",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\nThis provides methods used for event handling. It's not meant to\nbe used directly.\n@mixin\n*/",
+    "meta": {
+      "range": [
+        101,
+        582
+      ],
+      "filename": "0-src.js",
+      "lineno": 6,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin",
+      "code": {
+        "id": "astnode100000858",
+        "name": "Eventful",
+        "type": "ObjectExpression",
+        "value": "{\"on\":\"\",\"fire\":\"\"}"
+      }
+    },
+    "description": "This provides methods used for event handling. It's not meant to\nbe used directly.",
+    "kind": "mixin",
+    "name": "Eventful",
+    "longname": "Eventful",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n  Register a handler function to be called whenever this event is fired.\n  @param {string} eventName - Name of the event.\n  @param {function(Object)} handler - The handler to call.\n  */",
+    "meta": {
+      "range": [
+        308,
+        344
+      ],
+      "filename": "0-src.js",
+      "lineno": 12,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin",
+      "code": {
+        "id": "astnode100000861",
+        "name": "on",
+        "type": "FunctionExpression"
+      }
+    },
+    "description": "Register a handler function to be called whenever this event is fired.",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "Name of the event.",
+        "name": "eventName"
+      },
+      {
+        "type": {
+          "names": [
+            "function"
+          ]
+        },
+        "description": "The handler to call.",
+        "name": "handler"
+      }
+    ],
+    "name": "on",
+    "longname": "Eventful.on",
+    "kind": "function",
+    "memberof": "Eventful",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n  Fire an event, causing all handlers for that event name to run.\n  @param {string} eventName - Name of the event.\n  @param {Object} eventData - The data provided to each handler.\n  */",
+    "meta": {
+      "range": [
+        540,
+        580
+      ],
+      "filename": "0-src.js",
+      "lineno": 19,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin",
+      "code": {
+        "id": "astnode100000866",
+        "name": "fire",
+        "type": "FunctionExpression"
+      }
+    },
+    "description": "Fire an event, causing all handlers for that event name to run.",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "Name of the event.",
+        "name": "eventName"
+      },
+      {
+        "type": {
+          "names": [
+            "Object"
+          ]
+        },
+        "description": "The data provided to each handler.",
+        "name": "eventData"
+      }
+    ],
+    "name": "fire",
+    "longname": "Eventful.fire",
+    "kind": "function",
+    "memberof": "Eventful",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\nphantom mixin\n@mixin phantom\n*/",
+    "meta": {
+      "range": [
+        584,
+        619
+      ],
+      "filename": "0-src.js",
+      "lineno": 22,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin",
+      "code": {}
+    },
+    "description": "phantom mixin",
+    "kind": "mixin",
+    "name": "phantom",
+    "longname": "phantom",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n@namespace\n*/",
+    "meta": {
+      "range": [
+        22,
+        536
+      ],
+      "filename": "0-src.js",
+      "lineno": 4,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
+      "code": {
+        "id": "astnode100000873",
+        "name": "car",
+        "type": "ObjectExpression",
+        "value": "{\"wheels\":18,\"sensors\":465,\"start\":\"\"}"
+      }
+    },
+    "kind": "namespace",
+    "name": "car",
+    "longname": "car",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n  the round things\n  */",
+    "meta": {
+      "range": [
+        62,
+        72
+      ],
+      "filename": "0-src.js",
+      "lineno": 8,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
+      "code": {
+        "id": "astnode100000876",
+        "name": "wheels",
+        "type": "Literal",
+        "value": 18
+      }
+    },
+    "description": "the round things",
+    "name": "wheels",
+    "longname": "car.wheels",
+    "kind": "member",
+    "memberof": "car",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n  the electronics that always go wrong\n  */",
+    "meta": {
+      "range": [
+        126,
+        138
+      ],
+      "filename": "0-src.js",
+      "lineno": 12,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
+      "code": {
+        "id": "astnode100000878",
+        "name": "sensors",
+        "type": "Literal",
+        "value": 465
+      }
+    },
+    "description": "the electronics that always go wrong",
+    "name": "sensors",
+    "longname": "car.sensors",
+    "kind": "member",
+    "memberof": "car",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n  start the car\n  @param {string}\n  @param {function}\n  */",
+    "meta": {
+      "range": [
+        208,
+        534
+      ],
+      "filename": "0-src.js",
+      "lineno": 19,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
+      "code": {
+        "id": "astnode100000880",
+        "name": "start",
+        "type": "FunctionExpression"
+      },
+      "vars": {
+        "this.env": "car.start#env"
+      }
+    },
+    "description": "start the car",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        }
+      },
+      {
+        "type": {
+          "names": [
+            "function"
+          ]
+        }
+      }
+    ],
+    "name": "start",
+    "longname": "car.start",
+    "kind": "function",
+    "memberof": "car",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n    decribes the current conditions\n    @namespace\n    */",
+    "meta": {
+      "range": [
+        308,
+        530
+      ],
+      "filename": "0-src.js",
+      "lineno": 24,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
+      "code": {
+        "id": "astnode100000886",
+        "name": "this.env",
+        "type": "ObjectExpression",
+        "value": "{\"weather\":\"choppy\",\"roads\":\"wet\"}",
+        "paramnames": []
+      }
+    },
+    "description": "decribes the current conditions",
+    "kind": "namespace",
+    "name": "env",
+    "longname": "car.start#env",
+    "memberof": "car.start",
+    "scope": "instance"
+  },
+  {
+    "comment": "/**\n      what kind of day is it\n      @type {string}\n      @default\n      */",
+    "meta": {
+      "range": [
+        411,
+        428
+      ],
+      "filename": "0-src.js",
+      "lineno": 30,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
+      "code": {
+        "id": "astnode100000891",
+        "name": "weather",
+        "type": "Literal",
+        "value": "choppy"
+      }
+    },
+    "description": "what kind of day is it",
+    "type": {
+      "names": [
+        "string"
+      ]
+    },
+    "defaultvalue": "choppy",
+    "name": "weather",
+    "longname": "car.start#env.weather",
+    "kind": "member",
+    "memberof": "car.start#env",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n      road condition\n      @type {string}\n      @default\n      */",
+    "meta": {
+      "range": [
+        512,
+        524
+      ],
+      "filename": "0-src.js",
+      "lineno": 36,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
+      "code": {
+        "id": "astnode100000893",
+        "name": "roads",
+        "type": "Literal",
+        "value": "wet"
+      }
+    },
+    "description": "road condition",
+    "type": {
+      "names": [
+        "string"
+      ]
+    },
+    "defaultvalue": "wet",
+    "name": "roads",
+    "longname": "car.start#env.roads",
+    "kind": "member",
+    "memberof": "car.start#env",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\nA missle object, with separate docs for each property.\n@namespace missle\n*/",
+    "meta": {
+      "range": [
+        0,
+        79
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "code": {}
+    },
+    "description": "A missle object, with separate docs for each property.",
+    "kind": "namespace",
+    "name": "missle",
+    "longname": "missle",
+    "scope": "global"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        84,
+        386
+      ],
+      "filename": "0-src.js",
+      "lineno": 5,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "code": {
+        "id": "astnode100000897",
+        "name": "missle",
+        "type": "ObjectExpression",
+        "value": "{\"range\":100000,\"ballistic\":true,\"hydrogen\":true,\"megaton\":200,\"destruction\":\"total\"}"
+      }
+    },
+    "undocumented": true,
+    "name": "missle",
+    "longname": "missle",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n  missile range\n  @default\n  @type {number}\n  */",
+    "meta": {
+      "range": [
+        152,
+        165
+      ],
+      "filename": "0-src.js",
+      "lineno": 11,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "code": {
+        "id": "astnode100000900",
+        "name": "range",
+        "type": "Literal",
+        "value": 100000
+      }
+    },
+    "description": "missile range",
+    "defaultvalue": 100000,
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "name": "range",
+    "longname": "missle.range",
+    "kind": "member",
+    "memberof": "missle",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n  ballistic\n  @default\n  @type {boolean}\n  */",
+    "meta": {
+      "range": [
+        222,
+        237
+      ],
+      "filename": "0-src.js",
+      "lineno": 18,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "code": {
+        "id": "astnode100000902",
+        "name": "ballistic",
+        "type": "Literal",
+        "value": true
+      }
+    },
+    "description": "ballistic",
+    "defaultvalue": true,
+    "type": {
+      "names": [
+        "boolean"
+      ]
+    },
+    "name": "ballistic",
+    "longname": "missle.ballistic",
+    "kind": "member",
+    "memberof": "missle",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n  hydrogen bomb?\n  */",
+    "meta": {
+      "range": [
+        269,
+        283
+      ],
+      "filename": "0-src.js",
+      "lineno": 22,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "code": {
+        "id": "astnode100000904",
+        "name": "hydrogen",
+        "type": "Literal",
+        "value": true
+      }
+    },
+    "description": "hydrogen bomb?",
+    "name": "hydrogen",
+    "longname": "missle.hydrogen",
+    "kind": "member",
+    "memberof": "missle",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n  number of megatons\n  @default\n  @type {number}\n  */",
+    "meta": {
+      "range": [
+        348,
+        360
+      ],
+      "filename": "0-src.js",
+      "lineno": 29,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "code": {
+        "id": "astnode100000906",
+        "name": "megaton",
+        "type": "Literal",
+        "value": 200
+      }
+    },
+    "description": "number of megatons",
+    "defaultvalue": 200,
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "name": "megaton",
+    "longname": "missle.megaton",
+    "kind": "member",
+    "memberof": "missle",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        364,
+        384
+      ],
+      "filename": "0-src.js",
+      "lineno": 30,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "code": {
+        "id": "astnode100000908",
+        "name": "destruction",
+        "type": "Literal",
+        "value": "total"
+      }
+    },
+    "undocumented": true,
+    "name": "destruction",
+    "longname": "missle.destruction",
+    "kind": "member",
+    "memberof": "missle",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\nA personality object, documented using the more concise `@property` notation.\n@namespace\n@property openness {object} - openness\n@property conscientiousness {object} - conscientiousness\n@property extraversion {*} - extraversion\n@property agreeableness {object} - agreeableness\n@property neuroticism {object} - neuroticism\n*/",
+    "meta": {
+      "range": [
+        720,
+        837
+      ],
+      "filename": "0-src.js",
+      "lineno": 42,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "code": {
+        "id": "astnode100000911",
+        "name": "personality",
+        "type": "ObjectExpression",
+        "value": "{\"openness\":\"\",\"conscientiousness\":\"\",\"extraversion\":\"\",\"agreeableness\":\"\",\"neuroticism\":\"\"}"
+      }
+    },
+    "description": "A personality object, documented using the more concise `@property` notation.",
+    "kind": "namespace",
+    "properties": [
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "openness",
+        "name": "openness"
+      },
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "conscientiousness",
+        "name": "conscientiousness"
+      },
+      {
+        "type": {
+          "names": [
+            "*"
+          ]
+        },
+        "description": "extraversion",
+        "name": "extraversion"
+      },
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "agreeableness",
+        "name": "agreeableness"
+      },
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "neuroticism",
+        "name": "neuroticism"
+      }
+    ],
+    "name": "personality",
+    "longname": "personality",
+    "scope": "global"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        738,
+        750
+      ],
+      "filename": "0-src.js",
+      "lineno": 43,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "code": {
+        "id": "astnode100000914",
+        "name": "openness",
+        "type": "Literal",
+        "value": ""
+      }
+    },
+    "undocumented": true,
+    "name": "openness",
+    "longname": "personality.openness",
+    "kind": "member",
+    "memberof": "personality",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        754,
+        775
+      ],
+      "filename": "0-src.js",
+      "lineno": 44,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "code": {
+        "id": "astnode100000916",
+        "name": "conscientiousness",
+        "type": "Literal",
+        "value": ""
+      }
+    },
+    "undocumented": true,
+    "name": "conscientiousness",
+    "longname": "personality.conscientiousness",
+    "kind": "member",
+    "memberof": "personality",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        779,
+        795
+      ],
+      "filename": "0-src.js",
+      "lineno": 45,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "code": {
+        "id": "astnode100000918",
+        "name": "extraversion",
+        "type": "Literal",
+        "value": ""
+      }
+    },
+    "undocumented": true,
+    "name": "extraversion",
+    "longname": "personality.extraversion",
+    "kind": "member",
+    "memberof": "personality",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        799,
+        816
+      ],
+      "filename": "0-src.js",
+      "lineno": 46,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "code": {
+        "id": "astnode100000920",
+        "name": "agreeableness",
+        "type": "Literal",
+        "value": ""
+      }
+    },
+    "undocumented": true,
+    "name": "agreeableness",
+    "longname": "personality.agreeableness",
+    "kind": "member",
+    "memberof": "personality",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        820,
+        835
+      ],
+      "filename": "0-src.js",
+      "lineno": 47,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "code": {
+        "id": "astnode100000922",
+        "name": "neuroticism",
+        "type": "Literal",
+        "value": ""
+      }
+    },
+    "undocumented": true,
+    "name": "neuroticism",
+    "longname": "personality.neuroticism",
+    "kind": "member",
+    "memberof": "personality",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n@class\n@classdesc A multi-line\nclass description\n*/",
+    "meta": {
+      "range": [
+        56,
+        374
+      ],
+      "filename": "0-src.js",
+      "lineno": 6,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/newlines",
+      "code": {
+        "id": "astnode100000925",
+        "name": "NewLines",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      },
+      "vars": {
+        "this.method": "NewLines#method",
+        "": null,
+        "this.numbers": "NewLines#numbers"
+      }
+    },
+    "kind": "class",
+    "classdesc": "A multi-line\nclass description",
+    "name": "NewLines",
+    "longname": "NewLines",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\n  @param {string} - a param description \n  with an awkward newline\n  or two. \n  @returns {number} the returns\n  description also \n  has newlines\n  */",
+    "meta": {
+      "range": [
+        237,
+        270
+      ],
+      "filename": "0-src.js",
+      "lineno": 15,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/newlines",
+      "code": {
+        "id": "astnode100000929",
+        "name": "this.method",
+        "type": "FunctionExpression",
+        "paramnames": [
+          "input"
+        ]
+      }
+    },
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "a param description \n  with an awkward newline\n  or two.",
+        "name": "input"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "the returns\n  description also \n  has newlines"
+      }
+    ],
+    "name": "method",
+    "longname": "NewLines#method",
+    "kind": "function",
+    "memberof": "NewLines",
+    "scope": "instance"
+  },
+  {
+    "comment": "/**\n  @property one {number} - a property\n  with newlines for \n  a change\n  */",
+    "meta": {
+      "range": [
+        355,
+        372
+      ],
+      "filename": "0-src.js",
+      "lineno": 22,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/newlines",
+      "code": {
+        "id": "astnode100000937",
+        "name": "this.numbers",
+        "type": "ObjectExpression",
+        "value": "{}",
+        "paramnames": []
+      }
+    },
+    "properties": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "a property\n  with newlines for \n  a change",
+        "name": "one"
+      }
+    ],
+    "name": "numbers",
+    "longname": "NewLines#numbers",
+    "kind": "member",
+    "memberof": "NewLines",
+    "scope": "instance"
+  },
+  {
+    "comment": "/**\n@param {object} options - the function options\n@param {string} options.one - first option\n@param {string} options.two - second option\n*/",
+    "meta": {
+      "range": [
+        141,
+        174
+      ],
+      "filename": "0-src.js",
+      "lineno": 6,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/options",
+      "code": {
+        "id": "astnode100000943",
+        "name": "doSomething",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "options"
+        ]
+      }
+    },
+    "params": [
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "the function options",
+        "name": "options"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "first option",
+        "name": "options.one"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "second option",
+        "name": "options.two"
+      }
+    ],
+    "name": "doSomething",
+    "longname": "doSomething",
+    "kind": "function",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n@param {{one: string, two: string}} options - the function options\n*/",
+    "meta": {
+      "range": [
+        250,
+        281
+      ],
+      "filename": "0-src.js",
+      "lineno": 11,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/options",
+      "code": {
+        "id": "astnode100000947",
+        "name": "doAnother",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "options"
+        ]
+      }
+    },
+    "params": [
+      {
+        "type": {
+          "names": [
+            "Object"
+          ]
+        },
+        "description": "the function options",
+        "name": "options"
+      }
+    ],
+    "name": "doAnother",
+    "longname": "doAnother",
+    "kind": "function",
+    "scope": "global"
+  },
+  {
     "comment": "/**\nPump an idiot full of volts\n@deprecated\n@param {object | array} - the victim(s) to fry\n@param [options] {object} - electricution options\n@param [options.strength=11] {number} - strength\n@param [options.crazyHair=true] {number} - optional spikey hair effect\n@param [options.origin] {object} - origin details\n@param [options.origin.country] {string} - the country of origin\n@param [done] {function} - callback on slump, which has:\n- devestating power\n- an unusual aftertaste\n*/",
     "meta": {
       "range": [
@@ -4392,9 +6997,9 @@
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/function-taze",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/param-markdown",
       "code": {
-        "id": "astnode100000596",
+        "id": "astnode100000952",
         "name": "taze",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -4482,2611 +7087,6 @@
     ],
     "name": "taze",
     "longname": "taze",
-    "kind": "function",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\na global function\n@param {number} - first param\n@param {string} - second param\n@param {number|string} - third\n@param {Array.<Number|String>} - fourth\n*/",
-    "meta": {
-      "range": [
-        157,
-        207
-      ],
-      "filename": "0-src.js",
-      "lineno": 8,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/function",
-      "code": {
-        "id": "astnode100000603",
-        "name": "globalFunction",
-        "type": "FunctionDeclaration",
-        "paramnames": [
-          "one",
-          "two",
-          "three",
-          "four"
-        ]
-      }
-    },
-    "description": "a global function",
-    "params": [
-      {
-        "type": {
-          "names": [
-            "number"
-          ]
-        },
-        "description": "first param",
-        "name": "one"
-      },
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "second param",
-        "name": "two"
-      },
-      {
-        "type": {
-          "names": [
-            "number",
-            "string"
-          ]
-        },
-        "description": "third",
-        "name": "three"
-      },
-      {
-        "type": {
-          "names": [
-            "Array.<(Number|String)>"
-          ]
-        },
-        "description": "fourth",
-        "name": "four"
-      }
-    ],
-    "name": "globalFunction",
-    "longname": "globalFunction",
-    "kind": "function",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\na global function \n*/",
-    "meta": {
-      "range": [
-        26,
-        51
-      ],
-      "filename": "0-src.js",
-      "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
-      "code": {
-        "id": "astnode100000611",
-        "name": "globalFunc",
-        "type": "FunctionDeclaration",
-        "paramnames": []
-      }
-    },
-    "description": "a global function",
-    "name": "globalFunc",
-    "longname": "globalFunc",
-    "kind": "function",
-    "scope": "global",
-    "params": []
-  },
-  {
-    "comment": "/**\na function with an example\n@example\n```js\nvar result = exampled()\n```\n*/",
-    "meta": {
-      "range": [
-        130,
-        153
-      ],
-      "filename": "0-src.js",
-      "lineno": 13,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
-      "code": {
-        "id": "astnode100000614",
-        "name": "exampled",
-        "type": "FunctionDeclaration",
-        "paramnames": []
-      }
-    },
-    "description": "a function with an example",
-    "examples": [
-      "```js\nvar result = exampled()\n```"
-    ],
-    "name": "exampled",
-    "longname": "exampled",
-    "kind": "function",
-    "scope": "global",
-    "params": []
-  },
-  {
-    "comment": "/**\na function with multiple examples\n@example\n```js\nvar another = 100\n```\n@example\n```js\nvar next = \"p\"\n```\n*/",
-    "meta": {
-      "range": [
-        267,
-        295
-      ],
-      "filename": "0-src.js",
-      "lineno": 26,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
-      "code": {
-        "id": "astnode100000617",
-        "name": "multiExampled",
-        "type": "FunctionDeclaration",
-        "paramnames": []
-      }
-    },
-    "description": "a function with multiple examples",
-    "examples": [
-      "```js\nvar another = 100\n```",
-      "```js\nvar next = \"p\"\n```"
-    ],
-    "name": "multiExampled",
-    "longname": "multiExampled",
-    "kind": "function",
-    "scope": "global",
-    "params": []
-  },
-  {
-    "comment": "/**\n@protected\n*/",
-    "meta": {
-      "range": [
-        319,
-        346
-      ],
-      "filename": "0-src.js",
-      "lineno": 31,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
-      "code": {
-        "id": "astnode100000621",
-        "name": "_protected",
-        "type": "FunctionExpression"
-      }
-    },
-    "access": "protected",
-    "name": "_protected",
-    "longname": "_protected",
-    "kind": "function",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n@private\n*/",
-    "meta": {
-      "range": [
-        368,
-        393
-      ],
-      "filename": "0-src.js",
-      "lineno": 36,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
-      "code": {
-        "id": "astnode100000626",
-        "name": "_private",
-        "type": "FunctionExpression"
-      }
-    },
-    "access": "private",
-    "name": "_private",
-    "longname": "_private",
-    "kind": "function",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n@author Clive Jones <clive@jones.com>\n*/",
-    "meta": {
-      "range": [
-        440,
-        465
-      ],
-      "filename": "0-src.js",
-      "lineno": 41,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
-      "code": {
-        "id": "astnode100000630",
-        "name": "withAuthor",
-        "type": "FunctionDeclaration",
-        "paramnames": []
-      }
-    },
-    "author": [
-      "Clive Jones <clive@jones.com>"
-    ],
-    "name": "withAuthor",
-    "longname": "withAuthor",
-    "kind": "function",
-    "scope": "global",
-    "params": []
-  },
-  {
-    "comment": "/**\n@deprecated\n*/",
-    "meta": {
-      "range": [
-        486,
-        512
-      ],
-      "filename": "0-src.js",
-      "lineno": 46,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
-      "code": {
-        "id": "astnode100000633",
-        "name": "oldFunction",
-        "type": "FunctionDeclaration",
-        "paramnames": []
-      }
-    },
-    "deprecated": true,
-    "name": "oldFunction",
-    "longname": "oldFunction",
-    "kind": "function",
-    "scope": "global",
-    "params": []
-  },
-  {
-    "comment": "/**\n@since v0.10.28\n*/",
-    "meta": {
-      "range": [
-        537,
-        563
-      ],
-      "filename": "0-src.js",
-      "lineno": 51,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
-      "code": {
-        "id": "astnode100000636",
-        "name": "newFunction",
-        "type": "FunctionDeclaration",
-        "paramnames": []
-      }
-    },
-    "since": "v0.10.28",
-    "name": "newFunction",
-    "longname": "newFunction",
-    "kind": "function",
-    "scope": "global",
-    "params": []
-  },
-  {
-    "comment": "/**\n@param {string} - The input string\n*/",
-    "meta": {
-      "range": [
-        607,
-        639
-      ],
-      "filename": "0-src.js",
-      "lineno": 56,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
-      "code": {
-        "id": "astnode100000639",
-        "name": "withParam",
-        "type": "FunctionDeclaration",
-        "paramnames": [
-          "one",
-          "two"
-        ]
-      }
-    },
-    "params": [
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "The input string",
-        "name": "one"
-      }
-    ],
-    "name": "withParam",
-    "longname": "withParam",
-    "kind": "function",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n@param {string} - The input string\n@param {object}\n*/",
-    "meta": {
-      "range": [
-        699,
-        732
-      ],
-      "filename": "0-src.js",
-      "lineno": 62,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
-      "code": {
-        "id": "astnode100000644",
-        "name": "withParams",
-        "type": "FunctionDeclaration",
-        "paramnames": [
-          "one",
-          "two"
-        ]
-      }
-    },
-    "params": [
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "The input string",
-        "name": "one"
-      },
-      {
-        "type": {
-          "names": [
-            "object"
-          ]
-        },
-        "name": "two"
-      }
-    ],
-    "name": "withParams",
-    "longname": "withParams",
-    "kind": "function",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n@param {string} - The input string\n@param [two]{object} - this one is optional\n*/",
-    "meta": {
-      "range": [
-        820,
-        855
-      ],
-      "filename": "0-src.js",
-      "lineno": 68,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
-      "code": {
-        "id": "astnode100000649",
-        "name": "withOptional",
-        "type": "FunctionDeclaration",
-        "paramnames": [
-          "one",
-          "two"
-        ]
-      }
-    },
-    "params": [
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "The input string",
-        "name": "one"
-      },
-      {
-        "type": {
-          "names": [
-            "object"
-          ]
-        },
-        "optional": true,
-        "description": "this one is optional",
-        "name": "two"
-      }
-    ],
-    "name": "withOptional",
-    "longname": "withOptional",
-    "kind": "function",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\nthis description has \n\n- bullet\n- points\n\nand needs this line to separate the above list from the below\n\n@param {string} - The input string\n@param {object} - a second input\n*/",
-    "meta": {
-      "range": [
-        1037,
-        1071
-      ],
-      "filename": "0-src.js",
-      "lineno": 81,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
-      "code": {
-        "id": "astnode100000654",
-        "name": "withBullets",
-        "type": "FunctionDeclaration",
-        "paramnames": [
-          "one",
-          "two"
-        ]
-      }
-    },
-    "description": "this description has \n\n- bullet\n- points\n\nand needs this line to separate the above list from the below",
-    "params": [
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "The input string",
-        "name": "one"
-      },
-      {
-        "type": {
-          "names": [
-            "object"
-          ]
-        },
-        "description": "a second input",
-        "name": "two"
-      }
-    ],
-    "name": "withBullets",
-    "longname": "withBullets",
-    "kind": "function",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n@returns {string}\n*/",
-    "meta": {
-      "range": [
-        1098,
-        1137
-      ],
-      "filename": "0-src.js",
-      "lineno": 86,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
-      "code": {
-        "id": "astnode100000659",
-        "name": "returnsSomething",
-        "type": "FunctionDeclaration",
-        "paramnames": [
-          "one",
-          "two"
-        ]
-      }
-    },
-    "returns": [
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        }
-      }
-    ],
-    "name": "returnsSomething",
-    "longname": "returnsSomething",
-    "kind": "function",
-    "scope": "global",
-    "params": []
-  },
-  {
-    "comment": "/**\n@returns {object} this return has a description\n*/",
-    "meta": {
-      "range": [
-        1194,
-        1237
-      ],
-      "filename": "0-src.js",
-      "lineno": 91,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
-      "code": {
-        "id": "astnode100000664",
-        "name": "returnsSomethingDesc",
-        "type": "FunctionDeclaration",
-        "paramnames": [
-          "one",
-          "two"
-        ]
-      }
-    },
-    "returns": [
-      {
-        "type": {
-          "names": [
-            "object"
-          ]
-        },
-        "description": "this return has a description"
-      }
-    ],
-    "name": "returnsSomethingDesc",
-    "longname": "returnsSomethingDesc",
-    "kind": "function",
-    "scope": "global",
-    "params": []
-  },
-  {
-    "comment": "/**\n@returns {object | string} this return has several types\n*/",
-    "meta": {
-      "range": [
-        1303,
-        1340
-      ],
-      "filename": "0-src.js",
-      "lineno": 96,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
-      "code": {
-        "id": "astnode100000669",
-        "name": "returnsSeveral",
-        "type": "FunctionDeclaration",
-        "paramnames": [
-          "one",
-          "two"
-        ]
-      }
-    },
-    "returns": [
-      {
-        "type": {
-          "names": [
-            "object",
-            "string"
-          ]
-        },
-        "description": "this return has several types"
-      }
-    ],
-    "name": "returnsSeveral",
-    "longname": "returnsSeveral",
-    "kind": "function",
-    "scope": "global",
-    "params": []
-  },
-  {
-    "comment": "/**\nThis function has all tags set\n@deprecated\n@param {string} - The input string\n@param {object} - a second input\n@author Lloyd <75pound@gmail.com>\n@since v0.10.28\n@returns {object | string} this return has several types\n@example\n```js\nallTogether(true)\n```\n*/",
-    "meta": {
-      "range": [
-        1604,
-        1638
-      ],
-      "filename": "0-src.js",
-      "lineno": 111,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
-      "code": {
-        "id": "astnode100000674",
-        "name": "allTogether",
-        "type": "FunctionDeclaration",
-        "paramnames": [
-          "one",
-          "two"
-        ]
-      }
-    },
-    "description": "This function has all tags set",
-    "deprecated": true,
-    "params": [
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "The input string",
-        "name": "one"
-      },
-      {
-        "type": {
-          "names": [
-            "object"
-          ]
-        },
-        "description": "a second input",
-        "name": "two"
-      }
-    ],
-    "author": [
-      "Lloyd <75pound@gmail.com>"
-    ],
-    "since": "v0.10.28",
-    "returns": [
-      {
-        "type": {
-          "names": [
-            "object",
-            "string"
-          ]
-        },
-        "description": "this return has several types"
-      }
-    ],
-    "examples": [
-      "```js\nallTogether(true)\n```"
-    ],
-    "name": "allTogether",
-    "longname": "allTogether",
-    "kind": "function",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\na visible global\n*/",
-    "meta": {
-      "range": [
-        28,
-        42
-      ],
-      "filename": "0-src.js",
-      "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/ignore",
-      "code": {
-        "id": "astnode100000681",
-        "name": "visible",
-        "type": "Literal",
-        "value": true
-      }
-    },
-    "description": "a visible global",
-    "name": "visible",
-    "longname": "visible",
-    "kind": "member",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\nan ignored global\n@ignore\n*/",
-    "meta": {
-      "range": [
-        81,
-        97
-      ],
-      "filename": "0-src.js",
-      "lineno": 10,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/ignore",
-      "code": {
-        "id": "astnode100000685",
-        "name": "invisible",
-        "type": "Literal",
-        "value": true
-      }
-    },
-    "description": "an ignored global",
-    "ignore": true,
-    "name": "invisible",
-    "longname": "invisible",
-    "kind": "member",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n@implements {Speech}\n@class\n@classdesc a synth, that also implements speech\n*/",
-    "meta": {
-      "range": [
-        83,
-        223
-      ],
-      "filename": "0-src.js",
-      "lineno": 6,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/implements",
-      "code": {
-        "id": "astnode100000689",
-        "name": "Synth",
-        "type": "FunctionDeclaration",
-        "paramnames": []
-      },
-      "vars": {
-        "this.demo": "Synth#demo",
-        "": null,
-        "this.say": "Synth#say"
-      }
-    },
-    "implements": [
-      "Speech"
-    ],
-    "kind": "class",
-    "classdesc": "a synth, that also implements speech",
-    "name": "Synth",
-    "longname": "Synth",
-    "scope": "global",
-    "params": []
-  },
-  {
-    "comment": "/**\n  play a demo piece, Beethoven or something.. \n  */",
-    "meta": {
-      "range": [
-        163,
-        189
-      ],
-      "filename": "0-src.js",
-      "lineno": 10,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/implements",
-      "code": {
-        "id": "astnode100000693",
-        "name": "this.demo",
-        "type": "FunctionExpression",
-        "paramnames": []
-      }
-    },
-    "description": "play a demo piece, Beethoven or something..",
-    "name": "demo",
-    "longname": "Synth#demo",
-    "kind": "function",
-    "memberof": "Synth",
-    "scope": "instance"
-  },
-  {
-    "comment": "",
-    "meta": {
-      "range": [
-        192,
-        221
-      ],
-      "filename": "0-src.js",
-      "lineno": 11,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/implements",
-      "code": {
-        "id": "astnode100000700",
-        "name": "this.say",
-        "type": "FunctionExpression",
-        "paramnames": [
-          "text"
-        ]
-      }
-    },
-    "undocumented": true,
-    "name": "say",
-    "longname": "Synth#say",
-    "kind": "function",
-    "memberof": "Synth",
-    "scope": "instance"
-  },
-  {
-    "comment": "/** @namespace */",
-    "meta": {
-      "range": [
-        22,
-        144
-      ],
-      "filename": "0-src.js",
-      "lineno": 2,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/instance",
-      "code": {
-        "id": "astnode100000709",
-        "name": "SomeObject",
-        "type": "ObjectExpression",
-        "value": "{\"yeah\":null}"
-      }
-    },
-    "kind": "namespace",
-    "name": "SomeObject",
-    "longname": "SomeObject",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n   * yeah is now `SomeObject#yeah` rather than `SomeObject.yeah`.\n   * @instance\n   */",
-    "meta": {
-      "range": [
-        132,
-        142
-      ],
-      "filename": "0-src.js",
-      "lineno": 7,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/instance",
-      "code": {
-        "id": "astnode100000712",
-        "name": "yeah",
-        "type": "Literal",
-        "value": null
-      }
-    },
-    "description": "yeah is now `SomeObject#yeah` rather than `SomeObject.yeah`.",
-    "scope": "instance",
-    "name": "yeah",
-    "longname": "SomeObject#yeah",
-    "kind": "member",
-    "memberof": "SomeObject"
-  },
-  {
-    "comment": "/** Generates SomeObject instances. */",
-    "meta": {
-      "range": [
-        185,
-        297
-      ],
-      "filename": "0-src.js",
-      "lineno": 11,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/instance",
-      "code": {
-        "id": "astnode100000714",
-        "name": "yeahFactory",
-        "type": "FunctionDeclaration",
-        "paramnames": [
-          "yeahValue"
-        ]
-      },
-      "vars": {
-        "props": "yeahFactory~props"
-      }
-    },
-    "description": "Generates SomeObject instances.",
-    "name": "yeahFactory",
-    "longname": "yeahFactory",
-    "kind": "function",
-    "scope": "global",
-    "params": []
-  },
-  {
-    "comment": "",
-    "meta": {
-      "range": [
-        226,
-        253
-      ],
-      "filename": "0-src.js",
-      "lineno": 12,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/instance",
-      "code": {
-        "id": "astnode100000719",
-        "name": "props",
-        "type": "ObjectExpression",
-        "value": "{\"yeah\":\"\"}"
-      }
-    },
-    "undocumented": true,
-    "name": "props",
-    "longname": "yeahFactory~props",
-    "kind": "member",
-    "memberof": "yeahFactory",
-    "scope": "inner"
-  },
-  {
-    "comment": "",
-    "meta": {
-      "range": [
-        236,
-        251
-      ],
-      "filename": "0-src.js",
-      "lineno": 12,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/instance",
-      "code": {
-        "id": "astnode100000722",
-        "name": "yeah",
-        "type": "Identifier",
-        "value": "yeahValue"
-      }
-    },
-    "undocumented": true,
-    "name": "yeah",
-    "longname": "yeahFactory~props.yeah",
-    "kind": "member",
-    "memberof": "yeahFactory~props",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\nInterface for a Currah Speech Synth\n\n![currah](http://ecx.images-amazon.com/images/I/41NReuJn%2BGL._SX300_.jpg)\n@interface\n*/",
-    "meta": {
-      "range": [
-        130,
-        151
-      ],
-      "filename": "0-src.js",
-      "lineno": 7,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/interface",
-      "code": {
-        "id": "astnode100000732",
-        "name": "Speech",
-        "type": "FunctionDeclaration",
-        "paramnames": []
-      }
-    },
-    "description": "Interface for a Currah Speech Synth\n\n![currah](http://ecx.images-amazon.com/images/I/41NReuJn%2BGL._SX300_.jpg)",
-    "kind": "interface",
-    "name": "Speech",
-    "longname": "Speech",
-    "scope": "global",
-    "params": []
-  },
-  {
-    "comment": "/**\nwhat to say\n@param {string} - the text to speak\n*/",
-    "meta": {
-      "range": [
-        208,
-        249
-      ],
-      "filename": "0-src.js",
-      "lineno": 13,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/interface",
-      "code": {
-        "id": "astnode100000736",
-        "name": "Speech.prototype.say",
-        "type": "FunctionExpression",
-        "paramnames": [
-          "text"
-        ]
-      }
-    },
-    "description": "what to say",
-    "params": [
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "the text to speak",
-        "name": "text"
-      }
-    ],
-    "name": "say",
-    "longname": "Speech#say",
-    "kind": "function",
-    "memberof": "Speech",
-    "scope": "instance"
-  },
-  {
-    "comment": "/** @class */",
-    "meta": {
-      "range": [
-        18,
-        178
-      ],
-      "filename": "0-src.js",
-      "lineno": 2,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
-      "code": {
-        "id": "astnode100000747",
-        "name": "LendsClass",
-        "type": "CallExpression",
-        "value": ""
-      }
-    },
-    "kind": "class",
-    "name": "LendsClass",
-    "longname": "LendsClass",
-    "scope": "global"
-  },
-  {
-    "comment": "",
-    "meta": {
-      "range": [
-        71,
-        176
-      ],
-      "filename": "0-src.js",
-      "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
-      "code": {
-        "id": "astnode100000751",
-        "type": "ObjectExpression"
-      }
-    },
-    "alias": "LendsClass",
-    "undocumented": true,
-    "name": "LendsClass",
-    "longname": "LendsClass",
-    "kind": "member",
-    "scope": "global"
-  },
-  {
-    "comment": "",
-    "meta": {
-      "range": [
-        77,
-        107
-      ],
-      "filename": "0-src.js",
-      "lineno": 5,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
-      "code": {
-        "id": "astnode100000752",
-        "name": "initialize",
-        "type": "FunctionExpression"
-      }
-    },
-    "undocumented": true,
-    "name": "initialize",
-    "longname": "LendsClass.initialize",
-    "kind": "function",
-    "memberof": "LendsClass",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\n    say something\n    */",
-    "meta": {
-      "range": [
-        146,
-        172
-      ],
-      "filename": "0-src.js",
-      "lineno": 9,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
-      "code": {
-        "id": "astnode100000756",
-        "name": "say",
-        "type": "FunctionExpression"
-      }
-    },
-    "description": "say something",
-    "name": "say",
-    "longname": "LendsClass.say",
-    "kind": "function",
-    "memberof": "LendsClass",
-    "scope": "static"
-  },
-  {
-    "comment": "",
-    "meta": {
-      "range": [
-        184,
-        387
-      ],
-      "filename": "0-src.js",
-      "lineno": 13,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
-      "code": {
-        "id": "astnode100000761",
-        "name": "LendsClass2",
-        "type": "CallExpression",
-        "value": ""
-      }
-    },
-    "undocumented": true,
-    "name": "LendsClass2",
-    "longname": "LendsClass2",
-    "kind": "member",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n    @constructs\n    */",
-    "meta": {
-      "range": [
-        286,
-        316
-      ],
-      "filename": "0-src.js",
-      "lineno": 19,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
-      "code": {
-        "id": "astnode100000766",
-        "name": "initialize",
-        "type": "FunctionExpression"
-      }
-    },
-    "alias": "LendsClass2",
-    "kind": "class",
-    "name": "LendsClass2",
-    "longname": "LendsClass2",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n    say something\n    */",
-    "meta": {
-      "range": [
-        355,
-        381
-      ],
-      "filename": "0-src.js",
-      "lineno": 23,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
-      "code": {
-        "id": "astnode100000770",
-        "name": "say",
-        "type": "FunctionExpression"
-      }
-    },
-    "description": "say something",
-    "name": "say",
-    "longname": "LendsClass2#say",
-    "kind": "function",
-    "memberof": "LendsClass2",
-    "scope": "instance"
-  },
-  {
-    "comment": "/** A module. Refer to it using {@link module:foo/bar}.\n * @module foo/bar\n */",
-    "meta": {
-      "range": [
-        0,
-        78
-      ],
-      "filename": "0-src.js",
-      "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link",
-      "code": {}
-    },
-    "description": "A module. Refer to it using {@link module:foo/bar}.",
-    "kind": "module",
-    "name": "foo/bar",
-    "longname": "module:foo/bar"
-  },
-  {
-    "comment": "/** The built in string object. Refer to it with {@link external:String}.\n * @external String\n */",
-    "meta": {
-      "range": [
-        79,
-        176
-      ],
-      "filename": "0-src.js",
-      "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link",
-      "code": {}
-    },
-    "description": "The built in string object. Refer to it with {@link external:String}.",
-    "kind": "external",
-    "name": "String",
-    "longname": "external:String",
-    "scope": "inner",
-    "memberof": "module:foo/bar"
-  },
-  {
-    "comment": "/** An event. Refer to with {@link module:foo/bar.event:MyEvent}.\n * @event module:foo/bar.event:MyEvent\n */",
-    "meta": {
-      "range": [
-        177,
-        285
-      ],
-      "filename": "0-src.js",
-      "lineno": 7,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link",
-      "code": {}
-    },
-    "description": "An event. Refer to with {@link module:foo/bar.event:MyEvent}.",
-    "kind": "event",
-    "name": "event:MyEvent",
-    "memberof": "module:foo/bar",
-    "longname": "module:foo/bar.event:MyEvent",
-    "scope": "static"
-  },
-  {
-    "comment": "/** See {@link LinkClass} and [LinkClass's foo property]{@link LinkClass#foo}.\n * Also check out {@link http://www.google.com|Google} and {@link http://github.com GitHub}.\n */",
-    "meta": {
-      "range": [
-        463,
-        490
-      ],
-      "filename": "0-src.js",
-      "lineno": 14,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link",
-      "code": {
-        "id": "astnode100000775",
-        "name": "linkFunction",
-        "type": "FunctionDeclaration",
-        "paramnames": []
-      }
-    },
-    "description": "See {@link LinkClass} and [LinkClass's foo property]{@link LinkClass#foo}.\nAlso check out {@link http://www.google.com|Google} and {@link http://github.com GitHub}.",
-    "name": "linkFunction",
-    "longname": "module:foo/bar~linkFunction",
-    "kind": "function",
-    "scope": "inner",
-    "memberof": "module:foo/bar",
-    "params": []
-  },
-  {
-    "comment": "/** A class.\n * @class */",
-    "meta": {
-      "range": [
-        518,
-        580
-      ],
-      "filename": "0-src.js",
-      "lineno": 18,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link",
-      "code": {
-        "id": "astnode100000778",
-        "name": "LinkClass",
-        "type": "FunctionDeclaration",
-        "paramnames": []
-      },
-      "vars": {
-        "this.foo": "module:foo/bar~LinkClass#foo"
-      }
-    },
-    "description": "A class.",
-    "kind": "class",
-    "name": "LinkClass",
-    "longname": "module:foo/bar~LinkClass",
-    "scope": "inner",
-    "memberof": "module:foo/bar",
-    "params": []
-  },
-  {
-    "comment": "/** foo property */",
-    "meta": {
-      "range": [
-        566,
-        578
-      ],
-      "filename": "0-src.js",
-      "lineno": 20,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link",
-      "code": {
-        "id": "astnode100000782",
-        "name": "this.foo",
-        "type": "Literal",
-        "value": 1,
-        "paramnames": []
-      }
-    },
-    "description": "foo property",
-    "name": "foo",
-    "longname": "module:foo/bar~LinkClass#foo",
-    "kind": "member",
-    "memberof": "module:foo/bar~LinkClass",
-    "scope": "instance"
-  },
-  {
-    "comment": "/**\na global variable\n*/",
-    "meta": {
-      "range": [
-        29,
-        41
-      ],
-      "filename": "0-src.js",
-      "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
-      "code": {
-        "id": "astnode100000789",
-        "name": "variable",
-        "type": "Literal",
-        "value": 1
-      }
-    },
-    "description": "a global variable",
-    "name": "variable",
-    "longname": "variable",
-    "kind": "member",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n@type {string}\n*/",
-    "meta": {
-      "range": [
-        69,
-        78
-      ],
-      "filename": "0-src.js",
-      "lineno": 9,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
-      "code": {
-        "id": "astnode100000793",
-        "name": "typed",
-        "type": "Literal",
-        "value": 1
-      }
-    },
-    "type": {
-      "names": [
-        "string"
-      ]
-    },
-    "name": "typed",
-    "longname": "typed",
-    "kind": "member",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n@type {string|number}\n*/",
-    "meta": {
-      "range": [
-        113,
-        122
-      ],
-      "filename": "0-src.js",
-      "lineno": 14,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
-      "code": {
-        "id": "astnode100000797",
-        "name": "types",
-        "type": "Literal",
-        "value": 1
-      }
-    },
-    "type": {
-      "names": [
-        "string",
-        "number"
-      ]
-    },
-    "name": "types",
-    "longname": "types",
-    "kind": "member",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\na var with an example\n@example\n```js\nvar another = 100\n```\n*/",
-    "meta": {
-      "range": [
-        194,
-        206
-      ],
-      "filename": "0-src.js",
-      "lineno": 23,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
-      "code": {
-        "id": "astnode100000801",
-        "name": "exampled",
-        "type": "Literal",
-        "value": 1
-      }
-    },
-    "description": "a var with an example",
-    "examples": [
-      "```js\nvar another = 100\n```"
-    ],
-    "name": "exampled",
-    "longname": "exampled",
-    "kind": "member",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\na var with multiple examples\n@example\n```js\nvar another = 100\n```\n@example\n```js\nvar next = \"p\"\n```\n*/",
-    "meta": {
-      "range": [
-        319,
-        331
-      ],
-      "filename": "0-src.js",
-      "lineno": 36,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
-      "code": {
-        "id": "astnode100000805",
-        "name": "examples",
-        "type": "Literal",
-        "value": 1
-      }
-    },
-    "description": "a var with multiple examples",
-    "examples": [
-      "```js\nvar another = 100\n```",
-      "```js\nvar next = \"p\"\n```"
-    ],
-    "name": "examples",
-    "longname": "examples",
-    "kind": "member",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n@protected\n*/",
-    "meta": {
-      "range": [
-        355,
-        372
-      ],
-      "filename": "0-src.js",
-      "lineno": 41,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
-      "code": {
-        "id": "astnode100000809",
-        "name": "_protected",
-        "type": "Literal",
-        "value": true
-      }
-    },
-    "access": "protected",
-    "name": "_protected",
-    "longname": "_protected",
-    "kind": "member",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n@private\n*/",
-    "meta": {
-      "range": [
-        394,
-        409
-      ],
-      "filename": "0-src.js",
-      "lineno": 46,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
-      "code": {
-        "id": "astnode100000813",
-        "name": "_private",
-        "type": "Literal",
-        "value": true
-      }
-    },
-    "access": "private",
-    "name": "_private",
-    "longname": "_private",
-    "kind": "member",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n@author Clive Jones <clive@jones.com>\n*/",
-    "meta": {
-      "range": [
-        460,
-        477
-      ],
-      "filename": "0-src.js",
-      "lineno": 51,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
-      "code": {
-        "id": "astnode100000817",
-        "name": "withAuthor",
-        "type": "Literal",
-        "value": true
-      }
-    },
-    "author": [
-      "Clive Jones <clive@jones.com>"
-    ],
-    "name": "withAuthor",
-    "longname": "withAuthor",
-    "kind": "member",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n@default\n*/",
-    "meta": {
-      "range": [
-        499,
-        514
-      ],
-      "filename": "0-src.js",
-      "lineno": 56,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
-      "code": {
-        "id": "astnode100000821",
-        "name": "hasDefault",
-        "type": "Literal",
-        "value": 23
-      }
-    },
-    "defaultvalue": 23,
-    "name": "hasDefault",
-    "longname": "hasDefault",
-    "kind": "member",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n@default\n*/",
-    "meta": {
-      "range": [
-        536,
-        577
-      ],
-      "filename": "0-src.js",
-      "lineno": 61,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
-      "code": {
-        "id": "astnode100000825",
-        "name": "hasDefaultObject",
-        "type": "ObjectExpression",
-        "value": "{\"one\":1,\"two\":2}"
-      }
-    },
-    "defaultvalue": "{\"one\":1,\"two\":2}",
-    "defaultvaluetype": "object",
-    "name": "hasDefaultObject",
-    "longname": "hasDefaultObject",
-    "kind": "member",
-    "scope": "global"
-  },
-  {
-    "comment": "",
-    "meta": {
-      "range": [
-        559,
-        565
-      ],
-      "filename": "0-src.js",
-      "lineno": 62,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
-      "code": {
-        "id": "astnode100000828",
-        "name": "one",
-        "type": "Literal",
-        "value": 1
-      }
-    },
-    "undocumented": true,
-    "name": "one",
-    "longname": "hasDefaultObject.one",
-    "kind": "member",
-    "memberof": "hasDefaultObject",
-    "scope": "static"
-  },
-  {
-    "comment": "",
-    "meta": {
-      "range": [
-        569,
-        575
-      ],
-      "filename": "0-src.js",
-      "lineno": 63,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
-      "code": {
-        "id": "astnode100000830",
-        "name": "two",
-        "type": "Literal",
-        "value": 2
-      }
-    },
-    "undocumented": true,
-    "name": "two",
-    "longname": "hasDefaultObject.two",
-    "kind": "member",
-    "memberof": "hasDefaultObject",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\n@deprecated\n*/",
-    "meta": {
-      "range": [
-        602,
-        619
-      ],
-      "filename": "0-src.js",
-      "lineno": 69,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
-      "code": {
-        "id": "astnode100000833",
-        "name": "deprecated",
-        "type": "Literal",
-        "value": true
-      }
-    },
-    "deprecated": true,
-    "name": "deprecated",
-    "longname": "deprecated",
-    "kind": "member",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n@readonly\n*/",
-    "meta": {
-      "range": [
-        642,
-        657
-      ],
-      "filename": "0-src.js",
-      "lineno": 74,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
-      "code": {
-        "id": "astnode100000837",
-        "name": "readOnly",
-        "type": "Literal",
-        "value": true
-      }
-    },
-    "readonly": true,
-    "name": "readOnly",
-    "longname": "readOnly",
-    "kind": "member",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n@since v0.10.28\n*/",
-    "meta": {
-      "range": [
-        686,
-        701
-      ],
-      "filename": "0-src.js",
-      "lineno": 79,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
-      "code": {
-        "id": "astnode100000841",
-        "name": "hasSince",
-        "type": "Literal",
-        "value": true
-      }
-    },
-    "since": "v0.10.28",
-    "name": "hasSince",
-    "longname": "hasSince",
-    "kind": "member",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\nThis variable has all tags set\n@deprecated\n@type {boolean}\n@private\n@default\n@readonly\n@author 75lb <75pound@gmail.com>\n@since v0.10.28\n@example\n```js\nvar allTogether = true\n```\n*/",
-    "meta": {
-      "range": [
-        892,
-        911
-      ],
-      "filename": "0-src.js",
-      "lineno": 95,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
-      "code": {
-        "id": "astnode100000845",
-        "name": "allTogether",
-        "type": "Literal",
-        "value": false
-      }
-    },
-    "description": "This variable has all tags set",
-    "deprecated": true,
-    "type": {
-      "names": [
-        "boolean"
-      ]
-    },
-    "access": "private",
-    "defaultvalue": false,
-    "readonly": true,
-    "author": [
-      "75lb <75pound@gmail.com>"
-    ],
-    "since": "v0.10.28",
-    "examples": [
-      "```js\nvar allTogether = true\n```"
-    ],
-    "name": "allTogether",
-    "longname": "allTogether",
-    "kind": "member",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n@class\n@classdesc a class which mixes in Eventful behaviour\n@mixes Eventful\n*/",
-    "meta": {
-      "range": [
-        83,
-        111
-      ],
-      "filename": "0-src.js",
-      "lineno": 6,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixes",
-      "code": {
-        "id": "astnode100000849",
-        "name": "EventfulClass",
-        "type": "FunctionDeclaration",
-        "paramnames": []
-      }
-    },
-    "kind": "class",
-    "classdesc": "a class which mixes in Eventful behaviour",
-    "mixes": [
-      "Eventful"
-    ],
-    "name": "EventfulClass",
-    "longname": "EventfulClass",
-    "scope": "global",
-    "params": []
-  },
-  {
-    "comment": "/**\nAside from humans, who are the most prolific and versatile builders, building behaviour is common in many mammals, birds, insects and arachnids. It is also seen in a few species of fish, reptiles, amphibians, molluscs, urochordates, crustaceans, annelids and some other arthropods. It is virtually absent from all the other animal phyla.\n@mixin\n*/",
-    "meta": {
-      "range": [
-        356,
-        486
-      ],
-      "filename": "0-src.js",
-      "lineno": 5,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin-builder",
-      "code": {
-        "id": "astnode100000854",
-        "name": "builder",
-        "type": "ObjectExpression",
-        "value": "{\"construct\":\"\",\"repair\":\"\"}"
-      }
-    },
-    "description": "Aside from humans, who are the most prolific and versatile builders, building behaviour is common in many mammals, birds, insects and arachnids. It is also seen in a few species of fish, reptiles, amphibians, molluscs, urochordates, crustaceans, annelids and some other arthropods. It is virtually absent from all the other animal phyla.",
-    "kind": "mixin",
-    "name": "builder",
-    "longname": "builder",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n  construct something\n  */",
-    "meta": {
-      "range": [
-        403,
-        428
-      ],
-      "filename": "0-src.js",
-      "lineno": 9,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin-builder",
-      "code": {
-        "id": "astnode100000857",
-        "name": "construct",
-        "type": "FunctionExpression"
-      }
-    },
-    "description": "construct something",
-    "name": "construct",
-    "longname": "builder.construct",
-    "kind": "function",
-    "memberof": "builder",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\n  repair something\n  */",
-    "meta": {
-      "range": [
-        462,
-        484
-      ],
-      "filename": "0-src.js",
-      "lineno": 13,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin-builder",
-      "code": {
-        "id": "astnode100000860",
-        "name": "repair",
-        "type": "FunctionExpression"
-      }
-    },
-    "description": "repair something",
-    "name": "repair",
-    "longname": "builder.repair",
-    "kind": "function",
-    "memberof": "builder",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\nThis provides methods used for event handling. It's not meant to\nbe used directly.\n@mixin\n*/",
-    "meta": {
-      "range": [
-        101,
-        582
-      ],
-      "filename": "0-src.js",
-      "lineno": 6,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin",
-      "code": {
-        "id": "astnode100000865",
-        "name": "Eventful",
-        "type": "ObjectExpression",
-        "value": "{\"on\":\"\",\"fire\":\"\"}"
-      }
-    },
-    "description": "This provides methods used for event handling. It's not meant to\nbe used directly.",
-    "kind": "mixin",
-    "name": "Eventful",
-    "longname": "Eventful",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n  Register a handler function to be called whenever this event is fired.\n  @param {string} eventName - Name of the event.\n  @param {function(Object)} handler - The handler to call.\n  */",
-    "meta": {
-      "range": [
-        308,
-        344
-      ],
-      "filename": "0-src.js",
-      "lineno": 12,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin",
-      "code": {
-        "id": "astnode100000868",
-        "name": "on",
-        "type": "FunctionExpression"
-      }
-    },
-    "description": "Register a handler function to be called whenever this event is fired.",
-    "params": [
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "Name of the event.",
-        "name": "eventName"
-      },
-      {
-        "type": {
-          "names": [
-            "function"
-          ]
-        },
-        "description": "The handler to call.",
-        "name": "handler"
-      }
-    ],
-    "name": "on",
-    "longname": "Eventful.on",
-    "kind": "function",
-    "memberof": "Eventful",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\n  Fire an event, causing all handlers for that event name to run.\n  @param {string} eventName - Name of the event.\n  @param {Object} eventData - The data provided to each handler.\n  */",
-    "meta": {
-      "range": [
-        540,
-        580
-      ],
-      "filename": "0-src.js",
-      "lineno": 19,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin",
-      "code": {
-        "id": "astnode100000873",
-        "name": "fire",
-        "type": "FunctionExpression"
-      }
-    },
-    "description": "Fire an event, causing all handlers for that event name to run.",
-    "params": [
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "Name of the event.",
-        "name": "eventName"
-      },
-      {
-        "type": {
-          "names": [
-            "Object"
-          ]
-        },
-        "description": "The data provided to each handler.",
-        "name": "eventData"
-      }
-    ],
-    "name": "fire",
-    "longname": "Eventful.fire",
-    "kind": "function",
-    "memberof": "Eventful",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\nphantom mixin\n@mixin phantom\n*/",
-    "meta": {
-      "range": [
-        584,
-        619
-      ],
-      "filename": "0-src.js",
-      "lineno": 22,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin",
-      "code": {}
-    },
-    "description": "phantom mixin",
-    "kind": "mixin",
-    "name": "phantom",
-    "longname": "phantom",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n@namespace\n*/",
-    "meta": {
-      "range": [
-        22,
-        536
-      ],
-      "filename": "0-src.js",
-      "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
-      "code": {
-        "id": "astnode100000880",
-        "name": "car",
-        "type": "ObjectExpression",
-        "value": "{\"wheels\":18,\"sensors\":465,\"start\":\"\"}"
-      }
-    },
-    "kind": "namespace",
-    "name": "car",
-    "longname": "car",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n  the round things\n  */",
-    "meta": {
-      "range": [
-        62,
-        72
-      ],
-      "filename": "0-src.js",
-      "lineno": 8,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
-      "code": {
-        "id": "astnode100000883",
-        "name": "wheels",
-        "type": "Literal",
-        "value": 18
-      }
-    },
-    "description": "the round things",
-    "name": "wheels",
-    "longname": "car.wheels",
-    "kind": "member",
-    "memberof": "car",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\n  the electronics that always go wrong\n  */",
-    "meta": {
-      "range": [
-        126,
-        138
-      ],
-      "filename": "0-src.js",
-      "lineno": 12,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
-      "code": {
-        "id": "astnode100000885",
-        "name": "sensors",
-        "type": "Literal",
-        "value": 465
-      }
-    },
-    "description": "the electronics that always go wrong",
-    "name": "sensors",
-    "longname": "car.sensors",
-    "kind": "member",
-    "memberof": "car",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\n  start the car\n  @param {string}\n  @param {function}\n  */",
-    "meta": {
-      "range": [
-        208,
-        534
-      ],
-      "filename": "0-src.js",
-      "lineno": 19,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
-      "code": {
-        "id": "astnode100000887",
-        "name": "start",
-        "type": "FunctionExpression"
-      },
-      "vars": {
-        "this.env": "car.start#env"
-      }
-    },
-    "description": "start the car",
-    "params": [
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        }
-      },
-      {
-        "type": {
-          "names": [
-            "function"
-          ]
-        }
-      }
-    ],
-    "name": "start",
-    "longname": "car.start",
-    "kind": "function",
-    "memberof": "car",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\n    decribes the current conditions\n    @namespace\n    */",
-    "meta": {
-      "range": [
-        308,
-        530
-      ],
-      "filename": "0-src.js",
-      "lineno": 24,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
-      "code": {
-        "id": "astnode100000893",
-        "name": "this.env",
-        "type": "ObjectExpression",
-        "value": "{\"weather\":\"choppy\",\"roads\":\"wet\"}",
-        "paramnames": []
-      }
-    },
-    "description": "decribes the current conditions",
-    "kind": "namespace",
-    "name": "env",
-    "longname": "car.start#env",
-    "memberof": "car.start",
-    "scope": "instance"
-  },
-  {
-    "comment": "/**\n      what kind of day is it\n      @type {string}\n      @default\n      */",
-    "meta": {
-      "range": [
-        411,
-        428
-      ],
-      "filename": "0-src.js",
-      "lineno": 30,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
-      "code": {
-        "id": "astnode100000898",
-        "name": "weather",
-        "type": "Literal",
-        "value": "choppy"
-      }
-    },
-    "description": "what kind of day is it",
-    "type": {
-      "names": [
-        "string"
-      ]
-    },
-    "defaultvalue": "choppy",
-    "name": "weather",
-    "longname": "car.start#env.weather",
-    "kind": "member",
-    "memberof": "car.start#env",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\n      road condition\n      @type {string}\n      @default\n      */",
-    "meta": {
-      "range": [
-        512,
-        524
-      ],
-      "filename": "0-src.js",
-      "lineno": 36,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
-      "code": {
-        "id": "astnode100000900",
-        "name": "roads",
-        "type": "Literal",
-        "value": "wet"
-      }
-    },
-    "description": "road condition",
-    "type": {
-      "names": [
-        "string"
-      ]
-    },
-    "defaultvalue": "wet",
-    "name": "roads",
-    "longname": "car.start#env.roads",
-    "kind": "member",
-    "memberof": "car.start#env",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\nA missle object, with separate docs for each property.\n@namespace missle\n*/",
-    "meta": {
-      "range": [
-        0,
-        79
-      ],
-      "filename": "0-src.js",
-      "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
-      "code": {}
-    },
-    "description": "A missle object, with separate docs for each property.",
-    "kind": "namespace",
-    "name": "missle",
-    "longname": "missle",
-    "scope": "global"
-  },
-  {
-    "comment": "",
-    "meta": {
-      "range": [
-        84,
-        386
-      ],
-      "filename": "0-src.js",
-      "lineno": 5,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
-      "code": {
-        "id": "astnode100000904",
-        "name": "missle",
-        "type": "ObjectExpression",
-        "value": "{\"range\":100000,\"ballistic\":true,\"hydrogen\":true,\"megaton\":200,\"destruction\":\"total\"}"
-      }
-    },
-    "undocumented": true,
-    "name": "missle",
-    "longname": "missle",
-    "kind": "member",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n  missile range\n  @default\n  @type {number}\n  */",
-    "meta": {
-      "range": [
-        152,
-        165
-      ],
-      "filename": "0-src.js",
-      "lineno": 11,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
-      "code": {
-        "id": "astnode100000907",
-        "name": "range",
-        "type": "Literal",
-        "value": 100000
-      }
-    },
-    "description": "missile range",
-    "defaultvalue": 100000,
-    "type": {
-      "names": [
-        "number"
-      ]
-    },
-    "name": "range",
-    "longname": "missle.range",
-    "kind": "member",
-    "memberof": "missle",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\n  ballistic\n  @default\n  @type {boolean}\n  */",
-    "meta": {
-      "range": [
-        222,
-        237
-      ],
-      "filename": "0-src.js",
-      "lineno": 18,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
-      "code": {
-        "id": "astnode100000909",
-        "name": "ballistic",
-        "type": "Literal",
-        "value": true
-      }
-    },
-    "description": "ballistic",
-    "defaultvalue": true,
-    "type": {
-      "names": [
-        "boolean"
-      ]
-    },
-    "name": "ballistic",
-    "longname": "missle.ballistic",
-    "kind": "member",
-    "memberof": "missle",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\n  hydrogen bomb?\n  */",
-    "meta": {
-      "range": [
-        269,
-        283
-      ],
-      "filename": "0-src.js",
-      "lineno": 22,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
-      "code": {
-        "id": "astnode100000911",
-        "name": "hydrogen",
-        "type": "Literal",
-        "value": true
-      }
-    },
-    "description": "hydrogen bomb?",
-    "name": "hydrogen",
-    "longname": "missle.hydrogen",
-    "kind": "member",
-    "memberof": "missle",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\n  number of megatons\n  @default\n  @type {number}\n  */",
-    "meta": {
-      "range": [
-        348,
-        360
-      ],
-      "filename": "0-src.js",
-      "lineno": 29,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
-      "code": {
-        "id": "astnode100000913",
-        "name": "megaton",
-        "type": "Literal",
-        "value": 200
-      }
-    },
-    "description": "number of megatons",
-    "defaultvalue": 200,
-    "type": {
-      "names": [
-        "number"
-      ]
-    },
-    "name": "megaton",
-    "longname": "missle.megaton",
-    "kind": "member",
-    "memberof": "missle",
-    "scope": "static"
-  },
-  {
-    "comment": "",
-    "meta": {
-      "range": [
-        364,
-        384
-      ],
-      "filename": "0-src.js",
-      "lineno": 30,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
-      "code": {
-        "id": "astnode100000915",
-        "name": "destruction",
-        "type": "Literal",
-        "value": "total"
-      }
-    },
-    "undocumented": true,
-    "name": "destruction",
-    "longname": "missle.destruction",
-    "kind": "member",
-    "memberof": "missle",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\nA personality object, documented using the more concise `@property` notation.\n@namespace\n@property openness {object} - openness\n@property conscientiousness {object} - conscientiousness\n@property extraversion {*} - extraversion\n@property agreeableness {object} - agreeableness\n@property neuroticism {object} - neuroticism\n*/",
-    "meta": {
-      "range": [
-        720,
-        837
-      ],
-      "filename": "0-src.js",
-      "lineno": 42,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
-      "code": {
-        "id": "astnode100000918",
-        "name": "personality",
-        "type": "ObjectExpression",
-        "value": "{\"openness\":\"\",\"conscientiousness\":\"\",\"extraversion\":\"\",\"agreeableness\":\"\",\"neuroticism\":\"\"}"
-      }
-    },
-    "description": "A personality object, documented using the more concise `@property` notation.",
-    "kind": "namespace",
-    "properties": [
-      {
-        "type": {
-          "names": [
-            "object"
-          ]
-        },
-        "description": "openness",
-        "name": "openness"
-      },
-      {
-        "type": {
-          "names": [
-            "object"
-          ]
-        },
-        "description": "conscientiousness",
-        "name": "conscientiousness"
-      },
-      {
-        "type": {
-          "names": [
-            "*"
-          ]
-        },
-        "description": "extraversion",
-        "name": "extraversion"
-      },
-      {
-        "type": {
-          "names": [
-            "object"
-          ]
-        },
-        "description": "agreeableness",
-        "name": "agreeableness"
-      },
-      {
-        "type": {
-          "names": [
-            "object"
-          ]
-        },
-        "description": "neuroticism",
-        "name": "neuroticism"
-      }
-    ],
-    "name": "personality",
-    "longname": "personality",
-    "scope": "global"
-  },
-  {
-    "comment": "",
-    "meta": {
-      "range": [
-        738,
-        750
-      ],
-      "filename": "0-src.js",
-      "lineno": 43,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
-      "code": {
-        "id": "astnode100000921",
-        "name": "openness",
-        "type": "Literal",
-        "value": ""
-      }
-    },
-    "undocumented": true,
-    "name": "openness",
-    "longname": "personality.openness",
-    "kind": "member",
-    "memberof": "personality",
-    "scope": "static"
-  },
-  {
-    "comment": "",
-    "meta": {
-      "range": [
-        754,
-        775
-      ],
-      "filename": "0-src.js",
-      "lineno": 44,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
-      "code": {
-        "id": "astnode100000923",
-        "name": "conscientiousness",
-        "type": "Literal",
-        "value": ""
-      }
-    },
-    "undocumented": true,
-    "name": "conscientiousness",
-    "longname": "personality.conscientiousness",
-    "kind": "member",
-    "memberof": "personality",
-    "scope": "static"
-  },
-  {
-    "comment": "",
-    "meta": {
-      "range": [
-        779,
-        795
-      ],
-      "filename": "0-src.js",
-      "lineno": 45,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
-      "code": {
-        "id": "astnode100000925",
-        "name": "extraversion",
-        "type": "Literal",
-        "value": ""
-      }
-    },
-    "undocumented": true,
-    "name": "extraversion",
-    "longname": "personality.extraversion",
-    "kind": "member",
-    "memberof": "personality",
-    "scope": "static"
-  },
-  {
-    "comment": "",
-    "meta": {
-      "range": [
-        799,
-        816
-      ],
-      "filename": "0-src.js",
-      "lineno": 46,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
-      "code": {
-        "id": "astnode100000927",
-        "name": "agreeableness",
-        "type": "Literal",
-        "value": ""
-      }
-    },
-    "undocumented": true,
-    "name": "agreeableness",
-    "longname": "personality.agreeableness",
-    "kind": "member",
-    "memberof": "personality",
-    "scope": "static"
-  },
-  {
-    "comment": "",
-    "meta": {
-      "range": [
-        820,
-        835
-      ],
-      "filename": "0-src.js",
-      "lineno": 47,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
-      "code": {
-        "id": "astnode100000929",
-        "name": "neuroticism",
-        "type": "Literal",
-        "value": ""
-      }
-    },
-    "undocumented": true,
-    "name": "neuroticism",
-    "longname": "personality.neuroticism",
-    "kind": "member",
-    "memberof": "personality",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\n@class\n@classdesc A multi-line\nclass description\n*/",
-    "meta": {
-      "range": [
-        56,
-        374
-      ],
-      "filename": "0-src.js",
-      "lineno": 6,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/newlines",
-      "code": {
-        "id": "astnode100000932",
-        "name": "NewLines",
-        "type": "FunctionDeclaration",
-        "paramnames": []
-      },
-      "vars": {
-        "this.method": "NewLines#method",
-        "": null,
-        "this.numbers": "NewLines#numbers"
-      }
-    },
-    "kind": "class",
-    "classdesc": "A multi-line\nclass description",
-    "name": "NewLines",
-    "longname": "NewLines",
-    "scope": "global",
-    "params": []
-  },
-  {
-    "comment": "/**\n  @param {string} - a param description \n  with an awkward newline\n  or two. \n  @returns {number} the returns\n  description also \n  has newlines\n  */",
-    "meta": {
-      "range": [
-        237,
-        270
-      ],
-      "filename": "0-src.js",
-      "lineno": 15,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/newlines",
-      "code": {
-        "id": "astnode100000936",
-        "name": "this.method",
-        "type": "FunctionExpression",
-        "paramnames": [
-          "input"
-        ]
-      }
-    },
-    "params": [
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "a param description \n  with an awkward newline\n  or two.",
-        "name": "input"
-      }
-    ],
-    "returns": [
-      {
-        "type": {
-          "names": [
-            "number"
-          ]
-        },
-        "description": "the returns\n  description also \n  has newlines"
-      }
-    ],
-    "name": "method",
-    "longname": "NewLines#method",
-    "kind": "function",
-    "memberof": "NewLines",
-    "scope": "instance"
-  },
-  {
-    "comment": "/**\n  @property one {number} - a property\n  with newlines for \n  a change\n  */",
-    "meta": {
-      "range": [
-        355,
-        372
-      ],
-      "filename": "0-src.js",
-      "lineno": 22,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/newlines",
-      "code": {
-        "id": "astnode100000944",
-        "name": "this.numbers",
-        "type": "ObjectExpression",
-        "value": "{}",
-        "paramnames": []
-      }
-    },
-    "properties": [
-      {
-        "type": {
-          "names": [
-            "number"
-          ]
-        },
-        "description": "a property\n  with newlines for \n  a change",
-        "name": "one"
-      }
-    ],
-    "name": "numbers",
-    "longname": "NewLines#numbers",
-    "kind": "member",
-    "memberof": "NewLines",
-    "scope": "instance"
-  },
-  {
-    "comment": "/**\n@param {object} options - the function options\n@param {string} options.one - first option\n@param {string} options.two - second option\n*/",
-    "meta": {
-      "range": [
-        141,
-        174
-      ],
-      "filename": "0-src.js",
-      "lineno": 6,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/options",
-      "code": {
-        "id": "astnode100000950",
-        "name": "doSomething",
-        "type": "FunctionDeclaration",
-        "paramnames": [
-          "options"
-        ]
-      }
-    },
-    "params": [
-      {
-        "type": {
-          "names": [
-            "object"
-          ]
-        },
-        "description": "the function options",
-        "name": "options"
-      },
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "first option",
-        "name": "options.one"
-      },
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "second option",
-        "name": "options.two"
-      }
-    ],
-    "name": "doSomething",
-    "longname": "doSomething",
-    "kind": "function",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n@param {{one: string, two: string}} options - the function options\n*/",
-    "meta": {
-      "range": [
-        250,
-        281
-      ],
-      "filename": "0-src.js",
-      "lineno": 11,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/options",
-      "code": {
-        "id": "astnode100000954",
-        "name": "doAnother",
-        "type": "FunctionDeclaration",
-        "paramnames": [
-          "options"
-        ]
-      }
-    },
-    "params": [
-      {
-        "type": {
-          "names": [
-            "Object"
-          ]
-        },
-        "description": "the function options",
-        "name": "options"
-      }
-    ],
-    "name": "doAnother",
-    "longname": "doAnother",
     "kind": "function",
     "scope": "global"
   },
@@ -8459,7 +8459,6 @@
       "/Users/lloyd/Documents/75lb/testbed/build/global/fires/0-src.js",
       "/Users/lloyd/Documents/75lb/testbed/build/global/function-obj/0-src.js",
       "/Users/lloyd/Documents/75lb/testbed/build/global/function-protection/0-src.js",
-      "/Users/lloyd/Documents/75lb/testbed/build/global/function-taze/0-src.js",
       "/Users/lloyd/Documents/75lb/testbed/build/global/function/0-src.js",
       "/Users/lloyd/Documents/75lb/testbed/build/global/functions/0-src.js",
       "/Users/lloyd/Documents/75lb/testbed/build/global/ignore/0-src.js",
@@ -8476,6 +8475,7 @@
       "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2/0-src.js",
       "/Users/lloyd/Documents/75lb/testbed/build/global/newlines/0-src.js",
       "/Users/lloyd/Documents/75lb/testbed/build/global/options/0-src.js",
+      "/Users/lloyd/Documents/75lb/testbed/build/global/param-markdown/0-src.js",
       "/Users/lloyd/Documents/75lb/testbed/build/global/param-variable/0-src.js",
       "/Users/lloyd/Documents/75lb/testbed/build/global/private/0-src.js",
       "/Users/lloyd/Documents/75lb/testbed/build/global/property/0-src.js",
@@ -8503,7 +8503,7 @@
       "lineno": 12,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin",
       "code": {
-        "id": "astnode100000868",
+        "id": "astnode100000861",
         "name": "on",
         "type": "FunctionExpression"
       }
@@ -8550,7 +8550,7 @@
       "lineno": 19,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin",
       "code": {
-        "id": "astnode100000873",
+        "id": "astnode100000866",
         "name": "fire",
         "type": "FunctionExpression"
       }
@@ -8597,7 +8597,7 @@
       "lineno": 13,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/interface",
       "code": {
-        "id": "astnode100000736",
+        "id": "astnode100000729",
         "name": "Speech.prototype.say",
         "type": "FunctionExpression",
         "paramnames": [

@@ -10,7 +10,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link"
     },
-    "order": 152
+    "order": 151
   },
   {
     "id": "All()",
@@ -267,7 +267,7 @@
     "description": "A class.",
     "memberof": "module:foo/bar~LinkClass",
     "params": [],
-    "order": 157
+    "order": 156
   },
   {
     "id": "Speech",
@@ -282,7 +282,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/interface"
     },
-    "order": 146
+    "order": 145
   },
   {
     "id": "Chainable",
@@ -653,7 +653,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/implements"
     },
-    "order": 141
+    "order": 140
   },
   {
     "id": "LendsClass",
@@ -666,7 +666,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends"
     },
-    "order": 148
+    "order": 147
   },
   {
     "id": "LendsClass2",
@@ -680,7 +680,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends"
     },
-    "order": 150
+    "order": 149
   },
   {
     "id": "EventfulClass",
@@ -697,7 +697,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixes"
     },
-    "order": 173
+    "order": 172
   },
   {
     "id": "NewLines",
@@ -711,7 +711,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/newlines"
     },
-    "order": 194
+    "order": 193
   },
   {
     "id": "Plucker",
@@ -751,7 +751,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin-builder"
     },
-    "order": 174
+    "order": 173
   },
   {
     "id": "Eventful",
@@ -765,7 +765,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin"
     },
-    "order": 177
+    "order": 176
   },
   {
     "id": "phantom",
@@ -779,7 +779,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin"
     },
-    "order": 180
+    "order": 179
   },
   {
     "id": "customTagged",
@@ -1024,7 +1024,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/ignore"
     },
-    "order": 139
+    "order": 138
   },
   {
     "id": "variable",
@@ -1038,7 +1038,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members"
     },
-    "order": 159
+    "order": 158
   },
   {
     "id": "typed",
@@ -1056,7 +1056,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members"
     },
-    "order": 160
+    "order": 159
   },
   {
     "id": "types",
@@ -1075,7 +1075,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members"
     },
-    "order": 161
+    "order": 160
   },
   {
     "id": "exampled",
@@ -1092,7 +1092,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members"
     },
-    "order": 162
+    "order": 161
   },
   {
     "id": "examples",
@@ -1110,7 +1110,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members"
     },
-    "order": 163
+    "order": 162
   },
   {
     "id": "_protected",
@@ -1124,7 +1124,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members"
     },
-    "order": 164
+    "order": 163
   },
   {
     "id": "withAuthor",
@@ -1140,7 +1140,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members"
     },
-    "order": 166
+    "order": 165
   },
   {
     "id": "hasDefault",
@@ -1154,7 +1154,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members"
     },
-    "order": 167
+    "order": 166
   },
   {
     "id": "hasDefaultObject",
@@ -1169,7 +1169,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members"
     },
-    "order": 168
+    "order": 167
   },
   {
     "id": "deprecated",
@@ -1183,7 +1183,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members"
     },
-    "order": 169
+    "order": 168
   },
   {
     "id": "readOnly",
@@ -1197,7 +1197,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members"
     },
-    "order": 170
+    "order": 169
   },
   {
     "id": "hasSince",
@@ -1211,7 +1211,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members"
     },
-    "order": 171
+    "order": 170
   },
   {
     "id": "seeableVar",
@@ -1354,7 +1354,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/instance"
     },
-    "order": 143
+    "order": 142
   },
   {
     "id": "car",
@@ -1367,7 +1367,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace"
     },
-    "order": 181
+    "order": 180
   },
   {
     "id": "missle",
@@ -1381,7 +1381,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2"
     },
-    "order": 188
+    "order": 187
   },
   {
     "id": "personality",
@@ -1442,7 +1442,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2"
     },
-    "order": 193
+    "order": 192
   },
   {
     "id": "Documents",
@@ -2000,6 +2000,502 @@
     "order": 120
   },
   {
+    "id": "globalFunction",
+    "longname": "globalFunction",
+    "name": "globalFunction",
+    "scope": "global",
+    "kind": "function",
+    "description": "a global function",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "first param",
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "second param",
+        "name": "two"
+      },
+      {
+        "type": {
+          "names": [
+            "number",
+            "string"
+          ]
+        },
+        "description": "third",
+        "name": "three"
+      },
+      {
+        "type": {
+          "names": [
+            "Array.<(Number|String)>"
+          ]
+        },
+        "description": "fourth",
+        "name": "four"
+      }
+    ],
+    "meta": {
+      "lineno": 8,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/function"
+    },
+    "order": 121
+  },
+  {
+    "id": "globalFunc",
+    "longname": "globalFunc",
+    "name": "globalFunc",
+    "scope": "global",
+    "kind": "function",
+    "description": "a global function",
+    "params": [],
+    "meta": {
+      "lineno": 4,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
+    },
+    "order": 122
+  },
+  {
+    "id": "exampled",
+    "longname": "exampled",
+    "name": "exampled",
+    "scope": "global",
+    "kind": "function",
+    "description": "a function with an example",
+    "params": [],
+    "examples": [
+      "```js\nvar result = exampled()\n```"
+    ],
+    "meta": {
+      "lineno": 13,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
+    },
+    "order": 123
+  },
+  {
+    "id": "multiExampled",
+    "longname": "multiExampled",
+    "name": "multiExampled",
+    "scope": "global",
+    "kind": "function",
+    "description": "a function with multiple examples",
+    "params": [],
+    "examples": [
+      "```js\nvar another = 100\n```",
+      "```js\nvar next = \"p\"\n```"
+    ],
+    "meta": {
+      "lineno": 26,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
+    },
+    "order": 124
+  },
+  {
+    "id": "_protected",
+    "longname": "_protected",
+    "name": "_protected",
+    "scope": "global",
+    "kind": "function",
+    "access": "protected",
+    "meta": {
+      "lineno": 31,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
+    },
+    "order": 125
+  },
+  {
+    "id": "withAuthor",
+    "longname": "withAuthor",
+    "name": "withAuthor",
+    "scope": "global",
+    "kind": "function",
+    "params": [],
+    "author": [
+      "Clive Jones <clive@jones.com>"
+    ],
+    "meta": {
+      "lineno": 41,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
+    },
+    "order": 127
+  },
+  {
+    "id": "oldFunction",
+    "longname": "oldFunction",
+    "name": "oldFunction",
+    "scope": "global",
+    "kind": "function",
+    "params": [],
+    "deprecated": true,
+    "meta": {
+      "lineno": 46,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
+    },
+    "order": 128
+  },
+  {
+    "id": "newFunction",
+    "longname": "newFunction",
+    "name": "newFunction",
+    "scope": "global",
+    "kind": "function",
+    "params": [],
+    "since": "v0.10.28",
+    "meta": {
+      "lineno": 51,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
+    },
+    "order": 129
+  },
+  {
+    "id": "withParam",
+    "longname": "withParam",
+    "name": "withParam",
+    "scope": "global",
+    "kind": "function",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "The input string",
+        "name": "one"
+      }
+    ],
+    "meta": {
+      "lineno": 56,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
+    },
+    "order": 130
+  },
+  {
+    "id": "withParams",
+    "longname": "withParams",
+    "name": "withParams",
+    "scope": "global",
+    "kind": "function",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "The input string",
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "name": "two"
+      }
+    ],
+    "meta": {
+      "lineno": 62,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
+    },
+    "order": 131
+  },
+  {
+    "id": "withOptional",
+    "longname": "withOptional",
+    "name": "withOptional",
+    "scope": "global",
+    "kind": "function",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "The input string",
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "optional": true,
+        "description": "this one is optional",
+        "name": "two"
+      }
+    ],
+    "meta": {
+      "lineno": 68,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
+    },
+    "order": 132
+  },
+  {
+    "id": "withBullets",
+    "longname": "withBullets",
+    "name": "withBullets",
+    "scope": "global",
+    "kind": "function",
+    "description": "this description has \n\n- bullet\n- points\n\nand needs this line to separate the above list from the below",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "The input string",
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "a second input",
+        "name": "two"
+      }
+    ],
+    "meta": {
+      "lineno": 81,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
+    },
+    "order": 133
+  },
+  {
+    "id": "returnsSomething",
+    "longname": "returnsSomething",
+    "name": "returnsSomething",
+    "scope": "global",
+    "kind": "function",
+    "params": [],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "lineno": 86,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
+    },
+    "order": 134
+  },
+  {
+    "id": "returnsSomethingDesc",
+    "longname": "returnsSomethingDesc",
+    "name": "returnsSomethingDesc",
+    "scope": "global",
+    "kind": "function",
+    "params": [],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "this return has a description"
+      }
+    ],
+    "meta": {
+      "lineno": 91,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
+    },
+    "order": 135
+  },
+  {
+    "id": "returnsSeveral",
+    "longname": "returnsSeveral",
+    "name": "returnsSeveral",
+    "scope": "global",
+    "kind": "function",
+    "params": [],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "object",
+            "string"
+          ]
+        },
+        "description": "this return has several types"
+      }
+    ],
+    "meta": {
+      "lineno": 96,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
+    },
+    "order": 136
+  },
+  {
+    "id": "allTogether",
+    "longname": "allTogether",
+    "name": "allTogether",
+    "scope": "global",
+    "kind": "function",
+    "description": "This function has all tags set",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "The input string",
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "a second input",
+        "name": "two"
+      }
+    ],
+    "examples": [
+      "```js\nallTogether(true)\n```"
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "object",
+            "string"
+          ]
+        },
+        "description": "this return has several types"
+      }
+    ],
+    "author": [
+      "Lloyd <75pound@gmail.com>"
+    ],
+    "deprecated": true,
+    "since": "v0.10.28",
+    "meta": {
+      "lineno": 111,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
+    },
+    "order": 137
+  },
+  {
+    "id": "yeahFactory",
+    "longname": "yeahFactory",
+    "name": "yeahFactory",
+    "scope": "global",
+    "kind": "function",
+    "description": "Generates SomeObject instances.",
+    "params": [],
+    "meta": {
+      "lineno": 11,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/instance"
+    },
+    "order": 144
+  },
+  {
+    "id": "doSomething",
+    "longname": "doSomething",
+    "name": "doSomething",
+    "scope": "global",
+    "kind": "function",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "the function options",
+        "name": "options"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "first option",
+        "name": "options.one"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "second option",
+        "name": "options.two"
+      }
+    ],
+    "meta": {
+      "lineno": 6,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/options"
+    },
+    "order": 196
+  },
+  {
+    "id": "doAnother",
+    "longname": "doAnother",
+    "name": "doAnother",
+    "scope": "global",
+    "kind": "function",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "Object"
+          ]
+        },
+        "description": "the function options",
+        "name": "options"
+      }
+    ],
+    "meta": {
+      "lineno": 11,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/options"
+    },
+    "order": 197
+  },
+  {
     "id": "taze",
     "longname": "taze",
     "name": "taze",
@@ -2084,503 +2580,7 @@
     "meta": {
       "lineno": 14,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/function-taze"
-    },
-    "order": 121
-  },
-  {
-    "id": "globalFunction",
-    "longname": "globalFunction",
-    "name": "globalFunction",
-    "scope": "global",
-    "kind": "function",
-    "description": "a global function",
-    "params": [
-      {
-        "type": {
-          "names": [
-            "number"
-          ]
-        },
-        "description": "first param",
-        "name": "one"
-      },
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "second param",
-        "name": "two"
-      },
-      {
-        "type": {
-          "names": [
-            "number",
-            "string"
-          ]
-        },
-        "description": "third",
-        "name": "three"
-      },
-      {
-        "type": {
-          "names": [
-            "Array.<(Number|String)>"
-          ]
-        },
-        "description": "fourth",
-        "name": "four"
-      }
-    ],
-    "meta": {
-      "lineno": 8,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/function"
-    },
-    "order": 122
-  },
-  {
-    "id": "globalFunc",
-    "longname": "globalFunc",
-    "name": "globalFunc",
-    "scope": "global",
-    "kind": "function",
-    "description": "a global function",
-    "params": [],
-    "meta": {
-      "lineno": 4,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
-    },
-    "order": 123
-  },
-  {
-    "id": "exampled",
-    "longname": "exampled",
-    "name": "exampled",
-    "scope": "global",
-    "kind": "function",
-    "description": "a function with an example",
-    "params": [],
-    "examples": [
-      "```js\nvar result = exampled()\n```"
-    ],
-    "meta": {
-      "lineno": 13,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
-    },
-    "order": 124
-  },
-  {
-    "id": "multiExampled",
-    "longname": "multiExampled",
-    "name": "multiExampled",
-    "scope": "global",
-    "kind": "function",
-    "description": "a function with multiple examples",
-    "params": [],
-    "examples": [
-      "```js\nvar another = 100\n```",
-      "```js\nvar next = \"p\"\n```"
-    ],
-    "meta": {
-      "lineno": 26,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
-    },
-    "order": 125
-  },
-  {
-    "id": "_protected",
-    "longname": "_protected",
-    "name": "_protected",
-    "scope": "global",
-    "kind": "function",
-    "access": "protected",
-    "meta": {
-      "lineno": 31,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
-    },
-    "order": 126
-  },
-  {
-    "id": "withAuthor",
-    "longname": "withAuthor",
-    "name": "withAuthor",
-    "scope": "global",
-    "kind": "function",
-    "params": [],
-    "author": [
-      "Clive Jones <clive@jones.com>"
-    ],
-    "meta": {
-      "lineno": 41,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
-    },
-    "order": 128
-  },
-  {
-    "id": "oldFunction",
-    "longname": "oldFunction",
-    "name": "oldFunction",
-    "scope": "global",
-    "kind": "function",
-    "params": [],
-    "deprecated": true,
-    "meta": {
-      "lineno": 46,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
-    },
-    "order": 129
-  },
-  {
-    "id": "newFunction",
-    "longname": "newFunction",
-    "name": "newFunction",
-    "scope": "global",
-    "kind": "function",
-    "params": [],
-    "since": "v0.10.28",
-    "meta": {
-      "lineno": 51,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
-    },
-    "order": 130
-  },
-  {
-    "id": "withParam",
-    "longname": "withParam",
-    "name": "withParam",
-    "scope": "global",
-    "kind": "function",
-    "params": [
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "The input string",
-        "name": "one"
-      }
-    ],
-    "meta": {
-      "lineno": 56,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
-    },
-    "order": 131
-  },
-  {
-    "id": "withParams",
-    "longname": "withParams",
-    "name": "withParams",
-    "scope": "global",
-    "kind": "function",
-    "params": [
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "The input string",
-        "name": "one"
-      },
-      {
-        "type": {
-          "names": [
-            "object"
-          ]
-        },
-        "name": "two"
-      }
-    ],
-    "meta": {
-      "lineno": 62,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
-    },
-    "order": 132
-  },
-  {
-    "id": "withOptional",
-    "longname": "withOptional",
-    "name": "withOptional",
-    "scope": "global",
-    "kind": "function",
-    "params": [
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "The input string",
-        "name": "one"
-      },
-      {
-        "type": {
-          "names": [
-            "object"
-          ]
-        },
-        "optional": true,
-        "description": "this one is optional",
-        "name": "two"
-      }
-    ],
-    "meta": {
-      "lineno": 68,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
-    },
-    "order": 133
-  },
-  {
-    "id": "withBullets",
-    "longname": "withBullets",
-    "name": "withBullets",
-    "scope": "global",
-    "kind": "function",
-    "description": "this description has \n\n- bullet\n- points\n\nand needs this line to separate the above list from the below",
-    "params": [
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "The input string",
-        "name": "one"
-      },
-      {
-        "type": {
-          "names": [
-            "object"
-          ]
-        },
-        "description": "a second input",
-        "name": "two"
-      }
-    ],
-    "meta": {
-      "lineno": 81,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
-    },
-    "order": 134
-  },
-  {
-    "id": "returnsSomething",
-    "longname": "returnsSomething",
-    "name": "returnsSomething",
-    "scope": "global",
-    "kind": "function",
-    "params": [],
-    "returns": [
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        }
-      }
-    ],
-    "meta": {
-      "lineno": 86,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
-    },
-    "order": 135
-  },
-  {
-    "id": "returnsSomethingDesc",
-    "longname": "returnsSomethingDesc",
-    "name": "returnsSomethingDesc",
-    "scope": "global",
-    "kind": "function",
-    "params": [],
-    "returns": [
-      {
-        "type": {
-          "names": [
-            "object"
-          ]
-        },
-        "description": "this return has a description"
-      }
-    ],
-    "meta": {
-      "lineno": 91,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
-    },
-    "order": 136
-  },
-  {
-    "id": "returnsSeveral",
-    "longname": "returnsSeveral",
-    "name": "returnsSeveral",
-    "scope": "global",
-    "kind": "function",
-    "params": [],
-    "returns": [
-      {
-        "type": {
-          "names": [
-            "object",
-            "string"
-          ]
-        },
-        "description": "this return has several types"
-      }
-    ],
-    "meta": {
-      "lineno": 96,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
-    },
-    "order": 137
-  },
-  {
-    "id": "allTogether",
-    "longname": "allTogether",
-    "name": "allTogether",
-    "scope": "global",
-    "kind": "function",
-    "description": "This function has all tags set",
-    "params": [
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "The input string",
-        "name": "one"
-      },
-      {
-        "type": {
-          "names": [
-            "object"
-          ]
-        },
-        "description": "a second input",
-        "name": "two"
-      }
-    ],
-    "examples": [
-      "```js\nallTogether(true)\n```"
-    ],
-    "returns": [
-      {
-        "type": {
-          "names": [
-            "object",
-            "string"
-          ]
-        },
-        "description": "this return has several types"
-      }
-    ],
-    "author": [
-      "Lloyd <75pound@gmail.com>"
-    ],
-    "deprecated": true,
-    "since": "v0.10.28",
-    "meta": {
-      "lineno": 111,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions"
-    },
-    "order": 138
-  },
-  {
-    "id": "yeahFactory",
-    "longname": "yeahFactory",
-    "name": "yeahFactory",
-    "scope": "global",
-    "kind": "function",
-    "description": "Generates SomeObject instances.",
-    "params": [],
-    "meta": {
-      "lineno": 11,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/instance"
-    },
-    "order": 145
-  },
-  {
-    "id": "doSomething",
-    "longname": "doSomething",
-    "name": "doSomething",
-    "scope": "global",
-    "kind": "function",
-    "params": [
-      {
-        "type": {
-          "names": [
-            "object"
-          ]
-        },
-        "description": "the function options",
-        "name": "options"
-      },
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "first option",
-        "name": "options.one"
-      },
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "second option",
-        "name": "options.two"
-      }
-    ],
-    "meta": {
-      "lineno": 6,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/options"
-    },
-    "order": 197
-  },
-  {
-    "id": "doAnother",
-    "longname": "doAnother",
-    "name": "doAnother",
-    "scope": "global",
-    "kind": "function",
-    "params": [
-      {
-        "type": {
-          "names": [
-            "Object"
-          ]
-        },
-        "description": "the function options",
-        "name": "options"
-      }
-    ],
-    "meta": {
-      "lineno": 11,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/options"
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/param-markdown"
     },
     "order": 198
   },
@@ -3421,7 +3421,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/instance"
     },
-    "order": 144
+    "order": 143
   },
   {
     "id": "module:foo/bar~LinkClass#foo",
@@ -3436,7 +3436,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link"
     },
-    "order": 158
+    "order": 157
   },
   {
     "id": "NewLines#numbers",
@@ -3461,7 +3461,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/newlines"
     },
-    "order": 196
+    "order": 195
   },
   {
     "id": "Greeter#name",
@@ -3509,7 +3509,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace"
     },
-    "order": 185
+    "order": 184
   },
   {
     "id": "FurQ#LOVE",
@@ -3857,7 +3857,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/implements"
     },
-    "order": 142
+    "order": 141
   },
   {
     "id": "Speech#say",
@@ -3883,7 +3883,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/interface"
     },
-    "order": 147
+    "order": 146
   },
   {
     "id": "LendsClass2#say",
@@ -3898,7 +3898,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends"
     },
-    "order": 151
+    "order": 150
   },
   {
     "id": "NewLines#method",
@@ -3933,7 +3933,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/newlines"
     },
-    "order": 195
+    "order": 194
   },
   {
     "id": "Plucker#doPluck",
@@ -4428,7 +4428,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace"
     },
-    "order": 182
+    "order": 181
   },
   {
     "id": "car.sensors",
@@ -4443,7 +4443,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace"
     },
-    "order": 183
+    "order": 182
   },
   {
     "id": "car.start#env.weather",
@@ -4464,7 +4464,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace"
     },
-    "order": 186
+    "order": 185
   },
   {
     "id": "car.start#env.roads",
@@ -4485,7 +4485,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace"
     },
-    "order": 187
+    "order": 186
   },
   {
     "id": "missle.range",
@@ -4506,7 +4506,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2"
     },
-    "order": 189
+    "order": 188
   },
   {
     "id": "missle.ballistic",
@@ -4527,7 +4527,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2"
     },
-    "order": 190
+    "order": 189
   },
   {
     "id": "missle.hydrogen",
@@ -4542,7 +4542,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2"
     },
-    "order": 191
+    "order": 190
   },
   {
     "id": "missle.megaton",
@@ -4563,7 +4563,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2"
     },
-    "order": 192
+    "order": 191
   },
   {
     "id": "Documents.Newspaper",
@@ -4716,7 +4716,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends"
     },
-    "order": 149
+    "order": 148
   },
   {
     "id": "builder.construct",
@@ -4731,7 +4731,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin-builder"
     },
-    "order": 175
+    "order": 174
   },
   {
     "id": "builder.repair",
@@ -4746,7 +4746,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin-builder"
     },
-    "order": 176
+    "order": 175
   },
   {
     "id": "Eventful.on",
@@ -4781,7 +4781,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin"
     },
-    "order": 178
+    "order": 177
   },
   {
     "id": "Eventful.fire",
@@ -4816,7 +4816,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin"
     },
-    "order": 179
+    "order": 178
   },
   {
     "id": "car.start",
@@ -4847,7 +4847,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace"
     },
-    "order": 184
+    "order": 183
   },
   {
     "id": "module:foo/bar.event:MyEvent",
@@ -4862,7 +4862,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link"
     },
-    "order": 154
+    "order": 153
   },
   {
     "id": "Rapper.train~School",
@@ -4890,7 +4890,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link"
     },
-    "order": 156
+    "order": 155
   },
   {
     "id": "All#allThings~some",
@@ -4921,7 +4921,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link"
     },
-    "order": 155
+    "order": 154
   },
   {
     "id": "FurQ~onRespect",
@@ -4976,6 +4976,6 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link"
     },
-    "order": 153
+    "order": 152
   }
 ]
