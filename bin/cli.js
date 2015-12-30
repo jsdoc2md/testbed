@@ -44,5 +44,5 @@ function makeFolderQueue (folderList) {
 }
 
 process.on('unhandledRejection', (err, p) => {
-  console.error(err)
+  console.error(err.stack || err)
 })

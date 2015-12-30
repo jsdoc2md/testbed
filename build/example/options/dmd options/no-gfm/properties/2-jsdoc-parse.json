@@ -1,0 +1,36 @@
+[
+  {
+    "id": "eType",
+    "longname": "eType",
+    "name": "eType",
+    "scope": "global",
+    "kind": "member",
+    "isEnum": true,
+    "properties": [
+      {
+        "description": "type one",
+        "name": "ONE",
+        "longname": "eType.ONE",
+        "kind": "member",
+        "memberof": "eType",
+        "scope": "static",
+        "defaultvalue": 1
+      },
+      {
+        "description": "type two",
+        "name": "TWO",
+        "longname": "eType.TWO",
+        "kind": "member",
+        "memberof": "eType",
+        "scope": "static",
+        "defaultvalue": 2
+      }
+    ],
+    "meta": {
+      "lineno": 4,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd options/no-gfm/properties"
+    },
+    "order": 0
+  }
+]
