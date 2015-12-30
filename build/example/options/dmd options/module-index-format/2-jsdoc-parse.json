@@ -1,0 +1,2213 @@
+[
+  {
+    "id": "module:animal",
+    "longname": "module:animal",
+    "name": "animal",
+    "kind": "module",
+    "description": "Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\n\n| yeah | desc |\n| ---- | ---- |\n| some | markdown |\n| in the | module |\n| description | |",
+    "examples": [
+      "var animal = require(\"animal\")"
+    ],
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/animal"
+    },
+    "order": 0
+  },
+  {
+    "id": "module:animals/0-src",
+    "longname": "module:animals/0-src",
+    "name": "animals/0-src",
+    "kind": "module",
+    "description": "exports animals",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/animals"
+    },
+    "order": 6
+  },
+  {
+    "id": "module:builder",
+    "longname": "module:builder",
+    "name": "builder",
+    "kind": "module",
+    "description": "Aside from humans, who are the most prolific and versatile builders, building behaviour is common in many mammals, birds, insects and arachnids. It is also seen in a few species of fish, reptiles, amphibians, molluscs, urochordates, crustaceans, annelids and some other arthropods. It is virtually absent from all the other animal phyla.",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/builder"
+    },
+    "order": 13
+  },
+  {
+    "id": "module:file-set",
+    "longname": "module:file-set",
+    "name": "file-set",
+    "kind": "module",
+    "description": "this module exports a class constructor",
+    "examples": [
+      "```js\nvar FileSet = require(\"file-set\")\n```"
+    ],
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/class-fileset"
+    },
+    "order": 17
+  },
+  {
+    "id": "module:cjs/class",
+    "longname": "module:cjs/class",
+    "name": "cjs/class",
+    "kind": "module",
+    "description": "exports a class",
+    "typicalname": "exp",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/class"
+    },
+    "order": 22
+  },
+  {
+    "id": "module:function-tools",
+    "longname": "module:function-tools",
+    "name": "function-tools",
+    "kind": "module",
+    "description": "This is the module description",
+    "customTags": [
+      {
+        "tag": "variablename",
+        "value": "f"
+      },
+      {
+        "tag": "context",
+        "value": "{customContext}"
+      }
+    ],
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/customTag"
+    },
+    "order": 28
+  },
+  {
+    "id": "module:farm",
+    "longname": "module:farm",
+    "name": "farm",
+    "kind": "module",
+    "description": "test to check deep trees render ok",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree"
+    },
+    "order": 30
+  },
+  {
+    "id": "module:farm",
+    "longname": "module:farm",
+    "name": "farm",
+    "kind": "module",
+    "description": "test to check deep trees render ok",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree2"
+    },
+    "order": 37
+  },
+  {
+    "id": "module:es6-class",
+    "longname": "module:es6-class",
+    "name": "es6-class",
+    "kind": "module",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/es6-class"
+    },
+    "order": 47
+  },
+  {
+    "id": "module:falias-obj",
+    "longname": "module:falias-obj",
+    "name": "falias-obj",
+    "kind": "module",
+    "description": "exports a pointer to a function",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/falias-obj"
+    },
+    "order": 56
+  },
+  {
+    "id": "module:cjs/function-alias",
+    "longname": "module:cjs/function-alias",
+    "name": "cjs/function-alias",
+    "kind": "module",
+    "description": "exports a pointer to a function",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/function-alias"
+    },
+    "order": 59
+  },
+  {
+    "id": "module:sum-alias",
+    "longname": "module:sum-alias",
+    "name": "sum-alias",
+    "kind": "module",
+    "description": "This module exports a simple maths function",
+    "examples": [
+      "```js\nvar sum = require(\"sum-alias\")\n```"
+    ],
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/function-alias2"
+    },
+    "order": 62
+  },
+  {
+    "id": "module:function/0-src",
+    "longname": "module:function/0-src",
+    "name": "function/0-src",
+    "kind": "module",
+    "description": "This is the module description",
+    "author": [
+      "Lloyd <75pound@gmail.com>"
+    ],
+    "since": "v0.10.28",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/function"
+    },
+    "order": 64
+  },
+  {
+    "id": "module:cjs/human",
+    "longname": "module:cjs/human",
+    "name": "cjs/human",
+    "kind": "module",
+    "description": "exports a class",
+    "typicalname": "d",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/human"
+    },
+    "order": 66
+  },
+  {
+    "id": "module:ignore/0-src",
+    "longname": "module:ignore/0-src",
+    "name": "ignore/0-src",
+    "kind": "module",
+    "description": "module with ignored shiz",
+    "alias": "ignore",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/ignore"
+    },
+    "order": 73
+  },
+  {
+    "id": "module:linkMod",
+    "longname": "module:linkMod",
+    "name": "linkMod",
+    "kind": "module",
+    "description": "A module. Refer to it using {@link module:linkMod|this link}.",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/link"
+    },
+    "order": 76
+  },
+  {
+    "id": "module:cjs/object-alias",
+    "longname": "module:cjs/object-alias",
+    "name": "cjs/object-alias",
+    "kind": "module",
+    "description": "a module exporting an object",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-alias"
+    },
+    "order": 82
+  },
+  {
+    "id": "module:object-alias2/0-src",
+    "longname": "module:object-alias2/0-src",
+    "name": "object-alias2/0-src",
+    "kind": "module",
+    "description": "simple object export",
+    "alias": "_",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-alias2"
+    },
+    "order": 84
+  },
+  {
+    "id": "module:cyberdyne",
+    "longname": "module:cyberdyne",
+    "name": "cyberdyne",
+    "kind": "module",
+    "description": "exports an object.. has an inner class.",
+    "alias": "cyber",
+    "examples": [
+      "```js\nvar cyber = require(\"cyberdyne\")\n```"
+    ],
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-inner-class"
+    },
+    "order": 88
+  },
+  {
+    "id": "module:cattle",
+    "longname": "module:cattle",
+    "name": "cattle",
+    "kind": "module",
+    "description": "exported object, with-inner-members",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-inners"
+    },
+    "order": 95
+  },
+  {
+    "id": "module:one-member",
+    "longname": "module:one-member",
+    "name": "one-member",
+    "kind": "module",
+    "description": "simple object, one member. It shouldn't have an index.",
+    "alias": "object",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-one-member"
+    },
+    "order": 100
+  },
+  {
+    "id": "module:heaven",
+    "longname": "module:heaven",
+    "name": "heaven",
+    "kind": "module",
+    "description": "factory module creating dodgy cloud. object-with-static-class.",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class"
+    },
+    "order": 102
+  },
+  {
+    "id": "module:cjs/object",
+    "longname": "module:cjs/object",
+    "name": "cjs/object",
+    "kind": "module",
+    "description": "a module exporting `exports` directly",
+    "typicalname": "obj",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object"
+    },
+    "order": 112
+  },
+  {
+    "id": "module:private",
+    "longname": "module:private",
+    "name": "private",
+    "kind": "module",
+    "description": "module with private shiz",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/private"
+    },
+    "order": 115
+  },
+  {
+    "id": "module:single-value/0-src",
+    "longname": "module:single-value/0-src",
+    "name": "single-value/0-src",
+    "kind": "module",
+    "description": "this module exports one value, that's it",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/single-value"
+    },
+    "order": 118
+  },
+  {
+    "id": "module:species/0-src",
+    "longname": "module:species/0-src",
+    "name": "species/0-src",
+    "kind": "module",
+    "description": "In biology, a species (abbreviated sp., with the plural form species abbreviated spp.) is one of the basic units of biological classification and a taxonomic rank. A species is often defined as the largest group of organisms capable of interbreeding and producing fertile offspring. While in many cases this definition is adequate, the difficulty of defining species is known as the species problem. Differing measures are often used, such as similarity of DNA, morphology, or ecological niche. Presence of specific locally adapted traits may further subdivide species into \"infraspecific taxa\" such as subspecies (and in botany other taxa are used, such as varieties, subvarieties, and formae).",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/species"
+    },
+    "order": 120
+  },
+  {
+    "id": "module:file-set--FileSet",
+    "longname": "module:file-set",
+    "name": "FileSet",
+    "kind": "class",
+    "isExported": true,
+    "description": "this class returns a set of files",
+    "memberof": "module:file-set",
+    "alias": "module:file-set",
+    "meta": {
+      "lineno": 22,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/class-fileset"
+    },
+    "order": 18
+  },
+  {
+    "id": "module:cjs/class--ExportedClass",
+    "longname": "module:cjs/class",
+    "name": "ExportedClass",
+    "kind": "class",
+    "isExported": true,
+    "description": "the exported class",
+    "memberof": "module:cjs/class",
+    "alias": "module:cjs/class",
+    "meta": {
+      "lineno": 14,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/class"
+    },
+    "order": 23
+  },
+  {
+    "id": "module:farm--Farm",
+    "longname": "module:farm",
+    "name": "Farm",
+    "kind": "class",
+    "isExported": true,
+    "description": "the farm",
+    "memberof": "module:farm",
+    "alias": "module:farm",
+    "meta": {
+      "lineno": 12,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree2"
+    },
+    "order": 38
+  },
+  {
+    "id": "module:es6-class--ExportedClass",
+    "longname": "module:es6-class",
+    "name": "ExportedClass",
+    "kind": "class",
+    "isExported": true,
+    "description": "a class exported from a module",
+    "memberof": "module:es6-class",
+    "alias": "module:es6-class",
+    "meta": {
+      "lineno": 9,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/es6-class"
+    },
+    "order": 48
+  },
+  {
+    "id": "module:cjs/human--Human",
+    "longname": "module:cjs/human",
+    "name": "Human",
+    "kind": "class",
+    "isExported": true,
+    "description": "the exported class",
+    "memberof": "module:cjs/human",
+    "alias": "module:cjs/human",
+    "meta": {
+      "lineno": 14,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/human"
+    },
+    "order": 67
+  },
+  {
+    "id": "module:animal~Animal()",
+    "longname": "module:animal~Animal",
+    "name": "Animal",
+    "kind": "constructor",
+    "memberof": "module:animal~Animal",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "array"
+          ]
+        },
+        "description": "an array of two parent {@link Animal} objects",
+        "name": "species"
+      },
+      {
+        "type": {
+          "names": [
+            "Species"
+          ]
+        },
+        "description": "the species",
+        "name": "parents"
+      }
+    ],
+    "order": 2
+  },
+  {
+    "id": "module:file-set--FileSet()",
+    "longname": "module:file-set",
+    "name": "FileSet",
+    "kind": "constructor",
+    "description": "Takes a list of path patterns",
+    "memberof": "module:file-set--FileSet",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "Array.<string>"
+          ]
+        },
+        "description": "a list of file patterns"
+      }
+    ],
+    "examples": [
+      "```js\nvar cowFiles = new FileSet(\"cow/*\")\n```"
+    ],
+    "order": 19
+  },
+  {
+    "id": "module:cjs/class--ExportedClass()",
+    "longname": "module:cjs/class",
+    "name": "ExportedClass",
+    "kind": "constructor",
+    "description": "the exported contructor",
+    "memberof": "module:cjs/class--ExportedClass",
+    "params": [],
+    "order": 24
+  },
+  {
+    "id": "module:farm--Farm()",
+    "longname": "module:farm",
+    "name": "Farm",
+    "kind": "constructor",
+    "description": "the constructor",
+    "memberof": "module:farm--Farm",
+    "order": 39
+  },
+  {
+    "id": "module:es6-class--ExportedClass()",
+    "longname": "module:es6-class",
+    "name": "ExportedClass",
+    "kind": "constructor",
+    "description": "the class constructor",
+    "memberof": "module:es6-class--ExportedClass",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "first param",
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "second param",
+        "name": "two"
+      }
+    ],
+    "examples": [
+      "var one = 1"
+    ],
+    "exceptions": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "A serious error occurred."
+      }
+    ],
+    "order": 49
+  },
+  {
+    "id": "module:cjs/human--Human()",
+    "longname": "module:cjs/human",
+    "name": "Human",
+    "kind": "constructor",
+    "description": "the exported contructor",
+    "memberof": "module:cjs/human--Human",
+    "params": [],
+    "order": 68
+  },
+  {
+    "id": "module:linkMod~linksYeah()",
+    "longname": "module:linkMod~linksYeah",
+    "name": "linksYeah",
+    "kind": "constructor",
+    "description": "this is from {@link module:linkMod}.. it also references {@link external:Math}",
+    "memberof": "module:linkMod~linksYeah",
+    "params": [],
+    "order": 81
+  },
+  {
+    "id": "module:cyberdyne~Machine()",
+    "longname": "module:cyberdyne~Machine",
+    "name": "Machine",
+    "kind": "constructor",
+    "description": "the Machine constructor",
+    "memberof": "module:cyberdyne~Machine",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "constructor options",
+        "name": "options"
+      }
+    ],
+    "order": 91
+  },
+  {
+    "id": "module:heaven~Cloud()",
+    "longname": "module:heaven~Cloud",
+    "name": "Cloud",
+    "kind": "constructor",
+    "description": "cloud constructor",
+    "memberof": "module:heaven~Cloud",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "the options",
+        "name": "options"
+      }
+    ],
+    "order": 106
+  },
+  {
+    "id": "module:cjs/object-alias--teams",
+    "longname": "module:cjs/object-alias",
+    "name": "teams",
+    "kind": "member",
+    "isExported": true,
+    "description": "the teams",
+    "memberof": "module:cjs/object-alias",
+    "alias": "module:cjs/object-alias",
+    "meta": {
+      "lineno": 10,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-alias"
+    },
+    "order": 83
+  },
+  {
+    "id": "module:single-value/0-src--module.exports",
+    "longname": "module:single-value/0-src",
+    "name": "module.exports",
+    "kind": "member",
+    "isExported": true,
+    "memberof": "module:single-value/0-src",
+    "type": {
+      "names": [
+        "boolean"
+      ]
+    },
+    "defaultvalue": true,
+    "meta": {
+      "lineno": 10,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/single-value"
+    },
+    "order": 119
+  },
+  {
+    "id": "module:falias-obj--sum",
+    "longname": "module:falias-obj",
+    "name": "sum",
+    "kind": "function",
+    "isExported": true,
+    "description": "the function",
+    "memberof": "module:falias-obj",
+    "alias": "module:falias-obj",
+    "params": [],
+    "meta": {
+      "lineno": 11,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/falias-obj"
+    },
+    "order": 57
+  },
+  {
+    "id": "module:cjs/function-alias--sum",
+    "longname": "module:cjs/function-alias",
+    "name": "sum",
+    "kind": "function",
+    "isExported": true,
+    "description": "the function",
+    "memberof": "module:cjs/function-alias",
+    "alias": "module:cjs/function-alias",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "the first number",
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "the second number",
+        "name": "two"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "the calculation result"
+      }
+    ],
+    "meta": {
+      "lineno": 14,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/function-alias"
+    },
+    "order": 60
+  },
+  {
+    "id": "module:sum-alias--sum",
+    "longname": "module:sum-alias",
+    "name": "sum",
+    "kind": "function",
+    "isExported": true,
+    "description": "Sums two numbers together",
+    "memberof": "module:sum-alias",
+    "alias": "module:sum-alias",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "first number",
+        "name": "a"
+      },
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "second number",
+        "name": "b"
+      }
+    ],
+    "examples": [
+      "```js\nvar result = sum(1, 1)\n```"
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "the result"
+      }
+    ],
+    "meta": {
+      "lineno": 22,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/function-alias2"
+    },
+    "order": 63
+  },
+  {
+    "id": "module:function/0-src--module.exports",
+    "longname": "module:function/0-src",
+    "name": "module.exports",
+    "kind": "function",
+    "isExported": true,
+    "description": "the main function description",
+    "memberof": "module:function/0-src",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "The input string",
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "a second input",
+        "name": "two"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "object",
+            "string"
+          ]
+        },
+        "description": "this return has several types"
+      }
+    ],
+    "meta": {
+      "lineno": 14,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/function"
+    },
+    "order": 65
+  },
+  {
+    "id": "module:animal~Animal#age",
+    "longname": "module:animal~Animal#age",
+    "name": "age",
+    "scope": "instance",
+    "kind": "member",
+    "description": "the current age",
+    "memberof": "module:animal~Animal",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "defaultvalue": "0",
+    "meta": {
+      "lineno": 27,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/animal"
+    },
+    "order": 3
+  },
+  {
+    "id": "module:animal~Animal#species",
+    "longname": "module:animal~Animal#species",
+    "name": "species",
+    "scope": "instance",
+    "kind": "member",
+    "memberof": "module:animal~Animal",
+    "type": {
+      "names": [
+        "Species"
+      ]
+    },
+    "meta": {
+      "lineno": 32,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/animal"
+    },
+    "order": 4
+  },
+  {
+    "id": "module:animals/0-src~Animal~Quadroped#legs",
+    "longname": "module:animals/0-src~Animal~Quadroped#legs",
+    "name": "legs",
+    "scope": "instance",
+    "kind": "member",
+    "description": "leg count",
+    "memberof": "module:animals/0-src~Animal~Quadroped",
+    "meta": {
+      "lineno": 29,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/animals"
+    },
+    "order": 11
+  },
+  {
+    "id": "module:animals/0-src~Animal#type",
+    "longname": "module:animals/0-src~Animal#type",
+    "name": "type",
+    "scope": "instance",
+    "kind": "member",
+    "description": "animal type",
+    "memberof": "module:animals/0-src~Animal",
+    "type": {
+      "names": [
+        "Quadroped"
+      ]
+    },
+    "meta": {
+      "lineno": 36,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/animals"
+    },
+    "order": 12
+  },
+  {
+    "id": "module:file-set--FileSet#files",
+    "longname": "module:file-set#files",
+    "name": "files",
+    "scope": "instance",
+    "kind": "member",
+    "description": "the prototype instance property",
+    "memberof": "module:file-set--FileSet",
+    "meta": {
+      "lineno": 29,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/class-fileset"
+    },
+    "order": 20
+  },
+  {
+    "id": "module:cjs/class--ExportedClass#prop",
+    "longname": "module:cjs/class#prop",
+    "name": "prop",
+    "scope": "instance",
+    "kind": "member",
+    "description": "instance property",
+    "memberof": "module:cjs/class--ExportedClass",
+    "meta": {
+      "lineno": 18,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/class"
+    },
+    "order": 25
+  },
+  {
+    "id": "module:farm--Farm.Farm#equipment",
+    "longname": "module:farm.Farm#equipment",
+    "name": "equipment",
+    "scope": "instance",
+    "kind": "member",
+    "description": "farm equipment",
+    "memberof": "module:farm--Farm",
+    "type": {
+      "names": [
+        "module:farm--Farm~Equipment"
+      ]
+    },
+    "meta": {
+      "lineno": 21,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree2"
+    },
+    "order": 40
+  },
+  {
+    "id": "module:farm--Farm~Equipment.Equipment#tractor",
+    "longname": "module:farm~Equipment.Equipment#tractor",
+    "name": "tractor",
+    "scope": "instance",
+    "kind": "member",
+    "description": "the tractor",
+    "memberof": "module:farm--Farm~Equipment",
+    "type": {
+      "names": [
+        "module:farm--Farm~Tractor"
+      ]
+    },
+    "meta": {
+      "lineno": 34,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree2"
+    },
+    "order": 42
+  },
+  {
+    "id": "module:farm--Farm~Tractor.Tractor#engine",
+    "longname": "module:farm~Tractor.Tractor#engine",
+    "name": "engine",
+    "scope": "instance",
+    "kind": "member",
+    "description": "engine details",
+    "memberof": "module:farm--Farm~Tractor",
+    "meta": {
+      "lineno": 46,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree2"
+    },
+    "order": 44
+  },
+  {
+    "id": "module:es6-class--ExportedClass.ExportedClass#propOne",
+    "longname": "module:es6-class.ExportedClass#propOne",
+    "name": "propOne",
+    "scope": "instance",
+    "kind": "member",
+    "description": "an instance property",
+    "memberof": "module:es6-class--ExportedClass",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "meta": {
+      "lineno": 23,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/es6-class"
+    },
+    "order": 50
+  },
+  {
+    "id": "module:es6-class--ExportedClass~ChildClass.ChildClass#propThree",
+    "longname": "module:es6-class~ChildClass.ChildClass#propThree",
+    "name": "propThree",
+    "scope": "instance",
+    "kind": "member",
+    "description": "an instance property",
+    "memberof": "module:es6-class--ExportedClass~ChildClass",
+    "meta": {
+      "lineno": 42,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/es6-class"
+    },
+    "order": 55
+  },
+  {
+    "id": "module:cjs/human--Human~Organ#redCell",
+    "longname": "module:cjs/human~Organ#redCell",
+    "name": "redCell",
+    "scope": "instance",
+    "kind": "member",
+    "description": "an instance of Cell",
+    "memberof": "module:cjs/human--Human~Organ",
+    "type": {
+      "names": [
+        "module:cjs/human--Human~Organ~Cell"
+      ]
+    },
+    "meta": {
+      "lineno": 30,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/human"
+    },
+    "order": 71
+  },
+  {
+    "id": "module:cjs/human--Human#liver",
+    "longname": "module:cjs/human#liver",
+    "name": "liver",
+    "scope": "instance",
+    "kind": "member",
+    "description": "an instance of Organ",
+    "memberof": "module:cjs/human--Human",
+    "type": {
+      "names": [
+        "module:cjs/human--Human~Organ"
+      ]
+    },
+    "meta": {
+      "lineno": 37,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/human"
+    },
+    "order": 72
+  },
+  {
+    "id": "module:cyberdyne~Machine#eyes",
+    "longname": "module:cyberdyne~Machine#eyes",
+    "name": "eyes",
+    "scope": "instance",
+    "kind": "member",
+    "memberof": "module:cyberdyne~Machine",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "meta": {
+      "lineno": 26,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-inner-class"
+    },
+    "order": 92
+  },
+  {
+    "id": "module:cyberdyne~Machine#vibe",
+    "longname": "module:cyberdyne~Machine#vibe",
+    "name": "vibe",
+    "scope": "instance",
+    "kind": "member",
+    "memberof": "module:cyberdyne~Machine",
+    "type": {
+      "names": [
+        "string"
+      ]
+    },
+    "meta": {
+      "lineno": 31,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-inner-class"
+    },
+    "order": 93
+  },
+  {
+    "id": "module:heaven~Cloud#size",
+    "longname": "module:heaven~Cloud#size",
+    "name": "size",
+    "scope": "instance",
+    "kind": "member",
+    "memberof": "module:heaven~Cloud",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "defaultvalue": 4,
+    "meta": {
+      "lineno": 28,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class"
+    },
+    "order": 107
+  },
+  {
+    "id": "module:heaven~Cloud#rain",
+    "longname": "module:heaven~Cloud#rain",
+    "name": "rain",
+    "scope": "instance",
+    "kind": "member",
+    "memberof": "module:heaven~Cloud",
+    "type": {
+      "names": [
+        "boolean"
+      ]
+    },
+    "defaultvalue": false,
+    "meta": {
+      "lineno": 34,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class"
+    },
+    "order": 108
+  },
+  {
+    "id": "module:species/0-src~Species#name",
+    "longname": "module:species/0-src~Species#name",
+    "name": "name",
+    "scope": "instance",
+    "kind": "member",
+    "description": "the species name",
+    "memberof": "module:species/0-src~Species",
+    "type": {
+      "names": [
+        "string"
+      ]
+    },
+    "meta": {
+      "lineno": 16,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/species"
+    },
+    "order": 122
+  },
+  {
+    "id": "module:species/0-src~Species#species",
+    "longname": "module:species/0-src~Species#species",
+    "name": "species",
+    "scope": "instance",
+    "kind": "member",
+    "memberof": "module:species/0-src~Species",
+    "type": {
+      "names": [
+        "Species"
+      ]
+    },
+    "meta": {
+      "lineno": 21,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/species"
+    },
+    "order": 123
+  },
+  {
+    "id": "module:file-set--FileSet#delete",
+    "longname": "module:file-set#delete",
+    "name": "delete",
+    "scope": "instance",
+    "kind": "function",
+    "description": "A prototype instance methy meth",
+    "memberof": "module:file-set--FileSet",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "array"
+          ]
+        },
+        "description": "the paths to delete",
+        "name": "paths"
+      }
+    ],
+    "meta": {
+      "lineno": 35,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/class-fileset"
+    },
+    "order": 21
+  },
+  {
+    "id": "module:es6-class--ExportedClass#methodOne",
+    "longname": "module:es6-class#methodOne",
+    "name": "methodOne",
+    "scope": "instance",
+    "kind": "function",
+    "description": "parent method one",
+    "memberof": "module:es6-class--ExportedClass",
+    "meta": {
+      "lineno": 30,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/es6-class"
+    },
+    "order": 52
+  },
+  {
+    "id": "module:es6-class--ExportedClass#methodTwo",
+    "longname": "module:es6-class#methodTwo",
+    "name": "methodTwo",
+    "scope": "instance",
+    "kind": "function",
+    "description": "parent method two",
+    "memberof": "module:es6-class--ExportedClass",
+    "meta": {
+      "lineno": 32,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/es6-class"
+    },
+    "order": 53
+  },
+  {
+    "id": "module:animal~Animal.eMood",
+    "longname": "module:animal~Animal.eMood",
+    "name": "eMood",
+    "scope": "static",
+    "kind": "member",
+    "description": "Animal moods",
+    "memberof": "module:animal~Animal",
+    "isEnum": true,
+    "properties": [
+      {
+        "description": "chilling",
+        "name": "satisfied",
+        "longname": "module:animal~Animal.eMood.satisfied",
+        "kind": "member",
+        "memberof": "module:animal~Animal.eMood",
+        "scope": "static",
+        "defaultvalue": 0
+      },
+      {
+        "description": "pissed off",
+        "name": "angry",
+        "longname": "module:animal~Animal.eMood.angry",
+        "kind": "member",
+        "memberof": "module:animal~Animal.eMood",
+        "scope": "static",
+        "defaultvalue": 1
+      },
+      {
+        "description": "need to eat",
+        "name": "hungry",
+        "longname": "module:animal~Animal.eMood.hungry",
+        "kind": "member",
+        "memberof": "module:animal~Animal.eMood",
+        "scope": "static",
+        "defaultvalue": 2
+      }
+    ],
+    "meta": {
+      "lineno": 39,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/animal"
+    },
+    "order": 5
+  },
+  {
+    "id": "module:animals/0-src.cat",
+    "longname": "module:animals/0-src.cat",
+    "name": "cat",
+    "scope": "static",
+    "kind": "member",
+    "description": "the exported cat",
+    "memberof": "module:animals/0-src",
+    "type": {
+      "names": [
+        "Animal"
+      ]
+    },
+    "meta": {
+      "lineno": 10,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/animals"
+    },
+    "order": 7
+  },
+  {
+    "id": "module:animals/0-src.dog",
+    "longname": "module:animals/0-src.dog",
+    "name": "dog",
+    "scope": "static",
+    "kind": "member",
+    "description": "the exported dog",
+    "memberof": "module:animals/0-src",
+    "type": {
+      "names": [
+        "Animal"
+      ]
+    },
+    "meta": {
+      "lineno": 16,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/animals"
+    },
+    "order": 8
+  },
+  {
+    "id": "module:cjs/class--ExportedClass.staticProp",
+    "longname": "module:cjs/class.staticProp",
+    "name": "staticProp",
+    "scope": "static",
+    "kind": "member",
+    "description": "a static property for the exported class",
+    "memberof": "module:cjs/class--ExportedClass",
+    "meta": {
+      "lineno": 23,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/class"
+    },
+    "order": 26
+  },
+  {
+    "id": "module:farm--Farm.size",
+    "longname": "module:farm.size",
+    "name": "size",
+    "scope": "static",
+    "kind": "member",
+    "description": "size of farm",
+    "memberof": "module:farm--Farm",
+    "meta": {
+      "lineno": 10,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree"
+    },
+    "order": 31
+  },
+  {
+    "id": "module:farm--Farm.equipment",
+    "longname": "module:farm.equipment",
+    "name": "equipment",
+    "scope": "static",
+    "kind": "member",
+    "description": "machinary",
+    "memberof": "module:farm--Farm",
+    "meta": {
+      "lineno": 15,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree"
+    },
+    "order": 32
+  },
+  {
+    "id": "module:farm--Farm.equipment.tractor",
+    "longname": "module:farm.equipment.tractor",
+    "name": "tractor",
+    "scope": "static",
+    "kind": "member",
+    "description": "tractor details",
+    "memberof": "module:farm--Farm.equipment",
+    "meta": {
+      "lineno": 20,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree"
+    },
+    "order": 33
+  },
+  {
+    "id": "module:farm--Farm.equipment.tractor.engine",
+    "longname": "module:farm.equipment.tractor.engine",
+    "name": "engine",
+    "scope": "static",
+    "kind": "member",
+    "description": "engine details",
+    "memberof": "module:farm--Farm.equipment.tractor",
+    "meta": {
+      "lineno": 24,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree"
+    },
+    "order": 34
+  },
+  {
+    "id": "module:farm--Farm.equipment.tractor.engine.manufacturer",
+    "longname": "module:farm.equipment.tractor.engine.manufacturer",
+    "name": "manufacturer",
+    "scope": "static",
+    "kind": "member",
+    "description": "who made it",
+    "memberof": "module:farm--Farm.equipment.tractor.engine",
+    "meta": {
+      "lineno": 28,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree"
+    },
+    "order": 35
+  },
+  {
+    "id": "module:farm--Farm.equipment.tractor.engine.size",
+    "longname": "module:farm.equipment.tractor.engine.size",
+    "name": "size",
+    "scope": "static",
+    "kind": "member",
+    "description": "size of it",
+    "memberof": "module:farm--Farm.equipment.tractor.engine",
+    "meta": {
+      "lineno": 33,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree"
+    },
+    "order": 36
+  },
+  {
+    "id": "module:farm--Farm~Tractor.Tractor#engine.manufacturer",
+    "longname": "module:farm~Tractor.Tractor#engine.manufacturer",
+    "name": "manufacturer",
+    "scope": "static",
+    "kind": "member",
+    "description": "who built",
+    "memberof": "module:farm--Farm~Tractor.Tractor#engine",
+    "meta": {
+      "lineno": 50,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree2"
+    },
+    "order": 45
+  },
+  {
+    "id": "module:farm--Farm~Tractor.Tractor#engine.size",
+    "longname": "module:farm~Tractor.Tractor#engine.size",
+    "name": "size",
+    "scope": "static",
+    "kind": "member",
+    "description": "the size",
+    "memberof": "module:farm--Farm~Tractor.Tractor#engine",
+    "meta": {
+      "lineno": 54,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree2"
+    },
+    "order": 46
+  },
+  {
+    "id": "module:cjs/function-alias--sum.sumthingStatic",
+    "longname": "module:cjs/function-alias.sumthingStatic",
+    "name": "sumthingStatic",
+    "scope": "static",
+    "kind": "member",
+    "description": "an additional static property",
+    "memberof": "module:cjs/function-alias--sum",
+    "meta": {
+      "lineno": 19,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/function-alias"
+    },
+    "order": 61
+  },
+  {
+    "id": "module:ignore/0-src.visible",
+    "longname": "module:ignore/0-src.visible",
+    "name": "visible",
+    "scope": "static",
+    "kind": "member",
+    "description": "visible property",
+    "memberof": "module:ignore/0-src",
+    "meta": {
+      "lineno": 10,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/ignore"
+    },
+    "order": 74
+  },
+  {
+    "id": "module:object-alias2/0-src.one",
+    "longname": "module:object-alias2/0-src.one",
+    "name": "one",
+    "scope": "static",
+    "kind": "member",
+    "description": "first property",
+    "memberof": "module:object-alias2/0-src",
+    "meta": {
+      "lineno": 10,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-alias2"
+    },
+    "order": 85
+  },
+  {
+    "id": "module:object-alias2/0-src.two",
+    "longname": "module:object-alias2/0-src.two",
+    "name": "two",
+    "scope": "static",
+    "kind": "member",
+    "description": "second property",
+    "memberof": "module:object-alias2/0-src",
+    "meta": {
+      "lineno": 15,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-alias2"
+    },
+    "order": 86
+  },
+  {
+    "id": "module:heaven.Cloud",
+    "longname": "module:heaven.Cloud",
+    "name": "Cloud",
+    "scope": "static",
+    "kind": "member",
+    "description": "access to the Cloud class",
+    "memberof": "module:heaven",
+    "type": {
+      "names": [
+        "module:heaven~Cloud"
+      ]
+    },
+    "meta": {
+      "lineno": 15,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class"
+    },
+    "order": 104
+  },
+  {
+    "id": "module:cjs/object.one",
+    "longname": "module:cjs/object.one",
+    "name": "one",
+    "scope": "static",
+    "kind": "member",
+    "description": "the first property",
+    "memberof": "module:cjs/object",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "meta": {
+      "lineno": 11,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object"
+    },
+    "order": 113
+  },
+  {
+    "id": "module:private.notprivate",
+    "longname": "module:private.notprivate",
+    "name": "notprivate",
+    "scope": "static",
+    "kind": "member",
+    "description": "visible property",
+    "memberof": "module:private",
+    "meta": {
+      "lineno": 9,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/private"
+    },
+    "order": 116
+  },
+  {
+    "id": "module:heaven~Cloud.SPACES",
+    "longname": "module:heaven~Cloud.SPACES",
+    "name": "SPACES",
+    "scope": "static",
+    "kind": "constant",
+    "description": "a class constant",
+    "memberof": "module:heaven~Cloud",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "meta": {
+      "lineno": 46,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class"
+    },
+    "order": 110
+  },
+  {
+    "id": "module:builder~builder.construct",
+    "longname": "module:builder~builder.construct",
+    "name": "construct",
+    "scope": "static",
+    "kind": "function",
+    "description": "construct something",
+    "memberof": "module:builder~builder",
+    "meta": {
+      "lineno": 13,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/builder"
+    },
+    "order": 15
+  },
+  {
+    "id": "module:builder~builder.repair",
+    "longname": "module:builder~builder.repair",
+    "name": "repair",
+    "scope": "static",
+    "kind": "function",
+    "description": "repair something",
+    "memberof": "module:builder~builder",
+    "meta": {
+      "lineno": 17,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/builder"
+    },
+    "order": 16
+  },
+  {
+    "id": "module:function-tools.one",
+    "longname": "module:function-tools.one",
+    "name": "one",
+    "scope": "static",
+    "kind": "function",
+    "description": "the main function description",
+    "memberof": "module:function-tools",
+    "meta": {
+      "lineno": 11,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/customTag"
+    },
+    "order": 29
+  },
+  {
+    "id": "module:es6-class--ExportedClass.shat",
+    "longname": "module:es6-class.shat",
+    "name": "shat",
+    "scope": "static",
+    "kind": "function",
+    "description": "a static method",
+    "memberof": "module:es6-class--ExportedClass",
+    "meta": {
+      "lineno": 27,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/es6-class"
+    },
+    "order": 51
+  },
+  {
+    "id": "module:falias-obj--sum.extra",
+    "longname": "module:falias-obj.extra",
+    "name": "extra",
+    "scope": "static",
+    "kind": "function",
+    "description": "a static method on the exported function",
+    "memberof": "module:falias-obj--sum",
+    "meta": {
+      "lineno": 16,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/falias-obj"
+    },
+    "order": 58
+  },
+  {
+    "id": "module:object-alias2/0-src.three",
+    "longname": "module:object-alias2/0-src.three",
+    "name": "three",
+    "scope": "static",
+    "kind": "function",
+    "description": "a function",
+    "memberof": "module:object-alias2/0-src",
+    "meta": {
+      "lineno": 20,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-alias2"
+    },
+    "order": 87
+  },
+  {
+    "id": "module:cyberdyne.createMachine",
+    "longname": "module:cyberdyne.createMachine",
+    "name": "createMachine",
+    "scope": "static",
+    "kind": "function",
+    "memberof": "module:cyberdyne",
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "module:cyberdyne~Machine"
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "lineno": 14,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-inner-class"
+    },
+    "order": 89
+  },
+  {
+    "id": "module:cattle.createCow",
+    "longname": "module:cattle.createCow",
+    "name": "createCow",
+    "scope": "static",
+    "kind": "function",
+    "memberof": "module:cattle",
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "boolean"
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "lineno": 9,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-inners"
+    },
+    "order": 96
+  },
+  {
+    "id": "module:one-member.three",
+    "longname": "module:one-member.three",
+    "name": "three",
+    "scope": "static",
+    "kind": "function",
+    "description": "a function",
+    "memberof": "module:one-member",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "The input string",
+        "name": "four"
+      },
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "a second input",
+        "name": "five"
+      }
+    ],
+    "examples": [
+      "```js\nallTogether(true)\n```"
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "object",
+            "string"
+          ]
+        },
+        "description": "this return has several types"
+      }
+    ],
+    "author": [
+      "Lloyd <75pound@gmail.com>"
+    ],
+    "since": "v0.10.28",
+    "meta": {
+      "lineno": 19,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-one-member"
+    },
+    "order": 101
+  },
+  {
+    "id": "module:heaven.createCloud",
+    "longname": "module:heaven.createCloud",
+    "name": "createCloud",
+    "scope": "static",
+    "kind": "function",
+    "memberof": "module:heaven",
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "module:heaven~Cloud"
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "lineno": 9,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class"
+    },
+    "order": 103
+  },
+  {
+    "id": "module:heaven~Cloud.classMethod",
+    "longname": "module:heaven~Cloud.classMethod",
+    "name": "classMethod",
+    "scope": "static",
+    "kind": "function",
+    "description": "a class method",
+    "memberof": "module:heaven~Cloud",
+    "meta": {
+      "lineno": 40,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class"
+    },
+    "order": 109
+  },
+  {
+    "id": "module:cjs/object.two",
+    "longname": "module:cjs/object.two",
+    "name": "two",
+    "scope": "static",
+    "kind": "function",
+    "description": "the second property, a function",
+    "memberof": "module:cjs/object",
+    "examples": [
+      "this is the example"
+    ],
+    "meta": {
+      "lineno": 18,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object"
+    },
+    "order": 114
+  },
+  {
+    "id": "module:species/0-src~Species.merge",
+    "longname": "module:species/0-src~Species.merge",
+    "name": "merge",
+    "scope": "static",
+    "kind": "function",
+    "description": "merge two species into a new one",
+    "memberof": "module:species/0-src~Species",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "Species"
+          ]
+        },
+        "description": "first",
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "Species"
+          ]
+        },
+        "description": "second",
+        "name": "two"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "Species"
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "lineno": 30,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/species"
+    },
+    "order": 124
+  },
+  {
+    "id": "module:linkMod.event:MyEvent",
+    "longname": "module:linkMod.event:MyEvent",
+    "name": "event:MyEvent",
+    "scope": "static",
+    "kind": "event",
+    "description": "An event. Refer to with {@link module:linkMod.event:MyEvent this link}.",
+    "memberof": "module:linkMod",
+    "meta": {
+      "lineno": 14,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/link"
+    },
+    "order": 79
+  },
+  {
+    "id": "module:animal~Animal",
+    "longname": "module:animal~Animal",
+    "name": "Animal",
+    "scope": "inner",
+    "kind": "class",
+    "memberof": "module:animal",
+    "meta": {
+      "lineno": 21,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/animal"
+    },
+    "order": 1
+  },
+  {
+    "id": "module:animals/0-src~Animal",
+    "longname": "module:animals/0-src~Animal",
+    "name": "Animal",
+    "scope": "inner",
+    "kind": "class",
+    "memberof": "module:animals/0-src",
+    "meta": {
+      "lineno": 21,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/animals"
+    },
+    "order": 9
+  },
+  {
+    "id": "module:animals/0-src~Animal~Quadroped",
+    "longname": "module:animals/0-src~Animal~Quadroped",
+    "name": "Quadroped",
+    "scope": "inner",
+    "kind": "class",
+    "memberof": "module:animals/0-src~Animal",
+    "meta": {
+      "lineno": 25,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/animals"
+    },
+    "order": 10
+  },
+  {
+    "id": "module:farm--Farm~Equipment",
+    "longname": "module:farm~Equipment",
+    "name": "Equipment",
+    "scope": "inner",
+    "kind": "class",
+    "description": "Equipment class",
+    "memberof": "module:farm--Farm",
+    "meta": {
+      "lineno": 28,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree2"
+    },
+    "order": 41
+  },
+  {
+    "id": "module:farm--Farm~Tractor",
+    "longname": "module:farm~Tractor",
+    "name": "Tractor",
+    "scope": "inner",
+    "kind": "class",
+    "description": "Tractor class",
+    "memberof": "module:farm--Farm",
+    "meta": {
+      "lineno": 41,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree2"
+    },
+    "order": 43
+  },
+  {
+    "id": "module:es6-class--ExportedClass~ChildClass",
+    "longname": "module:es6-class~ChildClass",
+    "name": "ChildClass",
+    "scope": "inner",
+    "kind": "class",
+    "augments": [
+      "ExportedClass"
+    ],
+    "description": "the child of exported class",
+    "memberof": "module:es6-class--ExportedClass",
+    "meta": {
+      "lineno": 39,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/es6-class"
+    },
+    "order": 54
+  },
+  {
+    "id": "module:cjs/human--Human~Organ",
+    "longname": "module:cjs/human~Organ",
+    "name": "Organ",
+    "scope": "inner",
+    "kind": "class",
+    "description": "a class inside a class",
+    "memberof": "module:cjs/human--Human",
+    "meta": {
+      "lineno": 19,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/human"
+    },
+    "order": 69
+  },
+  {
+    "id": "module:cjs/human--Human~Organ~Cell",
+    "longname": "module:cjs/human~Organ~Cell",
+    "name": "Cell",
+    "scope": "inner",
+    "kind": "class",
+    "description": "a class inside a class inside a class",
+    "memberof": "module:cjs/human--Human~Organ",
+    "meta": {
+      "lineno": 24,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/human"
+    },
+    "order": 70
+  },
+  {
+    "id": "module:linkMod~linksYeah",
+    "longname": "module:linkMod~linksYeah",
+    "name": "linksYeah",
+    "scope": "inner",
+    "kind": "class",
+    "augments": [
+      "external:Math"
+    ],
+    "memberof": "module:linkMod",
+    "fires": [
+      "module:linkMod.event:MyEvent"
+    ],
+    "meta": {
+      "lineno": 25,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/link"
+    },
+    "order": 80
+  },
+  {
+    "id": "module:cyberdyne~Machine",
+    "longname": "module:cyberdyne~Machine",
+    "name": "Machine",
+    "scope": "inner",
+    "kind": "class",
+    "description": "The main class of machine",
+    "memberof": "module:cyberdyne",
+    "meta": {
+      "lineno": 22,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-inner-class"
+    },
+    "order": 90
+  },
+  {
+    "id": "module:heaven~Cloud",
+    "longname": "module:heaven~Cloud",
+    "name": "Cloud",
+    "scope": "inner",
+    "kind": "class",
+    "description": "The main class for a cloud",
+    "memberof": "module:heaven",
+    "meta": {
+      "lineno": 23,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class"
+    },
+    "order": 105
+  },
+  {
+    "id": "module:species/0-src~Species",
+    "longname": "module:species/0-src~Species",
+    "name": "Species",
+    "scope": "inner",
+    "kind": "class",
+    "memberof": "module:species/0-src",
+    "meta": {
+      "lineno": 11,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/species"
+    },
+    "order": 121
+  },
+  {
+    "id": "module:builder~builder",
+    "longname": "module:builder~builder",
+    "name": "builder",
+    "scope": "inner",
+    "kind": "mixin",
+    "memberof": "module:builder",
+    "meta": {
+      "lineno": 9,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/builder"
+    },
+    "order": 14
+  },
+  {
+    "id": "module:cjs/class--ExportedClass~innerProp",
+    "longname": "module:cjs/class~innerProp",
+    "name": "innerProp",
+    "scope": "inner",
+    "kind": "member",
+    "description": "inner module property",
+    "memberof": "module:cjs/class--ExportedClass",
+    "meta": {
+      "lineno": 28,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/class"
+    },
+    "order": 27
+  },
+  {
+    "id": "module:cyberdyne~something",
+    "longname": "module:cyberdyne~something",
+    "name": "something",
+    "scope": "inner",
+    "kind": "member",
+    "description": "random",
+    "memberof": "module:cyberdyne",
+    "meta": {
+      "lineno": 37,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-inner-class"
+    },
+    "order": 94
+  },
+  {
+    "id": "module:cattle~innerMember",
+    "longname": "module:cattle~innerMember",
+    "name": "innerMember",
+    "scope": "inner",
+    "kind": "member",
+    "description": "the inner member",
+    "memberof": "module:cattle",
+    "meta": {
+      "lineno": 14,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-inners"
+    },
+    "order": 97
+  },
+  {
+    "id": "module:heaven~FACT",
+    "longname": "module:heaven~FACT",
+    "name": "FACT",
+    "scope": "inner",
+    "kind": "constant",
+    "description": "an inner constant",
+    "memberof": "module:heaven",
+    "type": {
+      "names": [
+        "boolean"
+      ]
+    },
+    "meta": {
+      "lineno": 52,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class"
+    },
+    "order": 111
+  },
+  {
+    "id": "module:cattle~innerFuction",
+    "longname": "module:cattle~innerFuction",
+    "name": "innerFuction",
+    "scope": "inner",
+    "kind": "function",
+    "description": "the inner function",
+    "memberof": "module:cattle",
+    "params": [],
+    "meta": {
+      "lineno": 19,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-inners"
+    },
+    "order": 98
+  },
+  {
+    "id": "module:cattle~anotherInnerFuction",
+    "longname": "module:cattle~anotherInnerFuction",
+    "name": "anotherInnerFuction",
+    "scope": "inner",
+    "kind": "function",
+    "description": "another inner function",
+    "memberof": "module:cattle",
+    "params": [],
+    "deprecated": true,
+    "meta": {
+      "lineno": 25,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-inners"
+    },
+    "order": 99
+  },
+  {
+    "id": "external:Math",
+    "longname": "external:Math",
+    "name": "Math",
+    "scope": "inner",
+    "kind": "external",
+    "description": "The built in Math object. Refer to it with {@link external:Math}.",
+    "memberof": "module:linkMod",
+    "see": [
+      "http://www.math.com"
+    ],
+    "meta": {
+      "lineno": 5,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/link"
+    },
+    "order": 77
+  },
+  {
+    "id": "external:Date",
+    "longname": "external:Date",
+    "name": "Date",
+    "scope": "inner",
+    "kind": "external",
+    "description": "The built in Date object, it has no see tag. Refer to it with {@link external:Date}.",
+    "memberof": "module:linkMod",
+    "meta": {
+      "lineno": 10,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/link"
+    },
+    "order": 78
+  }
+]
