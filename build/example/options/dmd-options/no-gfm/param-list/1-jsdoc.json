@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd options/no-gfm/param-list",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/no-gfm/param-list",
       "code": {
         "id": "astnode100000001",
         "name": "taze",
@@ -105,7 +105,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd options/no-gfm/param-list/0-src.js"
+      "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/no-gfm/param-list/0-src.js"
     ]
   }
 ]

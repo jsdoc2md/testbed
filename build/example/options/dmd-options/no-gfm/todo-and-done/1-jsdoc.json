@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 8,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd options/no-gfm/todo-and-done",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/no-gfm/todo-and-done",
       "code": {
         "id": "astnode100000001",
         "name": "Something",
@@ -45,7 +45,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd options/no-gfm/todo-and-done/0-src.js"
+      "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/no-gfm/todo-and-done/0-src.js"
     ]
   }
 ]
