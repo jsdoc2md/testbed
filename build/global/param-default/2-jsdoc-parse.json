@@ -124,6 +124,7 @@
       {
         "type": {
           "names": [
+            "string",
             "Array"
           ]
         },

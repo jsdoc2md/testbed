@@ -12,7 +12,7 @@
  * @param {string|function} [option.func=function(){}] - [option.func=function(){}]
  * @param [option.one=/regex/] {RegExp}
  * @param [option.arr=[ 1, 2, 3 ]] {Array}
- * @param [option.arr=[ 1, 2, 3 ]] {Array}
+ * @param [option.arr=[ 1, 2, 3 ]] {string|Array}
  * @param {generator} [option.generator=*function(){}] - [option.generator=*function(){}]
  * @param [option.binary=0b11] {binary} - [option.binary=0b11]
  * @param [option.octal=0o440] {octal} - [option.octal=0o440]
