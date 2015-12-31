@@ -724,7 +724,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/param-variable"
     },
-    "order": 200
+    "order": 201
   },
   {
     "id": "Greeter",
@@ -737,7 +737,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/this"
     },
-    "order": 214
+    "order": 215
   },
   {
     "id": "builder",
@@ -1228,7 +1228,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/see"
     },
-    "order": 211
+    "order": 212
   },
   {
     "id": "returnsArrayOfType",
@@ -1246,7 +1246,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/types"
     },
-    "order": 225
+    "order": 226
   },
   {
     "id": "returnsArrayOfType2",
@@ -1265,7 +1265,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/types"
     },
-    "order": 226
+    "order": 227
   },
   {
     "id": "nullableNumber",
@@ -1284,7 +1284,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/types"
     },
-    "order": 227
+    "order": 228
   },
   {
     "id": "nonNullableNumber",
@@ -1303,7 +1303,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/types"
     },
-    "order": 228
+    "order": 229
   },
   {
     "id": "objectType",
@@ -1321,7 +1321,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/types"
     },
-    "order": 229
+    "order": 230
   },
   {
     "id": "globalVar",
@@ -1341,7 +1341,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/var"
     },
-    "order": 231
+    "order": 232
   },
   {
     "id": "SomeObject",
@@ -1455,7 +1455,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/private"
     },
-    "order": 202
+    "order": 203
   },
   {
     "id": "config",
@@ -1515,7 +1515,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/property"
     },
-    "order": 205
+    "order": 206
   },
   {
     "id": "CONST_ONE",
@@ -2496,6 +2496,223 @@
     "order": 197
   },
   {
+    "id": "paramDefaults",
+    "longname": "paramDefaults",
+    "name": "paramDefaults",
+    "scope": "global",
+    "kind": "function",
+    "description": "Lots of params with default values.",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "optional": true,
+        "name": "option"
+      },
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": 1,
+        "description": "[option.one=1]",
+        "name": "option.one"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "\"1\"",
+        "description": "[option.one=\"1\"]",
+        "name": "option.one"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": 1,
+        "description": "[option.one=1]",
+        "name": "option.one"
+      },
+      {
+        "type": {
+          "names": [
+            "boolean"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": true,
+        "description": "[option.flag=true]",
+        "name": "option.flag"
+      },
+      {
+        "optional": true,
+        "defaultvalue": "function()",
+        "description": "{function} - [option.func=function(){}]",
+        "name": "option.func"
+      },
+      {
+        "type": {
+          "names": [
+            "function"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "function(){}",
+        "description": "[option.func=function(){}]",
+        "name": "option.func"
+      },
+      {
+        "type": {
+          "names": [
+            "function",
+            "string"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "function(){}",
+        "description": "[option.func=function(){}]",
+        "name": "option.func"
+      },
+      {
+        "type": {
+          "names": [
+            "string",
+            "function"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "function(){}",
+        "description": "[option.func=function(){}]",
+        "name": "option.func"
+      },
+      {
+        "type": {
+          "names": [
+            "RegExp"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "/regex/",
+        "name": "option.one"
+      },
+      {
+        "type": {
+          "names": [
+            "Array"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "[ 1, 2, 3 ]",
+        "name": "option.arr"
+      },
+      {
+        "type": {
+          "names": [
+            "Array"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "[ 1, 2, 3 ]",
+        "name": "option.arr"
+      },
+      {
+        "type": {
+          "names": [
+            "generator"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "*function(){}",
+        "description": "[option.generator=*function(){}]",
+        "name": "option.generator"
+      },
+      {
+        "type": {
+          "names": [
+            "binary"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "0b11",
+        "description": "[option.binary=0b11]",
+        "name": "option.binary"
+      },
+      {
+        "type": {
+          "names": [
+            "octal"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "0o440",
+        "description": "[option.octal=0o440]",
+        "name": "option.octal"
+      },
+      {
+        "type": {
+          "names": [
+            "hex"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "0xFF",
+        "description": "[option.hex=0xFF]",
+        "name": "option.hex"
+      },
+      {
+        "type": {
+          "names": [
+            "template"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "`test`",
+        "description": "[option.template=`test`]",
+        "name": "option.template"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "\"  \"",
+        "description": "[option.whitespace=\"  \"]",
+        "name": "option.whitespace"
+      },
+      {
+        "type": {
+          "names": [
+            "null"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": null,
+        "description": "[option.null=null]",
+        "name": "option.null"
+      }
+    ],
+    "meta": {
+      "lineno": 25,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/param-default"
+    },
+    "order": 198
+  },
+  {
     "id": "taze",
     "longname": "taze",
     "name": "taze",
@@ -2582,7 +2799,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/param-markdown"
     },
-    "order": 198
+    "order": 199
   },
   {
     "id": "pluck",
@@ -2608,7 +2825,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/param-variable"
     },
-    "order": 199
+    "order": 200
   },
   {
     "id": "requirer",
@@ -2626,7 +2843,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/requires"
     },
-    "order": 206
+    "order": 207
   },
   {
     "id": "globalFunction",
@@ -2660,7 +2877,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/returns"
     },
-    "order": 207
+    "order": 208
   },
   {
     "id": "returnsSomething",
@@ -2684,7 +2901,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/returns"
     },
-    "order": 208
+    "order": 209
   },
   {
     "id": "returnsSomething",
@@ -2707,7 +2924,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/returns2"
     },
-    "order": 209
+    "order": 210
   },
   {
     "id": "returnsWithDesc",
@@ -2731,7 +2948,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/returns2"
     },
-    "order": 210
+    "order": 211
   },
   {
     "id": "seefoo",
@@ -2750,7 +2967,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/see"
     },
-    "order": 212
+    "order": 213
   },
   {
     "id": "seebar",
@@ -2768,7 +2985,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/see"
     },
-    "order": 213
+    "order": 214
   },
   {
     "id": "setName",
@@ -2783,7 +3000,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/this"
     },
-    "order": 215
+    "order": 216
   },
   {
     "id": "throwingFunction",
@@ -2817,7 +3034,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/throws"
     },
-    "order": 217
+    "order": 218
   },
   {
     "id": "todoFunction1",
@@ -2841,7 +3058,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/todo"
     },
-    "order": 218
+    "order": 219
   },
   {
     "id": "todoFunction2",
@@ -2873,7 +3090,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/todo"
     },
-    "order": 219
+    "order": 220
   },
   {
     "id": "todoFunction3",
@@ -2897,7 +3114,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/todo"
     },
-    "order": 220
+    "order": 221
   },
   {
     "id": "setMagicNumber",
@@ -2922,7 +3139,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/typedef"
     },
-    "order": 222
+    "order": 223
   },
   {
     "id": "doSomething",
@@ -2946,7 +3163,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/typedef"
     },
-    "order": 224
+    "order": 225
   },
   {
     "id": "nullableArrayTypeParam",
@@ -2970,7 +3187,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/types"
     },
-    "order": 230
+    "order": 231
   },
   {
     "id": "onComplete",
@@ -3029,7 +3246,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/typedef"
     },
-    "order": 221
+    "order": 222
   },
   {
     "id": "someOptions",
@@ -3068,7 +3285,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/typedef"
     },
-    "order": 223
+    "order": 224
   },
   {
     "id": "external:String",
@@ -3476,7 +3693,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/this"
     },
-    "order": 216
+    "order": 217
   },
   {
     "id": "GlobalChildClass#propOne",
@@ -3494,7 +3711,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class"
     },
-    "order": 236
+    "order": 237
   },
   {
     "id": "car.start#env",
@@ -3979,7 +4196,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/param-variable"
     },
-    "order": 201
+    "order": 202
   },
   {
     "id": "EventfulClass#on",
@@ -4018,7 +4235,7 @@
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin"
     },
     "mixed": true,
-    "order": 232
+    "order": 233
   },
   {
     "id": "EventfulClass#fire",
@@ -4057,7 +4274,7 @@
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin"
     },
     "mixed": true,
-    "order": 233
+    "order": 234
   },
   {
     "id": "Synth#say",
@@ -4086,7 +4303,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/interface"
     },
-    "order": 234
+    "order": 235
   },
   {
     "id": "FurQ#battle",
@@ -4103,7 +4320,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq"
     },
-    "order": 235
+    "order": 236
   },
   {
     "id": "GlobalChildClass#methodOne",
@@ -4121,7 +4338,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class"
     },
-    "order": 237
+    "order": 238
   },
   {
     "id": "FurQ#punch",
@@ -4137,7 +4354,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq"
     },
-    "order": 238
+    "order": 239
   },
   {
     "id": "Rice#event:cooked",
@@ -4578,7 +4795,7 @@
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/private"
     },
-    "order": 203
+    "order": 204
   },
   {
     "id": "FurQ.peace",

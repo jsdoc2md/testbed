@@ -42,10 +42,10 @@ function makeFolderQueue (folderList) {
 
 getFolderQueue().then(queue => {
   queue
-    .on('error', err => console.log('YEAH', err))
+    .on('error', err => console.log('Queue Error: ', err))
     .process()
 })
 
-process.on('unhandledRejection', (err, p) => {
-  console.error('UNHANDLED', err.stack || err)
-})
+// process.on('unhandledRejection', (err, p) => {
+//   console.error('UNHANDLED', err.stack || err)
+// })
