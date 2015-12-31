@@ -1,13 +1,13 @@
 [
   {
-    "comment": "/**\n * Lots of params with default values.\n *\n * @param [option] {object}\n * @param [option.one=1] {number} - [option.one=1]\n * @param [option.one=\"1\"] {string} - [option.one=\"1\"]\n * @param [option.one=1] {string} - [option.one=1]\n * @param [option.flag=true] {boolean} - [option.flag=true]\n * @param [option.func=function(){}] {function} - [option.func=function(){}]\n * @param {function} [option.func=function(){}] - [option.func=function(){}]\n * @param {function|string} [option.func=function(){}] - [option.func=function(){}]\n * @param {string|function} [option.func=function(){}] - [option.func=function(){}]\n * @param [option.one=/regex/] {RegExp} - [option.one=/regex/]\n * @param [option.arr=[ 1, 2, 3 ]] {Array} - [option.arr=[ 1, 2, 3 ]]\n * @param [option.arr=[ 1, 2, 3 ]] {string|Array} - [option.arr=[ 1, 2, 3 ]]\n * @param {generator} [option.generator=*function(){}] - [option.generator=*function(){}]\n * @param [option.binary=0b11] {binary} - [option.binary=0b11]\n * @param [option.octal=0o440] {octal} - [option.octal=0o440]\n * @param [option.hex=0xFF] {hex} - [option.hex=0xFF]\n * @param [option.template=`test`] {template} - [option.template=`test`]\n * @param [option.whitespace=\"  \"] {string} - [option.whitespace=\"  \"]\n * @param [option.null=null] {null} - [option.null=null]\n *\n */",
+    "comment": "/**\n * Lots of params with default values.\n *\n * @param [option] {object}\n * @param [option.one=1] {number} - [option.one=1]\n * @param [option.one=\"1\"] {string} - [option.one=\"1\"]\n * @param [option.one=1] {string} - [option.one=1]\n * @param [option.flag=true] {boolean} - [option.flag=true]\n * @param [option.func=function(){}] {function} - [option.func=function(){}]\n * @param {function} [option.func=function(){}] - [option.func=function(){}]\n * @param {function|string} [option.func=function(){}] - [option.func=function(){}]\n * @param {string|function} [option.func=function(){}] - [option.func=function(){}]\n * @param [option.one=/regex/] {RegExp} - [option.one=/regex/]\n * @param [option.arr=[ 1, 2, 3 ]] {Array} - [option.arr=[ 1, 2, 3 ]]\n * @param [option.arr=[ 1, 2, 3 ]] {string|Array} - [option.arr=[ 1, 2, 3 ]]\n * @param [option.arr=[ 1, 2, 3 ]] {Array|string} - [option.arr=[ 1, 2, 3 ]]\n * @param {generator} [option.generator=*function(){}] - [option.generator=*function(){}]\n * @param [option.binary=0b11] {binary} - [option.binary=0b11]\n * @param [option.octal=0o440] {octal} - [option.octal=0o440]\n * @param [option.hex=0xFF] {hex} - [option.hex=0xFF]\n * @param [option.template=`test`] {template} - [option.template=`test`]\n * @param [option.whitespace=\"  \"] {string} - [option.whitespace=\"  \"]\n * @param [option.null=null] {null} - [option.null=null]\n *\n */",
     "meta": {
       "range": [
-        1300,
-        1335
+        1377,
+        1412
       ],
       "filename": "0-src.js",
-      "lineno": 25,
+      "lineno": 26,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/param-default",
       "code": {
         "id": "astnode100000001",
@@ -141,6 +141,18 @@
           "names": [
             "string",
             "Array"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "[ 1, 2, 3 ]",
+        "description": "[option.arr=[ 1, 2, 3 ]]",
+        "name": "option.arr"
+      },
+      {
+        "type": {
+          "names": [
+            "Array",
+            "string"
           ]
         },
         "optional": true,
