@@ -10,9 +10,9 @@
  * @param {function} [option.func=function(){}] - [option.func=function(){}]
  * @param {function|string} [option.func=function(){}] - [option.func=function(){}]
  * @param {string|function} [option.func=function(){}] - [option.func=function(){}]
- * @param [option.one=/regex/] {RegExp}
- * @param [option.arr=[ 1, 2, 3 ]] {Array}
- * @param [option.arr=[ 1, 2, 3 ]] {string|Array}
+ * @param [option.one=/regex/] {RegExp} - [option.one=/regex/]
+ * @param [option.arr=[ 1, 2, 3 ]] {Array} - [option.arr=[ 1, 2, 3 ]]
+ * @param [option.arr=[ 1, 2, 3 ]] {string|Array} - [option.arr=[ 1, 2, 3 ]]
  * @param {generator} [option.generator=*function(){}] - [option.generator=*function(){}]
  * @param [option.binary=0b11] {binary} - [option.binary=0b11]
  * @param [option.octal=0o440] {octal} - [option.octal=0o440]
