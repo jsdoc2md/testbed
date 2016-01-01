@@ -2605,6 +2605,7 @@
         },
         "optional": true,
         "defaultvalue": "/regex/",
+        "description": "[option.one=/regex/]",
         "name": "option.one"
       },
       {
@@ -2615,16 +2616,31 @@
         },
         "optional": true,
         "defaultvalue": "[ 1, 2, 3 ]",
+        "description": "[option.arr=[ 1, 2, 3 ]]",
         "name": "option.arr"
       },
       {
         "type": {
           "names": [
+            "string",
             "Array"
           ]
         },
         "optional": true,
         "defaultvalue": "[ 1, 2, 3 ]",
+        "description": "[option.arr=[ 1, 2, 3 ]]",
+        "name": "option.arr"
+      },
+      {
+        "type": {
+          "names": [
+            "Array",
+            "string"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "[ 1, 2, 3 ]",
+        "description": "[option.arr=[ 1, 2, 3 ]]",
         "name": "option.arr"
       },
       {
@@ -2706,7 +2722,7 @@
       }
     ],
     "meta": {
-      "lineno": 25,
+      "lineno": 26,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/param-default"
     },
