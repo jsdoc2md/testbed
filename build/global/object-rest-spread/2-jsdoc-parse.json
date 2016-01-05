@@ -1,0 +1,33 @@
+[
+  {
+    "id": "obj1",
+    "longname": "obj1",
+    "name": "obj1",
+    "scope": "global",
+    "kind": "constant",
+    "description": "object 1",
+    "meta": {
+      "lineno": 4,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/object-rest-spread"
+    },
+    "order": 0
+  },
+  {
+    "id": "obj2",
+    "longname": "obj2",
+    "name": "obj2",
+    "scope": "global",
+    "kind": "constant",
+    "description": "object 2, uses object-rest-spread syntax",
+    "see": [
+      "https://github.com/sebmarkbage/ecmascript-rest-spread"
+    ],
+    "meta": {
+      "lineno": 10,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/object-rest-spread"
+    },
+    "order": 1
+  }
+]
