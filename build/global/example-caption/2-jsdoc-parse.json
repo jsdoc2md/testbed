@@ -1,0 +1,19 @@
+[
+  {
+    "id": "exampleCaption",
+    "longname": "exampleCaption",
+    "name": "exampleCaption",
+    "scope": "global",
+    "kind": "function",
+    "params": [],
+    "examples": [
+      "<caption>This is how it's done.</caption>\nconst result = exampleCaption()"
+    ],
+    "meta": {
+      "lineno": 5,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/example-caption"
+    },
+    "order": 0
+  }
+]
