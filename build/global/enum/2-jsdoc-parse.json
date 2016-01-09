@@ -102,15 +102,15 @@
     "name": "eFunction",
     "scope": "global",
     "kind": "member",
-    "description": "enum function!",
+    "description": "enum function! It has a kind of 'member' not 'function'.",
     "params": [],
     "isEnum": true,
     "meta": {
-      "lineno": 31,
+      "lineno": 36,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum"
     },
-    "order": 2
+    "order": 3
   },
   {
     "id": "eFunction",
@@ -147,10 +147,25 @@
       }
     ],
     "meta": {
-      "lineno": 39,
+      "lineno": 44,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum"
     },
-    "order": 3
+    "order": 4
+  },
+  {
+    "id": "normalFunction",
+    "longname": "normalFunction",
+    "name": "normalFunction",
+    "scope": "global",
+    "kind": "function",
+    "description": "normal function..",
+    "params": [],
+    "meta": {
+      "lineno": 30,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum"
+    },
+    "order": 2
   }
 ]

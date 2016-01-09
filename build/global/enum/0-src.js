@@ -25,7 +25,12 @@ var eType = {
 }
 
 /**
- * enum function!
+ * normal function..
+ */
+function normalFunction () {}
+
+/**
+ * enum function! It has a kind of 'member' not 'function'.
  * @enum
  */
 function eFunction () {}

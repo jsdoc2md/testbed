@@ -26,7 +26,7 @@ enum, no type, property descriptions.
 
 <a name="eFunction"></a>
 ## eFunction
-enum function!
+enum function! It has a kind of 'member' not 'function'.
 
 **Kind**: global enum  
 <a name="eFunction"></a>
@@ -41,3 +41,8 @@ enum function, type, properties
 | ONE | <code>number</code> | first |
 | TWO | <code>number</code> | second |
 
+<a name="normalFunction"></a>
+## normalFunction()
+normal function..
+
+**Kind**: global function  

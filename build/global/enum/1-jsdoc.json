@@ -332,23 +332,47 @@
     "defaultvalue": 2
   },
   {
-    "comment": "/**\n * enum function!\n * @enum\n */",
+    "comment": "/**\n * normal function..\n */",
     "meta": {
       "range": [
-        333,
-        357
+        327,
+        356
       ],
       "filename": "0-src.js",
-      "lineno": 31,
+      "lineno": 30,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
       "code": {
         "id": "astnode100000019",
+        "name": "normalFunction",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "description": "normal function..",
+    "name": "normalFunction",
+    "longname": "normalFunction",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\n * enum function! It has a kind of 'member' not 'function'.\n * @enum\n */",
+    "meta": {
+      "range": [
+        435,
+        459
+      ],
+      "filename": "0-src.js",
+      "lineno": 36,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+      "code": {
+        "id": "astnode100000022",
         "name": "eFunction",
         "type": "FunctionDeclaration",
         "paramnames": []
       }
     },
-    "description": "enum function!",
+    "description": "enum function! It has a kind of 'member' not 'function'.",
     "kind": "member",
     "isEnum": true,
     "name": "eFunction",
@@ -360,14 +384,14 @@
     "comment": "/**\n * enum function, type, properties\n * @enum {number}\n * @property {number} ONE - first\n * @property {number} TWO - second\n */",
     "meta": {
       "range": [
-        489,
-        513
+        591,
+        615
       ],
       "filename": "0-src.js",
-      "lineno": 39,
+      "lineno": 44,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
       "code": {
-        "id": "astnode100000022",
+        "id": "astnode100000025",
         "name": "eFunction",
         "type": "FunctionDeclaration",
         "paramnames": []
