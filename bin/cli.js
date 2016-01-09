@@ -42,7 +42,7 @@ function makeFolderQueue (folderList) {
 
 getFolderQueue().then(queue => {
   queue
-    .on('error', err => console.log('Queue Error: ', err))
+    .on('error', err => console.log('Queue Error: ', err.message))
     .process()
 })
 

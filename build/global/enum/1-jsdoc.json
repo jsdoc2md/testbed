@@ -1,10 +1,10 @@
 [
   {
-    "comment": "/**\nEnum for the `type` value\n@readonly\n@enum {number}\n*/",
+    "comment": "/**\n * Enum with a `type` value, no individual property descriptions.\n * @readonly\n * @enum {number}\n */",
     "meta": {
       "range": [
-        62,
-        111
+        109,
+        158
       ],
       "filename": "0-src.js",
       "lineno": 6,
@@ -16,7 +16,7 @@
         "value": "{\"NOEXIST\":0,\"FILE\":1,\"DIR\":2}"
       }
     },
-    "description": "Enum for the `type` value",
+    "description": "Enum with a `type` value, no individual property descriptions.",
     "readonly": true,
     "kind": "member",
     "isEnum": true,
@@ -33,8 +33,8 @@
         "comment": "",
         "meta": {
           "range": [
-            78,
-            88
+            125,
+            135
           ],
           "filename": "0-src.js",
           "lineno": 7,
@@ -62,8 +62,8 @@
         "comment": "",
         "meta": {
           "range": [
-            92,
-            99
+            139,
+            146
           ],
           "filename": "0-src.js",
           "lineno": 8,
@@ -91,8 +91,8 @@
         "comment": "",
         "meta": {
           "range": [
-            103,
-            109
+            150,
+            156
           ],
           "filename": "0-src.js",
           "lineno": 9,
@@ -122,8 +122,8 @@
     "comment": "",
     "meta": {
       "range": [
-        78,
-        88
+        125,
+        135
       ],
       "filename": "0-src.js",
       "lineno": 7,
@@ -151,8 +151,8 @@
     "comment": "",
     "meta": {
       "range": [
-        92,
-        99
+        139,
+        146
       ],
       "filename": "0-src.js",
       "lineno": 8,
@@ -180,8 +180,8 @@
     "comment": "",
     "meta": {
       "range": [
-        103,
-        109
+        150,
+        156
       ],
       "filename": "0-src.js",
       "lineno": 9,
@@ -204,6 +204,207 @@
       ]
     },
     "defaultvalue": 2
+  },
+  {
+    "comment": "/**\n * enum, no type, property descriptions.\n * @enum\n */",
+    "meta": {
+      "range": [
+        222,
+        296
+      ],
+      "filename": "0-src.js",
+      "lineno": 16,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+      "code": {
+        "id": "astnode100000012",
+        "name": "eType",
+        "type": "ObjectExpression",
+        "value": "{\"ONE\":1,\"TWO\":2}"
+      }
+    },
+    "description": "enum, no type, property descriptions.",
+    "kind": "member",
+    "isEnum": true,
+    "name": "eType",
+    "longname": "eType",
+    "scope": "global",
+    "properties": [
+      {
+        "comment": "/**\n  type one\n  */",
+        "meta": {
+          "range": [
+            256,
+            262
+          ],
+          "filename": "0-src.js",
+          "lineno": 20,
+          "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+          "code": {
+            "id": "astnode100000015",
+            "name": "ONE",
+            "type": "Literal",
+            "value": 1
+          }
+        },
+        "description": "type one",
+        "name": "ONE",
+        "longname": "eType.ONE",
+        "kind": "member",
+        "memberof": "eType",
+        "scope": "static",
+        "defaultvalue": 1
+      },
+      {
+        "comment": "/**\n  type two\n  */",
+        "meta": {
+          "range": [
+            288,
+            294
+          ],
+          "filename": "0-src.js",
+          "lineno": 24,
+          "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+          "code": {
+            "id": "astnode100000017",
+            "name": "TWO",
+            "type": "Literal",
+            "value": 2
+          }
+        },
+        "description": "type two",
+        "name": "TWO",
+        "longname": "eType.TWO",
+        "kind": "member",
+        "memberof": "eType",
+        "scope": "static",
+        "defaultvalue": 2
+      }
+    ]
+  },
+  {
+    "comment": "/**\n  type one\n  */",
+    "meta": {
+      "range": [
+        256,
+        262
+      ],
+      "filename": "0-src.js",
+      "lineno": 20,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+      "code": {
+        "id": "astnode100000015",
+        "name": "ONE",
+        "type": "Literal",
+        "value": 1
+      }
+    },
+    "description": "type one",
+    "name": "ONE",
+    "longname": "eType.ONE",
+    "kind": "member",
+    "memberof": "eType",
+    "scope": "static",
+    "defaultvalue": 1
+  },
+  {
+    "comment": "/**\n  type two\n  */",
+    "meta": {
+      "range": [
+        288,
+        294
+      ],
+      "filename": "0-src.js",
+      "lineno": 24,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+      "code": {
+        "id": "astnode100000017",
+        "name": "TWO",
+        "type": "Literal",
+        "value": 2
+      }
+    },
+    "description": "type two",
+    "name": "TWO",
+    "longname": "eType.TWO",
+    "kind": "member",
+    "memberof": "eType",
+    "scope": "static",
+    "defaultvalue": 2
+  },
+  {
+    "comment": "/**\n * enum function!\n * @enum\n */",
+    "meta": {
+      "range": [
+        333,
+        357
+      ],
+      "filename": "0-src.js",
+      "lineno": 31,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+      "code": {
+        "id": "astnode100000019",
+        "name": "eFunction",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "description": "enum function!",
+    "kind": "member",
+    "isEnum": true,
+    "name": "eFunction",
+    "longname": "eFunction",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\n * enum function, type, properties\n * @enum {number}\n * @property {number} ONE - first\n * @property {number} TWO - second\n */",
+    "meta": {
+      "range": [
+        489,
+        513
+      ],
+      "filename": "0-src.js",
+      "lineno": 39,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+      "code": {
+        "id": "astnode100000022",
+        "name": "eFunction",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "description": "enum function, type, properties",
+    "kind": "member",
+    "isEnum": true,
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "properties": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "first",
+        "name": "ONE"
+      },
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "second",
+        "name": "TWO"
+      }
+    ],
+    "name": "eFunction",
+    "longname": "eFunction",
+    "scope": "global",
+    "params": []
   },
   {
     "kind": "package",

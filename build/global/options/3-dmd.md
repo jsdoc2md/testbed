@@ -1,12 +1,3 @@
-## Functions
-
-<dl>
-<dt><a href="#doSomething">doSomething(options)</a></dt>
-<dd></dd>
-<dt><a href="#doAnother">doAnother(options)</a></dt>
-<dd></dd>
-</dl>
-
 <a name="doSomething"></a>
 ## doSomething(options)
 **Kind**: global function  

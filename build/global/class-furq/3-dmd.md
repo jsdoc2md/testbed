@@ -1,21 +1,3 @@
-## Classes
-
-<dl>
-<dt><a href="#FurQ">FurQ</a> ⇐ <code><a href="#Rapper">Rapper</a></code></dt>
-<dd><p>C*ck, b!tch, c*ck, b!tch, m*therf!cker. You gotta kill people, to respect people.</p>
-</dd>
-<dt><a href="#Rapper">Rapper</a></dt>
-<dd></dd>
-</dl>
-
-## Functions
-
-<dl>
-<dt><a href="#plant">plant()</a></dt>
-<dd><p>to plant ones fist in a buster&#39;s mush</p>
-</dd>
-</dl>
-
 <a name="FurQ"></a>
 ## FurQ ⇐ <code>[Rapper](#Rapper)</code>
 C\*ck, b!tch, c\*ck, b!tch, m\*therf!cker. You gotta kill people, to respect people.

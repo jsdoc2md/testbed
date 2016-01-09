@@ -1,19 +1,3 @@
-## Classes
-
-<dl>
-<dt><a href="#Person">Person</a> ⇐ <code>Object</code></dt>
-<dd><p>simple class description</p>
-</dd>
-<dt><a href="#Car">Car</a></dt>
-<dd></dd>
-<dt><a href="#Pipe">Pipe</a> ⇐ <code><a href="#Pipe">Pipe</a></code></dt>
-<dd><p>a class which extends</p>
-</dd>
-<dt><del><a href="#Everything">Everything</a> ⇐ <code><a href="#Pipe">Pipe</a></code></del></dt>
-<dd><p>a class with all trimmings</p>
-</dd>
-</dl>
-
 <a name="Person"></a>
 ## Person ⇐ <code>Object</code>
 simple class description

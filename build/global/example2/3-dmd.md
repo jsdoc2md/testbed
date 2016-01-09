@@ -1,32 +1,3 @@
-## Functions
-
-<dl>
-<dt><a href="#one">one()</a></dt>
-<dd><p>A simple example written in the default <code>--example-lang</code> (javascript)</p>
-</dd>
-<dt><a href="#two">two()</a></dt>
-<dd><p>An example written in a different lang to the default (json)</p>
-</dd>
-<dt><a href="#three">three()</a></dt>
-<dd><p>An example with no code, just text</p>
-</dd>
-<dt><a href="#four">four()</a></dt>
-<dd><p>Another text example, using the <code>@lang off</code> sub-tag..</p>
-</dd>
-<dt><a href="#five">five()</a></dt>
-<dd><p>An example with text and code, with no fenced-code blocks</p>
-</dd>
-<dt><a href="#six">six()</a></dt>
-<dd><p>An example with text and code, with fenced-code block and no lang set</p>
-</dd>
-<dt><a href="#seven">seven()</a></dt>
-<dd><p>An example with text and code, with fenced-code block and <code>js</code> lang set</p>
-</dd>
-<dt><a href="#eight">eight()</a></dt>
-<dd><p>An example with text and code, with fenced-code block and <code>json</code> lang set</p>
-</dd>
-</dl>
-
 <a name="one"></a>
 ## one()
 A simple example written in the default `--example-lang` (javascript)

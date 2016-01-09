@@ -1,24 +1,3 @@
-## Functions
-
-<dl>
-<dt><a href="#setMagicNumber">setMagicNumber(x)</a></dt>
-<dd><p>Set the magic number.</p>
-</dd>
-<dt><a href="#doSomething">doSomething(option)</a></dt>
-<dd></dd>
-</dl>
-
-## Typedefs
-
-<dl>
-<dt><a href="#NumberLike">NumberLike</a> : <code>number</code> | <code>string</code></dt>
-<dd><p>A number, or a string containing a number.</p>
-</dd>
-<dt><a href="#someOptions">someOptions</a> : <code>object</code></dt>
-<dd><p>Some options</p>
-</dd>
-</dl>
-
 <a name="setMagicNumber"></a>
 ## setMagicNumber(x)
 Set the magic number.

@@ -1,35 +1,3 @@
-## Members
-
-<dl>
-<dt><a href="#variable">variable</a></dt>
-<dd><p>a global variable</p>
-</dd>
-<dt><a href="#typed">typed</a> : <code>string</code></dt>
-<dd></dd>
-<dt><a href="#types">types</a> : <code>string</code> | <code>number</code></dt>
-<dd></dd>
-<dt><a href="#exampled">exampled</a></dt>
-<dd><p>a var with an example</p>
-</dd>
-<dt><a href="#examples">examples</a></dt>
-<dd><p>a var with multiple examples</p>
-</dd>
-<dt><a href="#_protected">_protected</a></dt>
-<dd></dd>
-<dt><a href="#withAuthor">withAuthor</a></dt>
-<dd></dd>
-<dt><a href="#hasDefault">hasDefault</a></dt>
-<dd></dd>
-<dt><a href="#hasDefaultObject">hasDefaultObject</a></dt>
-<dd></dd>
-<dt><del><a href="#deprecated">deprecated</a></del></dt>
-<dd></dd>
-<dt><a href="#readOnly">readOnly</a></dt>
-<dd></dd>
-<dt><a href="#hasSince">hasSince</a></dt>
-<dd></dd>
-</dl>
-
 <a name="variable"></a>
 ## variable
 a global variable

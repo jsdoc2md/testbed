@@ -1,14 +1,3 @@
-## Functions
-
-<dl>
-<dt><a href="#firesError">firesError()</a></dt>
-<dd></dd>
-<dt><a href="#firesMany">firesMany()</a></dt>
-<dd></dd>
-<dt><a href="#firesDefinedEvent">firesDefinedEvent()</a></dt>
-<dd></dd>
-</dl>
-
 <a name="firesError"></a>
 ## firesError()
 **Kind**: global function  

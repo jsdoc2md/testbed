@@ -1,19 +1,3 @@
-## Classes
-
-<dl>
-<dt><a href="#Tree">Tree</a></dt>
-<dd></dd>
-</dl>
-
-## Functions
-
-<dl>
-<dt><a href="#promiseSomething">promiseSomething()</a> ⇒ <code>Promise</code></dt>
-<dd></dd>
-<dt><a href="#Comedy">Comedy()</a></dt>
-<dd></dd>
-</dl>
-
 <a name="Tree"></a>
 ## Tree
 **Kind**: global class  

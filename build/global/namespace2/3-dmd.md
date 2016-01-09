@@ -1,14 +1,3 @@
-## Objects
-
-<dl>
-<dt><a href="#missle">missle</a> : <code>object</code></dt>
-<dd><p>A missle object, with separate docs for each property.</p>
-</dd>
-<dt><a href="#personality">personality</a> : <code>object</code></dt>
-<dd><p>A personality object, documented using the more concise <code>@property</code> notation.</p>
-</dd>
-</dl>
-
 <a name="missle"></a>
 ## missle : <code>object</code>
 A missle object, with separate docs for each property.

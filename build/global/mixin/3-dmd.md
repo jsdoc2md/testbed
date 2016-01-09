@@ -1,15 +1,3 @@
-## Mixins
-
-<dl>
-<dt><a href="#Eventful">Eventful</a></dt>
-<dd><p>This provides methods used for event handling. It&#39;s not meant to
-be used directly.</p>
-</dd>
-<dt><a href="#phantom">phantom</a></dt>
-<dd><p>phantom mixin</p>
-</dd>
-</dl>
-
 <a name="Eventful"></a>
 ## Eventful
 This provides methods used for event handling. It's not meant to

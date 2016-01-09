@@ -1,18 +1,3 @@
-## Functions
-
-<dl>
-<dt><a href="#read">read(filename, done)</a></dt>
-<dd></dd>
-</dl>
-
-## Typedefs
-
-<dl>
-<dt><a href="#onComplete">onComplete</a> : <code>function</code></dt>
-<dd><p>Called when an async operation completes</p>
-</dd>
-</dl>
-
 <a name="read"></a>
 ## read(filename, done)
 **Kind**: global function  

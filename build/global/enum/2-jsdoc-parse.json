@@ -5,7 +5,7 @@
     "name": "eFileType",
     "scope": "global",
     "kind": "member",
-    "description": "Enum for the `type` value",
+    "description": "Enum with a `type` value, no individual property descriptions.",
     "type": {
       "names": [
         "number"
@@ -60,5 +60,97 @@
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum"
     },
     "order": 0
+  },
+  {
+    "id": "eType",
+    "longname": "eType",
+    "name": "eType",
+    "scope": "global",
+    "kind": "member",
+    "description": "enum, no type, property descriptions.",
+    "isEnum": true,
+    "properties": [
+      {
+        "description": "type one",
+        "name": "ONE",
+        "longname": "eType.ONE",
+        "kind": "member",
+        "memberof": "eType",
+        "scope": "static",
+        "defaultvalue": 1
+      },
+      {
+        "description": "type two",
+        "name": "TWO",
+        "longname": "eType.TWO",
+        "kind": "member",
+        "memberof": "eType",
+        "scope": "static",
+        "defaultvalue": 2
+      }
+    ],
+    "meta": {
+      "lineno": 16,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum"
+    },
+    "order": 1
+  },
+  {
+    "id": "eFunction",
+    "longname": "eFunction",
+    "name": "eFunction",
+    "scope": "global",
+    "kind": "member",
+    "description": "enum function!",
+    "params": [],
+    "isEnum": true,
+    "meta": {
+      "lineno": 31,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum"
+    },
+    "order": 2
+  },
+  {
+    "id": "eFunction",
+    "longname": "eFunction",
+    "name": "eFunction",
+    "scope": "global",
+    "kind": "member",
+    "description": "enum function, type, properties",
+    "params": [],
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "isEnum": true,
+    "properties": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "first",
+        "name": "ONE"
+      },
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "second",
+        "name": "TWO"
+      }
+    ],
+    "meta": {
+      "lineno": 39,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum"
+    },
+    "order": 3
   }
 ]

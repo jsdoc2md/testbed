@@ -1,12 +1,3 @@
-## Classes
-
-<dl>
-<dt><a href="#LendsClass">LendsClass</a></dt>
-<dd></dd>
-<dt><a href="#LendsClass2">LendsClass2</a></dt>
-<dd></dd>
-</dl>
-
 <a name="LendsClass"></a>
 ## LendsClass
 **Kind**: global class  

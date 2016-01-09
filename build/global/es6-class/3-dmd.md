@@ -1,14 +1,3 @@
-## Classes
-
-<dl>
-<dt><a href="#GlobalClass">GlobalClass</a></dt>
-<dd><p>a global class</p>
-</dd>
-<dt><a href="#GlobalChildClass">GlobalChildClass</a> ⇐ <code><a href="#GlobalClass">GlobalClass</a></code></dt>
-<dd><p>the child of global class</p>
-</dd>
-</dl>
-
 <a name="GlobalClass"></a>
 ## GlobalClass
 a global class

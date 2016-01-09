@@ -1,27 +1,3 @@
-## Classes
-
-<dl>
-<dt><a href="#customClass">customClass</a></dt>
-<dd><p>a class that has custom tags</p>
-</dd>
-</dl>
-
-## Members
-
-<dl>
-<dt><a href="#customTagged">customTagged</a></dt>
-<dd><p>a global var with custom tags</p>
-</dd>
-</dl>
-
-## Functions
-
-<dl>
-<dt><a href="#customFunction">customFunction()</a></dt>
-<dd><p>a global function with custom tags</p>
-</dd>
-</dl>
-
 <a name="customClass"></a>
 ## customClass
 a class that has custom tags

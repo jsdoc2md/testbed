@@ -1,18 +1,3 @@
-## Objects
-
-<dl>
-<dt><a href="#SomeObject">SomeObject</a> : <code>object</code></dt>
-<dd></dd>
-</dl>
-
-## Functions
-
-<dl>
-<dt><a href="#yeahFactory">yeahFactory()</a></dt>
-<dd><p>Generates SomeObject instances.</p>
-</dd>
-</dl>
-
 <a name="SomeObject"></a>
 ## SomeObject : <code>object</code>
 **Kind**: global namespace  

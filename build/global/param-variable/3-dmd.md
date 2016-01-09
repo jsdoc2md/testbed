@@ -1,18 +1,3 @@
-## Classes
-
-<dl>
-<dt><a href="#Plucker">Plucker</a></dt>
-<dd></dd>
-</dl>
-
-## Functions
-
-<dl>
-<dt><a href="#pluck">pluck(...prop)</a></dt>
-<dd><p>This function takes variable input</p>
-</dd>
-</dl>
-
 <a name="Plucker"></a>
 ## Plucker
 **Kind**: global class  

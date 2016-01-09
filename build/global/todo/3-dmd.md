@@ -1,14 +1,3 @@
-## Functions
-
-<dl>
-<dt><a href="#todoFunction1">todoFunction1()</a></dt>
-<dd></dd>
-<dt><a href="#todoFunction2">todoFunction2()</a></dt>
-<dd></dd>
-<dt><a href="#todoFunction3">todoFunction3()</a></dt>
-<dd></dd>
-</dl>
-
 <a name="todoFunction1"></a>
 ## todoFunction1()
 **Kind**: global function  

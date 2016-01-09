@@ -1,21 +1,3 @@
-## Members
-
-<dl>
-<dt><a href="#seeableVar">seeableVar</a></dt>
-<dd><p>a global var with a @see</p>
-</dd>
-</dl>
-
-## Functions
-
-<dl>
-<dt><a href="#seefoo">seefoo()</a></dt>
-<dd><p>Both of these will link to the bar function.</p>
-</dd>
-<dt><a href="#seebar">seebar()</a></dt>
-<dd></dd>
-</dl>
-
 <a name="seeableVar"></a>
 ## seeableVar
 a global var with a @see
