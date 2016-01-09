@@ -3024,23 +3024,47 @@
     "defaultvalue": 2
   },
   {
-    "comment": "/**\n * enum function!\n * @enum\n */",
+    "comment": "/**\n * normal function..\n */",
     "meta": {
       "range": [
-        333,
-        357
+        327,
+        356
       ],
       "filename": "0-src.js",
-      "lineno": 31,
+      "lineno": 30,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
       "code": {
         "id": "astnode100000407",
+        "name": "normalFunction",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "description": "normal function..",
+    "name": "normalFunction",
+    "longname": "normalFunction",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\n * enum function! It has a kind of 'member' not 'function'.\n * @enum\n */",
+    "meta": {
+      "range": [
+        435,
+        459
+      ],
+      "filename": "0-src.js",
+      "lineno": 36,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+      "code": {
+        "id": "astnode100000410",
         "name": "eFunction",
         "type": "FunctionDeclaration",
         "paramnames": []
       }
     },
-    "description": "enum function!",
+    "description": "enum function! It has a kind of 'member' not 'function'.",
     "kind": "member",
     "isEnum": true,
     "name": "eFunction",
@@ -3052,14 +3076,14 @@
     "comment": "/**\n * enum function, type, properties\n * @enum {number}\n * @property {number} ONE - first\n * @property {number} TWO - second\n */",
     "meta": {
       "range": [
-        489,
-        513
+        591,
+        615
       ],
       "filename": "0-src.js",
-      "lineno": 39,
+      "lineno": 44,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
       "code": {
-        "id": "astnode100000410",
+        "id": "astnode100000413",
         "name": "eFunction",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -3109,7 +3133,7 @@
       "lineno": 1,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class-constructor",
       "code": {
-        "id": "astnode100000414",
+        "id": "astnode100000417",
         "name": "GlobalClass",
         "type": "ClassDeclaration",
         "paramnames": [
@@ -3135,7 +3159,7 @@
       "lineno": 5,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class-constructor",
       "code": {
-        "id": "astnode100000417",
+        "id": "astnode100000420",
         "name": "GlobalClass",
         "type": "MethodDefinition",
         "paramnames": [
@@ -3164,7 +3188,7 @@
       "lineno": 6,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class-constructor",
       "code": {
-        "id": "astnode100000424",
+        "id": "astnode100000427",
         "name": "this.propOne",
         "type": "Literal",
         "value": 1,
@@ -3189,7 +3213,7 @@
       "lineno": 1,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class-undocumented",
       "code": {
-        "id": "astnode100000430",
+        "id": "astnode100000433",
         "name": "GlobalClass",
         "type": "ClassDeclaration",
         "paramnames": [
@@ -3215,7 +3239,7 @@
       "lineno": 2,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class-undocumented",
       "code": {
-        "id": "astnode100000433",
+        "id": "astnode100000436",
         "name": "GlobalClass",
         "type": "MethodDefinition",
         "paramnames": [
@@ -3244,7 +3268,7 @@
       "lineno": 3,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class-undocumented",
       "code": {
-        "id": "astnode100000440",
+        "id": "astnode100000443",
         "name": "this.propOne",
         "type": "Literal",
         "value": 1,
@@ -3269,7 +3293,7 @@
       "lineno": 6,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class-undocumented",
       "code": {
-        "id": "astnode100000445",
+        "id": "astnode100000448",
         "name": "GlobalClass.shat",
         "type": "MethodDefinition",
         "paramnames": []
@@ -3296,7 +3320,7 @@
       "lineno": 8,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class-undocumented",
       "code": {
-        "id": "astnode100000449",
+        "id": "astnode100000452",
         "name": "GlobalClass#methodOne",
         "type": "MethodDefinition",
         "paramnames": []
@@ -3323,7 +3347,7 @@
       "lineno": 9,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class-undocumented",
       "code": {
-        "id": "astnode100000453",
+        "id": "astnode100000456",
         "name": "GlobalClass#methodTwo",
         "type": "MethodDefinition",
         "paramnames": []
@@ -3350,7 +3374,7 @@
       "lineno": 4,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
       "code": {
-        "id": "astnode100000458",
+        "id": "astnode100000461",
         "name": "GlobalClass",
         "type": "ClassDeclaration",
         "paramnames": [
@@ -3410,7 +3434,7 @@
       "lineno": 13,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
       "code": {
-        "id": "astnode100000461",
+        "id": "astnode100000464",
         "name": "GlobalClass",
         "type": "MethodDefinition",
         "paramnames": [
@@ -3473,7 +3497,7 @@
       "lineno": 18,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
       "code": {
-        "id": "astnode100000468",
+        "id": "astnode100000471",
         "name": "this.propOne",
         "type": "Literal",
         "value": 1,
@@ -3503,7 +3527,7 @@
       "lineno": 22,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
       "code": {
-        "id": "astnode100000473",
+        "id": "astnode100000476",
         "name": "GlobalClass.shat",
         "type": "MethodDefinition",
         "paramnames": []
@@ -3530,7 +3554,7 @@
       "lineno": 25,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
       "code": {
-        "id": "astnode100000477",
+        "id": "astnode100000480",
         "name": "GlobalClass#methodOne",
         "type": "MethodDefinition",
         "paramnames": []
@@ -3557,7 +3581,7 @@
       "lineno": 27,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
       "code": {
-        "id": "astnode100000481",
+        "id": "astnode100000484",
         "name": "GlobalClass#methodTwo",
         "type": "MethodDefinition",
         "paramnames": []
@@ -3584,7 +3608,7 @@
       "lineno": 34,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
       "code": {
-        "id": "astnode100000485",
+        "id": "astnode100000488",
         "name": "GlobalChildClass",
         "type": "ClassDeclaration",
         "paramnames": []
@@ -3610,7 +3634,7 @@
       "lineno": 35,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
       "code": {
-        "id": "astnode100000489",
+        "id": "astnode100000492",
         "name": "GlobalChildClass",
         "type": "MethodDefinition",
         "paramnames": []
@@ -3636,7 +3660,7 @@
       "lineno": 37,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
       "code": {
-        "id": "astnode100000494",
+        "id": "astnode100000497",
         "name": "this.propThree",
         "type": "Literal",
         "value": 1,
@@ -3661,7 +3685,7 @@
       "lineno": 41,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
       "code": {
-        "id": "astnode100000499",
+        "id": "astnode100000502",
         "name": "GlobalChildClass#methodTwo",
         "type": "MethodDefinition",
         "paramnames": []
@@ -3689,7 +3713,7 @@
       "lineno": 4,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/event",
       "code": {
-        "id": "astnode100000504",
+        "id": "astnode100000507",
         "name": "Hurl",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -3712,7 +3736,7 @@
       "lineno": 11,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/event",
       "code": {
-        "id": "astnode100000508",
+        "id": "astnode100000511",
         "name": "Hurl.prototype.snowball",
         "type": "FunctionExpression",
         "paramnames": []
@@ -3774,7 +3798,7 @@
       "lineno": 20,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/event",
       "code": {
-        "id": "astnode100000523",
+        "id": "astnode100000526",
         "name": "isPacked",
         "type": "MemberExpression",
         "value": "this._snowball.isPacked"
@@ -3797,7 +3821,7 @@
       "lineno": 5,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/example-caption",
       "code": {
-        "id": "astnode100000530",
+        "id": "astnode100000533",
         "name": "exampleCaption",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -3823,7 +3847,7 @@
       "lineno": 10,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/example",
       "code": {
-        "id": "astnode100000535",
+        "id": "astnode100000538",
         "name": "exampleVar",
         "type": "Literal",
         "value": "something"
@@ -3855,7 +3879,7 @@
       "lineno": 6,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/example2",
       "code": {
-        "id": "astnode100000539",
+        "id": "astnode100000542",
         "name": "one",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -3882,7 +3906,7 @@
       "lineno": 17,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/example2",
       "code": {
-        "id": "astnode100000542",
+        "id": "astnode100000545",
         "name": "two",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -3909,7 +3933,7 @@
       "lineno": 26,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/example2",
       "code": {
-        "id": "astnode100000545",
+        "id": "astnode100000548",
         "name": "three",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -3936,7 +3960,7 @@
       "lineno": 34,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/example2",
       "code": {
-        "id": "astnode100000548",
+        "id": "astnode100000551",
         "name": "four",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -3963,7 +3987,7 @@
       "lineno": 43,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/example2",
       "code": {
-        "id": "astnode100000551",
+        "id": "astnode100000554",
         "name": "five",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -3990,7 +4014,7 @@
       "lineno": 54,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/example2",
       "code": {
-        "id": "astnode100000554",
+        "id": "astnode100000557",
         "name": "six",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -4017,7 +4041,7 @@
       "lineno": 65,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/example2",
       "code": {
-        "id": "astnode100000557",
+        "id": "astnode100000560",
         "name": "seven",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -4044,7 +4068,7 @@
       "lineno": 78,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/example2",
       "code": {
-        "id": "astnode100000560",
+        "id": "astnode100000563",
         "name": "eight",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -4215,7 +4239,7 @@
       "lineno": 45,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/external",
       "code": {
-        "id": "astnode100000565",
+        "id": "astnode100000568",
         "name": "cliveExternal"
       }
     },
@@ -4240,7 +4264,7 @@
       "lineno": 50,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/external",
       "code": {
-        "id": "astnode100000568",
+        "id": "astnode100000571",
         "name": "stringExternal"
       }
     },
@@ -4287,7 +4311,7 @@
       "lineno": 9,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/file",
       "code": {
-        "id": "astnode100000572",
+        "id": "astnode100000575",
         "name": "fileVar",
         "type": "Literal",
         "value": 1
@@ -4310,7 +4334,7 @@
       "lineno": 4,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/fires",
       "code": {
-        "id": "astnode100000576",
+        "id": "astnode100000579",
         "name": "firesError",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -4336,7 +4360,7 @@
       "lineno": 11,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/fires",
       "code": {
-        "id": "astnode100000579",
+        "id": "astnode100000582",
         "name": "firesMany",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -4364,7 +4388,7 @@
       "lineno": 16,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/fires",
       "code": {
-        "id": "astnode100000582",
+        "id": "astnode100000585",
         "name": "firesDefinedEvent",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -4390,7 +4414,7 @@
       "lineno": 4,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/function-obj",
       "code": {
-        "id": "astnode100000586",
+        "id": "astnode100000589",
         "name": "functionObj",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -4417,7 +4441,7 @@
       "lineno": 9,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/function-obj",
       "code": {
-        "id": "astnode100000592",
+        "id": "astnode100000595",
         "name": "functionObj.extra",
         "type": "FunctionExpression",
         "paramnames": []
@@ -4441,7 +4465,7 @@
       "lineno": 7,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/function-protection",
       "code": {
-        "id": "astnode100000599",
+        "id": "astnode100000602",
         "name": "protection",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -4496,7 +4520,7 @@
       "lineno": 8,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/function",
       "code": {
-        "id": "astnode100000605",
+        "id": "astnode100000608",
         "name": "globalFunction",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -4563,7 +4587,7 @@
       "lineno": 4,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
       "code": {
-        "id": "astnode100000613",
+        "id": "astnode100000616",
         "name": "globalFunc",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -4587,7 +4611,7 @@
       "lineno": 13,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
       "code": {
-        "id": "astnode100000616",
+        "id": "astnode100000619",
         "name": "exampled",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -4614,7 +4638,7 @@
       "lineno": 26,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
       "code": {
-        "id": "astnode100000619",
+        "id": "astnode100000622",
         "name": "multiExampled",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -4642,7 +4666,7 @@
       "lineno": 31,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
       "code": {
-        "id": "astnode100000623",
+        "id": "astnode100000626",
         "name": "_protected",
         "type": "FunctionExpression"
       }
@@ -4664,7 +4688,7 @@
       "lineno": 36,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
       "code": {
-        "id": "astnode100000628",
+        "id": "astnode100000631",
         "name": "_private",
         "type": "FunctionExpression"
       }
@@ -4686,7 +4710,7 @@
       "lineno": 41,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
       "code": {
-        "id": "astnode100000632",
+        "id": "astnode100000635",
         "name": "withAuthor",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -4712,7 +4736,7 @@
       "lineno": 46,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
       "code": {
-        "id": "astnode100000635",
+        "id": "astnode100000638",
         "name": "oldFunction",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -4736,7 +4760,7 @@
       "lineno": 51,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
       "code": {
-        "id": "astnode100000638",
+        "id": "astnode100000641",
         "name": "newFunction",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -4760,7 +4784,7 @@
       "lineno": 56,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
       "code": {
-        "id": "astnode100000641",
+        "id": "astnode100000644",
         "name": "withParam",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -4796,7 +4820,7 @@
       "lineno": 62,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
       "code": {
-        "id": "astnode100000646",
+        "id": "astnode100000649",
         "name": "withParams",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -4840,7 +4864,7 @@
       "lineno": 68,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
       "code": {
-        "id": "astnode100000651",
+        "id": "astnode100000654",
         "name": "withOptional",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -4886,7 +4910,7 @@
       "lineno": 81,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
       "code": {
-        "id": "astnode100000656",
+        "id": "astnode100000659",
         "name": "withBullets",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -4932,7 +4956,7 @@
       "lineno": 86,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
       "code": {
-        "id": "astnode100000661",
+        "id": "astnode100000664",
         "name": "returnsSomething",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -4967,7 +4991,7 @@
       "lineno": 91,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
       "code": {
-        "id": "astnode100000666",
+        "id": "astnode100000669",
         "name": "returnsSomethingDesc",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -5003,7 +5027,7 @@
       "lineno": 96,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
       "code": {
-        "id": "astnode100000671",
+        "id": "astnode100000674",
         "name": "returnsSeveral",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -5040,7 +5064,7 @@
       "lineno": 111,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
       "code": {
-        "id": "astnode100000676",
+        "id": "astnode100000679",
         "name": "allTogether",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -5105,7 +5129,7 @@
       "lineno": 4,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/ignore",
       "code": {
-        "id": "astnode100000683",
+        "id": "astnode100000686",
         "name": "visible",
         "type": "Literal",
         "value": true
@@ -5128,7 +5152,7 @@
       "lineno": 10,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/ignore",
       "code": {
-        "id": "astnode100000687",
+        "id": "astnode100000690",
         "name": "invisible",
         "type": "Literal",
         "value": true
@@ -5152,7 +5176,7 @@
       "lineno": 6,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/implements",
       "code": {
-        "id": "astnode100000691",
+        "id": "astnode100000694",
         "name": "Synth",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -5184,7 +5208,7 @@
       "lineno": 10,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/implements",
       "code": {
-        "id": "astnode100000695",
+        "id": "astnode100000698",
         "name": "this.demo",
         "type": "FunctionExpression",
         "paramnames": []
@@ -5208,7 +5232,7 @@
       "lineno": 11,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/implements",
       "code": {
-        "id": "astnode100000702",
+        "id": "astnode100000705",
         "name": "this.say",
         "type": "FunctionExpression",
         "paramnames": [
@@ -5234,7 +5258,7 @@
       "lineno": 2,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/instance",
       "code": {
-        "id": "astnode100000711",
+        "id": "astnode100000714",
         "name": "SomeObject",
         "type": "ObjectExpression",
         "value": "{\"yeah\":null}"
@@ -5256,7 +5280,7 @@
       "lineno": 7,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/instance",
       "code": {
-        "id": "astnode100000714",
+        "id": "astnode100000717",
         "name": "yeah",
         "type": "Literal",
         "value": null
@@ -5280,7 +5304,7 @@
       "lineno": 11,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/instance",
       "code": {
-        "id": "astnode100000716",
+        "id": "astnode100000719",
         "name": "yeahFactory",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -5309,7 +5333,7 @@
       "lineno": 12,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/instance",
       "code": {
-        "id": "astnode100000721",
+        "id": "astnode100000724",
         "name": "props",
         "type": "ObjectExpression",
         "value": "{\"yeah\":\"\"}"
@@ -5333,7 +5357,7 @@
       "lineno": 12,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/instance",
       "code": {
-        "id": "astnode100000724",
+        "id": "astnode100000727",
         "name": "yeah",
         "type": "Identifier",
         "value": "yeahValue"
@@ -5357,7 +5381,7 @@
       "lineno": 7,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/interface",
       "code": {
-        "id": "astnode100000734",
+        "id": "astnode100000737",
         "name": "Speech",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -5381,7 +5405,7 @@
       "lineno": 13,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/interface",
       "code": {
-        "id": "astnode100000738",
+        "id": "astnode100000741",
         "name": "Speech.prototype.say",
         "type": "FunctionExpression",
         "paramnames": [
@@ -5418,7 +5442,7 @@
       "lineno": 2,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
       "code": {
-        "id": "astnode100000749",
+        "id": "astnode100000752",
         "name": "LendsClass",
         "type": "CallExpression",
         "value": ""
@@ -5440,7 +5464,7 @@
       "lineno": 4,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
       "code": {
-        "id": "astnode100000753",
+        "id": "astnode100000756",
         "type": "ObjectExpression"
       }
     },
@@ -5462,7 +5486,7 @@
       "lineno": 5,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
       "code": {
-        "id": "astnode100000754",
+        "id": "astnode100000757",
         "name": "initialize",
         "type": "FunctionExpression"
       }
@@ -5485,7 +5509,7 @@
       "lineno": 9,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
       "code": {
-        "id": "astnode100000758",
+        "id": "astnode100000761",
         "name": "say",
         "type": "FunctionExpression"
       }
@@ -5508,7 +5532,7 @@
       "lineno": 13,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
       "code": {
-        "id": "astnode100000763",
+        "id": "astnode100000766",
         "name": "LendsClass2",
         "type": "CallExpression",
         "value": ""
@@ -5531,7 +5555,7 @@
       "lineno": 19,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
       "code": {
-        "id": "astnode100000768",
+        "id": "astnode100000771",
         "name": "initialize",
         "type": "FunctionExpression"
       }
@@ -5553,7 +5577,7 @@
       "lineno": 23,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
       "code": {
-        "id": "astnode100000772",
+        "id": "astnode100000775",
         "name": "say",
         "type": "FunctionExpression"
       }
@@ -5631,7 +5655,7 @@
       "lineno": 14,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link",
       "code": {
-        "id": "astnode100000777",
+        "id": "astnode100000780",
         "name": "linkFunction",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -5656,7 +5680,7 @@
       "lineno": 18,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link",
       "code": {
-        "id": "astnode100000780",
+        "id": "astnode100000783",
         "name": "LinkClass",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -5684,7 +5708,7 @@
       "lineno": 20,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link",
       "code": {
-        "id": "astnode100000784",
+        "id": "astnode100000787",
         "name": "this.foo",
         "type": "Literal",
         "value": 1,
@@ -5709,7 +5733,7 @@
       "lineno": 4,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
       "code": {
-        "id": "astnode100000791",
+        "id": "astnode100000794",
         "name": "variable",
         "type": "Literal",
         "value": 1
@@ -5732,7 +5756,7 @@
       "lineno": 9,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
       "code": {
-        "id": "astnode100000795",
+        "id": "astnode100000798",
         "name": "typed",
         "type": "Literal",
         "value": 1
@@ -5759,7 +5783,7 @@
       "lineno": 14,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
       "code": {
-        "id": "astnode100000799",
+        "id": "astnode100000802",
         "name": "types",
         "type": "Literal",
         "value": 1
@@ -5787,7 +5811,7 @@
       "lineno": 23,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
       "code": {
-        "id": "astnode100000803",
+        "id": "astnode100000806",
         "name": "exampled",
         "type": "Literal",
         "value": 1
@@ -5813,7 +5837,7 @@
       "lineno": 36,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
       "code": {
-        "id": "astnode100000807",
+        "id": "astnode100000810",
         "name": "examples",
         "type": "Literal",
         "value": 1
@@ -5840,7 +5864,7 @@
       "lineno": 41,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
       "code": {
-        "id": "astnode100000811",
+        "id": "astnode100000814",
         "name": "_protected",
         "type": "Literal",
         "value": true
@@ -5863,7 +5887,7 @@
       "lineno": 46,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
       "code": {
-        "id": "astnode100000815",
+        "id": "astnode100000818",
         "name": "_private",
         "type": "Literal",
         "value": true
@@ -5886,7 +5910,7 @@
       "lineno": 51,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
       "code": {
-        "id": "astnode100000819",
+        "id": "astnode100000822",
         "name": "withAuthor",
         "type": "Literal",
         "value": true
@@ -5911,7 +5935,7 @@
       "lineno": 56,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
       "code": {
-        "id": "astnode100000823",
+        "id": "astnode100000826",
         "name": "hasDefault",
         "type": "Literal",
         "value": 23
@@ -5934,7 +5958,7 @@
       "lineno": 61,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
       "code": {
-        "id": "astnode100000827",
+        "id": "astnode100000830",
         "name": "hasDefaultObject",
         "type": "ObjectExpression",
         "value": "{\"one\":1,\"two\":2}"
@@ -5958,7 +5982,7 @@
       "lineno": 62,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
       "code": {
-        "id": "astnode100000830",
+        "id": "astnode100000833",
         "name": "one",
         "type": "Literal",
         "value": 1
@@ -5982,7 +6006,7 @@
       "lineno": 63,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
       "code": {
-        "id": "astnode100000832",
+        "id": "astnode100000835",
         "name": "two",
         "type": "Literal",
         "value": 2
@@ -6006,7 +6030,7 @@
       "lineno": 69,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
       "code": {
-        "id": "astnode100000835",
+        "id": "astnode100000838",
         "name": "deprecated",
         "type": "Literal",
         "value": true
@@ -6029,7 +6053,7 @@
       "lineno": 74,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
       "code": {
-        "id": "astnode100000839",
+        "id": "astnode100000842",
         "name": "readOnly",
         "type": "Literal",
         "value": true
@@ -6052,7 +6076,7 @@
       "lineno": 79,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
       "code": {
-        "id": "astnode100000843",
+        "id": "astnode100000846",
         "name": "hasSince",
         "type": "Literal",
         "value": true
@@ -6075,7 +6099,7 @@
       "lineno": 95,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/members",
       "code": {
-        "id": "astnode100000847",
+        "id": "astnode100000850",
         "name": "allTogether",
         "type": "Literal",
         "value": false
@@ -6114,7 +6138,7 @@
       "lineno": 6,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixes",
       "code": {
-        "id": "astnode100000851",
+        "id": "astnode100000854",
         "name": "EventfulClass",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -6141,7 +6165,7 @@
       "lineno": 5,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin-builder",
       "code": {
-        "id": "astnode100000856",
+        "id": "astnode100000859",
         "name": "builder",
         "type": "ObjectExpression",
         "value": "{\"construct\":\"\",\"repair\":\"\"}"
@@ -6164,7 +6188,7 @@
       "lineno": 9,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin-builder",
       "code": {
-        "id": "astnode100000859",
+        "id": "astnode100000862",
         "name": "construct",
         "type": "FunctionExpression"
       }
@@ -6187,7 +6211,7 @@
       "lineno": 13,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin-builder",
       "code": {
-        "id": "astnode100000862",
+        "id": "astnode100000865",
         "name": "repair",
         "type": "FunctionExpression"
       }
@@ -6210,7 +6234,7 @@
       "lineno": 6,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin",
       "code": {
-        "id": "astnode100000867",
+        "id": "astnode100000870",
         "name": "Eventful",
         "type": "ObjectExpression",
         "value": "{\"on\":\"\",\"fire\":\"\"}"
@@ -6233,7 +6257,7 @@
       "lineno": 12,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin",
       "code": {
-        "id": "astnode100000870",
+        "id": "astnode100000873",
         "name": "on",
         "type": "FunctionExpression"
       }
@@ -6276,7 +6300,7 @@
       "lineno": 19,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin",
       "code": {
-        "id": "astnode100000875",
+        "id": "astnode100000878",
         "name": "fire",
         "type": "FunctionExpression"
       }
@@ -6337,7 +6361,7 @@
       "lineno": 4,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
       "code": {
-        "id": "astnode100000882",
+        "id": "astnode100000885",
         "name": "car",
         "type": "ObjectExpression",
         "value": "{\"wheels\":18,\"sensors\":465,\"start\":\"\"}"
@@ -6359,7 +6383,7 @@
       "lineno": 8,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
       "code": {
-        "id": "astnode100000885",
+        "id": "astnode100000888",
         "name": "wheels",
         "type": "Literal",
         "value": 18
@@ -6383,7 +6407,7 @@
       "lineno": 12,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
       "code": {
-        "id": "astnode100000887",
+        "id": "astnode100000890",
         "name": "sensors",
         "type": "Literal",
         "value": 465
@@ -6407,7 +6431,7 @@
       "lineno": 19,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
       "code": {
-        "id": "astnode100000889",
+        "id": "astnode100000892",
         "name": "start",
         "type": "FunctionExpression"
       },
@@ -6449,7 +6473,7 @@
       "lineno": 24,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
       "code": {
-        "id": "astnode100000895",
+        "id": "astnode100000898",
         "name": "this.env",
         "type": "ObjectExpression",
         "value": "{\"weather\":\"choppy\",\"roads\":\"wet\"}",
@@ -6474,7 +6498,7 @@
       "lineno": 30,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
       "code": {
-        "id": "astnode100000900",
+        "id": "astnode100000903",
         "name": "weather",
         "type": "Literal",
         "value": "choppy"
@@ -6504,7 +6528,7 @@
       "lineno": 36,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
       "code": {
-        "id": "astnode100000902",
+        "id": "astnode100000905",
         "name": "roads",
         "type": "Literal",
         "value": "wet"
@@ -6552,7 +6576,7 @@
       "lineno": 5,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
       "code": {
-        "id": "astnode100000906",
+        "id": "astnode100000909",
         "name": "missle",
         "type": "ObjectExpression",
         "value": "{\"range\":100000,\"ballistic\":true,\"hydrogen\":true,\"megaton\":200,\"destruction\":\"total\"}"
@@ -6575,7 +6599,7 @@
       "lineno": 11,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
       "code": {
-        "id": "astnode100000909",
+        "id": "astnode100000912",
         "name": "range",
         "type": "Literal",
         "value": 100000
@@ -6605,7 +6629,7 @@
       "lineno": 18,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
       "code": {
-        "id": "astnode100000911",
+        "id": "astnode100000914",
         "name": "ballistic",
         "type": "Literal",
         "value": true
@@ -6635,7 +6659,7 @@
       "lineno": 22,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
       "code": {
-        "id": "astnode100000913",
+        "id": "astnode100000916",
         "name": "hydrogen",
         "type": "Literal",
         "value": true
@@ -6659,7 +6683,7 @@
       "lineno": 29,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
       "code": {
-        "id": "astnode100000915",
+        "id": "astnode100000918",
         "name": "megaton",
         "type": "Literal",
         "value": 200
@@ -6689,7 +6713,7 @@
       "lineno": 30,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
       "code": {
-        "id": "astnode100000917",
+        "id": "astnode100000920",
         "name": "destruction",
         "type": "Literal",
         "value": "total"
@@ -6713,7 +6737,7 @@
       "lineno": 42,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
       "code": {
-        "id": "astnode100000920",
+        "id": "astnode100000923",
         "name": "personality",
         "type": "ObjectExpression",
         "value": "{\"openness\":\"\",\"conscientiousness\":\"\",\"extraversion\":\"\",\"agreeableness\":\"\",\"neuroticism\":\"\"}"
@@ -6783,7 +6807,7 @@
       "lineno": 43,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
       "code": {
-        "id": "astnode100000923",
+        "id": "astnode100000926",
         "name": "openness",
         "type": "Literal",
         "value": ""
@@ -6807,7 +6831,7 @@
       "lineno": 44,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
       "code": {
-        "id": "astnode100000925",
+        "id": "astnode100000928",
         "name": "conscientiousness",
         "type": "Literal",
         "value": ""
@@ -6831,7 +6855,7 @@
       "lineno": 45,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
       "code": {
-        "id": "astnode100000927",
+        "id": "astnode100000930",
         "name": "extraversion",
         "type": "Literal",
         "value": ""
@@ -6855,7 +6879,7 @@
       "lineno": 46,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
       "code": {
-        "id": "astnode100000929",
+        "id": "astnode100000932",
         "name": "agreeableness",
         "type": "Literal",
         "value": ""
@@ -6879,7 +6903,7 @@
       "lineno": 47,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
       "code": {
-        "id": "astnode100000931",
+        "id": "astnode100000934",
         "name": "neuroticism",
         "type": "Literal",
         "value": ""
@@ -6903,7 +6927,7 @@
       "lineno": 6,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/newlines",
       "code": {
-        "id": "astnode100000934",
+        "id": "astnode100000937",
         "name": "NewLines",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -6932,7 +6956,7 @@
       "lineno": 15,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/newlines",
       "code": {
-        "id": "astnode100000938",
+        "id": "astnode100000941",
         "name": "this.method",
         "type": "FunctionExpression",
         "paramnames": [
@@ -6978,7 +7002,7 @@
       "lineno": 22,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/newlines",
       "code": {
-        "id": "astnode100000946",
+        "id": "astnode100000949",
         "name": "this.numbers",
         "type": "ObjectExpression",
         "value": "{}",
@@ -7013,7 +7037,7 @@
       "lineno": 4,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/object-rest-spread",
       "code": {
-        "id": "astnode100000953",
+        "id": "astnode100000956",
         "name": "obj1",
         "type": "ObjectExpression",
         "value": "{\"one\":1}"
@@ -7036,7 +7060,7 @@
       "lineno": 4,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/object-rest-spread",
       "code": {
-        "id": "astnode100000956",
+        "id": "astnode100000959",
         "name": "one",
         "type": "Literal",
         "value": 1
@@ -7060,7 +7084,7 @@
       "lineno": 10,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/object-rest-spread",
       "code": {
-        "id": "astnode100000959",
+        "id": "astnode100000962",
         "name": "obj2",
         "type": "ObjectExpression",
         "value": "{\"two\":2}"
@@ -7086,7 +7110,7 @@
       "lineno": 10,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/object-rest-spread",
       "code": {
-        "id": "astnode100000964",
+        "id": "astnode100000967",
         "name": "two",
         "type": "Literal",
         "value": 2
@@ -7110,7 +7134,7 @@
       "lineno": 6,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/options",
       "code": {
-        "id": "astnode100000967",
+        "id": "astnode100000970",
         "name": "doSomething",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -7163,7 +7187,7 @@
       "lineno": 11,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/options",
       "code": {
-        "id": "astnode100000971",
+        "id": "astnode100000974",
         "name": "doAnother",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -7198,7 +7222,7 @@
       "lineno": 26,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/param-default",
       "code": {
-        "id": "astnode100000976",
+        "id": "astnode100000979",
         "name": "paramDefaults",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -7442,7 +7466,7 @@
       "lineno": 14,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/param-markdown",
       "code": {
-        "id": "astnode100000981",
+        "id": "astnode100000984",
         "name": "taze",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -7544,7 +7568,7 @@
       "lineno": 5,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/param-variable",
       "code": {
-        "id": "astnode100000988",
+        "id": "astnode100000991",
         "name": "pluck",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -7581,7 +7605,7 @@
       "lineno": 10,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/param-variable",
       "code": {
-        "id": "astnode100000992",
+        "id": "astnode100000995",
         "name": "Plucker",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -7604,7 +7628,7 @@
       "lineno": 18,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/param-variable",
       "code": {
-        "id": "astnode100000996",
+        "id": "astnode100000999",
         "name": "Plucker.prototype.doPluck",
         "type": "FunctionExpression",
         "paramnames": [
@@ -7662,7 +7686,7 @@
       "lineno": 2,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/private",
       "code": {
-        "id": "astnode100001008",
+        "id": "astnode100001011",
         "name": "Documents",
         "type": "ObjectExpression",
         "value": "{\"Newspaper\":1,\"Diary\":2}"
@@ -7684,7 +7708,7 @@
       "lineno": 6,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/private",
       "code": {
-        "id": "astnode100001011",
+        "id": "astnode100001014",
         "name": "Newspaper",
         "type": "Literal",
         "value": 1
@@ -7708,7 +7732,7 @@
       "lineno": 11,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/private",
       "code": {
-        "id": "astnode100001013",
+        "id": "astnode100001016",
         "name": "Diary",
         "type": "Literal",
         "value": 2
@@ -7733,7 +7757,7 @@
       "lineno": 9,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/property",
       "code": {
-        "id": "astnode100001017",
+        "id": "astnode100001020",
         "name": "config",
         "type": "ObjectExpression",
         "value": "{\"defaults\":\"\"}"
@@ -7802,7 +7826,7 @@
       "lineno": 10,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/property",
       "code": {
-        "id": "astnode100001020",
+        "id": "astnode100001023",
         "name": "defaults",
         "type": "ObjectExpression",
         "value": "{\"players\":1,\"level\":\"beginner\",\"treasure\":\"\"}"
@@ -7826,7 +7850,7 @@
       "lineno": 11,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/property",
       "code": {
-        "id": "astnode100001022",
+        "id": "astnode100001025",
         "name": "players",
         "type": "Literal",
         "value": 1
@@ -7850,7 +7874,7 @@
       "lineno": 12,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/property",
       "code": {
-        "id": "astnode100001024",
+        "id": "astnode100001027",
         "name": "level",
         "type": "Literal",
         "value": "beginner"
@@ -7874,7 +7898,7 @@
       "lineno": 13,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/property",
       "code": {
-        "id": "astnode100001026",
+        "id": "astnode100001029",
         "name": "treasure",
         "type": "ObjectExpression",
         "value": "{\"gold\":0}"
@@ -7898,7 +7922,7 @@
       "lineno": 14,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/property",
       "code": {
-        "id": "astnode100001028",
+        "id": "astnode100001031",
         "name": "gold",
         "type": "Literal",
         "value": 0
@@ -7922,7 +7946,7 @@
       "lineno": 5,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/requires",
       "code": {
-        "id": "astnode100001031",
+        "id": "astnode100001034",
         "name": "requirer",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -7949,7 +7973,7 @@
       "lineno": 6,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/returns",
       "code": {
-        "id": "astnode100001035",
+        "id": "astnode100001038",
         "name": "globalFunction",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -7995,7 +8019,7 @@
       "lineno": 12,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/returns",
       "code": {
-        "id": "astnode100001040",
+        "id": "astnode100001043",
         "name": "returnsSomething",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -8031,7 +8055,7 @@
       "lineno": 4,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/returns2",
       "code": {
-        "id": "astnode100001046",
+        "id": "astnode100001049",
         "name": "returnsSomething",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -8063,7 +8087,7 @@
       "lineno": 9,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/returns2",
       "code": {
-        "id": "astnode100001049",
+        "id": "astnode100001052",
         "name": "returnsWithDesc",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -8096,7 +8120,7 @@
       "lineno": 5,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/see",
       "code": {
-        "id": "astnode100001054",
+        "id": "astnode100001057",
         "name": "seeableVar",
         "type": "Literal",
         "value": "something"
@@ -8122,7 +8146,7 @@
       "lineno": 12,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/see",
       "code": {
-        "id": "astnode100001057",
+        "id": "astnode100001060",
         "name": "seefoo",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -8150,7 +8174,7 @@
       "lineno": 19,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/see",
       "code": {
-        "id": "astnode100001060",
+        "id": "astnode100001063",
         "name": "seebar",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -8177,7 +8201,7 @@
       "lineno": 2,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/summary",
       "code": {
-        "id": "astnode100001067",
+        "id": "astnode100001070",
         "name": "render",
         "type": "CallExpression",
         "value": ""
@@ -8200,7 +8224,7 @@
       "lineno": 4,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/summary",
       "code": {
-        "id": "astnode100001073",
+        "id": "astnode100001076",
         "name": "src",
         "type": "BinaryExpression",
         "value": ""
@@ -8223,7 +8247,7 @@
       "lineno": 7,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/summary",
       "code": {
-        "id": "astnode100001082",
+        "id": "astnode100001085",
         "name": "src",
         "type": "Identifier",
         "value": "src"
@@ -8246,7 +8270,7 @@
       "lineno": 8,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/summary",
       "code": {
-        "id": "astnode100001084",
+        "id": "astnode100001087",
         "name": "template",
         "type": "BinaryExpression",
         "value": ""
@@ -8269,7 +8293,7 @@
       "lineno": 9,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/summary",
       "code": {
-        "id": "astnode100001088",
+        "id": "astnode100001091",
         "name": "\"global-index-format\"",
         "type": "Literal",
         "value": "none"
@@ -8292,7 +8316,7 @@
       "lineno": 10,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/summary",
       "code": {
-        "id": "astnode100001090",
+        "id": "astnode100001093",
         "name": "source",
         "type": "Identifier",
         "value": "src"
@@ -8315,7 +8339,7 @@
       "lineno": 2,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/this",
       "code": {
-        "id": "astnode100001096",
+        "id": "astnode100001099",
         "name": "Greeter",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -8340,7 +8364,7 @@
       "lineno": 7,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/this",
       "code": {
-        "id": "astnode100001107",
+        "id": "astnode100001110",
         "name": "setName",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -8369,7 +8393,7 @@
       "lineno": 9,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/this",
       "code": {
-        "id": "astnode100001112",
+        "id": "astnode100001115",
         "name": "this.name",
         "type": "Identifier",
         "value": "name",
@@ -8394,7 +8418,7 @@
       "lineno": 6,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/throws",
       "code": {
-        "id": "astnode100001118",
+        "id": "astnode100001121",
         "name": "throwingFunction",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -8437,7 +8461,7 @@
       "lineno": 5,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/todo",
       "code": {
-        "id": "astnode100001122",
+        "id": "astnode100001125",
         "name": "todoFunction1",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -8464,7 +8488,7 @@
       "lineno": 13,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/todo",
       "code": {
-        "id": "astnode100001125",
+        "id": "astnode100001128",
         "name": "todoFunction2",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -8505,7 +8529,7 @@
       "lineno": 19,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/todo",
       "code": {
-        "id": "astnode100001128",
+        "id": "astnode100001131",
         "name": "todoFunction3",
         "type": "FunctionDeclaration",
         "paramnames": []
@@ -8566,7 +8590,7 @@
       "lineno": 10,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/typedef",
       "code": {
-        "id": "astnode100001132",
+        "id": "astnode100001135",
         "name": "setMagicNumber",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -8645,7 +8669,7 @@
       "lineno": 22,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/typedef",
       "code": {
-        "id": "astnode100001136",
+        "id": "astnode100001139",
         "name": "doSomething",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -8680,7 +8704,7 @@
       "lineno": 4,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/types",
       "code": {
-        "id": "astnode100001142",
+        "id": "astnode100001145",
         "name": "returnsArrayOfType"
       }
     },
@@ -8705,7 +8729,7 @@
       "lineno": 9,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/types",
       "code": {
-        "id": "astnode100001145",
+        "id": "astnode100001148",
         "name": "returnsArrayOfType2"
       }
     },
@@ -8731,7 +8755,7 @@
       "lineno": 14,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/types",
       "code": {
-        "id": "astnode100001148",
+        "id": "astnode100001151",
         "name": "nullableNumber",
         "type": "Literal",
         "value": null
@@ -8759,7 +8783,7 @@
       "lineno": 19,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/types",
       "code": {
-        "id": "astnode100001152",
+        "id": "astnode100001155",
         "name": "nonNullableNumber",
         "type": "Literal",
         "value": null
@@ -8787,7 +8811,7 @@
       "lineno": 24,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/types",
       "code": {
-        "id": "astnode100001156",
+        "id": "astnode100001159",
         "name": "objectType",
         "type": "ObjectExpression",
         "value": "{}"
@@ -8814,7 +8838,7 @@
       "lineno": 29,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/types",
       "code": {
-        "id": "astnode100001159",
+        "id": "astnode100001162",
         "name": "nullableArrayTypeParam",
         "type": "FunctionDeclaration",
         "paramnames": [
@@ -8849,7 +8873,7 @@
       "lineno": 6,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/var",
       "code": {
-        "id": "astnode100001165",
+        "id": "astnode100001168",
         "name": "globalVar",
         "type": "Literal",
         "value": "something"
@@ -8948,7 +8972,7 @@
       "lineno": 12,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin",
       "code": {
-        "id": "astnode100000870",
+        "id": "astnode100000873",
         "name": "on",
         "type": "FunctionExpression"
       }
@@ -8995,7 +9019,7 @@
       "lineno": 19,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin",
       "code": {
-        "id": "astnode100000875",
+        "id": "astnode100000878",
         "name": "fire",
         "type": "FunctionExpression"
       }
@@ -9042,7 +9066,7 @@
       "lineno": 13,
       "path": "/Users/lloyd/Documents/75lb/testbed/build/global/interface",
       "code": {
-        "id": "astnode100000738",
+        "id": "astnode100000741",
         "name": "Speech.prototype.say",
         "type": "FunctionExpression",
         "paramnames": [
