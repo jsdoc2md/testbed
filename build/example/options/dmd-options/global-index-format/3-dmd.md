@@ -35,9 +35,6 @@ class description</p>
         * [.species](#Animal+species) : <code>[Species](#Species)</code>
     * _static_
         * [.eMood](#Animal.eMood)
-            * [.satisfied](#Animal.eMood.satisfied)
-            * [.angry](#Animal.eMood.angry)
-            * [.hungry](#Animal.eMood.hungry)
 * [FurQ](#FurQ) ⇐ <code>[Rapper](#Rapper)</code>
     * [new FurQ()](#new_FurQ_new)
     * _instance_
@@ -52,10 +49,7 @@ class description</p>
             * [.kill()](#FurQ+kill)
             * [.respect(done)](#FurQ+respect)
     * _static_
-        * [.enemy](#FurQ.enemy) : <code>number</code>
-            * [.COCK](#FurQ.enemy.COCK) : <code>number</code>
-            * [.BITCH](#FurQ.enemy.BITCH) : <code>number</code>
-            * [.MUTHAFUCKA](#FurQ.enemy.MUTHAFUCKA) : <code>number</code>
+        * [.enemy](#FurQ.enemy) : <code>enum</code>
         * ~~[.peace()](#FurQ.peace)~~
     * _inner_
         * [~onRespect](#FurQ..onRespect) : <code>function</code>

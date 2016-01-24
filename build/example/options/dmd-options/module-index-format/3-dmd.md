@@ -47,9 +47,6 @@
             * [.species](#module_animal..Animal+species) : <code>Species</code>
         * _static_
             * [.eMood](#module_animal..Animal.eMood)
-                * [.satisfied](#module_animal..Animal.eMood.satisfied)
-                * [.angry](#module_animal..Animal.eMood.angry)
-                * [.hungry](#module_animal..Animal.eMood.hungry)
 * [builder](#module_builder)
     * [~builder](#module_builder..builder)
         * [.construct()](#module_builder..builder.construct)

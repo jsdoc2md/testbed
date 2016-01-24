@@ -26,7 +26,7 @@
       "filename": "builder.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/module-index-format/src"
     },
-    "order": 9
+    "order": 6
   },
   {
     "id": "module:species",
@@ -39,7 +39,7 @@
       "filename": "species.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/module-index-format/src"
     },
-    "order": 13
+    "order": 10
   },
   {
     "id": "module:animal~Animal()",
@@ -127,7 +127,7 @@
       "filename": "species.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/module-index-format/src"
     },
-    "order": 15
+    "order": 12
   },
   {
     "id": "module:species~Species#species",
@@ -146,16 +146,17 @@
       "filename": "species.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/module-index-format/src"
     },
-    "order": 16
+    "order": 13
   },
   {
     "id": "module:animal~Animal.eMood",
     "longname": "module:animal~Animal.eMood",
     "name": "eMood",
     "scope": "static",
-    "kind": "enum",
+    "kind": "member",
     "description": "Animal moods",
     "memberof": "module:animal~Animal",
+    "isEnum": true,
     "properties": [
       {
         "description": "chilling",
@@ -193,54 +194,6 @@
     "order": 5
   },
   {
-    "id": "module:animal~Animal.eMood.satisfied",
-    "longname": "module:animal~Animal.eMood.satisfied",
-    "name": "satisfied",
-    "scope": "static",
-    "kind": "member",
-    "description": "chilling",
-    "memberof": "module:animal~Animal.eMood",
-    "defaultvalue": 0,
-    "meta": {
-      "lineno": 41,
-      "filename": "animal.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/module-index-format/src"
-    },
-    "order": 6
-  },
-  {
-    "id": "module:animal~Animal.eMood.angry",
-    "longname": "module:animal~Animal.eMood.angry",
-    "name": "angry",
-    "scope": "static",
-    "kind": "member",
-    "description": "pissed off",
-    "memberof": "module:animal~Animal.eMood",
-    "defaultvalue": 1,
-    "meta": {
-      "lineno": 43,
-      "filename": "animal.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/module-index-format/src"
-    },
-    "order": 7
-  },
-  {
-    "id": "module:animal~Animal.eMood.hungry",
-    "longname": "module:animal~Animal.eMood.hungry",
-    "name": "hungry",
-    "scope": "static",
-    "kind": "member",
-    "description": "need to eat",
-    "memberof": "module:animal~Animal.eMood",
-    "defaultvalue": 2,
-    "meta": {
-      "lineno": 45,
-      "filename": "animal.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/module-index-format/src"
-    },
-    "order": 8
-  },
-  {
     "id": "module:builder~builder.construct",
     "longname": "module:builder~builder.construct",
     "name": "construct",
@@ -253,7 +206,7 @@
       "filename": "builder.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/module-index-format/src"
     },
-    "order": 11
+    "order": 8
   },
   {
     "id": "module:builder~builder.repair",
@@ -268,7 +221,7 @@
       "filename": "builder.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/module-index-format/src"
     },
-    "order": 12
+    "order": 9
   },
   {
     "id": "module:species~Species.merge",
@@ -312,7 +265,7 @@
       "filename": "species.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/module-index-format/src"
     },
-    "order": 17
+    "order": 14
   },
   {
     "id": "module:animal~Animal",
@@ -340,7 +293,7 @@
       "filename": "species.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/module-index-format/src"
     },
-    "order": 14
+    "order": 11
   },
   {
     "id": "module:builder~builder",
@@ -354,6 +307,6 @@
       "filename": "builder.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/module-index-format/src"
     },
-    "order": 10
+    "order": 7
   }
 ]

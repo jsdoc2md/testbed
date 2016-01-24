@@ -38,7 +38,7 @@
     "examples": [
       "var uziLover = require(\"FurQ\")"
     ],
-    "order": 9
+    "order": 6
   },
   {
     "id": "Rapper.train~School()",
@@ -48,7 +48,7 @@
     "description": "rap school",
     "memberof": "Rapper.train~School",
     "params": [],
-    "order": 29
+    "order": 23
   },
   {
     "id": "Animal",
@@ -91,7 +91,7 @@
       "filename": "furq.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 8
+    "order": 5
   },
   {
     "id": "Rapper",
@@ -104,7 +104,7 @@
       "filename": "furq.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 24
+    "order": 18
   },
   {
     "id": "NewLines",
@@ -118,7 +118,7 @@
       "filename": "newlines.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 31
+    "order": 25
   },
   {
     "id": "Species",
@@ -132,7 +132,7 @@
       "filename": "species.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 34
+    "order": 28
   },
   {
     "id": "plant",
@@ -147,7 +147,7 @@
       "filename": "furq.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 22
+    "order": 16
   },
   {
     "id": "Animal#age",
@@ -211,7 +211,7 @@
       "filename": "furq.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 13
+    "order": 10
   },
   {
     "id": "Rapper.train~School#bestStudent",
@@ -226,7 +226,7 @@
       "filename": "furq.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 30
+    "order": 24
   },
   {
     "id": "NewLines#numbers",
@@ -251,7 +251,7 @@
       "filename": "newlines.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 33
+    "order": 27
   },
   {
     "id": "Species#name",
@@ -271,7 +271,7 @@
       "filename": "species.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 35
+    "order": 29
   },
   {
     "id": "Species#species",
@@ -290,7 +290,7 @@
       "filename": "species.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 36
+    "order": 30
   },
   {
     "id": "FurQ#LOVE",
@@ -310,7 +310,7 @@
       "filename": "furq.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 12
+    "order": 9
   },
   {
     "id": "FurQ#spit",
@@ -326,7 +326,7 @@
       "filename": "furq.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 14
+    "order": 11
   },
   {
     "id": "Rapper#spit",
@@ -341,7 +341,7 @@
       "filename": "furq.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 25
+    "order": 19
   },
   {
     "id": "Rapper#battle",
@@ -356,7 +356,7 @@
       "filename": "furq.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 26
+    "order": 20
   },
   {
     "id": "NewLines#method",
@@ -391,7 +391,7 @@
       "filename": "newlines.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 32
+    "order": 26
   },
   {
     "id": "FurQ#battle",
@@ -408,7 +408,7 @@
       "filename": "furq.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 38
+    "order": 32
   },
   {
     "id": "FurQ#punch",
@@ -424,7 +424,7 @@
       "filename": "furq.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 39
+    "order": 33
   },
   {
     "id": "FurQ#event:pop",
@@ -450,7 +450,7 @@
       "filename": "furq.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 15
+    "order": 12
   },
   {
     "id": "FurQ#event:slap",
@@ -465,7 +465,7 @@
       "filename": "furq.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 16
+    "order": 13
   },
   {
     "id": "FurQ#kill",
@@ -485,7 +485,7 @@
       "filename": "furq.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 10
+    "order": 7
   },
   {
     "id": "FurQ#respect",
@@ -515,16 +515,17 @@
       "filename": "furq.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 11
+    "order": 8
   },
   {
     "id": "Animal.eMood",
     "longname": "Animal.eMood",
     "name": "eMood",
     "scope": "static",
-    "kind": "enum",
+    "kind": "member",
     "description": "Animal moods",
     "memberof": "Animal",
+    "isEnum": true,
     "properties": [
       {
         "description": "chilling",
@@ -566,7 +567,7 @@
     "longname": "FurQ.enemy",
     "name": "enemy",
     "scope": "static",
-    "kind": "enum",
+    "kind": "member",
     "description": "FUR-Q enemy types",
     "memberof": "FurQ",
     "type": {
@@ -575,6 +576,7 @@
       ]
     },
     "readonly": true,
+    "isEnum": true,
     "properties": [
       {
         "description": "an awful individual",
@@ -622,116 +624,7 @@
       "filename": "furq.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 18
-  },
-  {
-    "id": "Animal.eMood.satisfied",
-    "longname": "Animal.eMood.satisfied",
-    "name": "satisfied",
-    "scope": "static",
-    "kind": "member",
-    "description": "chilling",
-    "memberof": "Animal.eMood",
-    "defaultvalue": 0,
-    "meta": {
-      "lineno": 33,
-      "filename": "animal.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
-    },
-    "order": 5
-  },
-  {
-    "id": "Animal.eMood.angry",
-    "longname": "Animal.eMood.angry",
-    "name": "angry",
-    "scope": "static",
-    "kind": "member",
-    "description": "pissed off",
-    "memberof": "Animal.eMood",
-    "defaultvalue": 1,
-    "meta": {
-      "lineno": 35,
-      "filename": "animal.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
-    },
-    "order": 6
-  },
-  {
-    "id": "Animal.eMood.hungry",
-    "longname": "Animal.eMood.hungry",
-    "name": "hungry",
-    "scope": "static",
-    "kind": "member",
-    "description": "need to eat",
-    "memberof": "Animal.eMood",
-    "defaultvalue": 2,
-    "meta": {
-      "lineno": 37,
-      "filename": "animal.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
-    },
-    "order": 7
-  },
-  {
-    "id": "FurQ.enemy.COCK",
-    "longname": "FurQ.enemy.COCK",
-    "name": "COCK",
-    "scope": "static",
-    "kind": "member",
-    "description": "an awful individual",
-    "memberof": "FurQ.enemy",
-    "type": {
-      "names": [
-        "number"
-      ]
-    },
-    "defaultvalue": 0,
-    "meta": {
-      "lineno": 89,
-      "filename": "furq.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
-    },
-    "order": 19
-  },
-  {
-    "id": "FurQ.enemy.BITCH",
-    "longname": "FurQ.enemy.BITCH",
-    "name": "BITCH",
-    "scope": "static",
-    "kind": "member",
-    "memberof": "FurQ.enemy",
-    "type": {
-      "names": [
-        "number"
-      ]
-    },
-    "defaultvalue": 1,
-    "meta": {
-      "lineno": 90,
-      "filename": "furq.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
-    },
-    "order": 20
-  },
-  {
-    "id": "FurQ.enemy.MUTHAFUCKA",
-    "longname": "FurQ.enemy.MUTHAFUCKA",
-    "name": "MUTHAFUCKA",
-    "scope": "static",
-    "kind": "member",
-    "memberof": "FurQ.enemy",
-    "type": {
-      "names": [
-        "number"
-      ]
-    },
-    "defaultvalue": 2,
-    "meta": {
-      "lineno": 91,
-      "filename": "furq.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
-    },
-    "order": 21
+    "order": 15
   },
   {
     "id": "FurQ.peace",
@@ -750,7 +643,7 @@
       "filename": "furq.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 17
+    "order": 14
   },
   {
     "id": "Rapper.train",
@@ -765,7 +658,7 @@
       "filename": "furq.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 27
+    "order": 21
   },
   {
     "id": "Species.merge",
@@ -809,7 +702,7 @@
       "filename": "species.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 37
+    "order": 31
   },
   {
     "id": "Rapper.train~School",
@@ -823,7 +716,7 @@
       "filename": "furq.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 28
+    "order": 22
   },
   {
     "id": "FurQ~onRespect",
@@ -863,6 +756,6 @@
       "filename": "furq.js",
       "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/global-index-format/src"
     },
-    "order": 23
+    "order": 17
   }
 ]
