@@ -1,0 +1,71 @@
+[
+  {
+    "comment": "/**\n * exporting a function pointer.. requires an @alias else exportedFunction is documented as an inner.\n * @module es6-modules-default2\n */",
+    "meta": {
+      "range": [
+        0,
+        141
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-modules-default2",
+      "code": {}
+    },
+    "description": "exporting a function pointer.. requires an @alias else exportedFunction is documented as an inner.",
+    "kind": "module",
+    "name": "es6-modules-default2",
+    "longname": "module:es6-modules-default2"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        143,
+        243
+      ],
+      "filename": "0-src.js",
+      "lineno": 6,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-modules-default2",
+      "code": {
+        "id": "astnode100000001",
+        "name": "module.exports",
+        "type": "Identifier"
+      }
+    },
+    "undocumented": true,
+    "name": "module:es6-modules-default2",
+    "longname": "module:es6-modules-default2",
+    "kind": "member"
+  },
+  {
+    "comment": "/**\n * exported function\n * @alias module:es6-modules-default2\n */",
+    "meta": {
+      "range": [
+        243,
+        292
+      ],
+      "filename": "0-src.js",
+      "lineno": 12,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-modules-default2",
+      "code": {
+        "id": "astnode100000003",
+        "name": "exportedFunction",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "description": "exported function",
+    "alias": "module:es6-modules-default2",
+    "name": "module:es6-modules-default2",
+    "longname": "module:es6-modules-default2",
+    "kind": "function",
+    "params": []
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/75lb/testbed/build/global/es6-modules-default2/0-src.js"
+    ]
+  }
+]
