@@ -12,3 +12,8 @@
  * - an unusual aftertaste
  */
 function taze (victim, options, done) {}
+
+/**
+ * this func has no params
+ */
+function noParams () {}

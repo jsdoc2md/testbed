@@ -7,6 +7,7 @@ Pump an idiot full of volts
 
 **Kind**: global function  
 **Params**
+
 - victim <code>object</code> | <code>array</code> - the victim(s) to fry
 - [options] <code>object</code> - electricution options
     - [.strength] <code>number</code> <code> = 11</code> - strength
@@ -17,6 +18,16 @@ Pump an idiot full of volts
 - devestating power
 - an unusual aftertaste
 
+
+
+* * *
+
+## `jsdoc2md --param-list-format list` no params
+<a name="noParams"></a>
+### noParams()
+this func has no params
+
+**Kind**: global function  
 
 
 * * *
