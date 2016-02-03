@@ -1,50 +1,11 @@
 ## `jsdoc2md --member-index-format list`
-This format is inspired by the [node docs](http://nodejs.org/api/). 
-
-* [Chainable](#Chainable)
-    * [chainable.method()](#Chainable+method) ↩︎
-
--
-
-* ~~[All](#All) ⇐ <code>Number</code>~~
-    * [new All(input, [options])](#new_All_new)
-    * [all.topping](#All+topping) : <code>string</code>
-    * [all.size](#All+size)
-    * ~~[all.allThings(one, two)](#All+allThings) ⇒ <code>object</code> &#124; <code>string</code>~~
-        * [~some](#All+allThings..some)
-
--
+This format is inspired by the [node docs](http://nodejs.org/api/).
 
 * [Animal](#Animal)
     * [new Animal(species, parents)](#new_Animal_new)
     * [animal.age](#Animal+age) : <code>number</code>
     * [animal.species](#Animal+species) : <code>[Species](#Species)</code>
     * [Animal.eMood](#Animal.eMood)
-
--
-
-* [Person](#Person) ⇐ <code>Object</code>
-    * [new Person()](#new_Person_new)
-
--
-
-* [Car](#Car)
-    * [new Car([options])](#new_Car_new)
-
--
-
-* [Pipe](#Pipe) ⇐ <code>[Pipe](#Pipe)</code>
-
--
-
-* ~~[Everything](#Everything) ⇐ <code>[Pipe](#Pipe)</code>~~
-    * [new Everything(input, [options])](#new_Everything_new)
-
--
-
-* [Rice](#Rice)
-    * ["cooked"](#Rice+event_cooked)
-    * ["cooking"](#Rice+event_cooking)
 
 -
 
@@ -75,23 +36,9 @@ This format is inspired by the [node docs](http://nodejs.org/api/).
 
 -
 
-* [Something](#Something)
-    * [something.methodOne()](#Something+methodOne)
-    * ~~[something.allTogether(one, two)](#Something+allTogether) ⇒ <code>object</code> &#124; <code>string</code>~~
-
--
-
-* [Pizza](#Pizza)
-    * [pizza.size](#Pizza+size)
-    * [pizza.topping](#Pizza+topping) : <code>string</code>
-    * [pizza.size](#Pizza+size)
-
--
-
-* [Pizza](#Pizza)
-    * [pizza.size](#Pizza+size)
-    * [pizza.topping](#Pizza+topping) : <code>string</code>
-    * [pizza.size](#Pizza+size)
+* [NewLines](#NewLines)
+    * [newLines.numbers](#NewLines+numbers)
+    * [newLines.method(input)](#NewLines+method) ⇒ <code>number</code>
 
 -
 
@@ -102,150 +49,13 @@ This format is inspired by the [node docs](http://nodejs.org/api/).
 
 -
 
-* [GlobalChildClass](#GlobalChildClass) ⇐ <code>[GlobalClass](#GlobalClass)</code>
-    * [globalChildClass.propThree](#GlobalChildClass+propThree)
-    * [globalChildClass.propThree](#GlobalChildClass+propThree)
-    * [globalChildClass.propOne](#GlobalClass+propOne)
-    * [globalChildClass.methodTwo()](#GlobalChildClass+methodTwo)
-    * [globalChildClass.methodTwo()](#GlobalChildClass+methodTwo)
-    * [globalChildClass.methodOne()](#GlobalClass+methodOne)
+* [plant()](#plant)
 
 -
-
-* [customClass](#customClass)
-    * [new customClass()](#new_customClass_new)
-
--
-
-* [Tree](#Tree)
-
--
-
-* [GlobalClass](#GlobalClass)
-    * [new GlobalClass(one, two)](#new_GlobalClass_new)
-    * [new GlobalClass()](#new_GlobalClass_new)
-    * [new GlobalClass(one, two)](#new_GlobalClass_new)
-    * [globalClass.propOne](#GlobalClass+propOne)
-    * [globalClass.propOne](#GlobalClass+propOne) : <code>number</code>
-    * [globalClass.methodOne()](#GlobalClass+methodOne)
-    * [globalClass.methodTwo()](#GlobalClass+methodTwo)
-    * [globalClass.methodOne()](#GlobalClass+methodOne)
-    * [globalClass.methodTwo()](#GlobalClass+methodTwo)
-    * [GlobalClass.propTwo](#GlobalClass.propTwo)
-    * [GlobalClass.shat()](#GlobalClass.shat)
-
--
-
-* [GlobalClass](#GlobalClass)
-    * [new GlobalClass(one, two)](#new_GlobalClass_new)
-    * [new GlobalClass()](#new_GlobalClass_new)
-    * [new GlobalClass(one, two)](#new_GlobalClass_new)
-    * [globalClass.propOne](#GlobalClass+propOne)
-    * [globalClass.propOne](#GlobalClass+propOne) : <code>number</code>
-    * [globalClass.methodOne()](#GlobalClass+methodOne)
-    * [globalClass.methodTwo()](#GlobalClass+methodTwo)
-    * [globalClass.methodOne()](#GlobalClass+methodOne)
-    * [globalClass.methodTwo()](#GlobalClass+methodTwo)
-    * [GlobalClass.propTwo](#GlobalClass.propTwo)
-    * [GlobalClass.shat()](#GlobalClass.shat)
-
--
-
-* [GlobalChildClass](#GlobalChildClass) ⇐ <code>[GlobalClass](#GlobalClass)</code>
-    * [globalChildClass.propThree](#GlobalChildClass+propThree)
-    * [globalChildClass.propThree](#GlobalChildClass+propThree)
-    * [globalChildClass.propOne](#GlobalClass+propOne)
-    * [globalChildClass.methodTwo()](#GlobalChildClass+methodTwo)
-    * [globalChildClass.methodTwo()](#GlobalChildClass+methodTwo)
-    * [globalChildClass.methodOne()](#GlobalClass+methodOne)
-
--
-
-* [Hurl](#Hurl)
-    * [hurl.snowball()](#Hurl+snowball)
-    * ["snowball"](#Hurl+event_snowball)
-
--
-
-* [EncryptedRequest](#EncryptedRequest) ⇐ <code>[XMLHttpRequest](#external_XMLHttpRequest)</code>
-    * [new EncryptedRequest()](#new_EncryptedRequest_new)
-
--
-
-* [Synth](#Synth)
-    * [synth.demo()](#Synth+demo)
-    * [synth.say(text)](#Synth+say)
-
--
-
-* [LendsClass](#LendsClass)
-    * [LendsClass.say()](#LendsClass.say)
-
--
-
-* [LendsClass2](#LendsClass2)
-    * [lendsClass2.say()](#LendsClass2+say)
-
--
-
-* [EventfulClass](#EventfulClass)
-    * [eventfulClass.on(eventName, handler)](#EventfulClass+on)
-    * [eventfulClass.fire(eventName, eventData)](#EventfulClass+fire)
-
--
-
-* [NewLines](#NewLines)
-    * [newLines.numbers](#NewLines+numbers)
-    * [newLines.method(input)](#NewLines+method) ⇒ <code>number</code>
-
--
-
-* [Plucker](#Plucker)
-    * [plucker.doPluck(one, ...args, ...three)](#Plucker+doPluck)
-
--
-
-* [Greeter](#Greeter)
-    * [greeter.name](#Greeter+name)
-
--
-
-* [~School](#Rapper.train..School)
-    * [new School()](#new_Rapper.train..School_new)
-    * [school.bestStudent](#Rapper.train..School+bestStudent)
-
--
-
-* [~LinkClass](#module_foo/bar..LinkClass)
-    * [new LinkClass()](#new_module_foo/bar..LinkClass_new)
-    * [linkClass.foo](#module_foo/bar..LinkClass+foo)
-
--
-
-
-* [missle](#missle) : <code>object</code>
-    * [.range](#missle.range) : <code>number</code>
-    * [.ballistic](#missle.ballistic) : <code>boolean</code>
-    * [.hydrogen](#missle.hydrogen)
-    * [.megaton](#missle.megaton) : <code>number</code>
 
 
 ## `jsdoc2md --member-index-format grouped`
-If an object has members within two of more distinct scopes (instance, static or inner) then grouping will be shown. If all members are the same scope (e.g. instance) grouping is not used. 
-
-* [Chainable](#Chainable)
-    * [.method()](#Chainable+method) ↩︎
-
--
-
-* ~~[All](#All) ⇐ <code>Number</code>~~
-    * [new All(input, [options])](#new_All_new)
-    * [.topping](#All+topping) : <code>string</code>
-    * [.size](#All+size)
-    * ~~[.allThings(one, two)](#All+allThings) ⇒ <code>object</code> &#124; <code>string</code>~~
-        * [~some](#All+allThings..some)
-
--
+If an object has members within two of more distinct scopes (instance, static or inner) then grouping will be shown. If all members are the same scope (e.g. instance) grouping is not used.
 
 * [Animal](#Animal)
     * [new Animal(species, parents)](#new_Animal_new)
@@ -254,31 +64,6 @@ If an object has members within two of more distinct scopes (instance, static or
         * [.species](#Animal+species) : <code>[Species](#Species)</code>
     * _static_
         * [.eMood](#Animal.eMood)
-
--
-
-* [Person](#Person) ⇐ <code>Object</code>
-    * [new Person()](#new_Person_new)
-
--
-
-* [Car](#Car)
-    * [new Car([options])](#new_Car_new)
-
--
-
-* [Pipe](#Pipe) ⇐ <code>[Pipe](#Pipe)</code>
-
--
-
-* ~~[Everything](#Everything) ⇐ <code>[Pipe](#Pipe)</code>~~
-    * [new Everything(input, [options])](#new_Everything_new)
-
--
-
-* [Rice](#Rice)
-    * ["cooked"](#Rice+event_cooked)
-    * ["cooking"](#Rice+event_cooking)
 
 -
 
@@ -315,23 +100,9 @@ If an object has members within two of more distinct scopes (instance, static or
 
 -
 
-* [Something](#Something)
-    * [.methodOne()](#Something+methodOne)
-    * ~~[.allTogether(one, two)](#Something+allTogether) ⇒ <code>object</code> &#124; <code>string</code>~~
-
--
-
-* [Pizza](#Pizza)
-    * [.size](#Pizza+size)
-    * [.topping](#Pizza+topping) : <code>string</code>
-    * [.size](#Pizza+size)
-
--
-
-* [Pizza](#Pizza)
-    * [.size](#Pizza+size)
-    * [.topping](#Pizza+topping) : <code>string</code>
-    * [.size](#Pizza+size)
+* [NewLines](#NewLines)
+    * [.numbers](#NewLines+numbers)
+    * [.method(input)](#NewLines+method) ⇒ <code>number</code>
 
 -
 
@@ -344,133 +115,7 @@ If an object has members within two of more distinct scopes (instance, static or
 
 -
 
-* [GlobalChildClass](#GlobalChildClass) ⇐ <code>[GlobalClass](#GlobalClass)</code>
-    * [.propThree](#GlobalChildClass+propThree)
-    * [.propThree](#GlobalChildClass+propThree)
-    * [.propOne](#GlobalClass+propOne)
-    * [.methodTwo()](#GlobalChildClass+methodTwo)
-    * [.methodTwo()](#GlobalChildClass+methodTwo)
-    * [.methodOne()](#GlobalClass+methodOne)
+* [plant()](#plant)
 
 -
 
-* [customClass](#customClass)
-    * [new customClass()](#new_customClass_new)
-
--
-
-* [Tree](#Tree)
-
--
-
-* [GlobalClass](#GlobalClass)
-    * [new GlobalClass(one, two)](#new_GlobalClass_new)
-    * [new GlobalClass()](#new_GlobalClass_new)
-    * [new GlobalClass(one, two)](#new_GlobalClass_new)
-    * _instance_
-        * [.propOne](#GlobalClass+propOne)
-        * [.propOne](#GlobalClass+propOne) : <code>number</code>
-        * [.methodOne()](#GlobalClass+methodOne)
-        * [.methodTwo()](#GlobalClass+methodTwo)
-        * [.methodOne()](#GlobalClass+methodOne)
-        * [.methodTwo()](#GlobalClass+methodTwo)
-    * _static_
-        * [.propTwo](#GlobalClass.propTwo)
-        * [.shat()](#GlobalClass.shat)
-
--
-
-* [GlobalClass](#GlobalClass)
-    * [new GlobalClass(one, two)](#new_GlobalClass_new)
-    * [new GlobalClass()](#new_GlobalClass_new)
-    * [new GlobalClass(one, two)](#new_GlobalClass_new)
-    * _instance_
-        * [.propOne](#GlobalClass+propOne)
-        * [.propOne](#GlobalClass+propOne) : <code>number</code>
-        * [.methodOne()](#GlobalClass+methodOne)
-        * [.methodTwo()](#GlobalClass+methodTwo)
-        * [.methodOne()](#GlobalClass+methodOne)
-        * [.methodTwo()](#GlobalClass+methodTwo)
-    * _static_
-        * [.propTwo](#GlobalClass.propTwo)
-        * [.shat()](#GlobalClass.shat)
-
--
-
-* [GlobalChildClass](#GlobalChildClass) ⇐ <code>[GlobalClass](#GlobalClass)</code>
-    * [.propThree](#GlobalChildClass+propThree)
-    * [.propThree](#GlobalChildClass+propThree)
-    * [.propOne](#GlobalClass+propOne)
-    * [.methodTwo()](#GlobalChildClass+methodTwo)
-    * [.methodTwo()](#GlobalChildClass+methodTwo)
-    * [.methodOne()](#GlobalClass+methodOne)
-
--
-
-* [Hurl](#Hurl)
-    * [.snowball()](#Hurl+snowball)
-    * ["snowball"](#Hurl+event_snowball)
-
--
-
-* [EncryptedRequest](#EncryptedRequest) ⇐ <code>[XMLHttpRequest](#external_XMLHttpRequest)</code>
-    * [new EncryptedRequest()](#new_EncryptedRequest_new)
-
--
-
-* [Synth](#Synth)
-    * [.demo()](#Synth+demo)
-    * [.say(text)](#Synth+say)
-
--
-
-* [LendsClass](#LendsClass)
-    * [.say()](#LendsClass.say)
-
--
-
-* [LendsClass2](#LendsClass2)
-    * [.say()](#LendsClass2+say)
-
--
-
-* [EventfulClass](#EventfulClass)
-    * [.on(eventName, handler)](#EventfulClass+on)
-    * [.fire(eventName, eventData)](#EventfulClass+fire)
-
--
-
-* [NewLines](#NewLines)
-    * [.numbers](#NewLines+numbers)
-    * [.method(input)](#NewLines+method) ⇒ <code>number</code>
-
--
-
-* [Plucker](#Plucker)
-    * [.doPluck(one, ...args, ...three)](#Plucker+doPluck)
-
--
-
-* [Greeter](#Greeter)
-    * [.name](#Greeter+name)
-
--
-
-* [~School](#Rapper.train..School)
-    * [new School()](#new_Rapper.train..School_new)
-    * [.bestStudent](#Rapper.train..School+bestStudent)
-
--
-
-* [~LinkClass](#module_foo/bar..LinkClass)
-    * [new LinkClass()](#new_module_foo/bar..LinkClass_new)
-    * [.foo](#module_foo/bar..LinkClass+foo)
-
--
-
-
-* [missle](#missle) : <code>object</code>
-    * [.range](#missle.range) : <code>number</code>
-    * [.ballistic](#missle.ballistic) : <code>boolean</code>
-    * [.hydrogen](#missle.hydrogen)
-    * [.megaton](#missle.megaton) : <code>number</code>
