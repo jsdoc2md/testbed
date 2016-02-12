@@ -1,4 +1,6 @@
-/** @module color/mixer */
+/**
+ * @module color/mixer
+ */
 
 /** The name of the module. */
 export const name = 'mixer';
