@@ -5,13 +5,13 @@
 
 /**
 * @type {number}
-* @alias module:export-vars.one
+* @alias module:exports-vars.one
 */
 var one = 1
 
 /**
  * @type {number}
- * @alias module:export-vars.two
+ * @alias module:exports-vars.two
  */
 var two = 2
 
