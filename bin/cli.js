@@ -21,6 +21,10 @@ function getFolderQueue () {
   }
 }
 
+/**
+ * @param {string[]} - array of folder paths
+ * @returns {Queue} - queue of 'process folder' commands
+ */
 function makeFolderQueue (folderList) {
   const folderQueue = new Queue({ maxConcurrent: 10 })
   for (let folder of folderList) {

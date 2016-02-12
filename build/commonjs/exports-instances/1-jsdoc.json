@@ -1,31 +1,31 @@
 [
   {
-    "comment": "/**\nexports animals\n@module\n*/",
+    "comment": "/**\n * exports animals\n * @module exports-instances\n */",
     "meta": {
       "range": [
         0,
-        30
+        55
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/animals",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/exports-instances",
       "code": {}
     },
     "description": "exports animals",
     "kind": "module",
-    "name": "0-src",
-    "longname": "module:0-src"
+    "name": "exports-instances",
+    "longname": "module:exports-instances"
   },
   {
-    "comment": "/**\nthe exported cat\n@type {Animal}\n*/",
+    "comment": "/**\n * the exported cat\n * @type {Animal}\n */",
     "meta": {
       "range": [
-        71,
-        97
+        103,
+        129
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/animals",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/exports-instances",
       "code": {
         "id": "astnode100000002",
         "name": "exports.cat",
@@ -41,21 +41,21 @@
       ]
     },
     "name": "cat",
-    "longname": "module:0-src.cat",
+    "longname": "module:exports-instances.cat",
     "kind": "member",
-    "memberof": "module:0-src",
+    "memberof": "module:exports-instances",
     "scope": "static"
   },
   {
-    "comment": "/**\nthe exported dog\n@type {Animal}\n*/",
+    "comment": "/**\n * the exported dog\n * @type {Animal}\n */",
     "meta": {
       "range": [
-        138,
-        164
+        177,
+        203
       ],
       "filename": "0-src.js",
       "lineno": 16,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/animals",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/exports-instances",
       "code": {
         "id": "astnode100000009",
         "name": "exports.dog",
@@ -71,21 +71,21 @@
       ]
     },
     "name": "dog",
-    "longname": "module:0-src.dog",
+    "longname": "module:exports-instances.dog",
     "kind": "member",
-    "memberof": "module:0-src",
+    "memberof": "module:exports-instances",
     "scope": "static"
   },
   {
-    "comment": "/**\n@class\n*/",
+    "comment": "/**\n * @class\n */",
     "meta": {
       "range": [
-        180,
-        375
+        223,
+        433
       ],
       "filename": "0-src.js",
       "lineno": 21,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/animals",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/exports-instances",
       "code": {
         "id": "astnode100000015",
         "name": "Animal",
@@ -93,27 +93,27 @@
         "paramnames": []
       },
       "vars": {
-        "Quadroped": "module:0-src~Animal~Quadroped",
-        "this.type": "module:0-src~Animal#type"
+        "Quadroped": "module:exports-instances~Animal~Quadroped",
+        "this.type": "module:exports-instances~Animal#type"
       }
     },
     "kind": "class",
     "name": "Animal",
-    "longname": "module:0-src~Animal",
+    "longname": "module:exports-instances~Animal",
     "scope": "inner",
-    "memberof": "module:0-src",
+    "memberof": "module:exports-instances",
     "params": []
   },
   {
-    "comment": "/**\n  @class\n  */",
+    "comment": "/**\n   * @class\n   */",
     "meta": {
       "range": [
-        223,
-        297
+        270,
+        348
       ],
       "filename": "0-src.js",
       "lineno": 25,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/animals",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/exports-instances",
       "code": {
         "id": "astnode100000018",
         "name": "Quadroped",
@@ -121,26 +121,26 @@
         "paramnames": []
       },
       "vars": {
-        "this.legs": "module:0-src~Animal~Quadroped#legs"
+        "this.legs": "module:exports-instances~Animal~Quadroped#legs"
       }
     },
     "kind": "class",
     "name": "Quadroped",
-    "longname": "module:0-src~Animal~Quadroped",
-    "memberof": "module:0-src~Animal",
+    "longname": "module:exports-instances~Animal~Quadroped",
+    "memberof": "module:exports-instances~Animal",
     "scope": "inner",
     "params": []
   },
   {
-    "comment": "/**\n    leg count\n    */",
+    "comment": "/**\n     * leg count\n     */",
     "meta": {
       "range": [
-        280,
-        293
+        331,
+        344
       ],
       "filename": "0-src.js",
       "lineno": 29,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/animals",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/exports-instances",
       "code": {
         "id": "astnode100000022",
         "name": "this.legs",
@@ -151,21 +151,21 @@
     },
     "description": "leg count",
     "name": "legs",
-    "longname": "module:0-src~Animal~Quadroped#legs",
+    "longname": "module:exports-instances~Animal~Quadroped#legs",
     "kind": "member",
-    "memberof": "module:0-src~Animal~Quadroped",
+    "memberof": "module:exports-instances~Animal~Quadroped",
     "scope": "instance"
   },
   {
-    "comment": "/**\n  animal type\n  @type {Quadroped}\n  */",
+    "comment": "/**\n   * animal type\n   * @type {Quadroped}\n   */",
     "meta": {
       "range": [
-        346,
-        373
+        404,
+        431
       ],
       "filename": "0-src.js",
       "lineno": 36,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/animals",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/exports-instances",
       "code": {
         "id": "astnode100000028",
         "name": "this.type",
@@ -181,16 +181,16 @@
       ]
     },
     "name": "type",
-    "longname": "module:0-src~Animal#type",
+    "longname": "module:exports-instances~Animal#type",
     "kind": "member",
-    "memberof": "module:0-src~Animal",
+    "memberof": "module:exports-instances~Animal",
     "scope": "instance"
   },
   {
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/commonjs/animals/0-src.js"
+      "/Users/lloyd/Documents/75lb/testbed/build/commonjs/exports-instances/0-src.js"
     ]
   }
 ]

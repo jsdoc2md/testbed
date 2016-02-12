@@ -1,0 +1,125 @@
+[
+  {
+    "id": "module:color/mixer",
+    "longname": "module:color/mixer",
+    "name": "color/mixer",
+    "kind": "module",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/colour-mixer"
+    },
+    "order": 0
+  },
+  {
+    "id": "module:color/mixer.lastColor",
+    "longname": "module:color/mixer.lastColor",
+    "name": "lastColor",
+    "scope": "static",
+    "kind": "member",
+    "description": "The most recent blended color.",
+    "memberof": "module:color/mixer",
+    "meta": {
+      "lineno": 7,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/colour-mixer"
+    },
+    "order": 2
+  },
+  {
+    "id": "module:color/mixer.name",
+    "longname": "module:color/mixer.name",
+    "name": "name",
+    "scope": "static",
+    "kind": "constant",
+    "description": "The name of the module.",
+    "memberof": "module:color/mixer",
+    "meta": {
+      "lineno": 4,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/colour-mixer"
+    },
+    "order": 1
+  },
+  {
+    "id": "module:color/mixer.blend",
+    "longname": "module:color/mixer.blend",
+    "name": "blend",
+    "scope": "static",
+    "kind": "function",
+    "description": "Blend two colors together.",
+    "memberof": "module:color/mixer",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "The first color, in hexidecimal format.",
+        "name": "color1"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "The second color, in hexidecimal format.",
+        "name": "color2"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "The blended color."
+      }
+    ],
+    "meta": {
+      "lineno": 15,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/colour-mixer"
+    },
+    "order": 3
+  },
+  {
+    "id": "module:color/mixer.toRgb",
+    "longname": "module:color/mixer.toRgb",
+    "name": "toRgb",
+    "scope": "static",
+    "kind": "function",
+    "description": "Get the red, green, and blue values of a color.",
+    "memberof": "module:color/mixer",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "A color, in hexidecimal format.",
+        "name": "color"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "Array"
+          ]
+        },
+        "description": "An array of the red, green, and blue values,\neach ranging from 0 to 255."
+      }
+    ],
+    "meta": {
+      "lineno": 28,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/colour-mixer"
+    },
+    "order": 4
+  }
+]

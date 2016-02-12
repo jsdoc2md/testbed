@@ -1,0 +1,118 @@
+[
+  {
+    "id": "module:exports-instances",
+    "longname": "module:exports-instances",
+    "name": "exports-instances",
+    "kind": "module",
+    "description": "exports animals",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/exports-instances"
+    },
+    "order": 0
+  },
+  {
+    "id": "module:exports-instances~Animal~Quadroped#legs",
+    "longname": "module:exports-instances~Animal~Quadroped#legs",
+    "name": "legs",
+    "scope": "instance",
+    "kind": "member",
+    "description": "leg count",
+    "memberof": "module:exports-instances~Animal~Quadroped",
+    "meta": {
+      "lineno": 29,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/exports-instances"
+    },
+    "order": 5
+  },
+  {
+    "id": "module:exports-instances~Animal#type",
+    "longname": "module:exports-instances~Animal#type",
+    "name": "type",
+    "scope": "instance",
+    "kind": "member",
+    "description": "animal type",
+    "memberof": "module:exports-instances~Animal",
+    "type": {
+      "names": [
+        "Quadroped"
+      ]
+    },
+    "meta": {
+      "lineno": 36,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/exports-instances"
+    },
+    "order": 6
+  },
+  {
+    "id": "module:exports-instances.cat",
+    "longname": "module:exports-instances.cat",
+    "name": "cat",
+    "scope": "static",
+    "kind": "member",
+    "description": "the exported cat",
+    "memberof": "module:exports-instances",
+    "type": {
+      "names": [
+        "Animal"
+      ]
+    },
+    "meta": {
+      "lineno": 10,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/exports-instances"
+    },
+    "order": 1
+  },
+  {
+    "id": "module:exports-instances.dog",
+    "longname": "module:exports-instances.dog",
+    "name": "dog",
+    "scope": "static",
+    "kind": "member",
+    "description": "the exported dog",
+    "memberof": "module:exports-instances",
+    "type": {
+      "names": [
+        "Animal"
+      ]
+    },
+    "meta": {
+      "lineno": 16,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/exports-instances"
+    },
+    "order": 2
+  },
+  {
+    "id": "module:exports-instances~Animal",
+    "longname": "module:exports-instances~Animal",
+    "name": "Animal",
+    "scope": "inner",
+    "kind": "class",
+    "memberof": "module:exports-instances",
+    "meta": {
+      "lineno": 21,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/exports-instances"
+    },
+    "order": 3
+  },
+  {
+    "id": "module:exports-instances~Animal~Quadroped",
+    "longname": "module:exports-instances~Animal~Quadroped",
+    "name": "Quadroped",
+    "scope": "inner",
+    "kind": "class",
+    "memberof": "module:exports-instances~Animal",
+    "meta": {
+      "lineno": 25,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/exports-instances"
+    },
+    "order": 4
+  }
+]
