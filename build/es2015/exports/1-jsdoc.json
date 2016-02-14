@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/** @module color/mixer */",
+    "comment": "/**\n * @module color/mixer\n */",
     "meta": {
       "range": [
         0,
-        26
+        30
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/colour-mixer",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports",
       "code": {}
     },
     "kind": "module",
@@ -19,12 +19,12 @@
     "comment": "/** The name of the module. */",
     "meta": {
       "range": [
-        59,
-        87
+        63,
+        91
       ],
       "filename": "0-src.js",
-      "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/colour-mixer",
+      "lineno": 6,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports",
       "code": {
         "id": "astnode100000001",
         "name": "exports.name",
@@ -42,12 +42,12 @@
     "comment": "",
     "meta": {
       "range": [
-        72,
-        86
+        76,
+        90
       ],
       "filename": "0-src.js",
-      "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/colour-mixer",
+      "lineno": 6,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports",
       "code": {
         "id": "astnode100000003",
         "name": "name",
@@ -66,12 +66,12 @@
     "comment": "/** The most recent blended color. */",
     "meta": {
       "range": [
-        127,
-        155
+        131,
+        159
       ],
       "filename": "0-src.js",
-      "lineno": 7,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/colour-mixer",
+      "lineno": 9,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports",
       "code": {
         "id": "astnode100000006",
         "name": "exports.lastColor",
@@ -89,12 +89,12 @@
     "comment": "",
     "meta": {
       "range": [
-        138,
-        154
+        142,
+        158
       ],
       "filename": "0-src.js",
-      "lineno": 7,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/colour-mixer",
+      "lineno": 9,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports",
       "code": {
         "id": "astnode100000008",
         "name": "lastColor",
@@ -113,12 +113,12 @@
     "comment": "/**\n * Blend two colors together.\n * @param {string} color1 - The first color, in hexidecimal format.\n * @param {string} color2 - The second color, in hexidecimal format.\n * @return {string} The blended color.\n */",
     "meta": {
       "range": [
-        371,
-        411
+        375,
+        415
       ],
       "filename": "0-src.js",
-      "lineno": 15,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/colour-mixer",
+      "lineno": 17,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports",
       "code": {
         "id": "astnode100000011",
         "name": "exports.blend",
@@ -170,12 +170,12 @@
     "comment": "",
     "meta": {
       "range": [
-        378,
-        411
+        382,
+        415
       ],
       "filename": "0-src.js",
-      "lineno": 15,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/colour-mixer",
+      "lineno": 17,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports",
       "code": {
         "id": "astnode100000012",
         "name": "blend",
@@ -198,12 +198,12 @@
     "comment": "",
     "meta": {
       "range": [
-        461,
-        486
+        465,
+        490
       ],
       "filename": "0-src.js",
-      "lineno": 18,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/colour-mixer",
+      "lineno": 20,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports",
       "code": {
         "id": "astnode100000017",
         "name": "rgbify",
@@ -225,12 +225,12 @@
     "comment": "/**\n     * Get the red, green, and blue values of a color.\n     * @function\n     * @param {string} color - A color, in hexidecimal format.\n     * @returns {Array} An array of the red, green, and blue values,\n     * each ranging from 0 to 255.\n     */",
     "meta": {
       "range": [
-        756,
-        771
+        760,
+        775
       ],
       "filename": "0-src.js",
-      "lineno": 28,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/colour-mixer",
+      "lineno": 30,
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports",
       "code": {
         "id": "astnode100000022",
         "name": "exports.toRgb",
@@ -269,7 +269,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/es2015/colour-mixer/0-src.js"
+      "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports/0-src.js"
     ]
   }
 ]

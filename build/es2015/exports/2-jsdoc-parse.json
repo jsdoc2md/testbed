@@ -7,7 +7,7 @@
     "meta": {
       "lineno": 1,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/colour-mixer"
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports"
     },
     "order": 0
   },
@@ -20,9 +20,9 @@
     "description": "The most recent blended color.",
     "memberof": "module:color/mixer",
     "meta": {
-      "lineno": 7,
+      "lineno": 9,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/colour-mixer"
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports"
     },
     "order": 2
   },
@@ -35,9 +35,9 @@
     "description": "The name of the module.",
     "memberof": "module:color/mixer",
     "meta": {
-      "lineno": 4,
+      "lineno": 6,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/colour-mixer"
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports"
     },
     "order": 1
   },
@@ -80,9 +80,9 @@
       }
     ],
     "meta": {
-      "lineno": 15,
+      "lineno": 17,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/colour-mixer"
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports"
     },
     "order": 3
   },
@@ -116,9 +116,9 @@
       }
     ],
     "meta": {
-      "lineno": 28,
+      "lineno": 30,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/colour-mixer"
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports"
     },
     "order": 4
   }

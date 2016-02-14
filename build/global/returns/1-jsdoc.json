@@ -1,10 +1,10 @@
 [
   {
-    "comment": "/**\na global function returning multiple stuff\n@returns {string} if something you get a string back\n@returns {object|function} or an object, or function\n*/",
+    "comment": "/**\n * a global function returning multiple stuff\n * @returns {string} if something you get a string back\n * @returns {object|function} or an object, or function\n */",
     "meta": {
       "range": [
-        156,
-        193
+        166,
+        203
       ],
       "filename": "0-src.js",
       "lineno": 6,
@@ -46,11 +46,11 @@
     "params": []
   },
   {
-    "comment": "/**\nreturns has no desc\n@returns {string}\n*/",
+    "comment": "/**\n * returns has no desc\n * @returns {string}\n */",
     "meta": {
       "range": [
-        240,
-        279
+        257,
+        296
       ],
       "filename": "0-src.js",
       "lineno": 12,
