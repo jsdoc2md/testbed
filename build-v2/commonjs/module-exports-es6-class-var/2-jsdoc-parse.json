@@ -29,7 +29,7 @@
   },
   {
     "id": "module:module-exports-es6-class-var--Example()",
-    "parentId": "module:module-exports-es6-class-var",
+    "parentId": "module:module-exports-es6-class-var--Example",
     "longname": "module:module-exports-es6-class-var",
     "name": "Example",
     "kind": "constructor",
@@ -56,7 +56,7 @@
   },
   {
     "id": "module:module-exports-es6-class-var--Example.Example#three",
-    "parentId": "module:module-exports-es6-class-var",
+    "parentId": "module:module-exports-es6-class-var--Example",
     "longname": "module:module-exports-es6-class-var.Example#three",
     "name": "three",
     "scope": "instance",
