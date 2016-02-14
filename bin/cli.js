@@ -64,7 +64,7 @@ function getV2Queue (folder) {
 
 getFolderQueue().then(queue => {
   queue
-    .on('error', err => console.log('Queue Error: ', err.message))
+    .on('error', err => console.log('Queue Error: ', /do not exist/.test(err.message) ? err.message : err.stack))
     .process()
 })
 
