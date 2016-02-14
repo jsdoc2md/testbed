@@ -28,14 +28,14 @@
             "number"
           ]
         },
-        "variable": true,
-        "name": "variable"
+        "optional": true,
+        "name": "optional"
       }
     ],
     "meta": {
       "lineno": 6,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/param-variable"
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/param-optional"
     },
     "order": 0
   }

@@ -1,6 +1,6 @@
 /**
  * @param {number}
  * @param {number}
- * @param variable {...number}
+ * @param [optional] {number}
  */
 function one (a, b, c) {}

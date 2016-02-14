@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * @param {number}\n * @param {number}\n * @param variable {...number}\n */",
+    "comment": "/**\n * @param {number}\n * @param {number}\n * @param [optional] {number}\n */",
     "meta": {
       "range": [
-        77,
-        102
+        76,
+        101
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/param-variable",
+      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/param-optional",
       "code": {
         "id": "astnode100000001",
         "name": "one",
@@ -43,8 +43,8 @@
             "number"
           ]
         },
-        "variable": true,
-        "name": "variable"
+        "optional": true,
+        "name": "optional"
       }
     ],
     "name": "one",
@@ -56,7 +56,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/param-variable/0-src.js"
+      "/Users/lloyd/Documents/75lb/testbed/build/global/param-optional/0-src.js"
     ]
   }
 ]
