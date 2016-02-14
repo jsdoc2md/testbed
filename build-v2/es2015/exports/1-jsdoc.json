@@ -1,0 +1,275 @@
+[
+  {
+    "comment": "/**\n * @module color/mixer\n */",
+    "meta": {
+      "range": [
+        0,
+        30
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/es2015/exports",
+      "code": {}
+    },
+    "kind": "module",
+    "name": "color/mixer",
+    "longname": "module:color/mixer"
+  },
+  {
+    "comment": "/** The name of the module. */",
+    "meta": {
+      "range": [
+        63,
+        91
+      ],
+      "filename": "0-src.js",
+      "lineno": 6,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/es2015/exports",
+      "code": {
+        "id": "astnode100000001",
+        "name": "exports.name",
+        "type": "VariableDeclaration"
+      }
+    },
+    "description": "The name of the module.",
+    "name": "name",
+    "longname": "module:color/mixer.name",
+    "kind": "constant",
+    "memberof": "module:color/mixer",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        76,
+        90
+      ],
+      "filename": "0-src.js",
+      "lineno": 6,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/es2015/exports",
+      "code": {
+        "id": "astnode100000003",
+        "name": "name",
+        "type": "Literal",
+        "value": "mixer"
+      }
+    },
+    "undocumented": true,
+    "name": "name",
+    "longname": "module:color/mixer~name",
+    "kind": "constant",
+    "scope": "inner",
+    "memberof": "module:color/mixer"
+  },
+  {
+    "comment": "/** The most recent blended color. */",
+    "meta": {
+      "range": [
+        131,
+        159
+      ],
+      "filename": "0-src.js",
+      "lineno": 9,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/es2015/exports",
+      "code": {
+        "id": "astnode100000006",
+        "name": "exports.lastColor",
+        "type": "VariableDeclaration"
+      }
+    },
+    "description": "The most recent blended color.",
+    "name": "lastColor",
+    "longname": "module:color/mixer.lastColor",
+    "kind": "member",
+    "memberof": "module:color/mixer",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        142,
+        158
+      ],
+      "filename": "0-src.js",
+      "lineno": 9,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/es2015/exports",
+      "code": {
+        "id": "astnode100000008",
+        "name": "lastColor",
+        "type": "Literal",
+        "value": null
+      }
+    },
+    "undocumented": true,
+    "name": "lastColor",
+    "longname": "module:color/mixer~lastColor",
+    "kind": "member",
+    "scope": "inner",
+    "memberof": "module:color/mixer"
+  },
+  {
+    "comment": "/**\n * Blend two colors together.\n * @param {string} color1 - The first color, in hexidecimal format.\n * @param {string} color2 - The second color, in hexidecimal format.\n * @return {string} The blended color.\n */",
+    "meta": {
+      "range": [
+        375,
+        415
+      ],
+      "filename": "0-src.js",
+      "lineno": 17,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/es2015/exports",
+      "code": {
+        "id": "astnode100000011",
+        "name": "exports.blend",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "color1",
+          "color2"
+        ]
+      }
+    },
+    "description": "Blend two colors together.",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "The first color, in hexidecimal format.",
+        "name": "color1"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "The second color, in hexidecimal format.",
+        "name": "color2"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "The blended color."
+      }
+    ],
+    "name": "blend",
+    "longname": "module:color/mixer.blend",
+    "kind": "function",
+    "memberof": "module:color/mixer",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        382,
+        415
+      ],
+      "filename": "0-src.js",
+      "lineno": 17,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/es2015/exports",
+      "code": {
+        "id": "astnode100000012",
+        "name": "blend",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "color1",
+          "color2"
+        ]
+      }
+    },
+    "undocumented": true,
+    "name": "blend",
+    "longname": "module:color/mixer~blend",
+    "kind": "function",
+    "scope": "inner",
+    "memberof": "module:color/mixer",
+    "params": []
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        465,
+        490
+      ],
+      "filename": "0-src.js",
+      "lineno": 20,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/es2015/exports",
+      "code": {
+        "id": "astnode100000017",
+        "name": "rgbify",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "color"
+        ]
+      }
+    },
+    "undocumented": true,
+    "name": "rgbify",
+    "longname": "module:color/mixer~rgbify",
+    "kind": "function",
+    "scope": "inner",
+    "memberof": "module:color/mixer",
+    "params": []
+  },
+  {
+    "comment": "/**\n     * Get the red, green, and blue values of a color.\n     * @function\n     * @param {string} color - A color, in hexidecimal format.\n     * @returns {Array} An array of the red, green, and blue values,\n     * each ranging from 0 to 255.\n     */",
+    "meta": {
+      "range": [
+        760,
+        775
+      ],
+      "filename": "0-src.js",
+      "lineno": 30,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/es2015/exports",
+      "code": {
+        "id": "astnode100000022",
+        "name": "exports.toRgb",
+        "type": "Identifier"
+      }
+    },
+    "description": "Get the red, green, and blue values of a color.",
+    "kind": "function",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "A color, in hexidecimal format.",
+        "name": "color"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "Array"
+          ]
+        },
+        "description": "An array of the red, green, and blue values,\neach ranging from 0 to 255."
+      }
+    ],
+    "name": "toRgb",
+    "longname": "module:color/mixer.toRgb",
+    "memberof": "module:color/mixer",
+    "scope": "static"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/es2015/exports/0-src.js"
+    ]
+  }
+]
