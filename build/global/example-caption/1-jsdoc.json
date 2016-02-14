@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/example-caption",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/example-caption",
       "code": {
         "id": "astnode100000001",
         "name": "exampleCaption",
@@ -29,7 +29,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/example-caption/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/example-caption/0-src.js"
     ]
   }
 ]

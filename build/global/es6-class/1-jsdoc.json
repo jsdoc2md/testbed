@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/es6-class",
       "code": {
         "id": "astnode100000001",
         "name": "GlobalClass",
@@ -68,7 +68,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 13,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/es6-class",
       "code": {
         "id": "astnode100000004",
         "name": "GlobalClass",
@@ -131,7 +131,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 18,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/es6-class",
       "code": {
         "id": "astnode100000011",
         "name": "this.propOne",
@@ -161,7 +161,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 22,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/es6-class",
       "code": {
         "id": "astnode100000016",
         "name": "GlobalClass.shat",
@@ -188,7 +188,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 25,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/es6-class",
       "code": {
         "id": "astnode100000020",
         "name": "GlobalClass#methodOne",
@@ -215,7 +215,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 27,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/es6-class",
       "code": {
         "id": "astnode100000024",
         "name": "GlobalClass#methodTwo",
@@ -242,7 +242,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 34,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/es6-class",
       "code": {
         "id": "astnode100000028",
         "name": "GlobalChildClass",
@@ -268,7 +268,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 35,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/es6-class",
       "code": {
         "id": "astnode100000032",
         "name": "GlobalChildClass",
@@ -294,7 +294,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 37,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/es6-class",
       "code": {
         "id": "astnode100000037",
         "name": "this.propThree",
@@ -319,7 +319,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 41,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/es6-class",
       "code": {
         "id": "astnode100000042",
         "name": "GlobalChildClass#methodTwo",
@@ -342,7 +342,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/es6-class/0-src.js"
     ]
   },
   {
@@ -354,7 +354,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 18,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/es6-class",
       "code": {
         "id": "astnode100000011",
         "name": "this.propOne",
@@ -386,7 +386,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 25,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/es6-class",
       "code": {
         "id": "astnode100000020",
         "name": "GlobalClass#methodOne",

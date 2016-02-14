@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/file",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/file",
       "code": {}
     },
     "name": "0-src.js",
@@ -30,7 +30,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/file",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/file",
       "code": {
         "id": "astnode100000002",
         "name": "fileVar",
@@ -48,7 +48,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/file/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/file/0-src.js"
     ]
   }
 ]

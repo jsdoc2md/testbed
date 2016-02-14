@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/requires",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/requires",
       "code": {
         "id": "astnode100000001",
         "name": "requirer",
@@ -30,7 +30,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/requires/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/requires/0-src.js"
     ]
   }
 ]

@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/param-optional",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/param-optional",
       "code": {
         "id": "astnode100000001",
         "name": "one",
@@ -56,7 +56,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/param-optional/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/param-optional/0-src.js"
     ]
   }
 ]

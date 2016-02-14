@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/es2015/exports",
       "code": {}
     },
     "kind": "module",
@@ -24,7 +24,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/es2015/exports",
       "code": {
         "id": "astnode100000001",
         "name": "exports.name",
@@ -47,7 +47,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/es2015/exports",
       "code": {
         "id": "astnode100000003",
         "name": "name",
@@ -71,7 +71,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/es2015/exports",
       "code": {
         "id": "astnode100000006",
         "name": "exports.lastColor",
@@ -94,7 +94,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/es2015/exports",
       "code": {
         "id": "astnode100000008",
         "name": "lastColor",
@@ -118,7 +118,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 17,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/es2015/exports",
       "code": {
         "id": "astnode100000011",
         "name": "exports.blend",
@@ -175,7 +175,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 17,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/es2015/exports",
       "code": {
         "id": "astnode100000012",
         "name": "blend",
@@ -203,7 +203,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 20,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/es2015/exports",
       "code": {
         "id": "astnode100000017",
         "name": "rgbify",
@@ -230,7 +230,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 30,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/es2015/exports",
       "code": {
         "id": "astnode100000022",
         "name": "exports.toRgb",
@@ -269,7 +269,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/es2015/exports/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/es2015/exports/0-src.js"
     ]
   }
 ]

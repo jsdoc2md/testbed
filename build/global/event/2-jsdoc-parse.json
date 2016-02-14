@@ -8,7 +8,7 @@
     "meta": {
       "lineno": 4,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/event"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/event"
     },
     "order": 0
   },
@@ -26,7 +26,7 @@
     "meta": {
       "lineno": 11,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/event"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/event"
     },
     "order": 1
   },
@@ -57,7 +57,7 @@
     "meta": {
       "lineno": 12,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/event"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/event"
     },
     "order": 2
   }

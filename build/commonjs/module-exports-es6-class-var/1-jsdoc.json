@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/module-exports-es6-class-var",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/module-exports-es6-class-var",
       "code": {}
     },
     "kind": "module",
@@ -24,7 +24,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 8,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/module-exports-es6-class-var",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/module-exports-es6-class-var",
       "code": {
         "id": "astnode100000001",
         "name": "Example",
@@ -67,7 +67,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 13,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/module-exports-es6-class-var",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/module-exports-es6-class-var",
       "code": {
         "id": "astnode100000004",
         "name": "Example",
@@ -115,7 +115,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 17,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/module-exports-es6-class-var",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/module-exports-es6-class-var",
       "code": {
         "id": "astnode100000011",
         "name": "this.three",
@@ -140,7 +140,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 21,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/module-exports-es6-class-var",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/module-exports-es6-class-var",
       "code": {
         "id": "astnode100000017",
         "name": "module.exports",
@@ -158,7 +158,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/commonjs/module-exports-es6-class-var/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/module-exports-es6-class-var/0-src.js"
     ]
   }
 ]

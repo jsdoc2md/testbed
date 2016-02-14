@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/no-gfm/properties",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/example/options/dmd-options/no-gfm/properties",
       "code": {
         "id": "astnode100000002",
         "name": "eType",
@@ -31,7 +31,7 @@
           ],
           "filename": "0-src.js",
           "lineno": 8,
-          "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/no-gfm/properties",
+          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/example/options/dmd-options/no-gfm/properties",
           "code": {
             "id": "astnode100000005",
             "name": "ONE",
@@ -56,7 +56,7 @@
           ],
           "filename": "0-src.js",
           "lineno": 12,
-          "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/no-gfm/properties",
+          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/example/options/dmd-options/no-gfm/properties",
           "code": {
             "id": "astnode100000007",
             "name": "TWO",
@@ -83,7 +83,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 8,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/no-gfm/properties",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/example/options/dmd-options/no-gfm/properties",
       "code": {
         "id": "astnode100000005",
         "name": "ONE",
@@ -108,7 +108,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 12,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/no-gfm/properties",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/example/options/dmd-options/no-gfm/properties",
       "code": {
         "id": "astnode100000007",
         "name": "TWO",
@@ -128,7 +128,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/no-gfm/properties/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/example/options/dmd-options/no-gfm/properties/0-src.js"
     ]
   }
 ]

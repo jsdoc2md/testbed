@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixes",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/mixes",
       "code": {
         "id": "astnode100000001",
         "name": "EventfulClass",
@@ -30,7 +30,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/mixes/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/mixes/0-src.js"
     ]
   }
 ]

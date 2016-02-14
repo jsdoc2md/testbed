@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/event",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/event",
       "code": {
         "id": "astnode100000001",
         "name": "Hurl",
@@ -31,7 +31,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/event",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/event",
       "code": {
         "id": "astnode100000005",
         "name": "Hurl.prototype.snowball",
@@ -58,7 +58,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 12,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/event",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/event",
       "code": {}
     },
     "description": "Snowball event.",
@@ -93,7 +93,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 20,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/event",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/event",
       "code": {
         "id": "astnode100000020",
         "name": "isPacked",
@@ -111,7 +111,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/event/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/event/0-src.js"
     ]
   }
 ]

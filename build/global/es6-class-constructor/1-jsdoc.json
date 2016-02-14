@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class-constructor",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/es6-class-constructor",
       "code": {
         "id": "astnode100000001",
         "name": "GlobalClass",
@@ -34,7 +34,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class-constructor",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/es6-class-constructor",
       "code": {
         "id": "astnode100000004",
         "name": "GlobalClass",
@@ -63,7 +63,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class-constructor",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/es6-class-constructor",
       "code": {
         "id": "astnode100000011",
         "name": "this.propOne",
@@ -83,7 +83,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/es6-class-constructor/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/es6-class-constructor/0-src.js"
     ]
   }
 ]

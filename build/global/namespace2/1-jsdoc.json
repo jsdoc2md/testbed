@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace2",
       "code": {}
     },
     "description": "A missle object, with separate docs for each property.",
@@ -26,7 +26,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace2",
       "code": {
         "id": "astnode100000002",
         "name": "missle",
@@ -49,7 +49,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace2",
       "code": {
         "id": "astnode100000005",
         "name": "range",
@@ -79,7 +79,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 18,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace2",
       "code": {
         "id": "astnode100000007",
         "name": "ballistic",
@@ -109,7 +109,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 22,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace2",
       "code": {
         "id": "astnode100000009",
         "name": "hydrogen",
@@ -133,7 +133,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 29,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace2",
       "code": {
         "id": "astnode100000011",
         "name": "megaton",
@@ -163,7 +163,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 30,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace2",
       "code": {
         "id": "astnode100000013",
         "name": "destruction",
@@ -187,7 +187,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 42,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace2",
       "code": {
         "id": "astnode100000016",
         "name": "personality",
@@ -257,7 +257,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 43,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace2",
       "code": {
         "id": "astnode100000019",
         "name": "openness",
@@ -281,7 +281,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 44,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace2",
       "code": {
         "id": "astnode100000021",
         "name": "conscientiousness",
@@ -305,7 +305,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 45,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace2",
       "code": {
         "id": "astnode100000023",
         "name": "extraversion",
@@ -329,7 +329,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 46,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace2",
       "code": {
         "id": "astnode100000025",
         "name": "agreeableness",
@@ -353,7 +353,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 47,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace2",
       "code": {
         "id": "astnode100000027",
         "name": "neuroticism",
@@ -372,7 +372,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace2/0-src.js"
     ]
   }
 ]

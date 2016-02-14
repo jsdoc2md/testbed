@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-modules-named",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/es6-modules-named",
       "code": {}
     },
     "kind": "module",
@@ -32,7 +32,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-modules-named",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/es6-modules-named",
       "code": {
         "id": "astnode100000001",
         "name": "exports.one",
@@ -55,7 +55,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-modules-named",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/es6-modules-named",
       "code": {
         "id": "astnode100000003",
         "name": "one",
@@ -79,7 +79,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-modules-named",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/es6-modules-named",
       "code": {
         "id": "astnode100000006",
         "name": "exports.two",
@@ -103,7 +103,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/es6-modules-named",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/es6-modules-named",
       "code": {
         "id": "astnode100000007",
         "name": "two",
@@ -123,7 +123,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/es6-modules-named/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/es6-modules-named/0-src.js"
     ]
   }
 ]

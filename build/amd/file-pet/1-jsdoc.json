@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/amd/file-pet",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/amd/file-pet",
       "code": {}
     },
     "description": "this module returns a pet of files",
@@ -29,7 +29,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 22,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/amd/file-pet",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/amd/file-pet",
       "code": {
         "id": "astnode100000007",
         "name": "FilePet",
@@ -72,7 +72,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 26,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/amd/file-pet",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/amd/file-pet",
       "code": {
         "id": "astnode100000012",
         "name": "this.instie",
@@ -97,7 +97,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 34,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/amd/file-pet",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/amd/file-pet",
       "code": {
         "id": "astnode100000018",
         "name": "FilePet.prototype.files",
@@ -129,7 +129,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 40,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/amd/file-pet",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/amd/file-pet",
       "code": {
         "id": "astnode100000026",
         "name": "FilePet.prototype.delete",
@@ -162,7 +162,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/amd/file-pet/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/amd/file-pet/0-src.js"
     ]
   }
 ]

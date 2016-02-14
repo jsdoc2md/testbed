@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/object-rest-spread",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/object-rest-spread",
       "code": {
         "id": "astnode100000002",
         "name": "obj1",
@@ -31,7 +31,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/object-rest-spread",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/object-rest-spread",
       "code": {
         "id": "astnode100000005",
         "name": "one",
@@ -55,7 +55,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/object-rest-spread",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/object-rest-spread",
       "code": {
         "id": "astnode100000008",
         "name": "obj2",
@@ -81,7 +81,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/object-rest-spread",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/object-rest-spread",
       "code": {
         "id": "astnode100000013",
         "name": "two",
@@ -100,7 +100,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/object-rest-spread/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/object-rest-spread/0-src.js"
     ]
   }
 ]

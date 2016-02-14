@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/object-static-class",
       "code": {}
     },
     "description": "factory module creating dodgy cloud. object-with-static-class.",
@@ -25,7 +25,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/object-static-class",
       "code": {
         "id": "astnode100000002",
         "name": "exports.createCloud",
@@ -57,7 +57,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 15,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/object-static-class",
       "code": {
         "id": "astnode100000009",
         "name": "exports.Cloud",
@@ -87,7 +87,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 23,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/object-static-class",
       "code": {
         "id": "astnode100000014",
         "name": "Cloud",
@@ -129,7 +129,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 28,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/object-static-class",
       "code": {
         "id": "astnode100000019",
         "name": "this.size",
@@ -159,7 +159,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 34,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/object-static-class",
       "code": {
         "id": "astnode100000025",
         "name": "this.rain",
@@ -189,7 +189,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 40,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/object-static-class",
       "code": {
         "id": "astnode100000031",
         "name": "Cloud.classMethod",
@@ -213,7 +213,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 46,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/object-static-class",
       "code": {
         "id": "astnode100000038",
         "name": "Cloud.SPACES",
@@ -243,7 +243,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 52,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/object-static-class",
       "code": {
         "id": "astnode100000044",
         "name": "FACT",
@@ -267,7 +267,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-static-class/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/object-static-class/0-src.js"
     ]
   }
 ]

@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-one-member",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-one-member",
       "code": {
         "id": "astnode100000001",
         "name": "Pizza",
@@ -34,7 +34,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 8,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-one-member",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-one-member",
       "code": {
         "id": "astnode100000005",
         "name": "this.size",
@@ -54,7 +54,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/class-one-member/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-one-member/0-src.js"
     ]
   }
 ]

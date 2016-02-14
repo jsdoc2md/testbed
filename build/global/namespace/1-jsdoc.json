@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace",
       "code": {
         "id": "astnode100000002",
         "name": "car",
@@ -30,7 +30,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 8,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace",
       "code": {
         "id": "astnode100000005",
         "name": "wheels",
@@ -54,7 +54,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 12,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace",
       "code": {
         "id": "astnode100000007",
         "name": "sensors",
@@ -78,7 +78,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace",
       "code": {
         "id": "astnode100000009",
         "name": "start",
@@ -120,7 +120,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 24,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace",
       "code": {
         "id": "astnode100000015",
         "name": "this.env",
@@ -145,7 +145,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 30,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace",
       "code": {
         "id": "astnode100000020",
         "name": "weather",
@@ -175,7 +175,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 36,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace",
       "code": {
         "id": "astnode100000022",
         "name": "roads",
@@ -200,7 +200,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/namespace/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace/0-src.js"
     ]
   }
 ]

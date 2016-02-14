@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/exports-vars-alias",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/exports-vars-alias",
       "code": {}
     },
     "description": "Alias the vars as exported",
@@ -25,7 +25,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/exports-vars-alias",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/exports-vars-alias",
       "code": {
         "id": "astnode100000002",
         "name": "one",
@@ -54,7 +54,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 16,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/exports-vars-alias",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/exports-vars-alias",
       "code": {
         "id": "astnode100000006",
         "name": "two",
@@ -83,7 +83,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 18,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/exports-vars-alias",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/exports-vars-alias",
       "code": {
         "id": "astnode100000010",
         "name": "exports.one",
@@ -108,7 +108,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/exports-vars-alias",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/exports-vars-alias",
       "code": {
         "id": "astnode100000016",
         "name": "exports.two",
@@ -128,7 +128,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/commonjs/exports-vars-alias/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/exports-vars-alias/0-src.js"
     ]
   }
 ]

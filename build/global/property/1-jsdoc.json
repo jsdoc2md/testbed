@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/property",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/property",
       "code": {
         "id": "astnode100000002",
         "name": "config",
@@ -77,7 +77,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/property",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/property",
       "code": {
         "id": "astnode100000005",
         "name": "defaults",
@@ -101,7 +101,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/property",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/property",
       "code": {
         "id": "astnode100000007",
         "name": "players",
@@ -125,7 +125,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 12,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/property",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/property",
       "code": {
         "id": "astnode100000009",
         "name": "level",
@@ -149,7 +149,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 13,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/property",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/property",
       "code": {
         "id": "astnode100000011",
         "name": "treasure",
@@ -173,7 +173,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/property",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/property",
       "code": {
         "id": "astnode100000013",
         "name": "gold",
@@ -192,7 +192,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/property/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/property/0-src.js"
     ]
   }
 ]

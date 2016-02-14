@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 7,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/function-protection",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/function-protection",
       "code": {
         "id": "astnode100000001",
         "name": "protection",
@@ -58,7 +58,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/function-protection/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/function-protection/0-src.js"
     ]
   }
 ]

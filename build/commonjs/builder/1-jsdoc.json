@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/builder",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/builder",
       "code": {}
     },
     "description": "Aside from humans, who are the most prolific and versatile builders, building behaviour is common in many mammals, birds, insects and arachnids. It is also seen in a few species of fish, reptiles, amphibians, molluscs, urochordates, crustaceans, annelids and some other arthropods. It is virtually absent from all the other animal phyla.",
@@ -25,7 +25,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/builder",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/builder",
       "code": {
         "id": "astnode100000002",
         "name": "builder",
@@ -48,7 +48,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 13,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/builder",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/builder",
       "code": {
         "id": "astnode100000005",
         "name": "construct",
@@ -71,7 +71,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 17,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/builder",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/builder",
       "code": {
         "id": "astnode100000008",
         "name": "repair",
@@ -94,7 +94,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 20,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/builder",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/builder",
       "code": {
         "id": "astnode100000012",
         "name": "module.exports",
@@ -112,7 +112,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/commonjs/builder/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/builder/0-src.js"
     ]
   }
 ]

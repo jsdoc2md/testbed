@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/deep-tree",
       "code": {}
     },
     "description": "test to check deep trees render ok",
@@ -25,7 +25,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/deep-tree",
       "code": {
         "id": "astnode100000002",
         "name": "exports.size",
@@ -50,7 +50,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 15,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/deep-tree",
       "code": {
         "id": "astnode100000008",
         "name": "exports.equipment",
@@ -75,7 +75,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 20,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/deep-tree",
       "code": {
         "id": "astnode100000013",
         "name": "tractor",
@@ -99,7 +99,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 24,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/deep-tree",
       "code": {
         "id": "astnode100000015",
         "name": "engine",
@@ -123,7 +123,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 28,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/deep-tree",
       "code": {
         "id": "astnode100000017",
         "name": "manufacturer",
@@ -147,7 +147,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 33,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/deep-tree",
       "code": {
         "id": "astnode100000019",
         "name": "size",
@@ -166,7 +166,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/commonjs/deep-tree/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/deep-tree/0-src.js"
     ]
   }
 ]

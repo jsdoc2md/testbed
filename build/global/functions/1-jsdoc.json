@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/functions",
       "code": {
         "id": "astnode100000001",
         "name": "globalFunc",
@@ -32,7 +32,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 13,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/functions",
       "code": {
         "id": "astnode100000004",
         "name": "exampled",
@@ -59,7 +59,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 26,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/functions",
       "code": {
         "id": "astnode100000007",
         "name": "multiExampled",
@@ -87,7 +87,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 31,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/functions",
       "code": {
         "id": "astnode100000011",
         "name": "_protected",
@@ -109,7 +109,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 36,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/functions",
       "code": {
         "id": "astnode100000016",
         "name": "_private",
@@ -131,7 +131,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 41,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/functions",
       "code": {
         "id": "astnode100000020",
         "name": "withAuthor",
@@ -157,7 +157,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 46,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/functions",
       "code": {
         "id": "astnode100000023",
         "name": "oldFunction",
@@ -181,7 +181,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 51,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/functions",
       "code": {
         "id": "astnode100000026",
         "name": "newFunction",
@@ -205,7 +205,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 56,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/functions",
       "code": {
         "id": "astnode100000029",
         "name": "withParam",
@@ -241,7 +241,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 62,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/functions",
       "code": {
         "id": "astnode100000034",
         "name": "withParams",
@@ -285,7 +285,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 68,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/functions",
       "code": {
         "id": "astnode100000039",
         "name": "withOptional",
@@ -331,7 +331,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 81,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/functions",
       "code": {
         "id": "astnode100000044",
         "name": "withBullets",
@@ -377,7 +377,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 86,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/functions",
       "code": {
         "id": "astnode100000049",
         "name": "returnsSomething",
@@ -412,7 +412,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 91,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/functions",
       "code": {
         "id": "astnode100000054",
         "name": "returnsSomethingDesc",
@@ -448,7 +448,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 96,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/functions",
       "code": {
         "id": "astnode100000059",
         "name": "returnsSeveral",
@@ -485,7 +485,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 111,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/functions",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/functions",
       "code": {
         "id": "astnode100000064",
         "name": "allTogether",
@@ -545,7 +545,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/functions/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/functions/0-src.js"
     ]
   }
 ]

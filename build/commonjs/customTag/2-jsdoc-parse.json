@@ -18,7 +18,7 @@
     "meta": {
       "lineno": 1,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/customTag"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/customTag"
     },
     "order": 0
   },
@@ -33,7 +33,7 @@
     "meta": {
       "lineno": 11,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/customTag"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/customTag"
     },
     "order": 1
   }

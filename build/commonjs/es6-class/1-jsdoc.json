@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/es6-class",
       "code": {}
     },
     "kind": "module",
@@ -24,7 +24,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/es6-class",
       "code": {
         "id": "astnode100000001",
         "name": "ExportedClass",
@@ -84,7 +84,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 18,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/es6-class",
       "code": {
         "id": "astnode100000004",
         "name": "ExportedClass",
@@ -148,7 +148,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 23,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/es6-class",
       "code": {
         "id": "astnode100000011",
         "name": "this.propOne",
@@ -178,7 +178,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 27,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/es6-class",
       "code": {
         "id": "astnode100000016",
         "name": "ExportedClass.shat",
@@ -205,7 +205,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 30,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/es6-class",
       "code": {
         "id": "astnode100000020",
         "name": "ExportedClass#methodOne",
@@ -232,7 +232,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 32,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/es6-class",
       "code": {
         "id": "astnode100000024",
         "name": "ExportedClass#methodTwo",
@@ -259,7 +259,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 39,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/es6-class",
       "code": {
         "id": "astnode100000028",
         "name": "ChildClass",
@@ -286,7 +286,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 40,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/es6-class",
       "code": {
         "id": "astnode100000032",
         "name": "ChildClass",
@@ -313,7 +313,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 42,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/es6-class",
       "code": {
         "id": "astnode100000037",
         "name": "this.propThree",
@@ -338,7 +338,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 46,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/es6-class",
       "code": {
         "id": "astnode100000043",
         "name": "module.exports",
@@ -356,7 +356,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/commonjs/es6-class/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/es6-class/0-src.js"
     ]
   }
 ]

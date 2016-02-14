@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {}
     },
     "name": "0-src.js",
@@ -27,7 +27,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 22,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {
         "id": "astnode100000001",
         "name": "FurQ",
@@ -78,7 +78,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 29,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {
         "id": "astnode100000005",
         "name": "this.kill",
@@ -114,7 +114,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 39,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {
         "id": "astnode100000012",
         "name": "this.respect",
@@ -162,7 +162,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 41,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {
         "id": "astnode100000020",
         "name": "this.punch",
@@ -186,7 +186,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 47,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {
         "id": "astnode100000027",
         "name": "this.LOVE",
@@ -216,7 +216,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 55,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {
         "id": "astnode100000033",
         "name": "this.wannaTryIt",
@@ -250,7 +250,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 60,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {
         "id": "astnode100000039",
         "name": "this.spit",
@@ -275,7 +275,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 62,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {}
     },
     "description": "fire weapon",
@@ -305,7 +305,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 67,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {}
     },
     "description": "slap man",
@@ -324,7 +324,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 78,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {
         "id": "astnode100000046",
         "name": "FurQ.peace",
@@ -352,7 +352,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 85,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {
         "id": "astnode100000053",
         "name": "FurQ.enemy",
@@ -384,7 +384,7 @@
           ],
           "filename": "0-src.js",
           "lineno": 89,
-          "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
           "code": {
             "id": "astnode100000058",
             "name": "COCK",
@@ -414,7 +414,7 @@
           ],
           "filename": "0-src.js",
           "lineno": 90,
-          "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
           "code": {
             "id": "astnode100000060",
             "name": "BITCH",
@@ -443,7 +443,7 @@
           ],
           "filename": "0-src.js",
           "lineno": 91,
-          "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
           "code": {
             "id": "astnode100000062",
             "name": "MUTHAFUCKA",
@@ -474,7 +474,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 89,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {
         "id": "astnode100000058",
         "name": "COCK",
@@ -504,7 +504,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 90,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {
         "id": "astnode100000060",
         "name": "BITCH",
@@ -533,7 +533,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 91,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {
         "id": "astnode100000062",
         "name": "MUTHAFUCKA",
@@ -562,7 +562,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 97,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {
         "id": "astnode100000064",
         "name": "plant",
@@ -586,7 +586,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 99,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {}
     },
     "description": "Passed to {@link FurQ#respect}",
@@ -630,7 +630,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 109,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {
         "id": "astnode100000067",
         "name": "Rapper",
@@ -658,7 +658,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 113,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {
         "id": "astnode100000071",
         "name": "this.spit",
@@ -682,7 +682,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 117,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {
         "id": "astnode100000078",
         "name": "this.battle",
@@ -706,7 +706,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 122,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {
         "id": "astnode100000085",
         "name": "Rapper.train",
@@ -733,7 +733,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 127,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {
         "id": "astnode100000091",
         "name": "School",
@@ -761,7 +761,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 131,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {
         "id": "astnode100000095",
         "name": "this.bestStudent",
@@ -781,7 +781,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq/0-src.js"
     ]
   },
   {
@@ -793,7 +793,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 117,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {
         "id": "astnode100000078",
         "name": "this.battle",
@@ -819,7 +819,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 97,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-furq",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq",
       "code": {
         "id": "astnode100000064",
         "name": "plant",

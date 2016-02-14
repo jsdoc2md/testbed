@@ -9,7 +9,7 @@
     "meta": {
       "lineno": 1,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace2"
     },
     "order": 0
   },
@@ -70,7 +70,7 @@
     "meta": {
       "lineno": 42,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace2"
     },
     "order": 5
   },
@@ -91,7 +91,7 @@
     "meta": {
       "lineno": 11,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace2"
     },
     "order": 1
   },
@@ -112,7 +112,7 @@
     "meta": {
       "lineno": 18,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace2"
     },
     "order": 2
   },
@@ -127,7 +127,7 @@
     "meta": {
       "lineno": 22,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace2"
     },
     "order": 3
   },
@@ -148,7 +148,7 @@
     "meta": {
       "lineno": 29,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/namespace2"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/namespace2"
     },
     "order": 4
   }

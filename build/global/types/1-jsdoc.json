@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/types",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/types",
       "code": {
         "id": "astnode100000002",
         "name": "returnsArrayOfType"
@@ -33,7 +33,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/types",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/types",
       "code": {
         "id": "astnode100000005",
         "name": "returnsArrayOfType2"
@@ -59,7 +59,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/types",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/types",
       "code": {
         "id": "astnode100000008",
         "name": "nullableNumber",
@@ -87,7 +87,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/types",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/types",
       "code": {
         "id": "astnode100000012",
         "name": "nonNullableNumber",
@@ -115,7 +115,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 24,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/types",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/types",
       "code": {
         "id": "astnode100000016",
         "name": "objectType",
@@ -142,7 +142,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 29,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/types",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/types",
       "code": {
         "id": "astnode100000019",
         "name": "nullableArrayTypeParam",
@@ -172,7 +172,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/types/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/types/0-src.js"
     ]
   }
 ]

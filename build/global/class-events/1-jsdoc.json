@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-events",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-events",
       "code": {
         "id": "astnode100000001",
         "name": "Rice",
@@ -31,7 +31,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-events",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-events",
       "code": {}
     },
     "description": "Fired when rice is ready",
@@ -50,7 +50,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-events",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-events",
       "code": {}
     },
     "description": "Fired when rice is cooking",
@@ -64,7 +64,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/class-events/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-events/0-src.js"
     ]
   }
 ]

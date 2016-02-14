@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/throws",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/throws",
       "code": {
         "id": "astnode100000001",
         "name": "throwingFunction",
@@ -46,7 +46,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/throws/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/throws/0-src.js"
     ]
   }
 ]

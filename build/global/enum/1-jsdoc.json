@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/enum",
       "code": {
         "id": "astnode100000002",
         "name": "eFileType",
@@ -38,7 +38,7 @@
           ],
           "filename": "0-src.js",
           "lineno": 7,
-          "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/enum",
           "code": {
             "id": "astnode100000005",
             "name": "NOEXIST",
@@ -67,7 +67,7 @@
           ],
           "filename": "0-src.js",
           "lineno": 8,
-          "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/enum",
           "code": {
             "id": "astnode100000007",
             "name": "FILE",
@@ -96,7 +96,7 @@
           ],
           "filename": "0-src.js",
           "lineno": 9,
-          "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/enum",
           "code": {
             "id": "astnode100000009",
             "name": "DIR",
@@ -127,7 +127,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 7,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/enum",
       "code": {
         "id": "astnode100000005",
         "name": "NOEXIST",
@@ -156,7 +156,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 8,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/enum",
       "code": {
         "id": "astnode100000007",
         "name": "FILE",
@@ -185,7 +185,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/enum",
       "code": {
         "id": "astnode100000009",
         "name": "DIR",
@@ -214,7 +214,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 16,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/enum",
       "code": {
         "id": "astnode100000012",
         "name": "eType",
@@ -238,7 +238,7 @@
           ],
           "filename": "0-src.js",
           "lineno": 20,
-          "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/enum",
           "code": {
             "id": "astnode100000015",
             "name": "ONE",
@@ -263,7 +263,7 @@
           ],
           "filename": "0-src.js",
           "lineno": 24,
-          "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/enum",
           "code": {
             "id": "astnode100000017",
             "name": "TWO",
@@ -290,7 +290,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 20,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/enum",
       "code": {
         "id": "astnode100000015",
         "name": "ONE",
@@ -315,7 +315,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 24,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/enum",
       "code": {
         "id": "astnode100000017",
         "name": "TWO",
@@ -340,7 +340,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 30,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/enum",
       "code": {
         "id": "astnode100000019",
         "name": "normalFunction",
@@ -364,7 +364,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 36,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/enum",
       "code": {
         "id": "astnode100000022",
         "name": "eFunction",
@@ -389,7 +389,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 44,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/enum",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/enum",
       "code": {
         "id": "astnode100000025",
         "name": "eFunction",
@@ -434,7 +434,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/enum/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/enum/0-src.js"
     ]
   }
 ]

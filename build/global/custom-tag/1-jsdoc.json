@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/custom-tag",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/custom-tag",
       "code": {
         "id": "astnode100000001",
         "name": "customTaggedFunction",
@@ -35,7 +35,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/custom-tag/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/custom-tag/0-src.js"
     ]
   }
 ]

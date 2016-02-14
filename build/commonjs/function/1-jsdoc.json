@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/function",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/function",
       "code": {}
     },
     "description": "This is the module description",
@@ -29,7 +29,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/function",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/function",
       "code": {
         "id": "astnode100000002",
         "name": "module.exports",
@@ -80,7 +80,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/commonjs/function/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/function/0-src.js"
     ]
   }
 ]

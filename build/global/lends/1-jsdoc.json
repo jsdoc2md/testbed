@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 2,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/lends",
       "code": {
         "id": "astnode100000002",
         "name": "LendsClass",
@@ -30,7 +30,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/lends",
       "code": {
         "id": "astnode100000006",
         "type": "ObjectExpression"
@@ -52,7 +52,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/lends",
       "code": {
         "id": "astnode100000007",
         "name": "initialize",
@@ -75,7 +75,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/lends",
       "code": {
         "id": "astnode100000011",
         "name": "say",
@@ -98,7 +98,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 13,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/lends",
       "code": {
         "id": "astnode100000016",
         "name": "LendsClass2",
@@ -121,7 +121,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/lends",
       "code": {
         "id": "astnode100000021",
         "name": "initialize",
@@ -143,7 +143,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 23,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/lends",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/lends",
       "code": {
         "id": "astnode100000025",
         "name": "say",
@@ -161,7 +161,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/lends/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/lends/0-src.js"
     ]
   }
 ]

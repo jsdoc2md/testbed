@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/todo",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/todo",
       "code": {
         "id": "astnode100000001",
         "name": "todoFunction1",
@@ -35,7 +35,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 13,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/todo",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/todo",
       "code": {
         "id": "astnode100000004",
         "name": "todoFunction2",
@@ -76,7 +76,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/todo",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/todo",
       "code": {
         "id": "astnode100000007",
         "name": "todoFunction3",
@@ -108,7 +108,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/todo/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/todo/0-src.js"
     ]
   }
 ]

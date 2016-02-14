@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/constants",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/constants",
       "code": {
         "id": "astnode100000002",
         "name": "CONST_ONE",
@@ -36,7 +36,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/constants",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/constants",
       "code": {
         "id": "astnode100000006",
         "name": "CONST_TWO",
@@ -68,7 +68,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/constants/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/constants/0-src.js"
     ]
   }
 ]

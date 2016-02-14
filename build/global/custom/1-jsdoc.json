@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/custom",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/custom",
       "code": {
         "id": "astnode100000001",
         "name": "promiseSomething",
@@ -54,7 +54,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/custom",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/custom",
       "code": {
         "id": "astnode100000004",
         "name": "Tree",
@@ -77,7 +77,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/custom",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/custom",
       "code": {
         "id": "astnode100000007",
         "name": "Comedy",
@@ -103,7 +103,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/custom/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/custom/0-src.js"
     ]
   }
 ]

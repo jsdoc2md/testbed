@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/amd/export-object",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/amd/export-object",
       "code": {
         "id": "astnode100000007",
         "name": "ns",
@@ -31,7 +31,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/amd/export-object",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/amd/export-object",
       "code": {
         "id": "astnode100000011",
         "name": "ns.sayHello",
@@ -51,7 +51,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/amd/export-object/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/amd/export-object/0-src.js"
     ]
   }
 ]

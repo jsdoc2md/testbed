@@ -20,6 +20,7 @@ function getFolderQueue () {
   } else {
     return fsIterable.getDirTree(options.v2 ? './build-v2' : './build')
       .then(folderList => makeFolderQueue(folderList))
+      .catch(err => console.error(err.stack))
   }
 }
 

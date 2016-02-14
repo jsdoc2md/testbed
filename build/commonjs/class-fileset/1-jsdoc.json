@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/class-fileset",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/class-fileset",
       "code": {}
     },
     "description": "this module exports a class constructor",
@@ -28,7 +28,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/class-fileset",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/class-fileset",
       "code": {
         "id": "astnode100000002",
         "name": "module.exports",
@@ -51,7 +51,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 22,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/class-fileset",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/class-fileset",
       "code": {
         "id": "astnode100000008",
         "name": "FileSet",
@@ -90,7 +90,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 23,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/class-fileset",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/class-fileset",
       "code": {
         "id": "astnode100000014",
         "name": "the",
@@ -114,7 +114,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 29,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/class-fileset",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/class-fileset",
       "code": {
         "id": "astnode100000018",
         "name": "FileSet.prototype.files",
@@ -139,7 +139,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 35,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/class-fileset",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/class-fileset",
       "code": {
         "id": "astnode100000026",
         "name": "FileSet.prototype.delete",
@@ -171,7 +171,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/commonjs/class-fileset/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/class-fileset/0-src.js"
     ]
   }
 ]

@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class",
       "code": {
         "id": "astnode100000001",
         "name": "GlobalClass",
@@ -59,7 +59,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class",
       "code": {
         "id": "astnode100000007",
         "name": "this.propOne",
@@ -84,7 +84,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class",
       "code": {
         "id": "astnode100000013",
         "name": "GlobalClass.propTwo",
@@ -109,7 +109,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 17,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class",
       "code": {
         "id": "astnode100000019",
         "name": "GlobalClass.prototype.methodOne",
@@ -133,7 +133,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class",
       "code": {
         "id": "astnode100000028",
         "name": "GlobalClass.prototype.methodTwo",
@@ -157,7 +157,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 26,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class",
       "code": {
         "id": "astnode100000036",
         "name": "GlobalChildClass",
@@ -187,7 +187,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 30,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class",
       "code": {
         "id": "astnode100000040",
         "name": "this.propThree",
@@ -212,7 +212,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 33,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class",
       "code": {
         "id": "astnode100000046",
         "name": "GlobalChildClass.prototype.methodTwo",
@@ -232,7 +232,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/class/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class/0-src.js"
     ]
   },
   {
@@ -244,7 +244,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class",
       "code": {
         "id": "astnode100000007",
         "name": "this.propOne",
@@ -271,7 +271,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 17,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class",
       "code": {
         "id": "astnode100000019",
         "name": "GlobalClass.prototype.methodOne",

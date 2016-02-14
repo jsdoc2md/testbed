@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-methods",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-methods",
       "code": {
         "id": "astnode100000001",
         "name": "Something",
@@ -31,7 +31,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-methods",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-methods",
       "code": {
         "id": "astnode100000005",
         "name": "Something.prototype.methodOne",
@@ -55,7 +55,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 24,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/class-methods",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-methods",
       "code": {
         "id": "astnode100000014",
         "name": "Something.prototype.allTogether",
@@ -116,7 +116,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/class-methods/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-methods/0-src.js"
     ]
   }
 ]

@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/typedef",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/typedef",
       "code": {}
     },
     "description": "A number, or a string containing a number.",
@@ -32,7 +32,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/typedef",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/typedef",
       "code": {
         "id": "astnode100000001",
         "name": "setMagicNumber",
@@ -68,7 +68,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 12,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/typedef",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/typedef",
       "code": {}
     },
     "description": "Some options",
@@ -111,7 +111,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 22,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/typedef",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/typedef",
       "code": {
         "id": "astnode100000005",
         "name": "doSomething",
@@ -141,7 +141,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/typedef/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/typedef/0-src.js"
     ]
   }
 ]

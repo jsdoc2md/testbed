@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/private",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/private",
       "code": {}
     },
     "description": "module with private shiz",
@@ -25,7 +25,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/private",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/private",
       "code": {
         "id": "astnode100000002",
         "name": "exports.notprivate",
@@ -50,7 +50,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 15,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/private",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/private",
       "code": {
         "id": "astnode100000008",
         "name": "exports.isprivate",
@@ -71,7 +71,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/commonjs/private/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/private/0-src.js"
     ]
   }
 ]

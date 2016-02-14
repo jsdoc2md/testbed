@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/example2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/example2",
       "code": {
         "id": "astnode100000001",
         "name": "one",
@@ -35,7 +35,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 17,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/example2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/example2",
       "code": {
         "id": "astnode100000004",
         "name": "two",
@@ -62,7 +62,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 26,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/example2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/example2",
       "code": {
         "id": "astnode100000007",
         "name": "three",
@@ -89,7 +89,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 34,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/example2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/example2",
       "code": {
         "id": "astnode100000010",
         "name": "four",
@@ -116,7 +116,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 43,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/example2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/example2",
       "code": {
         "id": "astnode100000013",
         "name": "five",
@@ -143,7 +143,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 54,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/example2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/example2",
       "code": {
         "id": "astnode100000016",
         "name": "six",
@@ -170,7 +170,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 65,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/example2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/example2",
       "code": {
         "id": "astnode100000019",
         "name": "seven",
@@ -197,7 +197,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 78,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/example2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/example2",
       "code": {
         "id": "astnode100000022",
         "name": "eight",
@@ -219,7 +219,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/example2/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/example2/0-src.js"
     ]
   }
 ]

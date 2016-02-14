@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/function-alias",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/function-alias",
       "code": {}
     },
     "description": "exports a pointer to a function",
@@ -25,7 +25,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/function-alias",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/function-alias",
       "code": {
         "id": "astnode100000002",
         "name": "module.exports",
@@ -48,7 +48,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/function-alias",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/function-alias",
       "code": {
         "id": "astnode100000007",
         "name": "sum",
@@ -104,7 +104,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/function-alias",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/function-alias",
       "code": {
         "id": "astnode100000013",
         "name": "sum.sumthingStatic",
@@ -124,7 +124,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/commonjs/function-alias/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/function-alias/0-src.js"
     ]
   }
 ]

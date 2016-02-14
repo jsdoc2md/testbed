@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-alias2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/object-alias2",
       "code": {}
     },
     "description": "simple object export",
@@ -26,7 +26,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-alias2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/object-alias2",
       "code": {
         "id": "astnode100000002",
         "name": "exports.one",
@@ -51,7 +51,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 15,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-alias2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/object-alias2",
       "code": {
         "id": "astnode100000008",
         "name": "exports.two",
@@ -76,7 +76,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 20,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-alias2",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/object-alias2",
       "code": {
         "id": "astnode100000014",
         "name": "exports.three",
@@ -98,7 +98,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object-alias2/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/object-alias2/0-src.js"
     ]
   }
 ]

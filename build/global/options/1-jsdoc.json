@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/options",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/options",
       "code": {
         "id": "astnode100000001",
         "name": "doSomething",
@@ -61,7 +61,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/options",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/options",
       "code": {
         "id": "astnode100000005",
         "name": "doAnother",
@@ -91,7 +91,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/options/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/options/0-src.js"
     ]
   }
 ]

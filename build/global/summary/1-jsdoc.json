@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 2,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/summary",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/summary",
       "code": {
         "id": "astnode100000004",
         "name": "render",
@@ -31,7 +31,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/summary",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/summary",
       "code": {
         "id": "astnode100000010",
         "name": "src",
@@ -54,7 +54,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 7,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/summary",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/summary",
       "code": {
         "id": "astnode100000019",
         "name": "src",
@@ -77,7 +77,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 8,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/summary",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/summary",
       "code": {
         "id": "astnode100000021",
         "name": "template",
@@ -100,7 +100,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/summary",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/summary",
       "code": {
         "id": "astnode100000025",
         "name": "\"global-index-format\"",
@@ -123,7 +123,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/summary",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/summary",
       "code": {
         "id": "astnode100000027",
         "name": "source",
@@ -141,7 +141,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/summary/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/summary/0-src.js"
     ]
   }
 ]

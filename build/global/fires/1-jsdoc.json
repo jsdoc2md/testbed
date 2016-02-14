@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/fires",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/fires",
       "code": {
         "id": "astnode100000001",
         "name": "firesError",
@@ -34,7 +34,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/fires",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/fires",
       "code": {
         "id": "astnode100000004",
         "name": "firesMany",
@@ -62,7 +62,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 16,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/fires",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/fires",
       "code": {
         "id": "astnode100000007",
         "name": "firesDefinedEvent",
@@ -83,7 +83,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/fires/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/fires/0-src.js"
     ]
   }
 ]

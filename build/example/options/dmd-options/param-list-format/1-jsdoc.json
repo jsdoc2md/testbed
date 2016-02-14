@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/param-list-format",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/example/options/dmd-options/param-list-format",
       "code": {
         "id": "astnode100000001",
         "name": "taze",
@@ -110,7 +110,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/param-list-format",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/example/options/dmd-options/param-list-format",
       "code": {
         "id": "astnode100000007",
         "name": "noParams",
@@ -129,7 +129,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/param-list-format/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/example/options/dmd-options/param-list-format/0-src.js"
     ]
   }
 ]

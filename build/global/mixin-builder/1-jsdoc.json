@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin-builder",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/mixin-builder",
       "code": {
         "id": "astnode100000002",
         "name": "builder",
@@ -31,7 +31,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin-builder",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/mixin-builder",
       "code": {
         "id": "astnode100000005",
         "name": "construct",
@@ -54,7 +54,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 13,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin-builder",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/mixin-builder",
       "code": {
         "id": "astnode100000008",
         "name": "repair",
@@ -72,7 +72,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/mixin-builder/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/mixin-builder/0-src.js"
     ]
   }
 ]

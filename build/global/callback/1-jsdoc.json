@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/callback",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/callback",
       "code": {
         "id": "astnode100000001",
         "name": "read",
@@ -53,7 +53,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 7,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/callback",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/callback",
       "code": {}
     },
     "description": "Called when an async operation completes",
@@ -91,7 +91,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/callback/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/callback/0-src.js"
     ]
   }
 ]

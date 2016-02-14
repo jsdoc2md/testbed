@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/ignore",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/ignore",
       "code": {
         "id": "astnode100000002",
         "name": "visible",
@@ -31,7 +31,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/ignore",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/ignore",
       "code": {
         "id": "astnode100000006",
         "name": "invisible",
@@ -50,7 +50,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/ignore/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/ignore/0-src.js"
     ]
   }
 ]

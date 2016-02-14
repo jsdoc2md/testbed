@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/chainable",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/chainable",
       "code": {
         "id": "astnode100000001",
         "name": "Chainable",
@@ -36,7 +36,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/chainable",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/chainable",
       "code": {
         "id": "astnode100000005",
         "name": "this.method",
@@ -62,7 +62,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/chainable/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/chainable/0-src.js"
     ]
   }
 ]

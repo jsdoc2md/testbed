@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/object",
       "code": {}
     },
     "description": "a module exporting `exports` directly",
@@ -33,7 +33,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/object",
       "code": {
         "id": "astnode100000002",
         "name": "exports.one",
@@ -63,7 +63,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 18,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/object",
       "code": {
         "id": "astnode100000008",
         "name": "exports.two",
@@ -88,7 +88,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/commonjs/object/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/object/0-src.js"
     ]
   }
 ]

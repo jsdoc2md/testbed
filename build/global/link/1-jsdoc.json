@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/link",
       "code": {}
     },
     "description": "A module. Refer to it using {@link module:foo/bar}.",
@@ -25,7 +25,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/link",
       "code": {}
     },
     "description": "The built in string object. Refer to it with {@link external:String}.",
@@ -44,7 +44,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 7,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/link",
       "code": {}
     },
     "description": "An event. Refer to with {@link module:foo/bar.event:MyEvent}.",
@@ -63,7 +63,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/link",
       "code": {
         "id": "astnode100000001",
         "name": "linkFunction",
@@ -88,7 +88,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 18,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/link",
       "code": {
         "id": "astnode100000004",
         "name": "LinkClass",
@@ -116,7 +116,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 20,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/link",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/link",
       "code": {
         "id": "astnode100000008",
         "name": "this.foo",
@@ -136,7 +136,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/link/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/link/0-src.js"
     ]
   }
 ]

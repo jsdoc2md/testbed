@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/returns",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/returns",
       "code": {
         "id": "astnode100000001",
         "name": "globalFunction",
@@ -54,7 +54,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 12,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/returns",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/returns",
       "code": {
         "id": "astnode100000006",
         "name": "returnsSomething",
@@ -85,7 +85,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/returns/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/returns/0-src.js"
     ]
   }
 ]

@@ -8,7 +8,7 @@
     "meta": {
       "lineno": 1,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/function-alias"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/function-alias"
     },
     "order": 0
   },
@@ -54,7 +54,7 @@
     "meta": {
       "lineno": 14,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/function-alias"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/function-alias"
     },
     "order": 1
   },
@@ -69,7 +69,7 @@
     "meta": {
       "lineno": 19,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/commonjs/function-alias"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/function-alias"
     },
     "order": 2
   }

@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/mixin",
       "code": {
         "id": "astnode100000002",
         "name": "Eventful",
@@ -31,7 +31,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 12,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/mixin",
       "code": {
         "id": "astnode100000005",
         "name": "on",
@@ -74,7 +74,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/mixin",
       "code": {
         "id": "astnode100000010",
         "name": "fire",
@@ -117,7 +117,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 22,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/global/mixin",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/mixin",
       "code": {}
     },
     "description": "phantom mixin",
@@ -130,7 +130,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/global/mixin/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/mixin/0-src.js"
     ]
   }
 ]

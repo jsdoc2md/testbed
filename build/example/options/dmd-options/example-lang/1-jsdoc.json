@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/example-lang",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/example/options/dmd-options/example-lang",
       "code": {
         "id": "astnode100000001",
         "name": "one",
@@ -35,7 +35,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 18,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/example-lang",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/example/options/dmd-options/example-lang",
       "code": {
         "id": "astnode100000004",
         "name": "two",
@@ -62,7 +62,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 25,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/example-lang",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/example/options/dmd-options/example-lang",
       "code": {
         "id": "astnode100000007",
         "name": "three",
@@ -89,7 +89,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 32,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/example-lang",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/example/options/dmd-options/example-lang",
       "code": {
         "id": "astnode100000010",
         "name": "four",
@@ -116,7 +116,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 39,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/example-lang",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/example/options/dmd-options/example-lang",
       "code": {
         "id": "astnode100000013",
         "name": "five",
@@ -138,7 +138,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/example/options/dmd-options/example-lang/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/example/options/dmd-options/example-lang/0-src.js"
     ]
   }
 ]

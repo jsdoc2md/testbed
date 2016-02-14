@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/amd/jacket",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/amd/jacket",
       "code": {}
     },
     "description": "A module representing a jacket.",
@@ -25,7 +25,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/amd/jacket",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/amd/jacket",
       "code": {
         "id": "astnode100000008",
         "name": "Jacket",
@@ -46,7 +46,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 13,
-      "path": "/Users/lloyd/Documents/75lb/testbed/build/amd/jacket",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/amd/jacket",
       "code": {
         "id": "astnode100000013",
         "name": "Jacket.prototype.zip",
@@ -66,7 +66,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/75lb/testbed/build/amd/jacket/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/amd/jacket/0-src.js"
     ]
   }
 ]
