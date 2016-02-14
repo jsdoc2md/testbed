@@ -1,0 +1,100 @@
+[
+  {
+    "comment": "/**\n * @module module-exports-func-var\n */",
+    "meta": {
+      "range": [
+        0,
+        42
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/commonjs/module-exports-func-var",
+      "code": {}
+    },
+    "kind": "module",
+    "name": "module-exports-func-var",
+    "longname": "module:module-exports-func-var"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        43,
+        64
+      ],
+      "filename": "0-src.js",
+      "lineno": 4,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/commonjs/module-exports-func-var",
+      "code": {
+        "id": "astnode100000002",
+        "name": "module.exports",
+        "type": "Identifier",
+        "value": "func",
+        "paramnames": []
+      }
+    },
+    "undocumented": true,
+    "name": "module:module-exports-func-var",
+    "longname": "module:module-exports-func-var",
+    "kind": "member"
+  },
+  {
+    "comment": "/**\n * @param {number}\n * @param {number}\n * @returns {number}\n * @alias module:module-exports-func-var\n */",
+    "meta": {
+      "range": [
+        174,
+        201
+      ],
+      "filename": "0-src.js",
+      "lineno": 12,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/commonjs/module-exports-func-var",
+      "code": {
+        "id": "astnode100000007",
+        "name": "func",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "one",
+          "two"
+        ]
+      }
+    },
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "name": "two"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        }
+      }
+    ],
+    "alias": "module:module-exports-func-var",
+    "name": "module:module-exports-func-var",
+    "longname": "module:module-exports-func-var",
+    "kind": "function"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/commonjs/module-exports-func-var/0-src.js"
+    ]
+  }
+]

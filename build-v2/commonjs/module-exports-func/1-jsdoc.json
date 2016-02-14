@@ -1,0 +1,76 @@
+[
+  {
+    "comment": "/**\n * @module module-exports-func\n */",
+    "meta": {
+      "range": [
+        0,
+        38
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/commonjs/module-exports-func",
+      "code": {}
+    },
+    "kind": "module",
+    "name": "module-exports-func",
+    "longname": "module:module-exports-func"
+  },
+  {
+    "comment": "/**\n * @param {number}\n * @param {number}\n * @returns {number}\n */",
+    "meta": {
+      "range": [
+        107,
+        146
+      ],
+      "filename": "0-src.js",
+      "lineno": 10,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/commonjs/module-exports-func",
+      "code": {
+        "id": "astnode100000002",
+        "name": "module.exports",
+        "type": "FunctionExpression",
+        "paramnames": [
+          "one",
+          "two"
+        ]
+      }
+    },
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "name": "two"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        }
+      }
+    ],
+    "name": "module:module-exports-func",
+    "longname": "module:module-exports-func",
+    "kind": "function"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/commonjs/module-exports-func/0-src.js"
+    ]
+  }
+]
