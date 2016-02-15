@@ -14,10 +14,10 @@
 #### new Example(one, two)  
   
 
-| Param | Type     | Description |
-| ----- | -------- | ----------- |
-| one   | `number` |             |
-| two   | `number` |             |
+| Param | Type     |
+| ----- | -------- |
+| one   | `number` |
+| two   | `number` |
 
 
 <a name="module_module-exports-es6-class-var--Example.Example+three"></a>

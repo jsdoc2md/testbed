@@ -5,9 +5,9 @@
 ### module.exports(one, two) ⇒ `number` ⏏  
 **Kind**: Exported function  
 
-| Param | Type     | Description |
-| ----- | -------- | ----------- |
-| one   | `number` |             |
-| two   | `number` |             |
+| Param | Type     |
+| ----- | -------- |
+| one   | `number` |
+| two   | `number` |
 
 
