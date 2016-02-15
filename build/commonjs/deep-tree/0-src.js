@@ -1,5 +1,5 @@
 /**
- * test to check deep trees render ok
+ * test to check deep member-indexes render ok
  *
  * @module farm
  */

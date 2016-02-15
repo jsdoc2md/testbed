@@ -1,17 +1,17 @@
 [
   {
-    "comment": "/**\n * test to check deep trees render ok\n *\n * @module farm\n */",
+    "comment": "/**\n * test to check deep member-indexes render ok\n *\n * @module farm\n */",
     "meta": {
       "range": [
         0,
-        64
+        73
       ],
       "filename": "0-src.js",
       "lineno": 1,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/commonjs/deep-tree",
       "code": {}
     },
-    "description": "test to check deep trees render ok",
+    "description": "test to check deep member-indexes render ok",
     "kind": "module",
     "name": "farm",
     "longname": "module:farm"
@@ -20,8 +20,8 @@
     "comment": "/**\n * size of farm\n */",
     "meta": {
       "range": [
-        90,
-        109
+        99,
+        118
       ],
       "filename": "0-src.js",
       "lineno": 10,
@@ -45,8 +45,8 @@
     "comment": "/**\n * machinary\n */",
     "meta": {
       "range": [
-        133,
-        407
+        142,
+        416
       ],
       "filename": "0-src.js",
       "lineno": 15,
@@ -70,8 +70,8 @@
     "comment": "/**\n    * tractor details\n    */",
     "meta": {
       "range": [
-        195,
-        404
+        204,
+        413
       ],
       "filename": "0-src.js",
       "lineno": 20,
@@ -94,8 +94,8 @@
     "comment": "/**\n      * engine details\n      */",
     "meta": {
       "range": [
-        252,
-        399
+        261,
+        408
       ],
       "filename": "0-src.js",
       "lineno": 24,
@@ -118,8 +118,8 @@
     "comment": "/**\n        * who made it\n        */",
     "meta": {
       "range": [
-        313,
-        332
+        322,
+        341
       ],
       "filename": "0-src.js",
       "lineno": 28,
@@ -142,8 +142,8 @@
     "comment": "/**\n        * size of it\n        */",
     "meta": {
       "range": [
-        385,
-        392
+        394,
+        401
       ],
       "filename": "0-src.js",
       "lineno": 33,

@@ -1,4 +1,5 @@
 /**
+ * ES6 Class (with sub-class) exported indirectly by a variable on module.exports.
  * @module es6-class
  */
 

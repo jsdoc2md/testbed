@@ -1,5 +1,7 @@
 <a name="module_es6-class"></a>
 ## es6-class
+ES6 Class (with sub-class) exported indirectly by a variable on module.exports.
+
 
 * [es6-class](#module_es6-class)
     * [ExportedClass](#exp_module_es6-class--ExportedClass) ⏏

@@ -1,6 +1,6 @@
 <a name="module_farm"></a>
 ## farm
-test to check deep trees render ok
+test to check deep member-indexes render ok
 
 
 * [farm](#module_farm)
