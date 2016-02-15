@@ -2,7 +2,7 @@
 ## color/mixer
   
 
-* color/mixer
+* [color/mixer](#module_color/mixer)  
     * [.lastColor](#module_color/mixer.lastColor)   
     * [.name](#module_color/mixer.name)   
     * [.blend(color1, color2)](#module_color/mixer.blend) ⇒ `string`  
