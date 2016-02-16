@@ -1,0 +1,111 @@
+[
+  {
+    "id": "module:farm",
+    "longname": "module:farm",
+    "name": "farm",
+    "kind": "module",
+    "description": "test to check deep member-indexes render ok",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/commonjs/deep-tree"
+    },
+    "order": 0
+  },
+  {
+    "id": "module:farm.size",
+    "parentId": "module:farm",
+    "longname": "module:farm.size",
+    "name": "size",
+    "scope": "static",
+    "kind": "member",
+    "description": "size of farm",
+    "memberof": "module:farm",
+    "meta": {
+      "lineno": 10,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/commonjs/deep-tree"
+    },
+    "order": 1
+  },
+  {
+    "id": "module:farm.equipment",
+    "parentId": "module:farm",
+    "longname": "module:farm.equipment",
+    "name": "equipment",
+    "scope": "static",
+    "kind": "member",
+    "description": "machinary",
+    "memberof": "module:farm",
+    "meta": {
+      "lineno": 15,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/commonjs/deep-tree"
+    },
+    "order": 2
+  },
+  {
+    "id": "module:farm.equipment.tractor",
+    "parentId": "module:farm.equipment",
+    "longname": "module:farm.equipment.tractor",
+    "name": "tractor",
+    "scope": "static",
+    "kind": "member",
+    "description": "tractor details",
+    "memberof": "module:farm.equipment",
+    "meta": {
+      "lineno": 20,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/commonjs/deep-tree"
+    },
+    "order": 3
+  },
+  {
+    "id": "module:farm.equipment.tractor.engine",
+    "parentId": "module:farm.equipment.tractor",
+    "longname": "module:farm.equipment.tractor.engine",
+    "name": "engine",
+    "scope": "static",
+    "kind": "member",
+    "description": "engine details",
+    "memberof": "module:farm.equipment.tractor",
+    "meta": {
+      "lineno": 24,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/commonjs/deep-tree"
+    },
+    "order": 4
+  },
+  {
+    "id": "module:farm.equipment.tractor.engine.manufacturer",
+    "parentId": "module:farm.equipment.tractor.engine",
+    "longname": "module:farm.equipment.tractor.engine.manufacturer",
+    "name": "manufacturer",
+    "scope": "static",
+    "kind": "member",
+    "description": "who made it",
+    "memberof": "module:farm.equipment.tractor.engine",
+    "meta": {
+      "lineno": 28,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/commonjs/deep-tree"
+    },
+    "order": 5
+  },
+  {
+    "id": "module:farm.equipment.tractor.engine.size",
+    "parentId": "module:farm.equipment.tractor.engine",
+    "longname": "module:farm.equipment.tractor.engine.size",
+    "name": "size",
+    "scope": "static",
+    "kind": "member",
+    "description": "size of it",
+    "memberof": "module:farm.equipment.tractor.engine",
+    "meta": {
+      "lineno": 33,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/commonjs/deep-tree"
+    },
+    "order": 6
+  }
+]
