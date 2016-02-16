@@ -1,0 +1,253 @@
+[
+  {
+    "comment": "/**\n * Lots of params with default values.\n *\n * @param [option] {object}\n * @param [option.one=1] {number} - [option.one=1]\n * @param [option.one=\"1\"] {string} - [option.one=\"1\"]\n * @param [option.one=1] {string} - [option.one=1]\n * @param [option.flag=true] {boolean} - [option.flag=true]\n * @param [option.func=function(){}] {function} - [option.func=function(){}]\n * @param {function} [option.func=function(){}] - [option.func=function(){}]\n * @param {function|string} [option.func=function(){}] - [option.func=function(){}]\n * @param {string|function} [option.func=function(){}] - [option.func=function(){}]\n * @param [option.one=/regex/] {RegExp} - [option.one=/regex/]\n * @param [option.arr=[ 1, 2, 3 ]] {Array} - [option.arr=[ 1, 2, 3 ]]\n * @param [option.arr=[ 1, 2, 3 ]] {string|Array} - [option.arr=[ 1, 2, 3 ]]\n * @param [option.arr=[ 1, 2, 3 ]] {Array|string} - [option.arr=[ 1, 2, 3 ]]\n * @param {generator} [option.generator=*function(){}] - [option.generator=*function(){}]\n * @param [option.binary=0b11] {binary} - [option.binary=0b11]\n * @param [option.octal=0o440] {octal} - [option.octal=0o440]\n * @param [option.hex=0xFF] {hex} - [option.hex=0xFF]\n * @param [option.template=`test`] {template} - [option.template=`test`]\n * @param [option.whitespace=\"  \"] {string} - [option.whitespace=\"  \"]\n * @param [option.null=null] {null} - [option.null=null]\n *\n */",
+    "meta": {
+      "range": [
+        1377,
+        1412
+      ],
+      "filename": "0-src.js",
+      "lineno": 26,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/param-default",
+      "code": {
+        "id": "astnode100000001",
+        "name": "paramDefaults",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "options"
+        ]
+      }
+    },
+    "description": "Lots of params with default values.",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "optional": true,
+        "name": "option"
+      },
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": 1,
+        "description": "[option.one=1]",
+        "name": "option.one"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "\"1\"",
+        "description": "[option.one=\"1\"]",
+        "name": "option.one"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": 1,
+        "description": "[option.one=1]",
+        "name": "option.one"
+      },
+      {
+        "type": {
+          "names": [
+            "boolean"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": true,
+        "description": "[option.flag=true]",
+        "name": "option.flag"
+      },
+      {
+        "optional": true,
+        "defaultvalue": "function()",
+        "description": "{function} - [option.func=function(){}]",
+        "name": "option.func"
+      },
+      {
+        "type": {
+          "names": [
+            "function"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "function(){}",
+        "description": "[option.func=function(){}]",
+        "name": "option.func"
+      },
+      {
+        "type": {
+          "names": [
+            "function",
+            "string"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "function(){}",
+        "description": "[option.func=function(){}]",
+        "name": "option.func"
+      },
+      {
+        "type": {
+          "names": [
+            "string",
+            "function"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "function(){}",
+        "description": "[option.func=function(){}]",
+        "name": "option.func"
+      },
+      {
+        "type": {
+          "names": [
+            "RegExp"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "/regex/",
+        "description": "[option.one=/regex/]",
+        "name": "option.one"
+      },
+      {
+        "type": {
+          "names": [
+            "Array"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "[ 1, 2, 3 ]",
+        "description": "[option.arr=[ 1, 2, 3 ]]",
+        "name": "option.arr"
+      },
+      {
+        "type": {
+          "names": [
+            "string",
+            "Array"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "[ 1, 2, 3 ]",
+        "description": "[option.arr=[ 1, 2, 3 ]]",
+        "name": "option.arr"
+      },
+      {
+        "type": {
+          "names": [
+            "Array",
+            "string"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "[ 1, 2, 3 ]",
+        "description": "[option.arr=[ 1, 2, 3 ]]",
+        "name": "option.arr"
+      },
+      {
+        "type": {
+          "names": [
+            "generator"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "*function(){}",
+        "description": "[option.generator=*function(){}]",
+        "name": "option.generator"
+      },
+      {
+        "type": {
+          "names": [
+            "binary"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "0b11",
+        "description": "[option.binary=0b11]",
+        "name": "option.binary"
+      },
+      {
+        "type": {
+          "names": [
+            "octal"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "0o440",
+        "description": "[option.octal=0o440]",
+        "name": "option.octal"
+      },
+      {
+        "type": {
+          "names": [
+            "hex"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "0xFF",
+        "description": "[option.hex=0xFF]",
+        "name": "option.hex"
+      },
+      {
+        "type": {
+          "names": [
+            "template"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "`test`",
+        "description": "[option.template=`test`]",
+        "name": "option.template"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": "\"  \"",
+        "description": "[option.whitespace=\"  \"]",
+        "name": "option.whitespace"
+      },
+      {
+        "type": {
+          "names": [
+            "null"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": null,
+        "description": "[option.null=null]",
+        "name": "option.null"
+      }
+    ],
+    "name": "paramDefaults",
+    "longname": "paramDefaults",
+    "kind": "function",
+    "scope": "global"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/param-default/0-src.js"
+    ]
+  }
+]

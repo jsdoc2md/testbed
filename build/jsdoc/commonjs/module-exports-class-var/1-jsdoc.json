@@ -1,0 +1,91 @@
+[
+  {
+    "comment": "/**\n * @module module-exports-class-var\n */",
+    "meta": {
+      "range": [
+        0,
+        43
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-class-var",
+      "code": {}
+    },
+    "kind": "module",
+    "name": "module-exports-class-var",
+    "longname": "module:module-exports-class-var"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        44,
+        66
+      ],
+      "filename": "0-src.js",
+      "lineno": 4,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-class-var",
+      "code": {
+        "id": "astnode100000002",
+        "name": "module.exports",
+        "type": "Identifier",
+        "value": "Class",
+        "paramnames": []
+      }
+    },
+    "undocumented": true,
+    "name": "module:module-exports-class-var",
+    "longname": "module:module-exports-class-var",
+    "kind": "member"
+  },
+  {
+    "comment": "/**\n * @class\n * @param {number}\n * @param {number}\n * @alias module:module-exports-class-var\n */",
+    "meta": {
+      "range": [
+        166,
+        194
+      ],
+      "filename": "0-src.js",
+      "lineno": 12,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-class-var",
+      "code": {
+        "id": "astnode100000007",
+        "name": "Class",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "one",
+          "two"
+        ]
+      }
+    },
+    "kind": "class",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "name": "two"
+      }
+    ],
+    "alias": "module:module-exports-class-var",
+    "name": "module:module-exports-class-var",
+    "longname": "module:module-exports-class-var"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-class-var/0-src.js"
+    ]
+  }
+]

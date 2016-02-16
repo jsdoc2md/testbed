@@ -1,0 +1,40 @@
+[
+  {
+    "id": "defaultedOne",
+    "longname": "defaultedOne",
+    "name": "defaultedOne",
+    "scope": "global",
+    "kind": "member",
+    "type": {
+      "names": [
+        "object"
+      ]
+    },
+    "defaultvalue": "{ one: 1, two: \"yeah?\" }",
+    "meta": {
+      "lineno": 5,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/default"
+    },
+    "order": 0
+  },
+  {
+    "id": "defaultedTwo",
+    "longname": "defaultedTwo",
+    "name": "defaultedTwo",
+    "scope": "global",
+    "kind": "member",
+    "type": {
+      "names": [
+        "function"
+      ]
+    },
+    "defaultvalue": "function f(n){ return something(n); }",
+    "meta": {
+      "lineno": 11,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/default"
+    },
+    "order": 1
+  }
+]

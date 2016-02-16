@@ -1,0 +1,273 @@
+[
+  {
+    "comment": "/**\nfactory module creating dodgy cloud. object-with-static-class.\n@module heaven\n*/",
+    "meta": {
+      "range": [
+        0,
+        84
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-static-class",
+      "code": {}
+    },
+    "description": "factory module creating dodgy cloud. object-with-static-class.",
+    "kind": "module",
+    "name": "heaven",
+    "longname": "module:heaven"
+  },
+  {
+    "comment": "/**\n@returns {module:heaven~Cloud}\n*/",
+    "meta": {
+      "range": [
+        124,
+        160
+      ],
+      "filename": "0-src.js",
+      "lineno": 9,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-static-class",
+      "code": {
+        "id": "astnode100000002",
+        "name": "exports.createCloud",
+        "type": "FunctionExpression",
+        "paramnames": []
+      }
+    },
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "module:heaven~Cloud"
+          ]
+        }
+      }
+    ],
+    "name": "createCloud",
+    "longname": "module:heaven.createCloud",
+    "kind": "function",
+    "memberof": "module:heaven",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\naccess to the Cloud class\n@type {module:heaven~Cloud}\n*/",
+    "meta": {
+      "range": [
+        223,
+        244
+      ],
+      "filename": "0-src.js",
+      "lineno": 15,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-static-class",
+      "code": {
+        "id": "astnode100000009",
+        "name": "exports.Cloud",
+        "type": "Identifier",
+        "value": "Cloud",
+        "paramnames": []
+      }
+    },
+    "description": "access to the Cloud class",
+    "type": {
+      "names": [
+        "module:heaven~Cloud"
+      ]
+    },
+    "name": "Cloud",
+    "longname": "module:heaven.Cloud",
+    "kind": "member",
+    "memberof": "module:heaven",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\ncloud constructor\n@class\n@classdesc The main class for a cloud\n@param {object} - the options\n*/",
+    "meta": {
+      "range": [
+        346,
+        490
+      ],
+      "filename": "0-src.js",
+      "lineno": 23,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-static-class",
+      "code": {
+        "id": "astnode100000014",
+        "name": "Cloud",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "options"
+        ]
+      },
+      "vars": {
+        "this.size": "module:heaven~Cloud#size",
+        "this.rain": "module:heaven~Cloud#rain"
+      }
+    },
+    "description": "cloud constructor",
+    "kind": "class",
+    "classdesc": "The main class for a cloud",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "the options",
+        "name": "options"
+      }
+    ],
+    "name": "Cloud",
+    "longname": "module:heaven~Cloud",
+    "scope": "inner",
+    "memberof": "module:heaven"
+  },
+  {
+    "comment": "/**\n  @type {number}\n  @default\n  */",
+    "meta": {
+      "range": [
+        414,
+        427
+      ],
+      "filename": "0-src.js",
+      "lineno": 28,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-static-class",
+      "code": {
+        "id": "astnode100000019",
+        "name": "this.size",
+        "type": "Literal",
+        "value": 4,
+        "paramnames": []
+      }
+    },
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "defaultvalue": 4,
+    "name": "size",
+    "longname": "module:heaven~Cloud#size",
+    "kind": "member",
+    "memberof": "module:heaven~Cloud",
+    "scope": "instance"
+  },
+  {
+    "comment": "/**\n  @type {boolean}\n  @default\n  */",
+    "meta": {
+      "range": [
+        471,
+        488
+      ],
+      "filename": "0-src.js",
+      "lineno": 34,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-static-class",
+      "code": {
+        "id": "astnode100000025",
+        "name": "this.rain",
+        "type": "Literal",
+        "value": false,
+        "paramnames": []
+      }
+    },
+    "type": {
+      "names": [
+        "boolean"
+      ]
+    },
+    "defaultvalue": false,
+    "name": "rain",
+    "longname": "module:heaven~Cloud#rain",
+    "kind": "member",
+    "memberof": "module:heaven~Cloud",
+    "scope": "instance"
+  },
+  {
+    "comment": "/**\na class method\n*/",
+    "meta": {
+      "range": [
+        514,
+        548
+      ],
+      "filename": "0-src.js",
+      "lineno": 40,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-static-class",
+      "code": {
+        "id": "astnode100000031",
+        "name": "Cloud.classMethod",
+        "type": "FunctionExpression",
+        "paramnames": []
+      }
+    },
+    "description": "a class method",
+    "name": "classMethod",
+    "longname": "module:heaven~Cloud.classMethod",
+    "kind": "function",
+    "memberof": "module:heaven~Cloud",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\na class constant\n@const {number}\n*/",
+    "meta": {
+      "range": [
+        590,
+        607
+      ],
+      "filename": "0-src.js",
+      "lineno": 46,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-static-class",
+      "code": {
+        "id": "astnode100000038",
+        "name": "Cloud.SPACES",
+        "type": "Literal",
+        "value": 94,
+        "paramnames": []
+      }
+    },
+    "description": "a class constant",
+    "kind": "constant",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "name": "SPACES",
+    "longname": "module:heaven~Cloud.SPACES",
+    "memberof": "module:heaven~Cloud",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\nan inner constant\n@const {boolean}\n*/",
+    "meta": {
+      "range": [
+        655,
+        667
+      ],
+      "filename": "0-src.js",
+      "lineno": 52,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-static-class",
+      "code": {
+        "id": "astnode100000044",
+        "name": "FACT",
+        "type": "Literal",
+        "value": false
+      }
+    },
+    "description": "an inner constant",
+    "kind": "constant",
+    "type": {
+      "names": [
+        "boolean"
+      ]
+    },
+    "name": "FACT",
+    "longname": "module:heaven~FACT",
+    "scope": "inner",
+    "memberof": "module:heaven"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-static-class/0-src.js"
+    ]
+  }
+]

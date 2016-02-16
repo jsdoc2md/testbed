@@ -1,0 +1,168 @@
+[
+  {
+    "comment": "/**\nthis module returns a pet of files\n@module file-pet\n@alias filePet\n@example\n```js\nvar cowFiles = FilePet(\"cow/*\")\n```\n*/",
+    "meta": {
+      "range": [
+        0,
+        124
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/file-pet",
+      "code": {}
+    },
+    "description": "this module returns a pet of files",
+    "kind": "module",
+    "name": "file-pet",
+    "alias": "filePet",
+    "examples": [
+      "```js\nvar cowFiles = FilePet(\"cow/*\")\n```"
+    ],
+    "longname": "module:file-pet"
+  },
+  {
+    "comment": "/**\n  this is the contructor\n  @class this class returns a pet of files\n  @param {number} - the input number\n  @example\n  ```js\n  var cowFiles = FilePet(\"cow/*\")\n  ```\n  @alias module:file-pet\n  */",
+    "meta": {
+      "range": [
+        360,
+        444
+      ],
+      "filename": "0-src.js",
+      "lineno": 22,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/file-pet",
+      "code": {
+        "id": "astnode100000007",
+        "name": "FilePet",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "num"
+        ]
+      },
+      "vars": {
+        "this.instie": "module:file-pet#instie"
+      }
+    },
+    "description": "this is the contructor",
+    "kind": "class",
+    "classdesc": "this class returns a pet of files",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "the input number",
+        "name": "num"
+      }
+    ],
+    "examples": [
+      "```js\n  var cowFiles = FilePet(\"cow/*\")\n  ```\n  "
+    ],
+    "alias": "module:file-pet",
+    "name": "module:file-pet",
+    "longname": "module:file-pet"
+  },
+  {
+    "comment": "/**\n    an instance ting\n    */",
+    "meta": {
+      "range": [
+        425,
+        440
+      ],
+      "filename": "0-src.js",
+      "lineno": 26,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/file-pet",
+      "code": {
+        "id": "astnode100000012",
+        "name": "this.instie",
+        "type": "Literal",
+        "value": 0,
+        "paramnames": []
+      }
+    },
+    "description": "an instance ting",
+    "name": "instie",
+    "longname": "module:file-pet#instie",
+    "kind": "member",
+    "memberof": "module:file-pet",
+    "scope": "instance"
+  },
+  {
+    "comment": "/**\n  the prototype instance property\n  @type {boolean}\n  @default\n  */",
+    "meta": {
+      "range": [
+        522,
+        552
+      ],
+      "filename": "0-src.js",
+      "lineno": 34,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/file-pet",
+      "code": {
+        "id": "astnode100000018",
+        "name": "FilePet.prototype.files",
+        "type": "Literal",
+        "funcscope": "<anonymous>",
+        "value": true,
+        "paramnames": []
+      }
+    },
+    "description": "the prototype instance property",
+    "type": {
+      "names": [
+        "boolean"
+      ]
+    },
+    "defaultvalue": true,
+    "name": "files",
+    "longname": "module:file-pet#files",
+    "kind": "member",
+    "memberof": "module:file-pet",
+    "scope": "instance"
+  },
+  {
+    "comment": "/**\n  A prototype instance methy meth\n  @param {array} - the paths to delete\n  */",
+    "meta": {
+      "range": [
+        640,
+        686
+      ],
+      "filename": "0-src.js",
+      "lineno": 40,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/file-pet",
+      "code": {
+        "id": "astnode100000026",
+        "name": "FilePet.prototype.delete",
+        "type": "FunctionExpression",
+        "funcscope": "<anonymous>",
+        "paramnames": [
+          "paths"
+        ]
+      }
+    },
+    "description": "A prototype instance methy meth",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "array"
+          ]
+        },
+        "description": "the paths to delete",
+        "name": "paths"
+      }
+    ],
+    "name": "delete",
+    "longname": "module:file-pet#delete",
+    "kind": "function",
+    "memberof": "module:file-pet",
+    "scope": "instance"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/file-pet/0-src.js"
+    ]
+  }
+]

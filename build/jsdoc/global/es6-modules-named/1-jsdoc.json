@@ -1,0 +1,129 @@
+[
+  {
+    "comment": "/**\n * @module es6-modules-named\n * @typicalname named\n */",
+    "meta": {
+      "range": [
+        0,
+        58
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-named",
+      "code": {}
+    },
+    "kind": "module",
+    "name": "es6-modules-named",
+    "tags": [
+      {
+        "originalTitle": "typicalname",
+        "title": "typicalname",
+        "text": "named",
+        "value": "named"
+      }
+    ],
+    "longname": "module:es6-modules-named"
+  },
+  {
+    "comment": "/**\n * exported number\n */",
+    "meta": {
+      "range": [
+        87,
+        138
+      ],
+      "filename": "0-src.js",
+      "lineno": 9,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-named",
+      "code": {
+        "id": "astnode100000001",
+        "name": "exports.one",
+        "type": "VariableDeclaration"
+      }
+    },
+    "description": "exported number",
+    "name": "one",
+    "longname": "module:es6-modules-named.one",
+    "kind": "constant",
+    "memberof": "module:es6-modules-named",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        100,
+        107
+      ],
+      "filename": "0-src.js",
+      "lineno": 9,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-named",
+      "code": {
+        "id": "astnode100000003",
+        "name": "one",
+        "type": "Literal",
+        "value": 1
+      }
+    },
+    "undocumented": true,
+    "name": "one",
+    "longname": "module:es6-modules-named~one",
+    "kind": "constant",
+    "scope": "inner",
+    "memberof": "module:es6-modules-named"
+  },
+  {
+    "comment": "/**\n * exported function\n */",
+    "meta": {
+      "range": [
+        138,
+        163
+      ],
+      "filename": "0-src.js",
+      "lineno": 14,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-named",
+      "code": {
+        "id": "astnode100000006",
+        "name": "exports.two",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "description": "exported function",
+    "name": "two",
+    "longname": "module:es6-modules-named.two",
+    "kind": "function",
+    "memberof": "module:es6-modules-named",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        145,
+        163
+      ],
+      "filename": "0-src.js",
+      "lineno": 14,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-named",
+      "code": {
+        "id": "astnode100000007",
+        "name": "two",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "undocumented": true,
+    "name": "two",
+    "longname": "module:es6-modules-named~two",
+    "kind": "function",
+    "scope": "inner",
+    "memberof": "module:es6-modules-named",
+    "params": []
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-named/0-src.js"
+    ]
+  }
+]

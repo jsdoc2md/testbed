@@ -1,0 +1,54 @@
+[
+  {
+    "comment": "/**\n * @file Manages the configuration settings for the widget.\n * @author Rowina Sanela \n */",
+    "meta": {
+      "range": [
+        0,
+        93
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/file",
+      "code": {}
+    },
+    "name": "0-src.js",
+    "kind": "file",
+    "description": "Manages the configuration settings for the widget.",
+    "preserveName": true,
+    "author": [
+      "Rowina Sanela"
+    ],
+    "longname": "0-src.js",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\na variable in the file\n*/",
+    "meta": {
+      "range": [
+        129,
+        140
+      ],
+      "filename": "0-src.js",
+      "lineno": 9,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/file",
+      "code": {
+        "id": "astnode100000002",
+        "name": "fileVar",
+        "type": "Literal",
+        "value": 1
+      }
+    },
+    "description": "a variable in the file",
+    "name": "fileVar",
+    "longname": "fileVar",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/file/0-src.js"
+    ]
+  }
+]

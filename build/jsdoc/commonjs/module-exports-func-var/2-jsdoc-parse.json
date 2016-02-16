@@ -1,0 +1,56 @@
+[
+  {
+    "id": "module:module-exports-func-var",
+    "longname": "module:module-exports-func-var",
+    "name": "module-exports-func-var",
+    "kind": "module",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-func-var"
+    },
+    "order": 0
+  },
+  {
+    "id": "module:module-exports-func-var--func",
+    "longname": "module:module-exports-func-var",
+    "name": "func",
+    "kind": "function",
+    "isExported": true,
+    "memberof": "module:module-exports-func-var",
+    "alias": "module:module-exports-func-var",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "name": "two"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "lineno": 12,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-func-var"
+    },
+    "order": 1
+  }
+]

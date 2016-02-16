@@ -1,0 +1,56 @@
+[
+  {
+    "id": "module:module-exports-func",
+    "longname": "module:module-exports-func",
+    "name": "module-exports-func",
+    "kind": "module",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/commonjs/module-exports-func"
+    },
+    "order": 0
+  },
+  {
+    "id": "module:module-exports-func--module.exports",
+    "parentId": "module:module-exports-func",
+    "longname": "module:module-exports-func",
+    "name": "module.exports",
+    "kind": "function",
+    "isExported": true,
+    "memberof": "module:module-exports-func",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "name": "two"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "lineno": 10,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/commonjs/module-exports-func"
+    },
+    "order": 1
+  }
+]

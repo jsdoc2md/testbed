@@ -1,0 +1,24 @@
+[
+  {
+    "id": "GlobalClass()",
+    "longname": "GlobalClass",
+    "name": "GlobalClass",
+    "kind": "constructor",
+    "description": "only the constructor has docs...",
+    "memberof": "GlobalClass",
+    "order": 1
+  },
+  {
+    "id": "GlobalClass",
+    "longname": "GlobalClass",
+    "name": "GlobalClass",
+    "scope": "global",
+    "kind": "class",
+    "meta": {
+      "lineno": 5,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-constructor"
+    },
+    "order": 0
+  }
+]
