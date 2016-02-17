@@ -3,7 +3,7 @@
 
 
 <a name="exp_module_module-exports-func-var--func"></a>
-### func(one, two) ⇒ `number` ⏏  
+### func(one, two) ⇒ `number` ⏏
 **Kind**: Exported function  
 
 | Param | Type     |

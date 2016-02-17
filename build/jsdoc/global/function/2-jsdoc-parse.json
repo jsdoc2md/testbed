@@ -15,38 +15,20 @@
         },
         "description": "first param",
         "name": "one"
-      },
+      }
+    ],
+    "returns": [
       {
         "type": {
           "names": [
-            "string"
+            "number"
           ]
         },
-        "description": "second param",
-        "name": "two"
-      },
-      {
-        "type": {
-          "names": [
-            "number",
-            "string"
-          ]
-        },
-        "description": "third",
-        "name": "three"
-      },
-      {
-        "type": {
-          "names": [
-            "Array.<(Number|String)>"
-          ]
-        },
-        "description": "fourth",
-        "name": "four"
+        "description": "- returned value"
       }
     ],
     "meta": {
-      "lineno": 8,
+      "lineno": 6,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/function"
     },

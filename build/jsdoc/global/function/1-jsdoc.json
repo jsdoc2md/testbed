@@ -1,23 +1,20 @@
 [
   {
-    "comment": "/**\na global function\n@param {number} - first param\n@param {string} - second param\n@param {number|string} - third\n@param {Array.<Number|String>} - fourth\n*/",
+    "comment": "/**\n * a global function\n * @param {number} - first param\n * @returns {number} - returned value\n */",
     "meta": {
       "range": [
-        157,
-        207
+        100,
+        132
       ],
       "filename": "0-src.js",
-      "lineno": 8,
+      "lineno": 6,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/function",
       "code": {
         "id": "astnode100000001",
         "name": "globalFunction",
         "type": "FunctionDeclaration",
         "paramnames": [
-          "one",
-          "two",
-          "three",
-          "four"
+          "one"
         ]
       }
     },
@@ -31,34 +28,16 @@
         },
         "description": "first param",
         "name": "one"
-      },
+      }
+    ],
+    "returns": [
       {
         "type": {
           "names": [
-            "string"
+            "number"
           ]
         },
-        "description": "second param",
-        "name": "two"
-      },
-      {
-        "type": {
-          "names": [
-            "number",
-            "string"
-          ]
-        },
-        "description": "third",
-        "name": "three"
-      },
-      {
-        "type": {
-          "names": [
-            "Array.<(Number|String)>"
-          ]
-        },
-        "description": "fourth",
-        "name": "four"
+        "description": "- returned value"
       }
     ],
     "name": "globalFunction",

@@ -1,8 +1,10 @@
 ## `jsdoc2md --member-index-format list`
 This format is inspired by the [node docs](http://nodejs.org/api/).
 
+${docs.tree()}
+
 ${
-  Array.from(docs).reduce((prev, curr) => prev + '\n\n-\n\n' + curr.index())
+  docs.children.reduce((prev, curr) => prev + '\n\n-\n\n' + curr.index())
 }
 
 ## `jsdoc2md --member-index-format grouped`
