@@ -1,0 +1,58 @@
+[
+  {
+    "id": "Something()",
+    "parentId": "Something",
+    "longname": "Something",
+    "name": "Something",
+    "kind": "constructor",
+    "description": "something",
+    "memberof": "Something",
+    "params": [],
+    "order": 1
+  },
+  {
+    "id": "Something",
+    "longname": "Something",
+    "name": "Something",
+    "scope": "global",
+    "kind": "class",
+    "meta": {
+      "lineno": 7,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/global/scope-inner"
+    },
+    "order": 0
+  },
+  {
+    "id": "Something~four",
+    "parentId": "Something",
+    "longname": "Something~four",
+    "name": "four",
+    "scope": "inner",
+    "kind": "member",
+    "description": "inner var",
+    "memberof": "Something",
+    "meta": {
+      "lineno": 16,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/global/scope-inner"
+    },
+    "order": 3
+  },
+  {
+    "id": "Something~three",
+    "parentId": "Something",
+    "longname": "Something~three",
+    "name": "three",
+    "scope": "inner",
+    "kind": "constant",
+    "description": "inner constant",
+    "memberof": "Something",
+    "meta": {
+      "lineno": 11,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/global/scope-inner"
+    },
+    "order": 2
+  }
+]

@@ -6,13 +6,13 @@
     * [new Something()](#new_Something_new)
     * [.one](#Something+one) : `number`
     * [.two](#Something+two) : `number`
-    * [~three](#Something..three) : 
-    * [~four](#Something..four) : 
-    * [~five](#Something..five) : 
+    * [.funcThree(one)](#Something+funcThree) ⇒ `number`
     * [.funcOne(one)](#Something+funcOne) ⇒ `number`
     * [.funcTwo(one)](#Something+funcTwo) ⇒ `number`
-    * [.funcThree(one)](#Something+funcThree) ⇒ `number`
     * [.staticFunc()](#Something.staticFunc) ⇒ `number`
+    * [~four](#Something..four) : 
+    * [~three](#Something..three) : 
+    * [~five](#Something..five) :
 
 
 <a name="new_Something_new"></a>
@@ -30,22 +30,16 @@ sort-by scope, category
 **Kind**: instance property of [`Something`](#Something)
 
 
-<a name="Something..three"></a>
-### Something~three : 
-**Kind**: inner constant of [`Something`](#Something)  
-**Category**: inner-consts
+<a name="Something+funcThree"></a>
+### something.funcThree(one) ⇒ `number`
+**Kind**: instance method of [`Something`](#Something)  
+
+| Param | Type     |
+| ----- | -------- |
+| one   | `number` |
 
 
-<a name="Something..four"></a>
-### Something~four : 
-**Kind**: inner constant of [`Something`](#Something)  
-**Category**: inner-consts
-
-
-<a name="Something..five"></a>
-### Something~five : 
-**Kind**: inner constant of [`Something`](#Something)  
-**Category**: inner-consts-two
+**Category**: no-functions
 
 
 <a name="Something+funcOne"></a>
@@ -72,18 +66,6 @@ sort-by scope, category
 **Category**: yeah-functions
 
 
-<a name="Something+funcThree"></a>
-### something.funcThree(one) ⇒ `number`
-**Kind**: instance method of [`Something`](#Something)  
-
-| Param | Type     |
-| ----- | -------- |
-| one   | `number` |
-
-
-**Category**: no-functions
-
-
 <a name="Something.staticFunc"></a>
 ### Something.staticFunc() ⇒ `number`
 **Kind**: static method of [`Something`](#Something)  
@@ -93,9 +75,22 @@ sort-by scope, category
 | `number` |
 
 
-<a name="another"></a>
-## another : `number`
-**Kind**: global variable
+<a name="Something..four"></a>
+### Something~four : 
+**Kind**: inner constant of [`Something`](#Something)  
+**Category**: inner-consts
+
+
+<a name="Something..three"></a>
+### Something~three : 
+**Kind**: inner constant of [`Something`](#Something)  
+**Category**: inner-consts
+
+
+<a name="Something..five"></a>
+### Something~five : 
+**Kind**: inner constant of [`Something`](#Something)  
+**Category**: inner-consts-two
 
 
 <a name="mixin"></a>
@@ -106,5 +101,10 @@ sort-by scope, category
 <a name="mixin.one"></a>
 ### mixin.one : `number`
 **Kind**: static property of [`mixin`](#mixin)
+
+
+<a name="another"></a>
+## another : `number`
+**Kind**: global variable
 
 

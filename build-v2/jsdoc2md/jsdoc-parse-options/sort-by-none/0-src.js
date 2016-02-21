@@ -1,128 +1,77 @@
-/**
- * one
- * @typedef {(number|string)} one
- */
+'use strict'
 
 /**
- * two
- * @mixin
- */
-var two = {
-  /**
-   * two_one
-   * @returns {number}
-   */
-  two_one: function () {},
-  /**
-   * two_two
-   * @type {number}
-   */
-  two_two: 1,
-  /**
-   * two_three
-   * @namespace
-   */
-  two_three: {},
-
-  /**
-   * two_four
-   * @const {number}
-   */
-  two_four: 1
-}
-
-/**
- * three
- * @enum
- */
-var three = {
-  THIS: 0,
-  THAT: 1
-}
-
-/**
- * four
- * @returns {number}
- */
-var four = function () {}
-
-/**
- * five
- * @const {number}
- */
-var five = 5
-
-/**
- * six
+ * sort-by scope, category
  * @class
  */
-function six () {
+function Something () {
   /**
-   * six_one
-   * @const {number}
+   * @type {number}
    */
-  this.six_one = 1
+  this.one = 1
 
   /**
-   * six_two
-   * @returns {number}
+   * @type {number}
    */
-  this.six_two = function () {}
+  this.two = 2
+
+  /**
+   * @type {number}
+   * @category inner-consts
+   */
+  const three = 3
+
+  /**
+   * @type {number}
+   * @category inner-consts
+   */
+  const four = 4
+
+  /**
+   * @type {number}
+   * @category inner-consts-two
+   */
+  const five = 5
 }
-/**
- * six_static_one
- * @namespace
- */
-six.six_static_one = {}
 
 /**
- * six_static_two
- * @mixin
+ * @param {number}
+ * @returns {number}
+ * @category yeah-functions
  */
-six.six_static_two = {}
+Something.prototype.funcOne = function (one) {}
 
 /**
- * six_static_three
- * @type {number}
+ * @param {number}
+ * @returns {number}
+ * @category yeah-functions
  */
-six.six_static_three = 1
+Something.prototype.funcTwo = function (one) {}
 
 /**
- * seven
- * @type {number}
+ * @param {number}
+ * @returns {number}
+ * @category no-functions
  */
-var seven = 7
+Something.prototype.funcThree = function (one) {}
 
 /**
- * eight
- * @namespace
- */
-var eight = {}
-
-/**
- * nine
+ * @param {number}
  * @returns {number}
  */
-var nine = function () {}
+Something.staticFunc = function () {}
 
 /**
- * ten
- * @event ten
-*/
-
-/**
- * eleven
- * @external eleven
- */
-
-/**
- * twelve
- * @returns {function}
- */
-var twelve = function () {}
-
-/**
- * thirteen
  * @type {number}
  */
-var thirteen = 1
+var another = 1
+
+/**
+ * @mixin
+ */
+var mixin = {
+  /**
+   * @type {number}
+   */
+  one: 1
+}

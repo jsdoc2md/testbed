@@ -1,423 +1,230 @@
 [
   {
-    "comment": "/**\n * one\n * @typedef {(number|string)} one\n */",
+    "comment": "/**\n * sort-by scope, category\n * @class\n */",
     "meta": {
       "range": [
-        0,
-        48
+        59,
+        418
       ],
       "filename": "0-src.js",
-      "lineno": 1,
+      "lineno": 7,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
-      "code": {}
+      "code": {
+        "id": "astnode100000003",
+        "name": "Something",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      },
+      "vars": {
+        "this.one": "Something#one",
+        "this.two": "Something#two",
+        "three": "Something~three",
+        "four": "Something~four",
+        "five": "Something~five"
+      }
     },
-    "description": "one",
-    "kind": "typedef",
-    "name": "one",
+    "description": "sort-by scope, category",
+    "kind": "class",
+    "name": "Something",
+    "longname": "Something",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\n   * @type {number}\n   */",
+    "meta": {
+      "range": [
+        117,
+        129
+      ],
+      "filename": "0-src.js",
+      "lineno": 11,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
+      "code": {
+        "id": "astnode100000007",
+        "name": "this.one",
+        "type": "Literal",
+        "value": 1,
+        "paramnames": []
+      }
+    },
     "type": {
       "names": [
-        "number",
-        "string"
+        "number"
       ]
     },
-    "longname": "one",
-    "scope": "global"
+    "name": "one",
+    "longname": "Something#one",
+    "kind": "member",
+    "memberof": "Something",
+    "scope": "instance"
   },
   {
-    "comment": "/**\n * two\n * @mixin\n */",
+    "comment": "/**\n   * @type {number}\n   */",
     "meta": {
       "range": [
-        79,
-        344
+        165,
+        177
       ],
       "filename": "0-src.js",
-      "lineno": 10,
+      "lineno": 16,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
-        "id": "astnode100000002",
-        "name": "two",
-        "type": "ObjectExpression",
-        "value": "{\"two_one\":\"\",\"two_two\":1,\"two_three\":\"\",\"two_four\":1}"
+        "id": "astnode100000013",
+        "name": "this.two",
+        "type": "Literal",
+        "value": 2,
+        "paramnames": []
       }
     },
-    "description": "two",
-    "kind": "mixin",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
     "name": "two",
-    "longname": "two",
-    "scope": "global"
+    "longname": "Something#two",
+    "kind": "member",
+    "memberof": "Something",
+    "scope": "instance"
   },
   {
-    "comment": "/**\n   * two_one\n   * @returns {number}\n   */",
+    "comment": "/**\n   * @type {number}\n   * @category inner-consts\n   */",
     "meta": {
       "range": [
-        137,
-        160
+        247,
+        256
       ],
       "filename": "0-src.js",
-      "lineno": 15,
+      "lineno": 22,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
-        "id": "astnode100000005",
-        "name": "two_one",
-        "type": "FunctionExpression"
+        "id": "astnode100000019",
+        "name": "three",
+        "type": "Literal",
+        "value": 3
       }
     },
-    "description": "two_one",
-    "returns": [
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "tags": [
       {
-        "type": {
-          "names": [
-            "number"
-          ]
-        }
+        "originalTitle": "category",
+        "title": "category",
+        "text": "inner-consts",
+        "value": "inner-consts"
       }
     ],
-    "name": "two_one",
-    "longname": "two.two_one",
-    "kind": "function",
-    "memberof": "two",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\n   * two_two\n   * @type {number}\n   */",
-    "meta": {
-      "range": [
-        209,
-        219
-      ],
-      "filename": "0-src.js",
-      "lineno": 20,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
-      "code": {
-        "id": "astnode100000008",
-        "name": "two_two",
-        "type": "Literal",
-        "value": 1
-      }
-    },
-    "description": "two_two",
-    "type": {
-      "names": [
-        "number"
-      ]
-    },
-    "name": "two_two",
-    "longname": "two.two_two",
-    "kind": "member",
-    "memberof": "two",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\n   * two_three\n   * @namespace\n   */",
-    "meta": {
-      "range": [
-        266,
-        279
-      ],
-      "filename": "0-src.js",
-      "lineno": 25,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
-      "code": {
-        "id": "astnode100000010",
-        "name": "two_three",
-        "type": "ObjectExpression",
-        "value": "{}"
-      }
-    },
-    "description": "two_three",
-    "kind": "namespace",
-    "name": "two_three",
-    "longname": "two.two_three",
-    "memberof": "two",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\n   * two_four\n   * @const {number}\n   */",
-    "meta": {
-      "range": [
-        331,
-        342
-      ],
-      "filename": "0-src.js",
-      "lineno": 31,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
-      "code": {
-        "id": "astnode100000012",
-        "name": "two_four",
-        "type": "Literal",
-        "value": 1
-      }
-    },
-    "description": "two_four",
-    "kind": "constant",
-    "type": {
-      "names": [
-        "number"
-      ]
-    },
-    "name": "two_four",
-    "longname": "two.two_four",
-    "memberof": "two",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\n * three\n * @enum\n */",
-    "meta": {
-      "range": [
-        376,
-        408
-      ],
-      "filename": "0-src.js",
-      "lineno": 38,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
-      "code": {
-        "id": "astnode100000015",
-        "name": "three",
-        "type": "ObjectExpression",
-        "value": "{\"THIS\":0,\"THAT\":1}"
-      }
-    },
-    "description": "three",
-    "kind": "member",
-    "isEnum": true,
     "name": "three",
-    "longname": "three",
-    "scope": "global",
-    "properties": [
-      {
-        "comment": "",
-        "meta": {
-          "range": [
-            388,
-            395
-          ],
-          "filename": "0-src.js",
-          "lineno": 39,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
-          "code": {
-            "id": "astnode100000018",
-            "name": "THIS",
-            "type": "Literal",
-            "value": 0
-          }
-        },
-        "name": "THIS",
-        "longname": "three.THIS",
-        "kind": "member",
-        "memberof": "three",
-        "scope": "static",
-        "defaultvalue": 0
-      },
-      {
-        "comment": "",
-        "meta": {
-          "range": [
-            399,
-            406
-          ],
-          "filename": "0-src.js",
-          "lineno": 40,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
-          "code": {
-            "id": "astnode100000020",
-            "name": "THAT",
-            "type": "Literal",
-            "value": 1
-          }
-        },
-        "name": "THAT",
-        "longname": "three.THAT",
-        "kind": "member",
-        "memberof": "three",
-        "scope": "static",
-        "defaultvalue": 1
-      }
-    ]
+    "longname": "Something~three",
+    "kind": "constant",
+    "memberof": "Something",
+    "scope": "inner"
   },
   {
-    "comment": "",
+    "comment": "/**\n   * @type {number}\n   * @category inner-consts\n   */",
     "meta": {
       "range": [
-        388,
-        395
+        326,
+        334
       ],
       "filename": "0-src.js",
-      "lineno": 39,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
-      "code": {
-        "id": "astnode100000018",
-        "name": "THIS",
-        "type": "Literal",
-        "value": 0
-      }
-    },
-    "name": "THIS",
-    "longname": "three.THIS",
-    "kind": "member",
-    "memberof": "three",
-    "scope": "static",
-    "defaultvalue": 0
-  },
-  {
-    "comment": "",
-    "meta": {
-      "range": [
-        399,
-        406
-      ],
-      "filename": "0-src.js",
-      "lineno": 40,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
-      "code": {
-        "id": "astnode100000020",
-        "name": "THAT",
-        "type": "Literal",
-        "value": 1
-      }
-    },
-    "name": "THAT",
-    "longname": "three.THAT",
-    "kind": "member",
-    "memberof": "three",
-    "scope": "static",
-    "defaultvalue": 1
-  },
-  {
-    "comment": "/**\n * four\n * @returns {number}\n */",
-    "meta": {
-      "range": [
-        451,
-        472
-      ],
-      "filename": "0-src.js",
-      "lineno": 47,
+      "lineno": 28,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
         "id": "astnode100000023",
         "name": "four",
-        "type": "FunctionExpression"
+        "type": "Literal",
+        "value": 4
       }
     },
-    "description": "four",
-    "returns": [
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "tags": [
       {
-        "type": {
-          "names": [
-            "number"
-          ]
-        }
+        "originalTitle": "category",
+        "title": "category",
+        "text": "inner-consts",
+        "value": "inner-consts"
       }
     ],
     "name": "four",
-    "longname": "four",
-    "kind": "function",
-    "scope": "global"
+    "longname": "Something~four",
+    "kind": "constant",
+    "memberof": "Something",
+    "scope": "inner"
   },
   {
-    "comment": "/**\n * five\n * @const {number}\n */",
+    "comment": "/**\n   * @type {number}\n   * @category inner-consts-two\n   */",
     "meta": {
       "range": [
-        513,
-        521
+        408,
+        416
       ],
       "filename": "0-src.js",
-      "lineno": 53,
+      "lineno": 34,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
-        "id": "astnode100000028",
+        "id": "astnode100000027",
         "name": "five",
         "type": "Literal",
         "value": 5
       }
     },
-    "description": "five",
-    "kind": "constant",
     "type": {
       "names": [
         "number"
       ]
     },
+    "tags": [
+      {
+        "originalTitle": "category",
+        "title": "category",
+        "text": "inner-consts-two",
+        "value": "inner-consts-two"
+      }
+    ],
     "name": "five",
-    "longname": "five",
-    "scope": "global"
+    "longname": "Something~five",
+    "kind": "constant",
+    "memberof": "Something",
+    "scope": "inner"
   },
   {
-    "comment": "/**\n * six\n * @class\n */",
+    "comment": "/**\n * @param {number}\n * @returns {number}\n * @category yeah-functions\n */",
     "meta": {
       "range": [
-        548,
-        713
+        496,
+        543
       ],
       "filename": "0-src.js",
-      "lineno": 59,
+      "lineno": 42,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
         "id": "astnode100000031",
-        "name": "six",
-        "type": "FunctionDeclaration",
-        "paramnames": []
-      },
-      "vars": {
-        "this.six_one": "six#six_one",
-        "this.six_two": "six#six_two",
-        "": null
-      }
-    },
-    "description": "six",
-    "kind": "class",
-    "name": "six",
-    "longname": "six",
-    "scope": "global",
-    "params": []
-  },
-  {
-    "comment": "/**\n   * six_one\n   * @const {number}\n   */",
-    "meta": {
-      "range": [
-        614,
-        630
-      ],
-      "filename": "0-src.js",
-      "lineno": 64,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
-      "code": {
-        "id": "astnode100000035",
-        "name": "this.six_one",
-        "type": "Literal",
-        "value": 1,
-        "paramnames": []
-      }
-    },
-    "description": "six_one",
-    "kind": "constant",
-    "type": {
-      "names": [
-        "number"
-      ]
-    },
-    "name": "six_one",
-    "longname": "six#six_one",
-    "memberof": "six",
-    "scope": "instance"
-  },
-  {
-    "comment": "/**\n   * six_two\n   * @returns {number}\n   */",
-    "meta": {
-      "range": [
-        682,
-        711
-      ],
-      "filename": "0-src.js",
-      "lineno": 70,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
-      "code": {
-        "id": "astnode100000041",
-        "name": "this.six_two",
+        "name": "Something.prototype.funcOne",
         "type": "FunctionExpression",
-        "paramnames": []
+        "paramnames": [
+          "one"
+        ]
       }
     },
-    "description": "six_two",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "name": "one"
+      }
+    ],
     "returns": [
       {
         "type": {
@@ -427,268 +234,242 @@
         }
       }
     ],
-    "name": "six_two",
-    "longname": "six#six_two",
+    "tags": [
+      {
+        "originalTitle": "category",
+        "title": "category",
+        "text": "yeah-functions",
+        "value": "yeah-functions"
+      }
+    ],
+    "name": "funcOne",
+    "longname": "Something#funcOne",
     "kind": "function",
-    "memberof": "six",
+    "memberof": "Something",
     "scope": "instance"
   },
   {
-    "comment": "/**\n * six_static_one\n * @namespace\n */",
+    "comment": "/**\n * @param {number}\n * @returns {number}\n * @category yeah-functions\n */",
     "meta": {
       "range": [
-        754,
-        777
+        621,
+        668
+      ],
+      "filename": "0-src.js",
+      "lineno": 49,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
+      "code": {
+        "id": "astnode100000041",
+        "name": "Something.prototype.funcTwo",
+        "type": "FunctionExpression",
+        "paramnames": [
+          "one"
+        ]
+      }
+    },
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "name": "one"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        }
+      }
+    ],
+    "tags": [
+      {
+        "originalTitle": "category",
+        "title": "category",
+        "text": "yeah-functions",
+        "value": "yeah-functions"
+      }
+    ],
+    "name": "funcTwo",
+    "longname": "Something#funcTwo",
+    "kind": "function",
+    "memberof": "Something",
+    "scope": "instance"
+  },
+  {
+    "comment": "/**\n * @param {number}\n * @returns {number}\n * @category no-functions\n */",
+    "meta": {
+      "range": [
+        744,
+        793
+      ],
+      "filename": "0-src.js",
+      "lineno": 56,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
+      "code": {
+        "id": "astnode100000051",
+        "name": "Something.prototype.funcThree",
+        "type": "FunctionExpression",
+        "paramnames": [
+          "one"
+        ]
+      }
+    },
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "name": "one"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        }
+      }
+    ],
+    "tags": [
+      {
+        "originalTitle": "category",
+        "title": "category",
+        "text": "no-functions",
+        "value": "no-functions"
+      }
+    ],
+    "name": "funcThree",
+    "longname": "Something#funcThree",
+    "kind": "function",
+    "memberof": "Something",
+    "scope": "instance"
+  },
+  {
+    "comment": "/**\n * @param {number}\n * @returns {number}\n */",
+    "meta": {
+      "range": [
+        843,
+        880
+      ],
+      "filename": "0-src.js",
+      "lineno": 62,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
+      "code": {
+        "id": "astnode100000061",
+        "name": "Something.staticFunc",
+        "type": "FunctionExpression",
+        "paramnames": []
+      }
+    },
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "name": ""
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        }
+      }
+    ],
+    "name": "staticFunc",
+    "longname": "Something.staticFunc",
+    "kind": "function",
+    "memberof": "Something",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n * @type {number}\n */",
+    "meta": {
+      "range": [
+        912,
+        923
+      ],
+      "filename": "0-src.js",
+      "lineno": 67,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
+      "code": {
+        "id": "astnode100000068",
+        "name": "another",
+        "type": "Literal",
+        "value": 1
+      }
+    },
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "name": "another",
+    "longname": "another",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n * @mixin\n */",
+    "meta": {
+      "range": [
+        947,
+        999
+      ],
+      "filename": "0-src.js",
+      "lineno": 72,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
+      "code": {
+        "id": "astnode100000072",
+        "name": "mixin",
+        "type": "ObjectExpression",
+        "value": "{\"one\":1}"
+      }
+    },
+    "kind": "mixin",
+    "name": "mixin",
+    "longname": "mixin",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n   * @type {number}\n   */",
+    "meta": {
+      "range": [
+        991,
+        997
       ],
       "filename": "0-src.js",
       "lineno": 76,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
-        "id": "astnode100000048",
-        "name": "six.six_static_one",
-        "type": "ObjectExpression",
-        "value": "{}",
-        "paramnames": []
-      }
-    },
-    "description": "six_static_one",
-    "kind": "namespace",
-    "name": "six_static_one",
-    "longname": "six.six_static_one",
-    "memberof": "six",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\n * six_static_two\n * @mixin\n */",
-    "meta": {
-      "range": [
-        815,
-        838
-      ],
-      "filename": "0-src.js",
-      "lineno": 82,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
-      "code": {
-        "id": "astnode100000054",
-        "name": "six.six_static_two",
-        "type": "ObjectExpression",
-        "value": "{}",
-        "paramnames": []
-      }
-    },
-    "description": "six_static_two",
-    "kind": "mixin",
-    "name": "six_static_two",
-    "longname": "six.six_static_two",
-    "memberof": "six",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\n * six_static_three\n * @type {number}\n */",
-    "meta": {
-      "range": [
-        886,
-        910
-      ],
-      "filename": "0-src.js",
-      "lineno": 88,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
-      "code": {
-        "id": "astnode100000060",
-        "name": "six.six_static_three",
-        "type": "Literal",
-        "value": 1,
-        "paramnames": []
-      }
-    },
-    "description": "six_static_three",
-    "type": {
-      "names": [
-        "number"
-      ]
-    },
-    "name": "six_static_three",
-    "longname": "six.six_static_three",
-    "kind": "member",
-    "memberof": "six",
-    "scope": "static"
-  },
-  {
-    "comment": "/**\n * seven\n * @type {number}\n */",
-    "meta": {
-      "range": [
-        951,
-        960
-      ],
-      "filename": "0-src.js",
-      "lineno": 94,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
-      "code": {
-        "id": "astnode100000066",
-        "name": "seven",
-        "type": "Literal",
-        "value": 7
-      }
-    },
-    "description": "seven",
-    "type": {
-      "names": [
-        "number"
-      ]
-    },
-    "name": "seven",
-    "longname": "seven",
-    "kind": "member",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n * eight\n * @namespace\n */",
-    "meta": {
-      "range": [
-        997,
-        1007
-      ],
-      "filename": "0-src.js",
-      "lineno": 100,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
-      "code": {
-        "id": "astnode100000070",
-        "name": "eight",
-        "type": "ObjectExpression",
-        "value": "{}"
-      }
-    },
-    "description": "eight",
-    "kind": "namespace",
-    "name": "eight",
-    "longname": "eight",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n * nine\n * @returns {number}\n */",
-    "meta": {
-      "range": [
-        1050,
-        1071
-      ],
-      "filename": "0-src.js",
-      "lineno": 106,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
-      "code": {
-        "id": "astnode100000074",
-        "name": "nine",
-        "type": "FunctionExpression"
-      }
-    },
-    "description": "nine",
-    "returns": [
-      {
-        "type": {
-          "names": [
-            "number"
-          ]
-        }
-      }
-    ],
-    "name": "nine",
-    "longname": "nine",
-    "kind": "function",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n * ten\n * @event ten\n*/",
-    "meta": {
-      "range": [
-        1073,
-        1100
-      ],
-      "filename": "0-src.js",
-      "lineno": 108,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
-      "code": {}
-    },
-    "description": "ten",
-    "kind": "event",
-    "name": "ten",
-    "longname": "event:ten",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n * eleven\n * @external eleven\n */",
-    "meta": {
-      "range": [
-        1102,
-        1139
-      ],
-      "filename": "0-src.js",
-      "lineno": 113,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
-      "code": {}
-    },
-    "description": "eleven",
-    "kind": "external",
-    "name": "eleven",
-    "longname": "external:eleven",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n * twelve\n * @returns {function}\n */",
-    "meta": {
-      "range": [
-        1186,
-        1209
-      ],
-      "filename": "0-src.js",
-      "lineno": 122,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
-      "code": {
-        "id": "astnode100000079",
-        "name": "twelve",
-        "type": "FunctionExpression"
-      }
-    },
-    "description": "twelve",
-    "returns": [
-      {
-        "type": {
-          "names": [
-            "function"
-          ]
-        }
-      }
-    ],
-    "name": "twelve",
-    "longname": "twelve",
-    "kind": "function",
-    "scope": "global"
-  },
-  {
-    "comment": "/**\n * thirteen\n * @type {number}\n */",
-    "meta": {
-      "range": [
-        1253,
-        1265
-      ],
-      "filename": "0-src.js",
-      "lineno": 128,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none",
-      "code": {
-        "id": "astnode100000084",
-        "name": "thirteen",
+        "id": "astnode100000075",
+        "name": "one",
         "type": "Literal",
         "value": 1
       }
     },
-    "description": "thirteen",
     "type": {
       "names": [
         "number"
       ]
     },
-    "name": "thirteen",
-    "longname": "thirteen",
+    "name": "one",
+    "longname": "mixin.one",
     "kind": "member",
-    "scope": "global"
+    "memberof": "mixin",
+    "scope": "static"
   },
   {
     "kind": "package",

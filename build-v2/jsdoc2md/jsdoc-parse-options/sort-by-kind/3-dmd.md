@@ -1,176 +1,110 @@
-<a name="six"></a>
-## six
+<a name="Something"></a>
+## Something
 **Kind**: global class  
 
-* [six](#six)
-    * [new six()](#new_six_new)
-    * [.six_static_two](#six.six_static_two)
-    * [.six_static_three](#six.six_static_three) : `number`
-    * [.six_static_one](#six.six_static_one) : `object`
-    * [.six_one](#six+six_one) : 
-    * [.six_two()](#six+six_two) ⇒ `number`
+* [Something](#Something)
+    * [new Something()](#new_Something_new)
+    * [.two](#Something+two) : `number`
+    * [.one](#Something+one) : `number`
+    * [~five](#Something..five) : 
+    * [~four](#Something..four) : 
+    * [~three](#Something..three) : 
+    * [.funcTwo(one)](#Something+funcTwo) ⇒ `number`
+    * [.funcThree(one)](#Something+funcThree) ⇒ `number`
+    * [.staticFunc()](#Something.staticFunc) ⇒ `number`
+    * [.funcOne(one)](#Something+funcOne) ⇒ `number`
 
 
-<a name="new_six_new"></a>
-### new six()
-six
+<a name="new_Something_new"></a>
+### new Something()
+sort-by scope, category
 
 
-<a name="six.six_static_two"></a>
-### six.six_static_two
-six_static_two
-
-**Kind**: static mixin of [`six`](#six)
+<a name="Something+two"></a>
+### something.two : `number`
+**Kind**: instance property of [`Something`](#Something)
 
 
-<a name="six.six_static_three"></a>
-### six.six_static_three : `number`
-six_static_three
-
-**Kind**: static property of [`six`](#six)
+<a name="Something+one"></a>
+### something.one : `number`
+**Kind**: instance property of [`Something`](#Something)
 
 
-<a name="six.six_static_one"></a>
-### six.six_static_one : `object`
-six_static_one
-
-**Kind**: static namespace of [`six`](#six)
-
-
-<a name="six+six_one"></a>
-### six.six_one : 
-six_one
-
-**Kind**: instance constant of [`six`](#six)
+<a name="Something..five"></a>
+### Something~five : 
+**Kind**: inner constant of [`Something`](#Something)  
+**Category**: inner-consts-two
 
 
-<a name="six+six_two"></a>
-### six.six_two() ⇒ `number`
-six_two
-
-**Kind**: instance method of [`six`](#six)
-
-
-<a name="two"></a>
-## two
-two
-
-**Kind**: global mixin  
-
-* [two](#two)
-    * [.two_two](#two.two_two) : `number`
-    * [.two_three](#two.two_three) : `object`
-    * [.two_four](#two.two_four) : 
-    * [.two_one()](#two.two_one) ⇒ `number`
+<a name="Something..four"></a>
+### Something~four : 
+**Kind**: inner constant of [`Something`](#Something)  
+**Category**: inner-consts
 
 
-<a name="two.two_two"></a>
-### two.two_two : `number`
-two_two
-
-**Kind**: static property of [`two`](#two)
-
-
-<a name="two.two_three"></a>
-### two.two_three : `object`
-two_three
-
-**Kind**: static namespace of [`two`](#two)
+<a name="Something..three"></a>
+### Something~three : 
+**Kind**: inner constant of [`Something`](#Something)  
+**Category**: inner-consts
 
 
-<a name="two.two_four"></a>
-### two.two_four : 
-two_four
+<a name="Something+funcTwo"></a>
+### something.funcTwo(one) ⇒ `number`
+**Kind**: instance method of [`Something`](#Something)  
 
-**Kind**: static constant of [`two`](#two)
-
-
-<a name="two.two_one"></a>
-### two.two_one() ⇒ `number`
-two_one
-
-**Kind**: static method of [`two`](#two)
+| Param | Type     |
+| ----- | -------- |
+| one   | `number` |
 
 
-<a name="seven"></a>
-## seven : `number`
-seven
+**Category**: yeah-functions
 
+
+<a name="Something+funcThree"></a>
+### something.funcThree(one) ⇒ `number`
+**Kind**: instance method of [`Something`](#Something)  
+
+| Param | Type     |
+| ----- | -------- |
+| one   | `number` |
+
+
+**Category**: no-functions
+
+
+<a name="Something.staticFunc"></a>
+### Something.staticFunc() ⇒ `number`
+**Kind**: static method of [`Something`](#Something)  
+
+| Type     |
+| -------- |
+| `number` |
+
+
+<a name="Something+funcOne"></a>
+### something.funcOne(one) ⇒ `number`
+**Kind**: instance method of [`Something`](#Something)  
+
+| Param | Type     |
+| ----- | -------- |
+| one   | `number` |
+
+
+**Category**: yeah-functions
+
+
+<a name="mixin"></a>
+## mixin
+**Kind**: global mixin
+
+
+<a name="mixin.one"></a>
+### mixin.one : `number`
+**Kind**: static property of [`mixin`](#mixin)
+
+
+<a name="another"></a>
+## another : `number`
 **Kind**: global variable
-
-
-<a name="thirteen"></a>
-## thirteen : `number`
-thirteen
-
-**Kind**: global variable
-
-
-<a name="eight"></a>
-## eight : `object`
-eight
-
-**Kind**: global namespace
-
-
-<a name="three"></a>
-## three : `enum`
-three
-
-**Kind**: global enum  
-
-| Property | Default |
-| -------- | ------- |
-| THIS     | `0`     |
-| THAT     | `1`     |
-
-
-<a name="five"></a>
-## five : 
-five
-
-**Kind**: global constant
-
-
-<a name="four"></a>
-## four() ⇒ `number`
-four
-
-**Kind**: global function
-
-
-<a name="nine"></a>
-## nine() ⇒ `number`
-nine
-
-**Kind**: global function
-
-
-<a name="twelve"></a>
-## twelve() ⇒ `function`
-twelve
-
-**Kind**: global function
-
-
-<a name="event_ten"></a>
-## "ten"
-ten
-
-**Kind**: global event
-
-
-<a name="one"></a>
-## one
-one
-
-**Kind**: global typedef
-
-
-<a name="external_eleven"></a>
-## eleven
-eleven
-
-**Kind**: global external
 
 
