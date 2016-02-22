@@ -3,8 +3,8 @@
     "id": "Something",
     "longname": "Something",
     "name": "Something",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "meta": {
       "lineno": 7,
       "filename": "0-src.js",
@@ -28,8 +28,8 @@
     "parentId": "Something",
     "longname": "Something#one",
     "name": "one",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "memberof": "Something",
     "type": {
       "names": [
@@ -48,8 +48,8 @@
     "parentId": "Something",
     "longname": "Something#two",
     "name": "two",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "memberof": "Something",
     "type": {
       "names": [
@@ -68,8 +68,8 @@
     "parentId": "Something",
     "longname": "Something~three",
     "name": "three",
-    "scope": "inner",
     "kind": "constant",
+    "scope": "inner",
     "memberof": "Something",
     "type": {
       "names": [
@@ -89,8 +89,8 @@
     "parentId": "Something",
     "longname": "Something~four",
     "name": "four",
-    "scope": "inner",
     "kind": "constant",
+    "scope": "inner",
     "memberof": "Something",
     "type": {
       "names": [
@@ -110,8 +110,8 @@
     "parentId": "Something",
     "longname": "Something~five",
     "name": "five",
-    "scope": "inner",
     "kind": "constant",
+    "scope": "inner",
     "memberof": "Something",
     "type": {
       "names": [
@@ -131,8 +131,8 @@
     "parentId": "Something",
     "longname": "Something#funcOne",
     "name": "funcOne",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "memberof": "Something",
     "params": [
       {
@@ -166,8 +166,8 @@
     "parentId": "Something",
     "longname": "Something#funcTwo",
     "name": "funcTwo",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "memberof": "Something",
     "params": [
       {
@@ -201,8 +201,8 @@
     "parentId": "Something",
     "longname": "Something#funcThree",
     "name": "funcThree",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "memberof": "Something",
     "params": [
       {
@@ -236,8 +236,8 @@
     "parentId": "Something",
     "longname": "Something.staticFunc",
     "name": "staticFunc",
-    "scope": "static",
     "kind": "function",
+    "scope": "static",
     "memberof": "Something",
     "params": [
       {
@@ -269,8 +269,8 @@
     "id": "another",
     "longname": "another",
     "name": "another",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "type": {
       "names": [
         "number"
@@ -287,8 +287,8 @@
     "id": "mixin",
     "longname": "mixin",
     "name": "mixin",
-    "scope": "global",
     "kind": "mixin",
+    "scope": "global",
     "meta": {
       "lineno": 72,
       "filename": "0-src.js",
@@ -301,8 +301,8 @@
     "parentId": "mixin",
     "longname": "mixin.one",
     "name": "one",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "memberof": "mixin",
     "type": {
       "names": [

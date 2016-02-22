@@ -77,8 +77,8 @@
     "parentId": "module:es6-class--ExportedClass",
     "longname": "module:es6-class.ExportedClass#propOne",
     "name": "propOne",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "description": "an instance property",
     "memberof": "module:es6-class--ExportedClass",
     "type": {
@@ -98,8 +98,8 @@
     "parentId": "module:es6-class--ExportedClass~ChildClass",
     "longname": "module:es6-class~ChildClass.ChildClass#propThree",
     "name": "propThree",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "description": "an instance property",
     "memberof": "module:es6-class--ExportedClass~ChildClass",
     "meta": {
@@ -114,10 +114,11 @@
     "parentId": "module:es6-class--ExportedClass",
     "longname": "module:es6-class#methodOne",
     "name": "methodOne",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "description": "parent method one",
     "memberof": "module:es6-class--ExportedClass",
+    "params": [],
     "meta": {
       "lineno": 31,
       "filename": "0-src.js",
@@ -130,10 +131,11 @@
     "parentId": "module:es6-class--ExportedClass",
     "longname": "module:es6-class#methodTwo",
     "name": "methodTwo",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "description": "parent method two",
     "memberof": "module:es6-class--ExportedClass",
+    "params": [],
     "meta": {
       "lineno": 33,
       "filename": "0-src.js",
@@ -146,10 +148,11 @@
     "parentId": "module:es6-class--ExportedClass",
     "longname": "module:es6-class.shat",
     "name": "shat",
-    "scope": "static",
     "kind": "function",
+    "scope": "static",
     "description": "a static method",
     "memberof": "module:es6-class--ExportedClass",
+    "params": [],
     "meta": {
       "lineno": 28,
       "filename": "0-src.js",
@@ -162,8 +165,8 @@
     "parentId": "module:es6-class--ExportedClass",
     "longname": "module:es6-class~ChildClass",
     "name": "ChildClass",
-    "scope": "inner",
     "kind": "class",
+    "scope": "inner",
     "augments": [
       "ExportedClass"
     ],

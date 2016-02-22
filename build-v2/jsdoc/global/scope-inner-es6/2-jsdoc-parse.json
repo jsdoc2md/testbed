@@ -3,8 +3,8 @@
     "id": "Something",
     "longname": "Something",
     "name": "Something",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "description": "something",
     "meta": {
       "lineno": 6,
@@ -18,8 +18,8 @@
     "parentId": "<anonymous>",
     "longname": "<anonymous>~four",
     "name": "four",
-    "scope": "inner",
     "kind": "member",
+    "scope": "inner",
     "description": "inner var",
     "memberof": "<anonymous>",
     "meta": {
@@ -34,8 +34,8 @@
     "parentId": "<anonymous>",
     "longname": "<anonymous>~three",
     "name": "three",
-    "scope": "inner",
     "kind": "constant",
+    "scope": "inner",
     "description": "inner constant",
     "memberof": "<anonymous>",
     "meta": {

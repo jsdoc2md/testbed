@@ -61,7 +61,8 @@
     "name": "module:farm",
     "longname": "module:farm",
     "kind": "class",
-    "description": "the constructor"
+    "description": "the constructor",
+    "params": []
   },
   {
     "comment": "/**\n  * the constructor\n  */",
@@ -89,6 +90,7 @@
     "kind": "class",
     "memberof": "module:farm",
     "scope": "static",
+    "params": [],
     "undocumented": true
   },
   {
@@ -143,7 +145,8 @@
     "longname": "module:farm~Equipment",
     "kind": "class",
     "scope": "inner",
-    "memberof": "module:farm"
+    "memberof": "module:farm",
+    "params": []
   },
   {
     "comment": "",
@@ -170,7 +173,8 @@
     "longname": "module:farm~Equipment.Equipment",
     "kind": "class",
     "memberof": "module:farm~Equipment",
-    "scope": "static"
+    "scope": "static",
+    "params": []
   },
   {
     "comment": "/**\n    * the tractor\n    * @type module:farm~Tractor\n    */",
@@ -224,7 +228,8 @@
     "longname": "module:farm~Tractor",
     "kind": "class",
     "scope": "inner",
-    "memberof": "module:farm"
+    "memberof": "module:farm",
+    "params": []
   },
   {
     "comment": "",
@@ -251,7 +256,8 @@
     "longname": "module:farm~Tractor.Tractor",
     "kind": "class",
     "memberof": "module:farm~Tractor",
-    "scope": "static"
+    "scope": "static",
+    "params": []
   },
   {
     "comment": "/**\n     * engine details\n     */",
@@ -351,7 +357,8 @@
     "longname": "module:farm~Tractor.something",
     "kind": "function",
     "memberof": "module:farm~Tractor",
-    "scope": "static"
+    "scope": "static",
+    "params": []
   },
   {
     "kind": "package",

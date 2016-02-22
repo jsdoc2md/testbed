@@ -20,7 +20,8 @@
     "name": "Something",
     "longname": "Something",
     "kind": "class",
-    "scope": "global"
+    "scope": "global",
+    "params": []
   },
   {
     "comment": "",
@@ -46,7 +47,8 @@
     "name": "Something",
     "longname": "Something",
     "kind": "class",
-    "scope": "global"
+    "scope": "global",
+    "params": []
   },
   {
     "comment": "/**\n     * inner constant\n     */",

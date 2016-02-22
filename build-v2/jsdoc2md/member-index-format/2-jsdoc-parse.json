@@ -57,9 +57,9 @@
     "id": "Animal",
     "longname": "Animal",
     "name": "Animal",
-    "scope": "global",
     "summary": "It's an animal, yeah?",
     "kind": "class",
+    "scope": "global",
     "description": "Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\n\n- some markdown\n- in the module\n- description",
     "meta": {
       "lineno": 13,
@@ -72,8 +72,8 @@
     "id": "FurQ",
     "longname": "FurQ",
     "name": "FurQ",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "augments": [
       "Rapper"
     ],
@@ -100,8 +100,8 @@
     "id": "Rapper",
     "longname": "Rapper",
     "name": "Rapper",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "meta": {
       "lineno": 109,
       "filename": "furq.js",
@@ -113,8 +113,8 @@
     "id": "NewLines",
     "longname": "NewLines",
     "name": "NewLines",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "description": "A multi-line\nclass description",
     "meta": {
       "lineno": 6,
@@ -127,8 +127,8 @@
     "id": "Species",
     "longname": "Species",
     "name": "Species",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "description": "In biology, a species (abbreviated sp., with the plural form species abbreviated spp.) is one of the basic units of biological classification and a taxonomic rank. A species is often defined as the largest group of organisms capable of interbreeding and producing fertile offspring. While in many cases this definition is adequate, the difficulty of defining species is known as the species problem. Differing measures are often used, such as similarity of DNA, morphology, or ecological niche. Presence of specific locally adapted traits may further subdivide species into \"infraspecific taxa\" such as subspecies (and in botany other taxa are used, such as varieties, subvarieties, and formae).",
     "meta": {
       "lineno": 5,
@@ -141,8 +141,8 @@
     "id": "plant",
     "longname": "plant",
     "name": "plant",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "to plant ones fist in a buster's mush",
     "params": [],
     "meta": {
@@ -157,8 +157,8 @@
     "parentId": "Animal",
     "longname": "Animal#age",
     "name": "age",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "description": "the current age",
     "memberof": "Animal",
     "type": {
@@ -179,8 +179,8 @@
     "parentId": "Animal",
     "longname": "Animal#species",
     "name": "species",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "memberof": "Animal",
     "type": {
       "names": [
@@ -199,8 +199,8 @@
     "parentId": "FurQ",
     "longname": "FurQ#wannaTryIt",
     "name": "wannaTryIt",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "memberof": "FurQ",
     "type": {
       "names": [
@@ -224,8 +224,8 @@
     "parentId": "Rapper.train~School",
     "longname": "Rapper.train~School#bestStudent",
     "name": "bestStudent",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "description": "best student",
     "memberof": "Rapper.train~School",
     "meta": {
@@ -240,8 +240,8 @@
     "parentId": "NewLines",
     "longname": "NewLines#numbers",
     "name": "numbers",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "memberof": "NewLines",
     "properties": [
       {
@@ -266,8 +266,8 @@
     "parentId": "Species",
     "longname": "Species#name",
     "name": "name",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "description": "the species name",
     "memberof": "Species",
     "type": {
@@ -287,8 +287,8 @@
     "parentId": "Species",
     "longname": "Species#species",
     "name": "species",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "memberof": "Species",
     "type": {
       "names": [
@@ -307,8 +307,8 @@
     "parentId": "FurQ",
     "longname": "FurQ#LOVE",
     "name": "LOVE",
-    "scope": "instance",
     "kind": "constant",
+    "scope": "instance",
     "memberof": "FurQ",
     "type": {
       "names": [
@@ -328,8 +328,8 @@
     "parentId": "FurQ",
     "longname": "FurQ#spit",
     "name": "spit",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "overrides": "Rapper#spit",
     "description": "override",
     "memberof": "FurQ",
@@ -345,8 +345,8 @@
     "parentId": "Rapper",
     "longname": "Rapper#spit",
     "name": "spit",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "description": "spit",
     "memberof": "Rapper",
     "meta": {
@@ -361,8 +361,8 @@
     "parentId": "Rapper",
     "longname": "Rapper#battle",
     "name": "battle",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "description": "battle",
     "memberof": "Rapper",
     "meta": {
@@ -377,8 +377,8 @@
     "parentId": "NewLines",
     "longname": "NewLines#method",
     "name": "method",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "memberof": "NewLines",
     "params": [
       {
@@ -413,8 +413,8 @@
     "parentId": "FurQ",
     "longname": "FurQ#battle",
     "name": "battle",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "inherits": "Rapper#battle",
     "inherited": true,
     "description": "battle",
@@ -431,8 +431,8 @@
     "parentId": "FurQ",
     "longname": "FurQ#punch",
     "name": "punch",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "description": "to plant ones fist in a buster's mush",
     "memberof": "FurQ",
     "params": [],
@@ -448,8 +448,8 @@
     "parentId": "FurQ",
     "longname": "FurQ#event:pop",
     "name": "pop",
-    "scope": "instance",
     "kind": "event",
+    "scope": "instance",
     "description": "fire weapon",
     "memberof": "FurQ",
     "params": [
@@ -475,8 +475,8 @@
     "parentId": "FurQ",
     "longname": "FurQ#event:slap",
     "name": "slap",
-    "scope": "instance",
     "kind": "event",
+    "scope": "instance",
     "description": "slap man",
     "memberof": "FurQ",
     "meta": {
@@ -491,8 +491,8 @@
     "parentId": "FurQ",
     "longname": "FurQ#kill",
     "name": "kill",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "description": "kill",
     "memberof": "FurQ",
     "examples": [
@@ -512,8 +512,8 @@
     "parentId": "FurQ",
     "longname": "FurQ#respect",
     "name": "respect",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "description": "respect",
     "memberof": "FurQ",
     "params": [
@@ -543,8 +543,8 @@
     "parentId": "Animal",
     "longname": "Animal.eMood",
     "name": "eMood",
-    "scope": "static",
     "kind": "enum",
+    "scope": "static",
     "description": "Animal moods",
     "memberof": "Animal",
     "properties": [
@@ -588,8 +588,8 @@
     "parentId": "FurQ",
     "longname": "FurQ.enemy",
     "name": "enemy",
-    "scope": "static",
     "kind": "enum",
+    "scope": "static",
     "description": "FUR-Q enemy types",
     "memberof": "FurQ",
     "type": {
@@ -652,8 +652,8 @@
     "parentId": "FurQ",
     "longname": "FurQ.peace",
     "name": "peace",
-    "scope": "static",
     "kind": "function",
+    "scope": "static",
     "description": "check if at peace",
     "memberof": "FurQ",
     "examples": [
@@ -672,8 +672,8 @@
     "parentId": "Rapper",
     "longname": "Rapper.train",
     "name": "train",
-    "scope": "static",
     "kind": "function",
+    "scope": "static",
     "description": "train new rappers",
     "memberof": "Rapper",
     "meta": {
@@ -688,8 +688,8 @@
     "parentId": "Species",
     "longname": "Species.merge",
     "name": "merge",
-    "scope": "static",
     "kind": "function",
+    "scope": "static",
     "description": "merge two species into a new one",
     "memberof": "Species",
     "params": [
@@ -733,8 +733,8 @@
     "parentId": "Rapper.train",
     "longname": "Rapper.train~School",
     "name": "School",
-    "scope": "inner",
     "kind": "class",
+    "scope": "inner",
     "memberof": "Rapper.train",
     "meta": {
       "lineno": 127,
@@ -748,8 +748,8 @@
     "parentId": "FurQ",
     "longname": "FurQ~onRespect",
     "name": "onRespect",
-    "scope": "inner",
     "kind": "typedef",
+    "scope": "inner",
     "description": "Passed to {@link FurQ#respect}",
     "memberof": "FurQ",
     "params": [

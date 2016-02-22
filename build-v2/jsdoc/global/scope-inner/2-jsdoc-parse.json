@@ -14,8 +14,8 @@
     "id": "Something",
     "longname": "Something",
     "name": "Something",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "meta": {
       "lineno": 7,
       "filename": "0-src.js",
@@ -28,8 +28,8 @@
     "parentId": "Something",
     "longname": "Something~four",
     "name": "four",
-    "scope": "inner",
     "kind": "member",
+    "scope": "inner",
     "description": "inner var",
     "memberof": "Something",
     "meta": {
@@ -44,8 +44,8 @@
     "parentId": "Something",
     "longname": "Something~three",
     "name": "three",
-    "scope": "inner",
     "kind": "constant",
+    "scope": "inner",
     "description": "inner constant",
     "memberof": "Something",
     "meta": {
