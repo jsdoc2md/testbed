@@ -1,7 +1,31 @@
 'use strict'
 
 /**
- * sort-by scope, category
+ * @type {number}
+ */
+var another = 1
+
+/**
+ * @mixin
+ */
+var mixin = {
+  /**
+   * @type {number}
+   */
+  one: 1
+}
+
+/**
+ * something external
+ * @external ext
+ */
+
+/**
+ * @namespace
+ */
+var object = {}
+
+/**
  * @class
  */
 function Something () {
@@ -60,18 +84,3 @@ Something.prototype.funcThree = function (one) {}
  * @returns {number}
  */
 Something.staticFunc = function () {}
-
-/**
- * @type {number}
- */
-var another = 1
-
-/**
- * @mixin
- */
-var mixin = {
-  /**
-   * @type {number}
-   */
-  one: 1
-}

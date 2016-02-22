@@ -6,22 +6,11 @@
     "kind": "class",
     "scope": "global",
     "meta": {
-      "lineno": 7,
+      "lineno": 31,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
     },
-    "order": 0
-  },
-  {
-    "id": "Something()",
-    "parentId": "Something",
-    "longname": "Something",
-    "name": "Something",
-    "kind": "constructor",
-    "description": "sort-by scope, category",
-    "memberof": "Something",
-    "params": [],
-    "order": 1
+    "order": 5
   },
   {
     "id": "mixin",
@@ -30,11 +19,11 @@
     "kind": "mixin",
     "scope": "global",
     "meta": {
-      "lineno": 72,
+      "lineno": 11,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
     },
-    "order": 12
+    "order": 1
   },
   {
     "id": "Something#two",
@@ -50,31 +39,11 @@
       ]
     },
     "meta": {
-      "lineno": 16,
+      "lineno": 40,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
     },
-    "order": 3
-  },
-  {
-    "id": "mixin.one",
-    "parentId": "mixin",
-    "longname": "mixin.one",
-    "name": "one",
-    "kind": "member",
-    "scope": "static",
-    "memberof": "mixin",
-    "type": {
-      "names": [
-        "number"
-      ]
-    },
-    "meta": {
-      "lineno": 76,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
-    },
-    "order": 13
+    "order": 7
   },
   {
     "id": "another",
@@ -88,11 +57,11 @@
       ]
     },
     "meta": {
-      "lineno": 67,
+      "lineno": 6,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
     },
-    "order": 11
+    "order": 0
   },
   {
     "id": "Something#one",
@@ -108,53 +77,44 @@
       ]
     },
     "meta": {
-      "lineno": 11,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
-    },
-    "order": 2
-  },
-  {
-    "id": "Something~five",
-    "parentId": "Something",
-    "longname": "Something~five",
-    "name": "five",
-    "kind": "constant",
-    "scope": "inner",
-    "memberof": "Something",
-    "type": {
-      "names": [
-        "number"
-      ]
-    },
-    "category": "inner-consts-two",
-    "meta": {
-      "lineno": 34,
+      "lineno": 35,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
     },
     "order": 6
   },
   {
-    "id": "Something~four",
-    "parentId": "Something",
-    "longname": "Something~four",
-    "name": "four",
-    "kind": "constant",
-    "scope": "inner",
-    "memberof": "Something",
+    "id": "mixin.one",
+    "parentId": "mixin",
+    "longname": "mixin.one",
+    "name": "one",
+    "kind": "member",
+    "scope": "static",
+    "memberof": "mixin",
     "type": {
       "names": [
         "number"
       ]
     },
-    "category": "inner-consts",
     "meta": {
-      "lineno": 28,
+      "lineno": 15,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
     },
-    "order": 5
+    "order": 2
+  },
+  {
+    "id": "object",
+    "longname": "object",
+    "name": "object",
+    "kind": "namespace",
+    "scope": "global",
+    "meta": {
+      "lineno": 26,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+    },
+    "order": 4
   },
   {
     "id": "Something~three",
@@ -171,111 +131,49 @@
     },
     "category": "inner-consts",
     "meta": {
-      "lineno": 22,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
-    },
-    "order": 4
-  },
-  {
-    "id": "Something#funcTwo",
-    "parentId": "Something",
-    "longname": "Something#funcTwo",
-    "name": "funcTwo",
-    "kind": "function",
-    "scope": "instance",
-    "memberof": "Something",
-    "params": [
-      {
-        "type": {
-          "names": [
-            "number"
-          ]
-        },
-        "name": "one"
-      }
-    ],
-    "returns": [
-      {
-        "type": {
-          "names": [
-            "number"
-          ]
-        }
-      }
-    ],
-    "category": "yeah-functions",
-    "meta": {
-      "lineno": 49,
+      "lineno": 46,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
     },
     "order": 8
   },
   {
-    "id": "Something#funcThree",
+    "id": "Something~four",
     "parentId": "Something",
-    "longname": "Something#funcThree",
-    "name": "funcThree",
-    "kind": "function",
-    "scope": "instance",
+    "longname": "Something~four",
+    "name": "four",
+    "kind": "constant",
+    "scope": "inner",
     "memberof": "Something",
-    "params": [
-      {
-        "type": {
-          "names": [
-            "number"
-          ]
-        },
-        "name": "one"
-      }
-    ],
-    "returns": [
-      {
-        "type": {
-          "names": [
-            "number"
-          ]
-        }
-      }
-    ],
-    "category": "no-functions",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "category": "inner-consts",
     "meta": {
-      "lineno": 56,
+      "lineno": 52,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
     },
     "order": 9
   },
   {
-    "id": "Something.staticFunc",
+    "id": "Something~five",
     "parentId": "Something",
-    "longname": "Something.staticFunc",
-    "name": "staticFunc",
-    "kind": "function",
-    "scope": "static",
+    "longname": "Something~five",
+    "name": "five",
+    "kind": "constant",
+    "scope": "inner",
     "memberof": "Something",
-    "params": [
-      {
-        "type": {
-          "names": [
-            "number"
-          ]
-        },
-        "name": ""
-      }
-    ],
-    "returns": [
-      {
-        "type": {
-          "names": [
-            "number"
-          ]
-        }
-      }
-    ],
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "category": "inner-consts-two",
     "meta": {
-      "lineno": 62,
+      "lineno": 58,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
     },
@@ -310,10 +208,128 @@
     ],
     "category": "yeah-functions",
     "meta": {
-      "lineno": 42,
+      "lineno": 66,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
     },
-    "order": 7
+    "order": 11
+  },
+  {
+    "id": "Something#funcTwo",
+    "parentId": "Something",
+    "longname": "Something#funcTwo",
+    "name": "funcTwo",
+    "kind": "function",
+    "scope": "instance",
+    "memberof": "Something",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "name": "one"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        }
+      }
+    ],
+    "category": "yeah-functions",
+    "meta": {
+      "lineno": 73,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+    },
+    "order": 12
+  },
+  {
+    "id": "Something#funcThree",
+    "parentId": "Something",
+    "longname": "Something#funcThree",
+    "name": "funcThree",
+    "kind": "function",
+    "scope": "instance",
+    "memberof": "Something",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "name": "one"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        }
+      }
+    ],
+    "category": "no-functions",
+    "meta": {
+      "lineno": 80,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+    },
+    "order": 13
+  },
+  {
+    "id": "Something.staticFunc",
+    "parentId": "Something",
+    "longname": "Something.staticFunc",
+    "name": "staticFunc",
+    "kind": "function",
+    "scope": "static",
+    "memberof": "Something",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "name": ""
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "lineno": 86,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+    },
+    "order": 14
+  },
+  {
+    "id": "external:ext",
+    "longname": "external:ext",
+    "name": "ext",
+    "kind": "external",
+    "scope": "global",
+    "description": "something external",
+    "meta": {
+      "lineno": 18,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+    },
+    "order": 3
   }
 ]

@@ -3,21 +3,15 @@
 **Kind**: global class  
 
 * [Something](#Something)
-    * [new Something()](#new_Something_new)
     * [.one](#Something+one) : `number`
     * [.two](#Something+two) : `number`
-    * [~four](#Something..four) : 
     * [~three](#Something..three) : 
+    * [~four](#Something..four) : 
     * [~five](#Something..five) : 
     * [.funcThree(one)](#Something+funcThree) ⇒ `number`
-    * [.funcTwo(one)](#Something+funcTwo) ⇒ `number`
     * [.funcOne(one)](#Something+funcOne) ⇒ `number`
+    * [.funcTwo(one)](#Something+funcTwo) ⇒ `number`
     * [.staticFunc()](#Something.staticFunc) ⇒ `number`
-
-
-<a name="new_Something_new"></a>
-### new Something()
-sort-by scope, category
 
 
 <a name="Something+one"></a>
@@ -30,14 +24,14 @@ sort-by scope, category
 **Kind**: instance property of [`Something`](#Something)
 
 
-<a name="Something..four"></a>
-### Something~four : 
+<a name="Something..three"></a>
+### Something~three : 
 **Kind**: inner constant of [`Something`](#Something)  
 **Category**: inner-consts
 
 
-<a name="Something..three"></a>
-### Something~three : 
+<a name="Something..four"></a>
+### Something~four : 
 **Kind**: inner constant of [`Something`](#Something)  
 **Category**: inner-consts
 
@@ -60,8 +54,8 @@ sort-by scope, category
 **Category**: no-functions
 
 
-<a name="Something+funcTwo"></a>
-### something.funcTwo(one) ⇒ `number`
+<a name="Something+funcOne"></a>
+### something.funcOne(one) ⇒ `number`
 **Kind**: instance method of [`Something`](#Something)  
 
 | Param | Type     |
@@ -72,8 +66,8 @@ sort-by scope, category
 **Category**: yeah-functions
 
 
-<a name="Something+funcOne"></a>
-### something.funcOne(one) ⇒ `number`
+<a name="Something+funcTwo"></a>
+### something.funcTwo(one) ⇒ `number`
 **Kind**: instance method of [`Something`](#Something)  
 
 | Param | Type     |
@@ -106,5 +100,17 @@ sort-by scope, category
 <a name="another"></a>
 ## another : `number`
 **Kind**: global variable
+
+
+<a name="object"></a>
+## object : `object`
+**Kind**: global namespace
+
+
+<a name="external_ext"></a>
+## ext
+something external
+
+**Kind**: global external
 
 

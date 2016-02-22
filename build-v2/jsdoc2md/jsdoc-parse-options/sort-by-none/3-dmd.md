@@ -1,9 +1,35 @@
+<a name="another"></a>
+## another : `number`
+**Kind**: global variable
+
+
+<a name="mixin"></a>
+## mixin
+**Kind**: global mixin
+
+
+<a name="mixin.one"></a>
+### mixin.one : `number`
+**Kind**: static property of [`mixin`](#mixin)
+
+
+<a name="external_ext"></a>
+## ext
+something external
+
+**Kind**: global external
+
+
+<a name="object"></a>
+## object : `object`
+**Kind**: global namespace
+
+
 <a name="Something"></a>
 ## Something
 **Kind**: global class  
 
 * [Something](#Something)
-    * [new Something()](#new_Something_new)
     * [.one](#Something+one) : `number`
     * [.two](#Something+two) : `number`
     * [~three](#Something..three) : 
@@ -13,11 +39,6 @@
     * [.funcTwo(one)](#Something+funcTwo) ⇒ `number`
     * [.funcThree(one)](#Something+funcThree) ⇒ `number`
     * [.staticFunc()](#Something.staticFunc) ⇒ `number`
-
-
-<a name="new_Something_new"></a>
-### new Something()
-sort-by scope, category
 
 
 <a name="Something+one"></a>
@@ -91,20 +112,5 @@ sort-by scope, category
 | Type     |
 | -------- |
 | `number` |
-
-
-<a name="another"></a>
-## another : `number`
-**Kind**: global variable
-
-
-<a name="mixin"></a>
-## mixin
-**Kind**: global mixin
-
-
-<a name="mixin.one"></a>
-### mixin.one : `number`
-**Kind**: static property of [`mixin`](#mixin)
 
 
