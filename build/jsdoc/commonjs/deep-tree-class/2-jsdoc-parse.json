@@ -35,6 +35,7 @@
     "kind": "constructor",
     "description": "the constructor",
     "memberof": "module:farm--Farm",
+    "params": [],
     "order": 2
   },
   {

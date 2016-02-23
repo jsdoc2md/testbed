@@ -52,7 +52,8 @@
     "name": "GlobalClass",
     "longname": "GlobalClass",
     "kind": "class",
-    "scope": "global"
+    "scope": "global",
+    "params": []
   },
   {
     "comment": "",
@@ -104,7 +105,8 @@
     "longname": "GlobalClass.shat",
     "kind": "function",
     "memberof": "GlobalClass",
-    "scope": "static"
+    "scope": "static",
+    "params": []
   },
   {
     "comment": "",
@@ -131,7 +133,8 @@
     "longname": "GlobalClass#methodOne",
     "kind": "function",
     "memberof": "GlobalClass",
-    "scope": "instance"
+    "scope": "instance",
+    "params": []
   },
   {
     "comment": "",
@@ -158,7 +161,8 @@
     "longname": "GlobalClass#methodTwo",
     "kind": "function",
     "memberof": "GlobalClass",
-    "scope": "instance"
+    "scope": "instance",
+    "params": []
   },
   {
     "kind": "package",

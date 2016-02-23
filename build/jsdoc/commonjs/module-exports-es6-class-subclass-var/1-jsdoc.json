@@ -195,7 +195,8 @@
     "longname": "module:es6-class.shat",
     "kind": "function",
     "memberof": "module:es6-class",
-    "scope": "static"
+    "scope": "static",
+    "params": []
   },
   {
     "comment": "/** parent method one */",
@@ -222,7 +223,8 @@
     "longname": "module:es6-class#methodOne",
     "kind": "function",
     "memberof": "module:es6-class",
-    "scope": "instance"
+    "scope": "instance",
+    "params": []
   },
   {
     "comment": "/** parent method two */",
@@ -249,7 +251,8 @@
     "longname": "module:es6-class#methodTwo",
     "kind": "function",
     "memberof": "module:es6-class",
-    "scope": "instance"
+    "scope": "instance",
+    "params": []
   },
   {
     "comment": "/**\n * the child of exported class\n * @extends ExportedClass\n */",
@@ -276,7 +279,8 @@
     "longname": "module:es6-class~ChildClass",
     "kind": "class",
     "scope": "inner",
-    "memberof": "module:es6-class"
+    "memberof": "module:es6-class",
+    "params": []
   },
   {
     "comment": "",
@@ -303,7 +307,8 @@
     "longname": "module:es6-class~ChildClass.ChildClass",
     "kind": "class",
     "memberof": "module:es6-class~ChildClass",
-    "scope": "static"
+    "scope": "static",
+    "params": []
   },
   {
     "comment": "/** an instance property */",

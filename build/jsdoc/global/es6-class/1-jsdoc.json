@@ -177,7 +177,8 @@
     "longname": "GlobalClass.shat",
     "kind": "function",
     "memberof": "GlobalClass",
-    "scope": "static"
+    "scope": "static",
+    "params": []
   },
   {
     "comment": "/** parent method one */",
@@ -204,7 +205,8 @@
     "longname": "GlobalClass#methodOne",
     "kind": "function",
     "memberof": "GlobalClass",
-    "scope": "instance"
+    "scope": "instance",
+    "params": []
   },
   {
     "comment": "/** parent method two */",
@@ -231,7 +233,8 @@
     "longname": "GlobalClass#methodTwo",
     "kind": "function",
     "memberof": "GlobalClass",
-    "scope": "instance"
+    "scope": "instance",
+    "params": []
   },
   {
     "comment": "/**\n * the child of global class\n * @extends GlobalClass\n */",
@@ -257,7 +260,8 @@
     "name": "GlobalChildClass",
     "longname": "GlobalChildClass",
     "kind": "class",
-    "scope": "global"
+    "scope": "global",
+    "params": []
   },
   {
     "comment": "",
@@ -283,7 +287,8 @@
     "name": "GlobalChildClass",
     "longname": "GlobalChildClass",
     "kind": "class",
-    "scope": "global"
+    "scope": "global",
+    "params": []
   },
   {
     "comment": "/** an instance property */",
@@ -336,6 +341,7 @@
     "kind": "function",
     "memberof": "GlobalChildClass",
     "scope": "instance",
+    "params": [],
     "overrides": "GlobalClass#methodTwo"
   },
   {
@@ -403,6 +409,7 @@
     "kind": "function",
     "memberof": "GlobalChildClass",
     "scope": "instance",
+    "params": [],
     "inherits": "GlobalClass#methodOne",
     "inherited": true
   }

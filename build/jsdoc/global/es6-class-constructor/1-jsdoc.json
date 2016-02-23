@@ -52,7 +52,8 @@
     "name": "GlobalClass",
     "longname": "GlobalClass",
     "kind": "class",
-    "scope": "global"
+    "scope": "global",
+    "params": []
   },
   {
     "comment": "",

@@ -6,6 +6,7 @@
     "kind": "constructor",
     "description": "only the constructor has docs...",
     "memberof": "GlobalClass",
+    "params": [],
     "order": 1
   },
   {

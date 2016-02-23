@@ -113,6 +113,7 @@
     "kind": "function",
     "description": "parent method one",
     "memberof": "module:es6-class--ExportedClass",
+    "params": [],
     "meta": {
       "lineno": 31,
       "filename": "0-src.js",
@@ -128,6 +129,7 @@
     "kind": "function",
     "description": "parent method two",
     "memberof": "module:es6-class--ExportedClass",
+    "params": [],
     "meta": {
       "lineno": 33,
       "filename": "0-src.js",
@@ -143,6 +145,7 @@
     "kind": "function",
     "description": "a static method",
     "memberof": "module:es6-class--ExportedClass",
+    "params": [],
     "meta": {
       "lineno": 28,
       "filename": "0-src.js",
