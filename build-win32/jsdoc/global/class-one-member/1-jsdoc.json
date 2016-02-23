@@ -1,0 +1,60 @@
+[
+  {
+    "comment": "/**\n@class\n*/",
+    "meta": {
+      "range": [
+        14,
+        88
+      ],
+      "filename": "0-src.js",
+      "lineno": 4,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-one-member",
+      "code": {
+        "id": "astnode100000001",
+        "name": "Pizza",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      },
+      "vars": {
+        "this.size": "Pizza#size"
+      }
+    },
+    "kind": "class",
+    "name": "Pizza",
+    "longname": "Pizza",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\n  the general size\n  */",
+    "meta": {
+      "range": [
+        66,
+        86
+      ],
+      "filename": "0-src.js",
+      "lineno": 8,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-one-member",
+      "code": {
+        "id": "astnode100000005",
+        "name": "this.size",
+        "type": "Literal",
+        "value": "medium",
+        "paramnames": []
+      }
+    },
+    "description": "the general size",
+    "name": "size",
+    "longname": "Pizza#size",
+    "kind": "member",
+    "memberof": "Pizza",
+    "scope": "instance"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-one-member/0-src.js"
+    ]
+  }
+]

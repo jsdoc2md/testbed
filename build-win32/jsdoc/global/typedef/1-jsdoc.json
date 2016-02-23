@@ -1,0 +1,147 @@
+[
+  {
+    "comment": "/**\nA number, or a string containing a number.\n@typedef {(number|string)} NumberLike\n*/",
+    "meta": {
+      "range": [
+        0,
+        87
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/typedef",
+      "code": {}
+    },
+    "description": "A number, or a string containing a number.",
+    "kind": "typedef",
+    "name": "NumberLike",
+    "type": {
+      "names": [
+        "number",
+        "string"
+      ]
+    },
+    "longname": "NumberLike",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\nSet the magic number.\n@param {NumberLike} x - The magic number.\n*/",
+    "meta": {
+      "range": [
+        160,
+        190
+      ],
+      "filename": "0-src.js",
+      "lineno": 10,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/typedef",
+      "code": {
+        "id": "astnode100000001",
+        "name": "setMagicNumber",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "x"
+        ]
+      }
+    },
+    "description": "Set the magic number.",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "NumberLike"
+          ]
+        },
+        "description": "The magic number.",
+        "name": "x"
+      }
+    ],
+    "name": "setMagicNumber",
+    "longname": "setMagicNumber",
+    "kind": "function",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\nSome options\n@typedef {object} someOptions\n@property {boolean} a flag\n@property {string} some text\n*/",
+    "meta": {
+      "range": [
+        192,
+        297
+      ],
+      "filename": "0-src.js",
+      "lineno": 12,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/typedef",
+      "code": {}
+    },
+    "description": "Some options",
+    "kind": "typedef",
+    "name": "someOptions",
+    "type": {
+      "names": [
+        "object"
+      ]
+    },
+    "properties": [
+      {
+        "type": {
+          "names": [
+            "boolean"
+          ]
+        },
+        "description": "flag",
+        "name": "a"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "text",
+        "name": "some"
+      }
+    ],
+    "longname": "someOptions",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n@param {someOptions} - the input options\n*/",
+    "meta": {
+      "range": [
+        347,
+        379
+      ],
+      "filename": "0-src.js",
+      "lineno": 22,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/typedef",
+      "code": {
+        "id": "astnode100000005",
+        "name": "doSomething",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "option"
+        ]
+      }
+    },
+    "params": [
+      {
+        "type": {
+          "names": [
+            "someOptions"
+          ]
+        },
+        "description": "the input options",
+        "name": "option"
+      }
+    ],
+    "name": "doSomething",
+    "longname": "doSomething",
+    "kind": "function",
+    "scope": "global"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/typedef/0-src.js"
+    ]
+  }
+]

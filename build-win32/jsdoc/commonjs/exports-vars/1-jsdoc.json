@@ -1,0 +1,132 @@
+[
+  {
+    "comment": "/**\n * note the vars are documented, not the exports. \n * @module exports-vars\n */",
+    "meta": {
+      "range": [
+        0,
+        82
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/exports-vars",
+      "code": {}
+    },
+    "description": "note the vars are documented, not the exports.",
+    "kind": "module",
+    "name": "exports-vars",
+    "longname": "module:exports-vars"
+  },
+  {
+    "comment": "/**\n* @type {number}\n*/",
+    "meta": {
+      "range": [
+        112,
+        119
+      ],
+      "filename": "0-src.js",
+      "lineno": 9,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/exports-vars",
+      "code": {
+        "id": "astnode100000002",
+        "name": "one",
+        "type": "Literal",
+        "value": 1
+      }
+    },
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "name": "one",
+    "longname": "module:exports-vars~one",
+    "kind": "member",
+    "scope": "inner",
+    "memberof": "module:exports-vars"
+  },
+  {
+    "comment": "/**\n * @type {number}\n */",
+    "meta": {
+      "range": [
+        151,
+        158
+      ],
+      "filename": "0-src.js",
+      "lineno": 14,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/exports-vars",
+      "code": {
+        "id": "astnode100000006",
+        "name": "two",
+        "type": "Literal",
+        "value": 2
+      }
+    },
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "name": "two",
+    "longname": "module:exports-vars~two",
+    "kind": "member",
+    "scope": "inner",
+    "memberof": "module:exports-vars"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        160,
+        177
+      ],
+      "filename": "0-src.js",
+      "lineno": 16,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/exports-vars",
+      "code": {
+        "id": "astnode100000010",
+        "name": "exports.one",
+        "type": "Identifier",
+        "value": "one",
+        "paramnames": []
+      }
+    },
+    "undocumented": true,
+    "name": "one",
+    "longname": "module:exports-vars.one",
+    "kind": "member",
+    "memberof": "module:exports-vars",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        178,
+        195
+      ],
+      "filename": "0-src.js",
+      "lineno": 17,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/exports-vars",
+      "code": {
+        "id": "astnode100000016",
+        "name": "exports.two",
+        "type": "Identifier",
+        "value": "two",
+        "paramnames": []
+      }
+    },
+    "undocumented": true,
+    "name": "two",
+    "longname": "module:exports-vars.two",
+    "kind": "member",
+    "memberof": "module:exports-vars",
+    "scope": "static"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/exports-vars/0-src.js"
+    ]
+  }
+]

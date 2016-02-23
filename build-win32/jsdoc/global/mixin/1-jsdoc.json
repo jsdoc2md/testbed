@@ -1,0 +1,136 @@
+[
+  {
+    "comment": "/**\nThis provides methods used for event handling. It's not meant to\nbe used directly.\n@mixin\n*/",
+    "meta": {
+      "range": [
+        101,
+        582
+      ],
+      "filename": "0-src.js",
+      "lineno": 6,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/mixin",
+      "code": {
+        "id": "astnode100000002",
+        "name": "Eventful",
+        "type": "ObjectExpression",
+        "value": "{\"on\":\"\",\"fire\":\"\"}"
+      }
+    },
+    "description": "This provides methods used for event handling. It's not meant to\nbe used directly.",
+    "kind": "mixin",
+    "name": "Eventful",
+    "longname": "Eventful",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n  Register a handler function to be called whenever this event is fired.\n  @param {string} eventName - Name of the event.\n  @param {function(Object)} handler - The handler to call.\n  */",
+    "meta": {
+      "range": [
+        308,
+        344
+      ],
+      "filename": "0-src.js",
+      "lineno": 12,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/mixin",
+      "code": {
+        "id": "astnode100000005",
+        "name": "on",
+        "type": "FunctionExpression"
+      }
+    },
+    "description": "Register a handler function to be called whenever this event is fired.",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "Name of the event.",
+        "name": "eventName"
+      },
+      {
+        "type": {
+          "names": [
+            "function"
+          ]
+        },
+        "description": "The handler to call.",
+        "name": "handler"
+      }
+    ],
+    "name": "on",
+    "longname": "Eventful.on",
+    "kind": "function",
+    "memberof": "Eventful",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n  Fire an event, causing all handlers for that event name to run.\n  @param {string} eventName - Name of the event.\n  @param {Object} eventData - The data provided to each handler.\n  */",
+    "meta": {
+      "range": [
+        540,
+        580
+      ],
+      "filename": "0-src.js",
+      "lineno": 19,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/mixin",
+      "code": {
+        "id": "astnode100000010",
+        "name": "fire",
+        "type": "FunctionExpression"
+      }
+    },
+    "description": "Fire an event, causing all handlers for that event name to run.",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "Name of the event.",
+        "name": "eventName"
+      },
+      {
+        "type": {
+          "names": [
+            "Object"
+          ]
+        },
+        "description": "The data provided to each handler.",
+        "name": "eventData"
+      }
+    ],
+    "name": "fire",
+    "longname": "Eventful.fire",
+    "kind": "function",
+    "memberof": "Eventful",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\nphantom mixin\n@mixin phantom\n*/",
+    "meta": {
+      "range": [
+        584,
+        619
+      ],
+      "filename": "0-src.js",
+      "lineno": 22,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/mixin",
+      "code": {}
+    },
+    "description": "phantom mixin",
+    "kind": "mixin",
+    "name": "phantom",
+    "longname": "phantom",
+    "scope": "global"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/mixin/0-src.js"
+    ]
+  }
+]

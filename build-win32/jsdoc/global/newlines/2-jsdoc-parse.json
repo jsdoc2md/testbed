@@ -1,0 +1,76 @@
+[
+  {
+    "id": "NewLines",
+    "longname": "NewLines",
+    "name": "NewLines",
+    "scope": "global",
+    "kind": "class",
+    "description": "A multi-line\nclass description",
+    "meta": {
+      "lineno": 6,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/newlines"
+    },
+    "order": 0
+  },
+  {
+    "id": "NewLines#numbers",
+    "longname": "NewLines#numbers",
+    "name": "numbers",
+    "scope": "instance",
+    "kind": "member",
+    "memberof": "NewLines",
+    "properties": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "a property\n  with newlines for \n  a change",
+        "name": "one"
+      }
+    ],
+    "meta": {
+      "lineno": 22,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/newlines"
+    },
+    "order": 2
+  },
+  {
+    "id": "NewLines#method",
+    "longname": "NewLines#method",
+    "name": "method",
+    "scope": "instance",
+    "kind": "function",
+    "memberof": "NewLines",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "a param description \n  with an awkward newline\n  or two.",
+        "name": "input"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "the returns\n  description also \n  has newlines"
+      }
+    ],
+    "meta": {
+      "lineno": 15,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/newlines"
+    },
+    "order": 1
+  }
+]

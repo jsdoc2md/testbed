@@ -1,0 +1,100 @@
+[
+  {
+    "comment": "/**\nexports a pointer to a function\n@module falias-obj\n*/",
+    "meta": {
+      "range": [
+        0,
+        57
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/falias-obj",
+      "code": {}
+    },
+    "description": "exports a pointer to a function",
+    "kind": "module",
+    "name": "falias-obj",
+    "longname": "module:falias-obj"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        58,
+        78
+      ],
+      "filename": "0-src.js",
+      "lineno": 5,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/falias-obj",
+      "code": {
+        "id": "astnode100000002",
+        "name": "module.exports",
+        "type": "Identifier",
+        "value": "sum",
+        "paramnames": []
+      }
+    },
+    "undocumented": true,
+    "name": "module:falias-obj",
+    "longname": "module:falias-obj",
+    "kind": "member"
+  },
+  {
+    "comment": "/**\nthe function\n@alias module:falias-obj\n*/",
+    "meta": {
+      "range": [
+        125,
+        151
+      ],
+      "filename": "0-src.js",
+      "lineno": 11,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/falias-obj",
+      "code": {
+        "id": "astnode100000007",
+        "name": "sum",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "one",
+          "two"
+        ]
+      }
+    },
+    "description": "the function",
+    "alias": "module:falias-obj",
+    "name": "module:falias-obj",
+    "longname": "module:falias-obj",
+    "kind": "function",
+    "params": []
+  },
+  {
+    "comment": "/**\na static method on the exported function\n*/",
+    "meta": {
+      "range": [
+        201,
+        227
+      ],
+      "filename": "0-src.js",
+      "lineno": 16,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/falias-obj",
+      "code": {
+        "id": "astnode100000013",
+        "name": "sum.extra",
+        "type": "FunctionExpression",
+        "paramnames": []
+      }
+    },
+    "description": "a static method on the exported function",
+    "name": "extra",
+    "longname": "module:falias-obj.extra",
+    "kind": "function",
+    "memberof": "module:falias-obj",
+    "scope": "static"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/falias-obj/0-src.js"
+    ]
+  }
+]

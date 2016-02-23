@@ -1,0 +1,157 @@
+[
+  {
+    "comment": "/**\n * @module category\n */",
+    "meta": {
+      "range": [
+        0,
+        27
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/tags/category",
+      "code": {}
+    },
+    "kind": "module",
+    "name": "category",
+    "longname": "module:category"
+  },
+  {
+    "comment": "/**\n * one\n * @category first\n */",
+    "meta": {
+      "range": [
+        63,
+        78
+      ],
+      "filename": "0-src.js",
+      "lineno": 9,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/tags/category",
+      "code": {
+        "id": "astnode100000002",
+        "name": "exports.one",
+        "type": "Literal",
+        "value": 1,
+        "paramnames": []
+      }
+    },
+    "description": "one",
+    "tags": [
+      {
+        "originalTitle": "category",
+        "title": "category",
+        "text": "first",
+        "value": "first"
+      }
+    ],
+    "name": "one",
+    "longname": "module:category.one",
+    "kind": "member",
+    "memberof": "module:category",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n * two\n * @category first\n */",
+    "meta": {
+      "range": [
+        113,
+        128
+      ],
+      "filename": "0-src.js",
+      "lineno": 14,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/tags/category",
+      "code": {
+        "id": "astnode100000008",
+        "name": "exports.two",
+        "type": "Literal",
+        "value": 2,
+        "paramnames": []
+      }
+    },
+    "description": "two",
+    "tags": [
+      {
+        "originalTitle": "category",
+        "title": "category",
+        "text": "first",
+        "value": "first"
+      }
+    ],
+    "name": "two",
+    "longname": "module:category.two",
+    "kind": "member",
+    "memberof": "module:category",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n * three\n * @category second\n */",
+    "meta": {
+      "range": [
+        166,
+        183
+      ],
+      "filename": "0-src.js",
+      "lineno": 19,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/tags/category",
+      "code": {
+        "id": "astnode100000014",
+        "name": "exports.three",
+        "type": "Literal",
+        "value": 3,
+        "paramnames": []
+      }
+    },
+    "description": "three",
+    "tags": [
+      {
+        "originalTitle": "category",
+        "title": "category",
+        "text": "second",
+        "value": "second"
+      }
+    ],
+    "name": "three",
+    "longname": "module:category.three",
+    "kind": "member",
+    "memberof": "module:category",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n * four\n * @category second\n */",
+    "meta": {
+      "range": [
+        220,
+        236
+      ],
+      "filename": "0-src.js",
+      "lineno": 24,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/tags/category",
+      "code": {
+        "id": "astnode100000020",
+        "name": "exports.four",
+        "type": "Literal",
+        "value": 4,
+        "paramnames": []
+      }
+    },
+    "description": "four",
+    "tags": [
+      {
+        "originalTitle": "category",
+        "title": "category",
+        "text": "second",
+        "value": "second"
+      }
+    ],
+    "name": "four",
+    "longname": "module:category.four",
+    "kind": "member",
+    "memberof": "module:category",
+    "scope": "static"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/tags/category/0-src.js"
+    ]
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "comment": "/**\n@namespace\n*/",
+    "meta": {
+      "range": [
+        22,
+        536
+      ],
+      "filename": "0-src.js",
+      "lineno": 4,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace",
+      "code": {
+        "id": "astnode100000002",
+        "name": "car",
+        "type": "ObjectExpression",
+        "value": "{\"wheels\":18,\"sensors\":465,\"start\":\"\"}"
+      }
+    },
+    "kind": "namespace",
+    "name": "car",
+    "longname": "car",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n  the round things\n  */",
+    "meta": {
+      "range": [
+        62,
+        72
+      ],
+      "filename": "0-src.js",
+      "lineno": 8,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace",
+      "code": {
+        "id": "astnode100000005",
+        "name": "wheels",
+        "type": "Literal",
+        "value": 18
+      }
+    },
+    "description": "the round things",
+    "name": "wheels",
+    "longname": "car.wheels",
+    "kind": "member",
+    "memberof": "car",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n  the electronics that always go wrong\n  */",
+    "meta": {
+      "range": [
+        126,
+        138
+      ],
+      "filename": "0-src.js",
+      "lineno": 12,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace",
+      "code": {
+        "id": "astnode100000007",
+        "name": "sensors",
+        "type": "Literal",
+        "value": 465
+      }
+    },
+    "description": "the electronics that always go wrong",
+    "name": "sensors",
+    "longname": "car.sensors",
+    "kind": "member",
+    "memberof": "car",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n  start the car\n  @param {string}\n  @param {function}\n  */",
+    "meta": {
+      "range": [
+        208,
+        534
+      ],
+      "filename": "0-src.js",
+      "lineno": 19,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace",
+      "code": {
+        "id": "astnode100000009",
+        "name": "start",
+        "type": "FunctionExpression"
+      },
+      "vars": {
+        "this.env": "car.start#env"
+      }
+    },
+    "description": "start the car",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        }
+      },
+      {
+        "type": {
+          "names": [
+            "function"
+          ]
+        }
+      }
+    ],
+    "name": "start",
+    "longname": "car.start",
+    "kind": "function",
+    "memberof": "car",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n    decribes the current conditions\n    @namespace\n    */",
+    "meta": {
+      "range": [
+        308,
+        530
+      ],
+      "filename": "0-src.js",
+      "lineno": 24,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace",
+      "code": {
+        "id": "astnode100000015",
+        "name": "this.env",
+        "type": "ObjectExpression",
+        "value": "{\"weather\":\"choppy\",\"roads\":\"wet\"}",
+        "paramnames": []
+      }
+    },
+    "description": "decribes the current conditions",
+    "kind": "namespace",
+    "name": "env",
+    "longname": "car.start#env",
+    "memberof": "car.start",
+    "scope": "instance"
+  },
+  {
+    "comment": "/**\n      what kind of day is it\n      @type {string}\n      @default\n      */",
+    "meta": {
+      "range": [
+        411,
+        428
+      ],
+      "filename": "0-src.js",
+      "lineno": 30,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace",
+      "code": {
+        "id": "astnode100000020",
+        "name": "weather",
+        "type": "Literal",
+        "value": "choppy"
+      }
+    },
+    "description": "what kind of day is it",
+    "type": {
+      "names": [
+        "string"
+      ]
+    },
+    "defaultvalue": "choppy",
+    "name": "weather",
+    "longname": "car.start#env.weather",
+    "kind": "member",
+    "memberof": "car.start#env",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n      road condition\n      @type {string}\n      @default\n      */",
+    "meta": {
+      "range": [
+        512,
+        524
+      ],
+      "filename": "0-src.js",
+      "lineno": 36,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace",
+      "code": {
+        "id": "astnode100000022",
+        "name": "roads",
+        "type": "Literal",
+        "value": "wet"
+      }
+    },
+    "description": "road condition",
+    "type": {
+      "names": [
+        "string"
+      ]
+    },
+    "defaultvalue": "wet",
+    "name": "roads",
+    "longname": "car.start#env.roads",
+    "kind": "member",
+    "memberof": "car.start#env",
+    "scope": "static"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace/0-src.js"
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "module:private",
+    "longname": "module:private",
+    "name": "private",
+    "kind": "module",
+    "description": "module with private shiz",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/private"
+    },
+    "order": 0
+  },
+  {
+    "id": "module:private.notprivate",
+    "longname": "module:private.notprivate",
+    "name": "notprivate",
+    "scope": "static",
+    "kind": "member",
+    "description": "visible property",
+    "memberof": "module:private",
+    "meta": {
+      "lineno": 9,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/private"
+    },
+    "order": 1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "globalGenerator",
+    "longname": "globalGenerator",
+    "name": "globalGenerator",
+    "scope": "global",
+    "kind": "function",
+    "description": "a global generator",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "first param",
+        "name": "one"
+      }
+    ],
+    "meta": {
+      "lineno": 5,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/generator"
+    },
+    "order": 0
+  }
+]

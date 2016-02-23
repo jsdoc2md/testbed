@@ -18,7 +18,12 @@ function getFolderQueue () {
   if (options.folders) {
     return Promise.resolve(makeFolderQueue(options.folders))
   } else {
-    return fsIterable.getDirTree(options.v2 ? './build-v2' : './build')
+    const os = require('os')
+    const buildFolder = os.platform() === 'win32'
+      ? options.v2 ? './build-v2-win32' : './build-win32'
+      : options.v2 ? './build-v2' : './build'
+    console.error('BUILD DIR: ' + buildFolder)
+    return fsIterable.getDirTree(buildFolder)
       .then(folderList => makeFolderQueue(folderList))
       .catch(err => console.error(err.stack))
   }

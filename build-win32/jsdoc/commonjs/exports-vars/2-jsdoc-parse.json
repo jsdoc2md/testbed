@@ -1,0 +1,53 @@
+[
+  {
+    "id": "module:exports-vars",
+    "longname": "module:exports-vars",
+    "name": "exports-vars",
+    "kind": "module",
+    "description": "note the vars are documented, not the exports.",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/exports-vars"
+    },
+    "order": 0
+  },
+  {
+    "id": "module:exports-vars~one",
+    "longname": "module:exports-vars~one",
+    "name": "one",
+    "scope": "inner",
+    "kind": "member",
+    "memberof": "module:exports-vars",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "meta": {
+      "lineno": 9,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/exports-vars"
+    },
+    "order": 1
+  },
+  {
+    "id": "module:exports-vars~two",
+    "longname": "module:exports-vars~two",
+    "name": "two",
+    "scope": "inner",
+    "kind": "member",
+    "memberof": "module:exports-vars",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "meta": {
+      "lineno": 14,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/exports-vars"
+    },
+    "order": 2
+  }
+]

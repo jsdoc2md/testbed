@@ -1,0 +1,94 @@
+[
+  {
+    "id": "missle",
+    "longname": "missle",
+    "name": "missle",
+    "scope": "global",
+    "kind": "namespace",
+    "description": "A missle object, with separate docs for each property.",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace2"
+    },
+    "order": 0
+  },
+  {
+    "id": "missle.range",
+    "longname": "missle.range",
+    "name": "range",
+    "scope": "static",
+    "kind": "member",
+    "description": "missile range",
+    "memberof": "missle",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "defaultvalue": 100000,
+    "meta": {
+      "lineno": 11,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace2"
+    },
+    "order": 1
+  },
+  {
+    "id": "missle.ballistic",
+    "longname": "missle.ballistic",
+    "name": "ballistic",
+    "scope": "static",
+    "kind": "member",
+    "description": "ballistic",
+    "memberof": "missle",
+    "type": {
+      "names": [
+        "boolean"
+      ]
+    },
+    "defaultvalue": true,
+    "meta": {
+      "lineno": 18,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace2"
+    },
+    "order": 2
+  },
+  {
+    "id": "missle.hydrogen",
+    "longname": "missle.hydrogen",
+    "name": "hydrogen",
+    "scope": "static",
+    "kind": "member",
+    "description": "hydrogen bomb?",
+    "memberof": "missle",
+    "meta": {
+      "lineno": 22,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace2"
+    },
+    "order": 3
+  },
+  {
+    "id": "missle.megaton",
+    "longname": "missle.megaton",
+    "name": "megaton",
+    "scope": "static",
+    "kind": "member",
+    "description": "number of megatons",
+    "memberof": "missle",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "defaultvalue": 200,
+    "meta": {
+      "lineno": 29,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace2"
+    },
+    "order": 4
+  }
+]

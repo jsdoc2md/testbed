@@ -1,0 +1,25 @@
+[
+  {
+    "id": "exampleVar",
+    "longname": "exampleVar",
+    "name": "exampleVar",
+    "scope": "global",
+    "kind": "member",
+    "description": "an example var",
+    "examples": [
+      "var thisVar = funtion(){\n    return \"a value\"\n}"
+    ],
+    "type": {
+      "names": [
+        "string"
+      ]
+    },
+    "defaultvalue": "\"something\"",
+    "meta": {
+      "lineno": 10,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/example"
+    },
+    "order": 0
+  }
+]
