@@ -78,9 +78,9 @@
     "order": 4
   },
   {
-    "id": "Something",
-    "longname": "Something",
-    "name": "Something",
+    "id": "Droid",
+    "longname": "Droid",
+    "name": "Droid",
     "kind": "class",
     "scope": "global",
     "meta": {
@@ -91,13 +91,13 @@
     "order": 5
   },
   {
-    "id": "Something#one",
-    "parentId": "Something",
-    "longname": "Something#one",
-    "name": "one",
+    "id": "Droid#jobs",
+    "parentId": "Droid",
+    "longname": "Droid#jobs",
+    "name": "jobs",
     "kind": "member",
     "scope": "instance",
-    "memberof": "Something",
+    "memberof": "Droid",
     "type": {
       "names": [
         "number"
@@ -111,13 +111,13 @@
     "order": 6
   },
   {
-    "id": "Something#two",
-    "parentId": "Something",
-    "longname": "Something#two",
-    "name": "two",
+    "id": "Droid#battery",
+    "parentId": "Droid",
+    "longname": "Droid#battery",
+    "name": "battery",
     "kind": "member",
     "scope": "instance",
-    "memberof": "Something",
+    "memberof": "Droid",
     "type": {
       "names": [
         "number"
@@ -131,19 +131,19 @@
     "order": 7
   },
   {
-    "id": "Something~three",
-    "parentId": "Something",
-    "longname": "Something~three",
-    "name": "three",
-    "kind": "constant",
-    "scope": "inner",
-    "memberof": "Something",
+    "id": "Droid#colour",
+    "parentId": "Droid",
+    "longname": "Droid#colour",
+    "name": "colour",
+    "kind": "member",
+    "scope": "instance",
+    "memberof": "Droid",
     "type": {
       "names": [
-        "number"
+        "string"
       ]
     },
-    "category": "inner-consts",
+    "category": "standard",
     "meta": {
       "lineno": 46,
       "filename": "0-src.js",
@@ -152,19 +152,19 @@
     "order": 8
   },
   {
-    "id": "Something~four",
-    "parentId": "Something",
-    "longname": "Something~four",
-    "name": "four",
-    "kind": "constant",
-    "scope": "inner",
-    "memberof": "Something",
+    "id": "Droid#age",
+    "parentId": "Droid",
+    "longname": "Droid#age",
+    "name": "age",
+    "kind": "member",
+    "scope": "instance",
+    "memberof": "Droid",
     "type": {
       "names": [
         "number"
       ]
     },
-    "category": "inner-consts",
+    "category": "standard",
     "meta": {
       "lineno": 52,
       "filename": "0-src.js",
@@ -173,69 +173,76 @@
     "order": 9
   },
   {
-    "id": "Something~five",
-    "parentId": "Something",
-    "longname": "Something~five",
-    "name": "five",
+    "id": "Droid~legs",
+    "parentId": "Droid",
+    "longname": "Droid~legs",
+    "name": "legs",
     "kind": "constant",
     "scope": "inner",
-    "memberof": "Something",
+    "memberof": "Droid",
     "type": {
       "names": [
         "number"
       ]
     },
-    "category": "inner-consts-two",
+    "category": "inner-consts",
     "meta": {
-      "lineno": 58,
+      "lineno": 59,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none"
     },
     "order": 10
   },
   {
-    "id": "Something#funcOne",
-    "parentId": "Something",
-    "longname": "Something#funcOne",
-    "name": "funcOne",
-    "kind": "function",
-    "scope": "instance",
-    "memberof": "Something",
-    "params": [
-      {
-        "type": {
-          "names": [
-            "number"
-          ]
-        },
-        "name": "one"
-      }
-    ],
-    "returns": [
-      {
-        "type": {
-          "names": [
-            "number"
-          ]
-        }
-      }
-    ],
-    "category": "yeah-functions",
+    "id": "Droid~arms",
+    "parentId": "Droid",
+    "longname": "Droid~arms",
+    "name": "arms",
+    "kind": "constant",
+    "scope": "inner",
+    "memberof": "Droid",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "category": "inner-consts",
     "meta": {
-      "lineno": 66,
+      "lineno": 65,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none"
     },
     "order": 11
   },
   {
-    "id": "Something#funcTwo",
-    "parentId": "Something",
-    "longname": "Something#funcTwo",
-    "name": "funcTwo",
+    "id": "Droid~human",
+    "parentId": "Droid",
+    "longname": "Droid~human",
+    "name": "human",
+    "kind": "constant",
+    "scope": "inner",
+    "memberof": "Droid",
+    "type": {
+      "names": [
+        "boolean"
+      ]
+    },
+    "category": "inner-consts-two",
+    "meta": {
+      "lineno": 71,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none"
+    },
+    "order": 12
+  },
+  {
+    "id": "Droid#move",
+    "parentId": "Droid",
+    "longname": "Droid#move",
+    "name": "move",
     "kind": "function",
     "scope": "instance",
-    "memberof": "Something",
+    "memberof": "Droid",
     "params": [
       {
         "type": {
@@ -257,20 +264,55 @@
     ],
     "category": "yeah-functions",
     "meta": {
-      "lineno": 73,
+      "lineno": 79,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none"
     },
-    "order": 12
+    "order": 13
   },
   {
-    "id": "Something#funcThree",
-    "parentId": "Something",
-    "longname": "Something#funcThree",
-    "name": "funcThree",
+    "id": "Droid#stop",
+    "parentId": "Droid",
+    "longname": "Droid#stop",
+    "name": "stop",
     "kind": "function",
     "scope": "instance",
-    "memberof": "Something",
+    "memberof": "Droid",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "name": "one"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        }
+      }
+    ],
+    "category": "yeah-functions",
+    "meta": {
+      "lineno": 86,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none"
+    },
+    "order": 14
+  },
+  {
+    "id": "Droid#pray",
+    "parentId": "Droid",
+    "longname": "Droid#pray",
+    "name": "pray",
+    "kind": "function",
+    "scope": "instance",
+    "memberof": "Droid",
     "params": [
       {
         "type": {
@@ -292,20 +334,20 @@
     ],
     "category": "no-functions",
     "meta": {
-      "lineno": 80,
+      "lineno": 93,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none"
     },
-    "order": 13
+    "order": 15
   },
   {
-    "id": "Something.staticFunc",
-    "parentId": "Something",
-    "longname": "Something.staticFunc",
-    "name": "staticFunc",
+    "id": "Droid.repair",
+    "parentId": "Droid",
+    "longname": "Droid.repair",
+    "name": "repair",
     "kind": "function",
     "scope": "static",
-    "memberof": "Something",
+    "memberof": "Droid",
     "params": [
       {
         "type": {
@@ -320,16 +362,16 @@
       {
         "type": {
           "names": [
-            "number"
+            "boolean"
           ]
         }
       }
     ],
     "meta": {
-      "lineno": 86,
+      "lineno": 99,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-none"
     },
-    "order": 14
+    "order": 16
   }
 ]

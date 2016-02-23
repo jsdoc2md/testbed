@@ -7,12 +7,16 @@ ES6 Class (with sub-class) exported indirectly by a variable on module.exports.
 * es6-class
     * [ExportedClass](#exp_module_es6-class--ExportedClass) ⏏
         * [new ExportedClass(one, two)](#new_module_es6-class--ExportedClass_new)
-        * [.propOne](#module_es6-class--ExportedClass.ExportedClass+propOne) : `number`
-        * [.methodOne()](#module_es6-class--ExportedClass+methodOne)
-        * [.methodTwo()](#module_es6-class--ExportedClass+methodTwo)
-        * [.shat()](#module_es6-class--ExportedClass.shat)
-        * [~ChildClass](#module_es6-class--ExportedClass..ChildClass) ⇐ ExportedClass
-            * [.propThree](#module_es6-class--ExportedClass..ChildClass.ChildClass+propThree)
+        * _instance_
+            * [.propOne](#module_es6-class--ExportedClass.ExportedClass+propOne) : `number`
+            * [.methodOne()](#module_es6-class--ExportedClass+methodOne)
+            * [.methodTwo()](#module_es6-class--ExportedClass+methodTwo)
+        * _static_
+            * [.shat()](#module_es6-class--ExportedClass.shat)
+        * _inner_
+            * [~ChildClass](#module_es6-class--ExportedClass..ChildClass) ⇐ ExportedClass
+                * _instance_
+                    * [.propThree](#module_es6-class--ExportedClass..ChildClass.ChildClass+propThree)
 
 
 <a name="exp_module_es6-class--ExportedClass"></a>
@@ -40,43 +44,59 @@ var one = 1
 ```
 
 
+### Category: instance
+
+
 <a name="module_es6-class--ExportedClass.ExportedClass+propOne"></a>
-#### exportedClass.propOne : `number`
+##### exportedClass.propOne : `number`
 an instance property
 
 **Kind**: instance property of [`ExportedClass`](#exp_module_es6-class--ExportedClass)
 
 
 <a name="module_es6-class--ExportedClass+methodOne"></a>
-#### exportedClass.methodOne()
+##### exportedClass.methodOne()
 parent method one
 
 **Kind**: instance method of [`ExportedClass`](#exp_module_es6-class--ExportedClass)
 
 
 <a name="module_es6-class--ExportedClass+methodTwo"></a>
-#### exportedClass.methodTwo()
+##### exportedClass.methodTwo()
 parent method two
 
 **Kind**: instance method of [`ExportedClass`](#exp_module_es6-class--ExportedClass)
 
 
+### Category: static
+
+
 <a name="module_es6-class--ExportedClass.shat"></a>
-#### ExportedClass.shat()
+##### ExportedClass.shat()
 a static method
 
 **Kind**: static method of [`ExportedClass`](#exp_module_es6-class--ExportedClass)
 
 
+### Category: inner
+
+
 <a name="module_es6-class--ExportedClass..ChildClass"></a>
-#### ExportedClass~ChildClass ⇐ ExportedClass
+##### ExportedClass~ChildClass ⇐ ExportedClass
 the child of exported class
 
-**Kind**: inner class of [`ExportedClass`](#exp_module_es6-class--ExportedClass)
+**Kind**: inner class of [`ExportedClass`](#exp_module_es6-class--ExportedClass)  
+
+* [~ChildClass](#module_es6-class--ExportedClass..ChildClass) ⇐ ExportedClass
+    * _instance_
+        * [.propThree](#module_es6-class--ExportedClass..ChildClass.ChildClass+propThree)
+
+
+##### Category: instance
 
 
 <a name="module_es6-class--ExportedClass..ChildClass.ChildClass+propThree"></a>
-##### childClass.propThree
+####### childClass.propThree
 an instance property
 
 **Kind**: instance property of [`ChildClass`](#module_es6-class--ExportedClass..ChildClass)

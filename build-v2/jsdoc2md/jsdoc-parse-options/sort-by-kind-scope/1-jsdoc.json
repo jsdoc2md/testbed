@@ -121,28 +121,30 @@
     "meta": {
       "range": [
         238,
-        597
+        757
       ],
       "filename": "0-src.js",
       "lineno": 31,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind-scope",
       "code": {
         "id": "astnode100000017",
-        "name": "Something",
+        "name": "Droid",
         "type": "FunctionDeclaration",
         "paramnames": []
       },
       "vars": {
-        "this.one": "Something#one",
-        "this.two": "Something#two",
-        "three": "Something~three",
-        "four": "Something~four",
-        "five": "Something~five"
+        "this.jobs": "Droid#jobs",
+        "this.battery": "Droid#battery",
+        "this.colour": "Droid#colour",
+        "this.age": "Droid#age",
+        "legs": "Droid~legs",
+        "arms": "Droid~arms",
+        "human": "Droid~human"
       }
     },
     "kind": "class",
-    "name": "Something",
-    "longname": "Something",
+    "name": "Droid",
+    "longname": "Droid",
     "scope": "global",
     "params": []
   },
@@ -150,15 +152,15 @@
     "comment": "/**\n   * @type {number}\n   */",
     "meta": {
       "range": [
-        296,
-        308
+        292,
+        305
       ],
       "filename": "0-src.js",
       "lineno": 35,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind-scope",
       "code": {
         "id": "astnode100000021",
-        "name": "this.one",
+        "name": "this.jobs",
         "type": "Literal",
         "value": 1,
         "paramnames": []
@@ -169,27 +171,27 @@
         "number"
       ]
     },
-    "name": "one",
-    "longname": "Something#one",
+    "name": "jobs",
+    "longname": "Droid#jobs",
     "kind": "member",
-    "memberof": "Something",
+    "memberof": "Droid",
     "scope": "instance"
   },
   {
     "comment": "/**\n   * @type {number}\n   */",
     "meta": {
       "range": [
-        344,
-        356
+        341,
+        358
       ],
       "filename": "0-src.js",
       "lineno": 40,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind-scope",
       "code": {
         "id": "astnode100000027",
-        "name": "this.two",
+        "name": "this.battery",
         "type": "Literal",
-        "value": 2,
+        "value": 50,
         "paramnames": []
       }
     },
@@ -198,27 +200,101 @@
         "number"
       ]
     },
-    "name": "two",
-    "longname": "Something#two",
+    "name": "battery",
+    "longname": "Droid#battery",
     "kind": "member",
-    "memberof": "Something",
+    "memberof": "Droid",
     "scope": "instance"
   },
   {
-    "comment": "/**\n   * @type {number}\n   * @category inner-consts\n   */",
+    "comment": "/**\n   * @type {string}\n   * @category standard\n   */",
     "meta": {
       "range": [
-        426,
-        435
+        418,
+        437
       ],
       "filename": "0-src.js",
       "lineno": 46,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind-scope",
       "code": {
         "id": "astnode100000033",
-        "name": "three",
+        "name": "this.colour",
         "type": "Literal",
-        "value": 3
+        "value": "red",
+        "paramnames": []
+      }
+    },
+    "type": {
+      "names": [
+        "string"
+      ]
+    },
+    "tags": [
+      {
+        "originalTitle": "category",
+        "title": "category",
+        "text": "standard",
+        "value": "standard"
+      }
+    ],
+    "name": "colour",
+    "longname": "Droid#colour",
+    "kind": "member",
+    "memberof": "Droid",
+    "scope": "instance"
+  },
+  {
+    "comment": "/**\n   * @type {number}\n   * @category standard\n   */",
+    "meta": {
+      "range": [
+        497,
+        510
+      ],
+      "filename": "0-src.js",
+      "lineno": 52,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind-scope",
+      "code": {
+        "id": "astnode100000039",
+        "name": "this.age",
+        "type": "Literal",
+        "value": 12,
+        "paramnames": []
+      }
+    },
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "tags": [
+      {
+        "originalTitle": "category",
+        "title": "category",
+        "text": "standard",
+        "value": "standard"
+      }
+    ],
+    "name": "age",
+    "longname": "Droid#age",
+    "kind": "member",
+    "memberof": "Droid",
+    "scope": "instance"
+  },
+  {
+    "comment": "/**\n   * @type {number}\n   * @category inner-consts\n   */",
+    "meta": {
+      "range": [
+        581,
+        589
+      ],
+      "filename": "0-src.js",
+      "lineno": 59,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind-scope",
+      "code": {
+        "id": "astnode100000045",
+        "name": "legs",
+        "type": "Literal",
+        "value": 2
       }
     },
     "type": {
@@ -234,27 +310,27 @@
         "value": "inner-consts"
       }
     ],
-    "name": "three",
-    "longname": "Something~three",
+    "name": "legs",
+    "longname": "Droid~legs",
     "kind": "constant",
-    "memberof": "Something",
+    "memberof": "Droid",
     "scope": "inner"
   },
   {
     "comment": "/**\n   * @type {number}\n   * @category inner-consts\n   */",
     "meta": {
       "range": [
-        505,
-        513
+        659,
+        667
       ],
       "filename": "0-src.js",
-      "lineno": 52,
+      "lineno": 65,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind-scope",
       "code": {
-        "id": "astnode100000037",
-        "name": "four",
+        "id": "astnode100000049",
+        "name": "arms",
         "type": "Literal",
-        "value": 4
+        "value": 2
       }
     },
     "type": {
@@ -270,32 +346,32 @@
         "value": "inner-consts"
       }
     ],
-    "name": "four",
-    "longname": "Something~four",
+    "name": "arms",
+    "longname": "Droid~arms",
     "kind": "constant",
-    "memberof": "Something",
+    "memberof": "Droid",
     "scope": "inner"
   },
   {
-    "comment": "/**\n   * @type {number}\n   * @category inner-consts-two\n   */",
+    "comment": "/**\n   * @type {boolean}\n   * @category inner-consts-two\n   */",
     "meta": {
       "range": [
-        587,
-        595
+        742,
+        755
       ],
       "filename": "0-src.js",
-      "lineno": 58,
+      "lineno": 71,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind-scope",
       "code": {
-        "id": "astnode100000041",
-        "name": "five",
+        "id": "astnode100000053",
+        "name": "human",
         "type": "Literal",
-        "value": 5
+        "value": false
       }
     },
     "type": {
       "names": [
-        "number"
+        "boolean"
       ]
     },
     "tags": [
@@ -306,25 +382,25 @@
         "value": "inner-consts-two"
       }
     ],
-    "name": "five",
-    "longname": "Something~five",
+    "name": "human",
+    "longname": "Droid~human",
     "kind": "constant",
-    "memberof": "Something",
+    "memberof": "Droid",
     "scope": "inner"
   },
   {
     "comment": "/**\n * @param {number}\n * @returns {number}\n * @category yeah-functions\n */",
     "meta": {
       "range": [
-        675,
-        722
+        835,
+        875
       ],
       "filename": "0-src.js",
-      "lineno": 66,
+      "lineno": 79,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind-scope",
       "code": {
-        "id": "astnode100000045",
-        "name": "Something.prototype.funcOne",
+        "id": "astnode100000057",
+        "name": "Droid.prototype.move",
         "type": "FunctionExpression",
         "paramnames": [
           "one"
@@ -358,25 +434,25 @@
         "value": "yeah-functions"
       }
     ],
-    "name": "funcOne",
-    "longname": "Something#funcOne",
+    "name": "move",
+    "longname": "Droid#move",
     "kind": "function",
-    "memberof": "Something",
+    "memberof": "Droid",
     "scope": "instance"
   },
   {
     "comment": "/**\n * @param {number}\n * @returns {number}\n * @category yeah-functions\n */",
     "meta": {
       "range": [
-        800,
-        847
+        953,
+        993
       ],
       "filename": "0-src.js",
-      "lineno": 73,
+      "lineno": 86,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind-scope",
       "code": {
-        "id": "astnode100000055",
-        "name": "Something.prototype.funcTwo",
+        "id": "astnode100000067",
+        "name": "Droid.prototype.stop",
         "type": "FunctionExpression",
         "paramnames": [
           "one"
@@ -410,25 +486,25 @@
         "value": "yeah-functions"
       }
     ],
-    "name": "funcTwo",
-    "longname": "Something#funcTwo",
+    "name": "stop",
+    "longname": "Droid#stop",
     "kind": "function",
-    "memberof": "Something",
+    "memberof": "Droid",
     "scope": "instance"
   },
   {
     "comment": "/**\n * @param {number}\n * @returns {number}\n * @category no-functions\n */",
     "meta": {
       "range": [
-        923,
-        972
+        1069,
+        1109
       ],
       "filename": "0-src.js",
-      "lineno": 80,
+      "lineno": 93,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind-scope",
       "code": {
-        "id": "astnode100000065",
-        "name": "Something.prototype.funcThree",
+        "id": "astnode100000077",
+        "name": "Droid.prototype.pray",
         "type": "FunctionExpression",
         "paramnames": [
           "one"
@@ -462,25 +538,25 @@
         "value": "no-functions"
       }
     ],
-    "name": "funcThree",
-    "longname": "Something#funcThree",
+    "name": "pray",
+    "longname": "Droid#pray",
     "kind": "function",
-    "memberof": "Something",
+    "memberof": "Droid",
     "scope": "instance"
   },
   {
-    "comment": "/**\n * @param {number}\n * @returns {number}\n */",
+    "comment": "/**\n * @param {number}\n * @returns {boolean}\n */",
     "meta": {
       "range": [
-        1022,
-        1059
+        1160,
+        1189
       ],
       "filename": "0-src.js",
-      "lineno": 86,
+      "lineno": 99,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind-scope",
       "code": {
-        "id": "astnode100000075",
-        "name": "Something.staticFunc",
+        "id": "astnode100000087",
+        "name": "Droid.repair",
         "type": "FunctionExpression",
         "paramnames": []
       }
@@ -499,15 +575,15 @@
       {
         "type": {
           "names": [
-            "number"
+            "boolean"
           ]
         }
       }
     ],
-    "name": "staticFunc",
-    "longname": "Something.staticFunc",
+    "name": "repair",
+    "longname": "Droid.repair",
     "kind": "function",
-    "memberof": "Something",
+    "memberof": "Droid",
     "scope": "static"
   },
   {

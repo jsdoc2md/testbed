@@ -28,34 +28,47 @@ var object = {}
 /**
  * @class
  */
-function Something () {
+function Droid () {
   /**
    * @type {number}
    */
-  this.one = 1
+  this.jobs = 1
 
   /**
    * @type {number}
    */
-  this.two = 2
+  this.battery = 50
+
+  /**
+   * @type {string}
+   * @category standard
+   */
+  this.colour = 'red'
+
+  /**
+   * @type {number}
+   * @category standard
+   */
+  this.age = 12
+
 
   /**
    * @type {number}
    * @category inner-consts
    */
-  const three = 3
+  const legs = 2
 
   /**
    * @type {number}
    * @category inner-consts
    */
-  const four = 4
+  const arms = 2
 
   /**
-   * @type {number}
+   * @type {boolean}
    * @category inner-consts-two
    */
-  const five = 5
+  const human = false
 }
 
 /**
@@ -63,24 +76,24 @@ function Something () {
  * @returns {number}
  * @category yeah-functions
  */
-Something.prototype.funcOne = function (one) {}
+Droid.prototype.move = function (one) {}
 
 /**
  * @param {number}
  * @returns {number}
  * @category yeah-functions
  */
-Something.prototype.funcTwo = function (one) {}
+Droid.prototype.stop = function (one) {}
 
 /**
  * @param {number}
  * @returns {number}
  * @category no-functions
  */
-Something.prototype.funcThree = function (one) {}
+Droid.prototype.pray = function (one) {}
 
 /**
  * @param {number}
- * @returns {number}
+ * @returns {boolean}
  */
-Something.staticFunc = function () {}
+Droid.repair = function () {}

@@ -1,50 +1,55 @@
-<a name="Something"></a>
-## Something
+# Category: global
+
+
+<a name="Droid"></a>
+### Droid
 **Kind**: global class  
 
-* [Something](#Something)
-    * [.one](#Something+one) : `number`
-    * [.two](#Something+two) : `number`
-    * [~three](#Something..three) : 
-    * [~four](#Something..four) : 
-    * [~five](#Something..five) : 
-    * [.funcThree(one)](#Something+funcThree) ⇒ `number`
-    * [.funcOne(one)](#Something+funcOne) ⇒ `number`
-    * [.funcTwo(one)](#Something+funcTwo) ⇒ `number`
-    * [.staticFunc()](#Something.staticFunc) ⇒ `number`
+* [Droid](#Droid)
+    * _instance_
+        * [.battery](#Droid+battery) : `number`
+        * [.jobs](#Droid+jobs) : `number`
+        * [.colour](#Droid+colour) : `string`
+        * [.age](#Droid+age) : `number`
+        * [.pray(one)](#Droid+pray) ⇒ `number`
+        * [.move(one)](#Droid+move) ⇒ `number`
+        * [.stop(one)](#Droid+stop) ⇒ `number`
+    * _inner_
+        * [~legs](#Droid..legs) : 
+        * [~arms](#Droid..arms) : 
+        * [~human](#Droid..human) : 
+    * _static_
+        * [.repair()](#Droid.repair) ⇒ `boolean`
 
 
-<a name="Something+one"></a>
-### something.one : `number`
-**Kind**: instance property of [`Something`](#Something)
+### Category: instance
 
 
-<a name="Something+two"></a>
-### something.two : `number`
-**Kind**: instance property of [`Something`](#Something)
+<a name="Droid+battery"></a>
+##### droid.battery : `number`
+**Kind**: instance property of [`Droid`](#Droid)
 
 
-<a name="Something..three"></a>
-### Something~three : 
-**Kind**: inner constant of [`Something`](#Something)  
-**Category**: inner-consts
+<a name="Droid+jobs"></a>
+##### droid.jobs : `number`
+**Kind**: instance property of [`Droid`](#Droid)
 
 
-<a name="Something..four"></a>
-### Something~four : 
-**Kind**: inner constant of [`Something`](#Something)  
-**Category**: inner-consts
+<a name="Droid+colour"></a>
+##### droid.colour : `string`
+**Kind**: instance property of [`Droid`](#Droid)  
+**Category**: standard
 
 
-<a name="Something..five"></a>
-### Something~five : 
-**Kind**: inner constant of [`Something`](#Something)  
-**Category**: inner-consts-two
+<a name="Droid+age"></a>
+##### droid.age : `number`
+**Kind**: instance property of [`Droid`](#Droid)  
+**Category**: standard
 
 
-<a name="Something+funcThree"></a>
-### something.funcThree(one) ⇒ `number`
-**Kind**: instance method of [`Something`](#Something)  
+<a name="Droid+pray"></a>
+##### droid.pray(one) ⇒ `number`
+**Kind**: instance method of [`Droid`](#Droid)  
 
 | Param | Type     |
 | ----- | -------- |
@@ -54,9 +59,9 @@
 **Category**: no-functions
 
 
-<a name="Something+funcOne"></a>
-### something.funcOne(one) ⇒ `number`
-**Kind**: instance method of [`Something`](#Something)  
+<a name="Droid+move"></a>
+##### droid.move(one) ⇒ `number`
+**Kind**: instance method of [`Droid`](#Droid)  
 
 | Param | Type     |
 | ----- | -------- |
@@ -66,9 +71,9 @@
 **Category**: yeah-functions
 
 
-<a name="Something+funcTwo"></a>
-### something.funcTwo(one) ⇒ `number`
-**Kind**: instance method of [`Something`](#Something)  
+<a name="Droid+stop"></a>
+##### droid.stop(one) ⇒ `number`
+**Kind**: instance method of [`Droid`](#Droid)  
 
 | Param | Type     |
 | ----- | -------- |
@@ -78,9 +83,33 @@
 **Category**: yeah-functions
 
 
-<a name="Something.staticFunc"></a>
-### Something.staticFunc() ⇒ `number`
-**Kind**: static method of [`Something`](#Something)  
+### Category: inner
+
+
+<a name="Droid..legs"></a>
+##### Droid~legs : 
+**Kind**: inner constant of [`Droid`](#Droid)  
+**Category**: inner-consts
+
+
+<a name="Droid..arms"></a>
+##### Droid~arms : 
+**Kind**: inner constant of [`Droid`](#Droid)  
+**Category**: inner-consts
+
+
+<a name="Droid..human"></a>
+##### Droid~human : 
+**Kind**: inner constant of [`Droid`](#Droid)  
+**Category**: inner-consts-two
+
+
+### Category: static
+
+
+<a name="Droid.repair"></a>
+##### Droid.repair() ⇒ `boolean`
+**Kind**: static method of [`Droid`](#Droid)  
 
 | Type     |
 | -------- |
@@ -88,27 +117,34 @@
 
 
 <a name="mixin"></a>
-## mixin
-**Kind**: global mixin
+### mixin
+**Kind**: global mixin  
+
+* [mixin](#mixin)
+    * _static_
+        * [.one](#mixin.one) : `number`
+
+
+### Category: static
 
 
 <a name="mixin.one"></a>
-### mixin.one : `number`
+##### mixin.one : `number`
 **Kind**: static property of [`mixin`](#mixin)
 
 
 <a name="another"></a>
-## another : `number`
+### another : `number`
 **Kind**: global variable
 
 
 <a name="object"></a>
-## object : `object`
+### object : `object`
 **Kind**: global namespace
 
 
 <a name="external_ext"></a>
-## ext
+### ext
 something external
 
 **Kind**: global external
