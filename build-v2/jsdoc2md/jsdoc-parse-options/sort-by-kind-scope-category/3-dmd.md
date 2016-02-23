@@ -19,7 +19,7 @@
         * [.repair()](#Droid.repair) ⇒ `boolean`
 
 
-## Group: instance
+### Group: instance
 
 
 <a name="Droid+battery"></a>
@@ -80,7 +80,7 @@
 **Category**: yeah-functions
 
 
-## Group: inner
+### Group: inner
 
 
 <a name="Droid..legs"></a>
@@ -101,7 +101,7 @@
 **Category**: inner-consts-two
 
 
-## Group: static
+### Group: static
 
 
 <a name="Droid.repair"></a>

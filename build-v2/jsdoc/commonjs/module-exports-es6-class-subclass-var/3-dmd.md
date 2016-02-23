@@ -43,7 +43,7 @@ var one = 1
 ```
 
 
-### Group: instance
+#### Group: instance
 
 
 <a name="module_es6-class--ExportedClass.ExportedClass+propOne"></a>
@@ -67,7 +67,7 @@ parent method two
 **Kind**: instance method of [`ExportedClass`](#exp_module_es6-class--ExportedClass)
 
 
-### Group: static
+#### Group: static
 
 
 <a name="module_es6-class--ExportedClass.shat"></a>
@@ -77,7 +77,7 @@ a static method
 **Kind**: static method of [`ExportedClass`](#exp_module_es6-class--ExportedClass)
 
 
-### Group: inner
+#### Group: inner
 
 
 <a name="module_es6-class--ExportedClass..ChildClass"></a>

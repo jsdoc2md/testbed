@@ -30,7 +30,7 @@ the farm
 the constructor
 
 
-### Group: instance
+#### Group: instance
 
 
 <a name="module_farm--Farm.Farm+equipment"></a>
@@ -40,7 +40,7 @@ farm equipment
 **Kind**: instance property of [`Farm`](#exp_module_farm--Farm)
 
 
-### Group: inner
+#### Group: inner
 
 
 <a name="module_farm--Farm..Equipment"></a>

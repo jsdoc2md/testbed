@@ -46,7 +46,7 @@ something external
         * [.repair()](#Droid.repair) ⇒ `boolean`
 
 
-## Group: instance
+### Group: instance
 
 
 <a name="Droid+jobs"></a>
@@ -107,7 +107,7 @@ something external
 **Category**: no-functions
 
 
-## Group: inner
+### Group: inner
 
 
 <a name="Droid..legs"></a>
@@ -128,7 +128,7 @@ something external
 **Category**: inner-consts-two
 
 
-## Group: static
+### Group: static
 
 
 <a name="Droid.repair"></a>
