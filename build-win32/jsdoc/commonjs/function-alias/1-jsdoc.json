@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\nexports a pointer to a function\n@module cjs/function-alias\n*/",
+    "comment": "/**\r\nexports a pointer to a function\r\n@module cjs/function-alias\r\n*/",
     "meta": {
       "range": [
         0,
-        65
+        68
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/function-alias",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\function-alias",
       "code": {}
     },
     "description": "exports a pointer to a function",
@@ -20,12 +20,12 @@
     "comment": "",
     "meta": {
       "range": [
-        66,
-        86
+        70,
+        90
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/function-alias",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\function-alias",
       "code": {
         "id": "astnode100000002",
         "name": "module.exports",
@@ -40,15 +40,15 @@
     "kind": "member"
   },
   {
-    "comment": "/**\nthe function\n@param {number} - the first number\n@param {number} - the second number\n@returns {number} the calculation result\n@alias module:cjs/function-alias\n*/",
+    "comment": "/**\r\nthe function\r\n@param {number} - the first number\r\n@param {number} - the second number\r\n@returns {number} the calculation result\r\n@alias module:cjs/function-alias\r\n*/",
     "meta": {
       "range": [
-        253,
-        279
+        266,
+        292
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/function-alias",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\function-alias",
       "code": {
         "id": "astnode100000007",
         "name": "sum",
@@ -96,15 +96,15 @@
     "kind": "function"
   },
   {
-    "comment": "/**\nan additional static property\n*/",
+    "comment": "/**\r\nan additional static property\r\n*/",
     "meta": {
       "range": [
-        318,
-        340
+        336,
+        358
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/function-alias",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\function-alias",
       "code": {
         "id": "astnode100000013",
         "name": "sum.sumthingStatic",
@@ -124,7 +124,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/function-alias/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\function-alias\\0-src.js"
     ]
   }
 ]

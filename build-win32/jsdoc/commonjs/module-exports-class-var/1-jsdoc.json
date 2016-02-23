@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * @module module-exports-class-var\n */",
+    "comment": "/**\r\n * @module module-exports-class-var\r\n */",
     "meta": {
       "range": [
         0,
-        43
+        45
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-class-var",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-class-var",
       "code": {}
     },
     "kind": "module",
@@ -19,12 +19,12 @@
     "comment": "",
     "meta": {
       "range": [
-        44,
-        66
+        47,
+        69
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-class-var",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-class-var",
       "code": {
         "id": "astnode100000002",
         "name": "module.exports",
@@ -39,15 +39,15 @@
     "kind": "member"
   },
   {
-    "comment": "/**\n * @class\n * @param {number}\n * @param {number}\n * @alias module:module-exports-class-var\n */",
+    "comment": "/**\r\n * @class\r\n * @param {number}\r\n * @param {number}\r\n * @alias module:module-exports-class-var\r\n */",
     "meta": {
       "range": [
-        166,
-        194
+        177,
+        205
       ],
       "filename": "0-src.js",
       "lineno": 12,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-class-var",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-class-var",
       "code": {
         "id": "astnode100000007",
         "name": "Class",
@@ -85,7 +85,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-class-var/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-class-var\\0-src.js"
     ]
   }
 ]

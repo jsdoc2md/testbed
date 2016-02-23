@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\na visible global\n*/",
+    "comment": "/**\r\na visible global\r\n*/",
     "meta": {
       "range": [
-        28,
-        42
+        31,
+        45
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/ignore",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\ignore",
       "code": {
         "id": "astnode100000002",
         "name": "visible",
@@ -23,15 +23,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\nan ignored global\n@ignore\n*/",
+    "comment": "/**\r\nan ignored global\r\n@ignore\r\n*/",
     "meta": {
       "range": [
-        81,
-        97
+        90,
+        106
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/ignore",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\ignore",
       "code": {
         "id": "astnode100000006",
         "name": "invisible",
@@ -50,7 +50,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/ignore/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\ignore\\0-src.js"
     ]
   }
 ]

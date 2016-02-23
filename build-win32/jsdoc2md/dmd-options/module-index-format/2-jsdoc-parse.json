@@ -4,14 +4,14 @@
     "longname": "module:animal",
     "name": "animal",
     "kind": "module",
-    "description": "Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\n\n| yeah | desc |\n| ---- | ---- |\n| some | markdown |\n| in the | module |\n| description | |",
+    "description": "Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\r\n\r\n| yeah | desc |\r\n| ---- | ---- |\r\n| some | markdown |\r\n| in the | module |\r\n| description | |",
     "examples": [
       "var animal = require(\"animal\")"
     ],
     "meta": {
       "lineno": 1,
       "filename": "animal.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src"
     },
     "order": 0
   },
@@ -24,7 +24,7 @@
     "meta": {
       "lineno": 1,
       "filename": "builder.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src"
     },
     "order": 6
   },
@@ -37,7 +37,7 @@
     "meta": {
       "lineno": 1,
       "filename": "species.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src"
     },
     "order": 10
   },
@@ -86,7 +86,7 @@
     "meta": {
       "lineno": 27,
       "filename": "animal.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src"
     },
     "order": 3
   },
@@ -105,7 +105,7 @@
     "meta": {
       "lineno": 32,
       "filename": "animal.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src"
     },
     "order": 4
   },
@@ -125,7 +125,7 @@
     "meta": {
       "lineno": 16,
       "filename": "species.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src"
     },
     "order": 12
   },
@@ -144,7 +144,7 @@
     "meta": {
       "lineno": 21,
       "filename": "species.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src"
     },
     "order": 13
   },
@@ -189,7 +189,7 @@
     "meta": {
       "lineno": 39,
       "filename": "animal.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src"
     },
     "order": 5
   },
@@ -204,7 +204,7 @@
     "meta": {
       "lineno": 13,
       "filename": "builder.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src"
     },
     "order": 8
   },
@@ -219,7 +219,7 @@
     "meta": {
       "lineno": 17,
       "filename": "builder.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src"
     },
     "order": 9
   },
@@ -263,7 +263,7 @@
     "meta": {
       "lineno": 30,
       "filename": "species.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src"
     },
     "order": 14
   },
@@ -277,7 +277,7 @@
     "meta": {
       "lineno": 21,
       "filename": "animal.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src"
     },
     "order": 1
   },
@@ -291,7 +291,7 @@
     "meta": {
       "lineno": 11,
       "filename": "species.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src"
     },
     "order": 11
   },
@@ -305,7 +305,7 @@
     "meta": {
       "lineno": 9,
       "filename": "builder.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src"
     },
     "order": 7
   }

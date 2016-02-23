@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * test to check deep trees render ok\n *\n * @module farm\n */",
+    "comment": "/**\r\n * test to check deep trees render ok\r\n *\r\n * @module farm\r\n */",
     "meta": {
       "range": [
         0,
-        64
+        68
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/deep-tree-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\deep-tree-class",
       "code": {}
     },
     "description": "test to check deep trees render ok",
@@ -20,12 +20,12 @@
     "comment": "",
     "meta": {
       "range": [
-        65,
-        86
+        70,
+        91
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/deep-tree-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\deep-tree-class",
       "code": {
         "id": "astnode100000002",
         "name": "module.exports",
@@ -40,15 +40,15 @@
     "kind": "member"
   },
   {
-    "comment": "/**\n * the farm\n * @alias module:farm\n */",
+    "comment": "/**\r\n * the farm\r\n * @alias module:farm\r\n */",
     "meta": {
       "range": [
-        130,
-        307
+        141,
+        329
       ],
       "filename": "0-src.js",
       "lineno": 12,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/deep-tree-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\deep-tree-class",
       "code": {
         "id": "astnode100000007",
         "name": "Farm",
@@ -65,15 +65,15 @@
     "params": []
   },
   {
-    "comment": "/**\n  * the constructor\n  */",
+    "comment": "/**\r\n  * the constructor\r\n  */",
     "meta": {
       "range": [
-        175,
-        305
+        190,
+        326
       ],
       "filename": "0-src.js",
       "lineno": 16,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/deep-tree-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\deep-tree-class",
       "code": {
         "id": "astnode100000010",
         "name": "Farm",
@@ -94,15 +94,15 @@
     "undocumented": true
   },
   {
-    "comment": "/**\n     * farm equipment\n     * @type module:farm~Equipment\n     */",
+    "comment": "/**\r\n     * farm equipment\r\n     * @type module:farm~Equipment\r\n     */",
     "meta": {
       "range": [
-        269,
-        301
+        289,
+        321
       ],
       "filename": "0-src.js",
       "lineno": 21,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/deep-tree-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\deep-tree-class",
       "code": {
         "id": "astnode100000015",
         "name": "this.equipment",
@@ -124,15 +124,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n* Equipment class\n*/",
+    "comment": "/**\r\n* Equipment class\r\n*/",
     "meta": {
       "range": [
-        334,
-        470
+        361,
+        505
       ],
       "filename": "0-src.js",
       "lineno": 28,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/deep-tree-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\deep-tree-class",
       "code": {
         "id": "astnode100000021",
         "name": "Equipment",
@@ -152,12 +152,12 @@
     "comment": "",
     "meta": {
       "range": [
-        353,
-        468
+        381,
+        502
       ],
       "filename": "0-src.js",
       "lineno": 29,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/deep-tree-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\deep-tree-class",
       "code": {
         "id": "astnode100000024",
         "name": "Equipment",
@@ -177,15 +177,15 @@
     "params": []
   },
   {
-    "comment": "/**\n    * the tractor\n    * @type module:farm~Tractor\n    */",
+    "comment": "/**\r\n    * the tractor\r\n    * @type module:farm~Tractor\r\n    */",
     "meta": {
       "range": [
-        437,
-        465
+        470,
+        498
       ],
       "filename": "0-src.js",
       "lineno": 34,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/deep-tree-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\deep-tree-class",
       "code": {
         "id": "astnode100000029",
         "name": "this.tractor",
@@ -207,15 +207,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n* Tractor class\n*/",
+    "comment": "/**\r\n* Tractor class\r\n*/",
     "meta": {
       "range": [
-        495,
-        743
+        535,
+        801
       ],
       "filename": "0-src.js",
       "lineno": 41,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/deep-tree-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\deep-tree-class",
       "code": {
         "id": "astnode100000035",
         "name": "Tractor",
@@ -235,12 +235,12 @@
     "comment": "",
     "meta": {
       "range": [
-        513,
-        715
+        554,
+        770
       ],
       "filename": "0-src.js",
       "lineno": 42,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/deep-tree-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\deep-tree-class",
       "code": {
         "id": "astnode100000038",
         "name": "Tractor",
@@ -260,15 +260,15 @@
     "params": []
   },
   {
-    "comment": "/**\n     * engine details\n     */",
+    "comment": "/**\r\n     * engine details\r\n     */",
     "meta": {
       "range": [
-        572,
-        711
+        617,
+        765
       ],
       "filename": "0-src.js",
       "lineno": 46,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/deep-tree-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\deep-tree-class",
       "code": {
         "id": "astnode100000043",
         "name": "this.engine",
@@ -285,15 +285,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n       * who built\n       */",
+    "comment": "/**\r\n       * who built\r\n       */",
     "meta": {
       "range": [
-        633,
-        652
+        682,
+        701
       ],
       "filename": "0-src.js",
       "lineno": 50,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/deep-tree-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\deep-tree-class",
       "code": {
         "id": "astnode100000048",
         "name": "manufacturer",
@@ -309,15 +309,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n       * the size\n       */",
+    "comment": "/**\r\n       * the size\r\n       */",
     "meta": {
       "range": [
-        698,
-        705
+        751,
+        758
       ],
       "filename": "0-src.js",
       "lineno": 54,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/deep-tree-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\deep-tree-class",
       "code": {
         "id": "astnode100000050",
         "name": "size",
@@ -336,12 +336,12 @@
     "comment": "",
     "meta": {
       "range": [
-        719,
-        741
+        776,
+        798
       ],
       "filename": "0-src.js",
       "lineno": 58,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/deep-tree-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\deep-tree-class",
       "code": {
         "id": "astnode100000052",
         "name": "Tractor.something",
@@ -364,7 +364,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/deep-tree-class/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\deep-tree-class\\0-src.js"
     ]
   }
 ]

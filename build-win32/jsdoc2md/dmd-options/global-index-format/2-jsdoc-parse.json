@@ -32,7 +32,7 @@
     "longname": "FurQ",
     "name": "FurQ",
     "kind": "constructor",
-    "description": "She's an Uzi lover.\n\n![uzi](https://sampleface.co.uk/wp-content/uploads/2013/07/fur-q-uzi-lover.png)",
+    "description": "She's an Uzi lover.\r\n\r\n![uzi](https://sampleface.co.uk/wp-content/uploads/2013/07/fur-q-uzi-lover.png)",
     "memberof": "FurQ",
     "params": [],
     "examples": [
@@ -57,11 +57,11 @@
     "scope": "global",
     "summary": "It's an animal, yeah?",
     "kind": "class",
-    "description": "Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\n\n- some markdown\n- in the module\n- description",
+    "description": "Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\r\n\r\n- some markdown\r\n- in the module\r\n- description",
     "meta": {
       "lineno": 13,
       "filename": "animal.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 0
   },
@@ -89,7 +89,7 @@
     "meta": {
       "lineno": 22,
       "filename": "furq.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 5
   },
@@ -102,7 +102,7 @@
     "meta": {
       "lineno": 109,
       "filename": "furq.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 18
   },
@@ -112,11 +112,11 @@
     "name": "NewLines",
     "scope": "global",
     "kind": "class",
-    "description": "A multi-line\nclass description",
+    "description": "A multi-line\r\nclass description",
     "meta": {
       "lineno": 6,
       "filename": "newlines.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 25
   },
@@ -130,7 +130,7 @@
     "meta": {
       "lineno": 5,
       "filename": "species.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 28
   },
@@ -145,7 +145,7 @@
     "meta": {
       "lineno": 97,
       "filename": "furq.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 16
   },
@@ -166,7 +166,7 @@
     "meta": {
       "lineno": 19,
       "filename": "animal.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 2
   },
@@ -185,7 +185,7 @@
     "meta": {
       "lineno": 24,
       "filename": "animal.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 3
   },
@@ -209,7 +209,7 @@
     "meta": {
       "lineno": 55,
       "filename": "furq.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 10
   },
@@ -224,7 +224,7 @@
     "meta": {
       "lineno": 131,
       "filename": "furq.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 24
   },
@@ -242,14 +242,14 @@
             "number"
           ]
         },
-        "description": "a property\n  with newlines for \n  a change",
+        "description": "a property\r\n  with newlines for \r\n  a change",
         "name": "one"
       }
     ],
     "meta": {
       "lineno": 22,
       "filename": "newlines.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 27
   },
@@ -269,7 +269,7 @@
     "meta": {
       "lineno": 10,
       "filename": "species.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 29
   },
@@ -288,7 +288,7 @@
     "meta": {
       "lineno": 15,
       "filename": "species.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 30
   },
@@ -308,7 +308,7 @@
     "meta": {
       "lineno": 47,
       "filename": "furq.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 9
   },
@@ -324,7 +324,7 @@
     "meta": {
       "lineno": 60,
       "filename": "furq.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 11
   },
@@ -339,7 +339,7 @@
     "meta": {
       "lineno": 113,
       "filename": "furq.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 19
   },
@@ -354,7 +354,7 @@
     "meta": {
       "lineno": 117,
       "filename": "furq.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 20
   },
@@ -372,7 +372,7 @@
             "string"
           ]
         },
-        "description": "a param description \n  with an awkward newline\n  or two.",
+        "description": "a param description \r\n  with an awkward newline\r\n  or two.",
         "name": "input"
       }
     ],
@@ -383,13 +383,13 @@
             "number"
           ]
         },
-        "description": "the returns\n  description also \n  has newlines"
+        "description": "the returns\r\n  description also \r\n  has newlines"
       }
     ],
     "meta": {
       "lineno": 15,
       "filename": "newlines.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 26
   },
@@ -406,7 +406,7 @@
     "meta": {
       "lineno": 117,
       "filename": "furq.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 32
   },
@@ -422,7 +422,7 @@
     "meta": {
       "lineno": 97,
       "filename": "furq.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 33
   },
@@ -448,7 +448,7 @@
     "meta": {
       "lineno": 62,
       "filename": "furq.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 12
   },
@@ -463,7 +463,7 @@
     "meta": {
       "lineno": 67,
       "filename": "furq.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 13
   },
@@ -476,14 +476,14 @@
     "description": "kill",
     "memberof": "FurQ",
     "examples": [
-      "var kill = uziLover.kill()\n  ",
+      "var kill = uziLover.kill()\r\n  ",
       "uziLover.kill()"
     ],
     "category": "standard",
     "meta": {
       "lineno": 29,
       "filename": "furq.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 7
   },
@@ -507,13 +507,13 @@
       }
     ],
     "examples": [
-      "uziLover.respect(function(err, gain){\n    console.log(gain)\n})"
+      "uziLover.respect(function(err, gain){\r    console.log(gain)\r})"
     ],
     "category": "standard",
     "meta": {
       "lineno": 39,
       "filename": "furq.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 8
   },
@@ -558,7 +558,7 @@
     "meta": {
       "lineno": 31,
       "filename": "animal.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 4
   },
@@ -622,7 +622,7 @@
     "meta": {
       "lineno": 85,
       "filename": "furq.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 15
   },
@@ -641,7 +641,7 @@
     "meta": {
       "lineno": 78,
       "filename": "furq.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 14
   },
@@ -656,7 +656,7 @@
     "meta": {
       "lineno": 122,
       "filename": "furq.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 21
   },
@@ -700,7 +700,7 @@
     "meta": {
       "lineno": 24,
       "filename": "species.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 31
   },
@@ -714,7 +714,7 @@
     "meta": {
       "lineno": 127,
       "filename": "furq.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 22
   },
@@ -754,7 +754,7 @@
     "meta": {
       "lineno": 99,
       "filename": "furq.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/global-index-format/src"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\global-index-format\\src"
     },
     "order": 17
   }

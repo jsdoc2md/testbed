@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * @todo Write the documentation.\n * @todo Implement this function.\n */",
+    "comment": "/**\r\n * @todo Write the documentation.\r\n * @todo Implement this function.\r\n */",
     "meta": {
       "range": [
-        76,
-        104
+        80,
+        108
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/todo",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\todo",
       "code": {
         "id": "astnode100000001",
         "name": "todoFunction1",
@@ -27,15 +27,15 @@
     "params": []
   },
   {
-    "comment": "/**\n * @todo Write the documentation.\n * @todo Implement this function.\n * @done this one is done\n * @done finished\n */",
+    "comment": "/**\r\n * @todo Write the documentation.\r\n * @todo Implement this function.\r\n * @done this one is done\r\n * @done finished\r\n */",
     "meta": {
       "range": [
-        226,
-        254
+        238,
+        266
       ],
       "filename": "0-src.js",
       "lineno": 13,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/todo",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\todo",
       "code": {
         "id": "astnode100000004",
         "name": "todoFunction2",
@@ -68,15 +68,15 @@
     "params": []
   },
   {
-    "comment": "/**\n * @done this one is done\n * @done finished\n */",
+    "comment": "/**\r\n * @done this one is done\r\n * @done finished\r\n */",
     "meta": {
       "range": [
-        308,
-        336
+        326,
+        354
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/todo",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\todo",
       "code": {
         "id": "astnode100000007",
         "name": "todoFunction3",
@@ -108,7 +108,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/todo/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\todo\\0-src.js"
     ]
   }
 ]

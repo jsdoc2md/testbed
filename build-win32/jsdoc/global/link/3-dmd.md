@@ -37,8 +37,7 @@ foo property
 **Kind**: instance property of <code>[LinkClass](#module_foo/bar..LinkClass)</code>  
 <a name="module_foo/bar..linkFunction"></a>
 ### foo/bar~linkFunction()
-See [LinkClass](LinkClass) and [LinkClass's foo property](LinkClass#foo).
-Also check out [Google](http://www.google.com) and [GitHub](http://github.com).
+See [LinkClass](LinkClass) and [LinkClass's foo property](LinkClass#foo).Also check out [Google](http://www.google.com) and [GitHub](http://github.com).
 
 **Kind**: inner method of <code>[foo/bar](#module_foo/bar)</code>  
 <a name="external_String"></a>

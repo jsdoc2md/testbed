@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * @external String\n * @see {@link https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/String String}\n */",
+    "comment": "/**\r\n * @external String\r\n * @see {@link https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/String String}\r\n */",
     "meta": {
       "range": [
         0,
-        126
+        129
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/external",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\external",
       "code": {}
     },
     "kind": "external",
@@ -20,15 +20,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n * @external Clive\n * @see https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/String\n */",
+    "comment": "/**\r\n * @external Clive\r\n * @see https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/String\r\n */",
     "meta": {
       "range": [
-        128,
-        238
+        133,
+        246
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/external",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\external",
       "code": {}
     },
     "kind": "external",
@@ -40,37 +40,37 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n * Adds a new method to the built-in string.\n * @function external:String#rot13\n * @example\n * var greeting = new String('hello world')\n * console.log( greeting.rot13() ) // uryyb jbeyq\n */",
+    "comment": "/**\r\n * Adds a new method to the built-in string.\r\n * @function external:String#rot13\r\n * @example\r\n * var greeting = new String('hello world')\r\n * console.log( greeting.rot13() ) // uryyb jbeyq\r\n */",
     "meta": {
       "range": [
-        240,
-        433
+        250,
+        449
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/external",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\external",
       "code": {}
     },
     "description": "Adds a new method to the built-in string.",
     "kind": "function",
     "name": "rot13",
     "examples": [
-      "var greeting = new String('hello world')\nconsole.log( greeting.rot13() ) // uryyb jbeyq"
+      "var greeting = new String('hello world')\rconsole.log( greeting.rot13() ) // uryyb jbeyq"
     ],
     "memberof": "external:String",
     "longname": "external:String#rot13",
     "scope": "instance"
   },
   {
-    "comment": "/**\n * The jQuery plugin namespace.\n * @external \"jQuery.fn\"\n * @see {@link http://docs.jquery.com/Plugins/Authoring The jQuery Plugin Guide}\n */",
+    "comment": "/**\r\n * The jQuery plugin namespace.\r\n * @external \"jQuery.fn\"\r\n * @see {@link http://docs.jquery.com/Plugins/Authoring The jQuery Plugin Guide}\r\n */",
     "meta": {
       "range": [
-        435,
-        580
+        453,
+        602
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/external",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\external",
       "code": {}
     },
     "description": "The jQuery plugin namespace.",
@@ -83,15 +83,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n * A jQuery plugin to make stars fly around your home page.\n * @function external:\"jQuery.fn\".starfairy\n */",
+    "comment": "/**\r\n * A jQuery plugin to make stars fly around your home page.\r\n * @function external:\"jQuery.fn\".starfairy\r\n */",
     "meta": {
       "range": [
-        582,
-        693
+        606,
+        720
       ],
       "filename": "0-src.js",
       "lineno": 25,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/external",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\external",
       "code": {}
     },
     "description": "A jQuery plugin to make stars fly around your home page.",
@@ -102,15 +102,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n * Namespace provided by the browser.\n * @external XMLHttpRequest\n * @see https://developer.mozilla.org/en/xmlhttprequest\n */",
+    "comment": "/**\r\n * Namespace provided by the browser.\r\n * @external XMLHttpRequest\r\n * @see https://developer.mozilla.org/en/xmlhttprequest\r\n */",
     "meta": {
       "range": [
-        695,
-        824
+        724,
+        857
       ],
       "filename": "0-src.js",
       "lineno": 30,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/external",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\external",
       "code": {}
     },
     "description": "Namespace provided by the browser.",
@@ -123,15 +123,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n * Extends the built in XMLHttpRequest to send data encoded with a secret key.\n * @class EncryptedRequest\n * @extends external:XMLHttpRequest\n */",
+    "comment": "/**\r\n * Extends the built in XMLHttpRequest to send data encoded with a secret key.\r\n * @class EncryptedRequest\r\n * @extends external:XMLHttpRequest\r\n */",
     "meta": {
       "range": [
-        826,
-        975
+        861,
+        1014
       ],
       "filename": "0-src.js",
       "lineno": 36,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/external",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\external",
       "code": {}
     },
     "description": "Extends the built in XMLHttpRequest to send data encoded with a secret key.",
@@ -144,15 +144,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@type {external:Clive}\n*/",
+    "comment": "/**\r\n@type {external:Clive}\r\n*/",
     "meta": {
       "range": [
-        1011,
-        1024
+        1055,
+        1068
       ],
       "filename": "0-src.js",
       "lineno": 45,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/external",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\external",
       "code": {
         "id": "astnode100000002",
         "name": "cliveExternal"
@@ -169,15 +169,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@type {external:String}\n*/",
+    "comment": "/**\r\n@type {external:String}\r\n*/",
     "meta": {
       "range": [
-        1061,
-        1075
+        1110,
+        1124
       ],
       "filename": "0-src.js",
       "lineno": 50,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/external",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\external",
       "code": {
         "id": "astnode100000005",
         "name": "stringExternal"
@@ -197,7 +197,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/external/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\external\\0-src.js"
     ]
   }
 ]

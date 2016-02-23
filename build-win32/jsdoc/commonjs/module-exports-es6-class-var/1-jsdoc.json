@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * @module module-exports-es6-class-var\n */",
+    "comment": "/**\r\n * @module module-exports-es6-class-var\r\n */",
     "meta": {
       "range": [
         0,
-        47
+        49
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-es6-class-var",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-es6-class-var",
       "code": {}
     },
     "kind": "module",
@@ -16,15 +16,15 @@
     "longname": "module:module-exports-es6-class-var"
   },
   {
-    "comment": "/**\n * @alias module:module-exports-es6-class-var\n */",
+    "comment": "/**\r\n * @alias module:module-exports-es6-class-var\r\n */",
     "meta": {
       "range": [
-        103,
-        256
+        110,
+        274
       ],
       "filename": "0-src.js",
       "lineno": 8,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-es6-class-var",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-es6-class-var",
       "code": {
         "id": "astnode100000001",
         "name": "Example",
@@ -59,15 +59,15 @@
     ]
   },
   {
-    "comment": "/**\n   * @param {number}\n   * @param {number}\n   */",
+    "comment": "/**\r\n   * @param {number}\r\n   * @param {number}\r\n   */",
     "meta": {
       "range": [
-        175,
-        254
+        187,
+        271
       ],
       "filename": "0-src.js",
       "lineno": 13,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-es6-class-var",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-es6-class-var",
       "code": {
         "id": "astnode100000004",
         "name": "Example",
@@ -107,15 +107,15 @@
     "undocumented": true
   },
   {
-    "comment": "/**\n     * instance\n     */",
+    "comment": "/**\r\n     * instance\r\n     */",
     "meta": {
       "range": [
-        236,
-        250
+        252,
+        266
       ],
       "filename": "0-src.js",
       "lineno": 17,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-es6-class-var",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-es6-class-var",
       "code": {
         "id": "astnode100000011",
         "name": "this.three",
@@ -135,12 +135,12 @@
     "comment": "",
     "meta": {
       "range": [
-        258,
-        282
+        278,
+        302
       ],
       "filename": "0-src.js",
       "lineno": 21,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-es6-class-var",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-es6-class-var",
       "code": {
         "id": "astnode100000017",
         "name": "module.exports",
@@ -158,7 +158,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-es6-class-var/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-es6-class-var\\0-src.js"
     ]
   }
 ]

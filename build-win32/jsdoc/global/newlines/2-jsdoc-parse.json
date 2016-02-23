@@ -5,11 +5,11 @@
     "name": "NewLines",
     "scope": "global",
     "kind": "class",
-    "description": "A multi-line\nclass description",
+    "description": "A multi-line\r\nclass description",
     "meta": {
       "lineno": 6,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/newlines"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\newlines"
     },
     "order": 0
   },
@@ -27,14 +27,14 @@
             "number"
           ]
         },
-        "description": "a property\n  with newlines for \n  a change",
+        "description": "a property\r\n  with newlines for \r\n  a change",
         "name": "one"
       }
     ],
     "meta": {
       "lineno": 22,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/newlines"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\newlines"
     },
     "order": 2
   },
@@ -52,7 +52,7 @@
             "string"
           ]
         },
-        "description": "a param description \n  with an awkward newline\n  or two.",
+        "description": "a param description \r\n  with an awkward newline\r\n  or two.",
         "name": "input"
       }
     ],
@@ -63,13 +63,13 @@
             "number"
           ]
         },
-        "description": "the returns\n  description also \n  has newlines"
+        "description": "the returns\r\n  description also \r\n  has newlines"
       }
     ],
     "meta": {
       "lineno": 15,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/newlines"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\newlines"
     },
     "order": 1
   }

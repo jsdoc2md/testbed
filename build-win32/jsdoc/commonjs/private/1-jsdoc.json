@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\nmodule with private shiz\n@module private\n*/",
+    "comment": "/**\r\nmodule with private shiz\r\n@module private\r\n*/",
     "meta": {
       "range": [
         0,
-        47
+        50
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/private",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\private",
       "code": {}
     },
     "description": "module with private shiz",
@@ -17,15 +17,15 @@
     "longname": "module:private"
   },
   {
-    "comment": "/**\nvisible property\n*/",
+    "comment": "/**\r\nvisible property\r\n*/",
     "meta": {
       "range": [
-        73,
-        95
+        81,
+        103
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/private",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\private",
       "code": {
         "id": "astnode100000002",
         "name": "exports.notprivate",
@@ -42,15 +42,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\nisprivate property\n@private\n*/",
+    "comment": "/**\r\nisprivate property\r\n@private\r\n*/",
     "meta": {
       "range": [
-        132,
-        153
+        146,
+        167
       ],
       "filename": "0-src.js",
       "lineno": 15,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/private",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\private",
       "code": {
         "id": "astnode100000008",
         "name": "exports.isprivate",
@@ -71,7 +71,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/private/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\private\\0-src.js"
     ]
   }
 ]

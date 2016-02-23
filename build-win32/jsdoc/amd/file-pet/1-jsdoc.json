@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\nthis module returns a pet of files\n@module file-pet\n@alias filePet\n@example\n```js\nvar cowFiles = FilePet(\"cow/*\")\n```\n*/",
+    "comment": "/**\r\nthis module returns a pet of files\r\n@module file-pet\r\n@alias filePet\r\n@example\r\n```js\r\nvar cowFiles = FilePet(\"cow/*\")\r\n```\r\n*/",
     "meta": {
       "range": [
         0,
-        124
+        132
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/file-pet",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\amd\\file-pet",
       "code": {}
     },
     "description": "this module returns a pet of files",
@@ -16,20 +16,20 @@
     "name": "file-pet",
     "alias": "filePet",
     "examples": [
-      "```js\nvar cowFiles = FilePet(\"cow/*\")\n```"
+      "```js\r\nvar cowFiles = FilePet(\"cow/*\")\r\n```"
     ],
     "longname": "module:file-pet"
   },
   {
-    "comment": "/**\n  this is the contructor\n  @class this class returns a pet of files\n  @param {number} - the input number\n  @example\n  ```js\n  var cowFiles = FilePet(\"cow/*\")\n  ```\n  @alias module:file-pet\n  */",
+    "comment": "/**\r\n  this is the contructor\r\n  @class this class returns a pet of files\r\n  @param {number} - the input number\r\n  @example\r\n  ```js\r\n  var cowFiles = FilePet(\"cow/*\")\r\n  ```\r\n  @alias module:file-pet\r\n  */",
     "meta": {
       "range": [
-        360,
-        444
+        381,
+        470
       ],
       "filename": "0-src.js",
       "lineno": 22,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/file-pet",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\amd\\file-pet",
       "code": {
         "id": "astnode100000007",
         "name": "FilePet",
@@ -57,22 +57,22 @@
       }
     ],
     "examples": [
-      "```js\n  var cowFiles = FilePet(\"cow/*\")\n  ```\n  "
+      "```js\r\n  var cowFiles = FilePet(\"cow/*\")\r\n  ```\r\n  "
     ],
     "alias": "module:file-pet",
     "name": "module:file-pet",
     "longname": "module:file-pet"
   },
   {
-    "comment": "/**\n    an instance ting\n    */",
+    "comment": "/**\r\n    an instance ting\r\n    */",
     "meta": {
       "range": [
-        425,
-        440
+        450,
+        465
       ],
       "filename": "0-src.js",
       "lineno": 26,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/file-pet",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\amd\\file-pet",
       "code": {
         "id": "astnode100000012",
         "name": "this.instie",
@@ -89,15 +89,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  the prototype instance property\n  @type {boolean}\n  @default\n  */",
+    "comment": "/**\r\n  the prototype instance property\r\n  @type {boolean}\r\n  @default\r\n  */",
     "meta": {
       "range": [
-        522,
-        552
+        555,
+        585
       ],
       "filename": "0-src.js",
       "lineno": 34,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/file-pet",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\amd\\file-pet",
       "code": {
         "id": "astnode100000018",
         "name": "FilePet.prototype.files",
@@ -121,15 +121,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  A prototype instance methy meth\n  @param {array} - the paths to delete\n  */",
+    "comment": "/**\r\n  A prototype instance methy meth\r\n  @param {array} - the paths to delete\r\n  */",
     "meta": {
       "range": [
-        640,
-        686
+        679,
+        725
       ],
       "filename": "0-src.js",
       "lineno": 40,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/file-pet",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\amd\\file-pet",
       "code": {
         "id": "astnode100000026",
         "name": "FilePet.prototype.delete",
@@ -162,7 +162,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/file-pet/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\amd\\file-pet\\0-src.js"
     ]
   }
 ]

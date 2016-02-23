@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n@class\n@classdesc a class which mixes in Eventful behaviour\n@mixes Eventful\n*/",
+    "comment": "/**\r\n@class\r\n@classdesc a class which mixes in Eventful behaviour\r\n@mixes Eventful\r\n*/",
     "meta": {
       "range": [
-        83,
-        111
+        88,
+        116
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/mixes",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\mixes",
       "code": {
         "id": "astnode100000001",
         "name": "EventfulClass",
@@ -30,7 +30,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/mixes/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\mixes\\0-src.js"
     ]
   }
 ]

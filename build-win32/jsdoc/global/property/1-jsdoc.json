@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * @namespace\n * @property {object}  defaults               - The default values for parties.\n * @property {number}  defaults.players       - The default number of players.\n * @property {string}  defaults.level         - The default level for the party.\n * @property {object}  defaults.treasure      - The default treasure.\n * @property {number}  defaults.treasure.gold - How much gold the party starts with.\n */",
+    "comment": "/**\r\n * @namespace\r\n * @property {object}  defaults               - The default values for parties.\r\n * @property {number}  defaults.players       - The default number of players.\r\n * @property {string}  defaults.level         - The default level for the party.\r\n * @property {object}  defaults.treasure      - The default treasure.\r\n * @property {number}  defaults.treasure.gold - How much gold the party starts with.\r\n */",
     "meta": {
       "range": [
-        421,
-        526
+        429,
+        542
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/property",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\property",
       "code": {
         "id": "astnode100000002",
         "name": "config",
@@ -72,12 +72,12 @@
     "comment": "",
     "meta": {
       "range": [
-        434,
-        524
+        443,
+        539
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/property",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\property",
       "code": {
         "id": "astnode100000005",
         "name": "defaults",
@@ -96,12 +96,12 @@
     "comment": "",
     "meta": {
       "range": [
-        450,
-        460
+        460,
+        470
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/property",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\property",
       "code": {
         "id": "astnode100000007",
         "name": "players",
@@ -120,12 +120,12 @@
     "comment": "",
     "meta": {
       "range": [
-        466,
-        483
+        477,
+        494
       ],
       "filename": "0-src.js",
       "lineno": 12,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/property",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\property",
       "code": {
         "id": "astnode100000009",
         "name": "level",
@@ -144,12 +144,12 @@
     "comment": "",
     "meta": {
       "range": [
-        489,
-        520
+        501,
+        534
       ],
       "filename": "0-src.js",
       "lineno": 13,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/property",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\property",
       "code": {
         "id": "astnode100000011",
         "name": "treasure",
@@ -168,12 +168,12 @@
     "comment": "",
     "meta": {
       "range": [
-        507,
-        514
+        520,
+        527
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/property",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\property",
       "code": {
         "id": "astnode100000013",
         "name": "gold",
@@ -192,7 +192,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/property/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\property\\0-src.js"
     ]
   }
 ]

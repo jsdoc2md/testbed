@@ -14,7 +14,7 @@
     "meta": {
       "lineno": 5,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/constants"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\constants"
     },
     "order": 0
   },
@@ -26,7 +26,7 @@
     "kind": "constant",
     "description": "This variable has all tags set",
     "examples": [
-      "```js\nvar CONST_TWO = true\n```"
+      "```js\r\nvar CONST_TWO = true\r\n```"
     ],
     "type": {
       "names": [
@@ -42,7 +42,7 @@
     "meta": {
       "lineno": 19,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/constants"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\constants"
     },
     "order": 1
   }

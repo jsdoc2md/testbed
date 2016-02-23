@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\nA simple example written in the default `--example-lang` (javascript)\n@example\nvar result = one()\n*/",
+    "comment": "/**\r\nA simple example written in the default `--example-lang` (javascript)\r\n@example\r\nvar result = one()\r\n*/",
     "meta": {
       "range": [
-        105,
-        123
+        110,
+        128
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/example2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\example2",
       "code": {
         "id": "astnode100000001",
         "name": "one",
@@ -27,15 +27,15 @@
     "params": []
   },
   {
-    "comment": "/**\nAn example written in a different lang to the default (json)\n@example\n```json\n{\n    \"clive\": \"yeah?\"\n}\n```\n*/",
+    "comment": "/**\r\nAn example written in a different lang to the default (json)\r\n@example\r\n```json\r\n{\r\n    \"clive\": \"yeah?\"\r\n}\r\n```\r\n*/",
     "meta": {
       "range": [
-        239,
-        257
+        255,
+        273
       ],
       "filename": "0-src.js",
       "lineno": 17,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/example2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\example2",
       "code": {
         "id": "astnode100000004",
         "name": "two",
@@ -45,7 +45,7 @@
     },
     "description": "An example written in a different lang to the default (json)",
     "examples": [
-      "```json\n{\n    \"clive\": \"yeah?\"\n}\n```"
+      "```json\r\n{\r\n    \"clive\": \"yeah?\"\r\n}\r\n```"
     ],
     "name": "two",
     "longname": "two",
@@ -54,15 +54,15 @@
     "params": []
   },
   {
-    "comment": "/**\nAn example with no code, just text\n@example\nThis example is just plain text. Note that it's formatted as javascript\nas that's the default `--example-lang` value and dmd has no way of \ndistinguishing whether the example text is, or is not source code.\n*/",
+    "comment": "/**\r\nAn example with no code, just text\r\n@example\r\nThis example is just plain text. Note that it's formatted as javascript\r\nas that's the default `--example-lang` value and dmd has no way of \r\ndistinguishing whether the example text is, or is not source code.\r\n*/",
     "meta": {
       "range": [
-        517,
-        537
+        542,
+        562
       ],
       "filename": "0-src.js",
       "lineno": 26,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/example2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\example2",
       "code": {
         "id": "astnode100000007",
         "name": "three",
@@ -72,7 +72,7 @@
     },
     "description": "An example with no code, just text",
     "examples": [
-      "This example is just plain text. Note that it's formatted as javascript\nas that's the default `--example-lang` value and dmd has no way of \ndistinguishing whether the example text is, or is not source code."
+      "This example is just plain text. Note that it's formatted as javascript\r\nas that's the default `--example-lang` value and dmd has no way of \r\ndistinguishing whether the example text is, or is not source code."
     ],
     "name": "three",
     "longname": "three",
@@ -81,15 +81,15 @@
     "params": []
   },
   {
-    "comment": "/**\nAnother text example, using the `@lang off` sub-tag..\n@example @lang off\nThis example is plain text but it has not been formatted using the default \n`--example-lang` of javascript because the `@example @lang off` was used..\n*/",
+    "comment": "/**\r\nAnother text example, using the `@lang off` sub-tag..\r\n@example @lang off\r\nThis example is plain text but it has not been formatted using the default \r\n`--example-lang` of javascript because the `@example @lang off` was used..\r\n*/",
     "meta": {
       "range": [
-        770,
-        789
+        803,
+        822
       ],
       "filename": "0-src.js",
       "lineno": 34,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/example2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\example2",
       "code": {
         "id": "astnode100000010",
         "name": "four",
@@ -99,7 +99,7 @@
     },
     "description": "Another text example, using the `@lang off` sub-tag..",
     "examples": [
-      "@lang off\nThis example is plain text but it has not been formatted using the default \n`--example-lang` of javascript because the `@example @lang off` was used.."
+      "@lang off\r\nThis example is plain text but it has not been formatted using the default \r\n`--example-lang` of javascript because the `@example @lang off` was used.."
     ],
     "name": "four",
     "longname": "four",
@@ -108,15 +108,15 @@
     "params": []
   },
   {
-    "comment": "/**\nAn example with text and code, with no fenced-code blocks\n@example\nHere, i introduce the example: \n\nvar result = five()\n*/",
+    "comment": "/**\r\nAn example with text and code, with no fenced-code blocks\r\n@example\r\nHere, i introduce the example: \r\n\r\nvar result = five()\r\n*/",
     "meta": {
       "range": [
-        918,
-        937
+        960,
+        979
       ],
       "filename": "0-src.js",
       "lineno": 43,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/example2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\example2",
       "code": {
         "id": "astnode100000013",
         "name": "five",
@@ -126,7 +126,7 @@
     },
     "description": "An example with text and code, with no fenced-code blocks",
     "examples": [
-      "Here, i introduce the example: \n\nvar result = five()"
+      "Here, i introduce the example: \r\n\r\nvar result = five()"
     ],
     "name": "five",
     "longname": "five",
@@ -135,15 +135,15 @@
     "params": []
   },
   {
-    "comment": "/**\nAn example with text and code, with fenced-code block and no lang set\n@example\nHere, i introduce the example: \n\n```\nvar result = six()\n```\n*/",
+    "comment": "/**\r\nAn example with text and code, with fenced-code block and no lang set\r\n@example\r\nHere, i introduce the example: \r\n\r\n```\r\nvar result = six()\r\n```\r\n*/",
     "meta": {
       "range": [
-        1085,
-        1103
+        1138,
+        1156
       ],
       "filename": "0-src.js",
       "lineno": 54,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/example2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\example2",
       "code": {
         "id": "astnode100000016",
         "name": "six",
@@ -153,7 +153,7 @@
     },
     "description": "An example with text and code, with fenced-code block and no lang set",
     "examples": [
-      "Here, i introduce the example: \n\n```\nvar result = six()\n```"
+      "Here, i introduce the example: \r\n\r\n```\r\nvar result = six()\r\n```"
     ],
     "name": "six",
     "longname": "six",
@@ -162,15 +162,15 @@
     "params": []
   },
   {
-    "comment": "/**\nAn example with text and code, with fenced-code block and `js` lang set\n@example\nHere, i introduce the example: \n\n```js\nvar result = seven()\n```\n*/",
+    "comment": "/**\r\nAn example with text and code, with fenced-code block and `js` lang set\r\n@example\r\nHere, i introduce the example: \r\n\r\n```js\r\nvar result = seven()\r\n```\r\n*/",
     "meta": {
       "range": [
-        1257,
-        1277
+        1321,
+        1341
       ],
       "filename": "0-src.js",
       "lineno": 65,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/example2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\example2",
       "code": {
         "id": "astnode100000019",
         "name": "seven",
@@ -180,7 +180,7 @@
     },
     "description": "An example with text and code, with fenced-code block and `js` lang set",
     "examples": [
-      "Here, i introduce the example: \n\n```js\nvar result = seven()\n```"
+      "Here, i introduce the example: \r\n\r\n```js\r\nvar result = seven()\r\n```"
     ],
     "name": "seven",
     "longname": "seven",
@@ -189,15 +189,15 @@
     "params": []
   },
   {
-    "comment": "/**\nAn example with text and code, with fenced-code block and `json` lang set\n@example\nthis function returns data like:\n\n```json\n{\n    \"yeah\": \"gets?\"\n}\n```\n*/",
+    "comment": "/**\r\nAn example with text and code, with fenced-code block and `json` lang set\r\n@example\r\nthis function returns data like:\r\n\r\n```json\r\n{\r\n    \"yeah\": \"gets?\"\r\n}\r\n```\r\n*/",
     "meta": {
       "range": [
-        1439,
-        1459
+        1516,
+        1536
       ],
       "filename": "0-src.js",
       "lineno": 78,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/example2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\example2",
       "code": {
         "id": "astnode100000022",
         "name": "eight",
@@ -207,7 +207,7 @@
     },
     "description": "An example with text and code, with fenced-code block and `json` lang set",
     "examples": [
-      "this function returns data like:\n\n```json\n{\n    \"yeah\": \"gets?\"\n}\n```"
+      "this function returns data like:\r\n\r\n```json\r\n{\r\n    \"yeah\": \"gets?\"\r\n}\r\n```"
     ],
     "name": "eight",
     "longname": "eight",
@@ -219,7 +219,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/example2/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\example2\\0-src.js"
     ]
   }
 ]

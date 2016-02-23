@@ -17,7 +17,7 @@
     "meta": {
       "lineno": 6,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/example-lang"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\example-lang"
     },
     "order": 0
   },
@@ -30,12 +30,12 @@
     "description": "An example that already contains a fenced-code block (language `json`)",
     "params": [],
     "examples": [
-      "here is the example:\n```json\n{\n    \"clive\": \"yeah?\"\n}\n```"
+      "here is the example:\r\n```json\r\n{\r\n    \"clive\": \"yeah?\"\r\n}\r\n```"
     ],
     "meta": {
       "lineno": 18,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/example-lang"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\example-lang"
     },
     "order": 1
   },
@@ -53,7 +53,7 @@
     "meta": {
       "lineno": 25,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/example-lang"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\example-lang"
     },
     "order": 2
   },
@@ -66,12 +66,12 @@
     "description": "Another text example, using the `@lang off` sub-tag..",
     "params": [],
     "examples": [
-      "@lang off\nThis example is just some plain text, no code format or syntax highlighting required here."
+      "@lang off\r\nThis example is just some plain text, no code format or syntax highlighting required here."
     ],
     "meta": {
       "lineno": 32,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/example-lang"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\example-lang"
     },
     "order": 3
   },
@@ -84,12 +84,12 @@
     "description": "A simple example using `@example @lang hbs` to specify handlebars as the language",
     "params": [],
     "examples": [
-      "@lang hbs\nhello {{name}}, welcome to {{country}}."
+      "@lang hbs\r\nhello {{name}}, welcome to {{country}}."
     ],
     "meta": {
       "lineno": 39,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/example-lang"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\example-lang"
     },
     "order": 4
   }

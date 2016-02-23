@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n@fires error\n*/",
+    "comment": "/**\r\n@fires error\r\n*/",
     "meta": {
       "range": [
-        20,
-        45
+        23,
+        48
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/fires",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\fires",
       "code": {
         "id": "astnode100000001",
         "name": "firesError",
@@ -26,15 +26,15 @@
     "params": []
   },
   {
-    "comment": "/**\n@fires error\n@fires begin\n@fires end\n*/",
+    "comment": "/**\r\n@fires error\r\n@fires begin\r\n@fires end\r\n*/",
     "meta": {
       "range": [
-        91,
-        115
+        101,
+        125
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/fires",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\fires",
       "code": {
         "id": "astnode100000004",
         "name": "firesMany",
@@ -54,15 +54,15 @@
     "params": []
   },
   {
-    "comment": "/**\n@fires event:docletEvent\n*/",
+    "comment": "/**\r\n@fires event:docletEvent\r\n*/",
     "meta": {
       "range": [
-        149,
-        181
+        164,
+        196
       ],
       "filename": "0-src.js",
       "lineno": 16,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/fires",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\fires",
       "code": {
         "id": "astnode100000007",
         "name": "firesDefinedEvent",
@@ -83,7 +83,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/fires/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\fires\\0-src.js"
     ]
   }
 ]

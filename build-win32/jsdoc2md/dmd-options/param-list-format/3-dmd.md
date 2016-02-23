@@ -14,9 +14,7 @@ Pump an idiot full of volts
     - [.crazyHair] <code>number</code> <code> = true</code> - optional spikey hair effect
     - [.origin] <code>object</code> - origin details
         - [.country] <code>string</code> - the country of origin
-- [done] <code>function</code> - callback on slump, which has:
-- devestating power
-- an unusual aftertaste
+- [done] <code>function</code> - callback on slump, which has:- devestating power- an unusual aftertaste
 
 
 

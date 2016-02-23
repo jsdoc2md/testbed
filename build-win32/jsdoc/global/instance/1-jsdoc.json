@@ -3,12 +3,12 @@
     "comment": "/** @namespace */",
     "meta": {
       "range": [
-        22,
-        144
+        23,
+        151
       ],
       "filename": "0-src.js",
       "lineno": 2,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/instance",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\instance",
       "code": {
         "id": "astnode100000002",
         "name": "SomeObject",
@@ -22,15 +22,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n   * yeah is now `SomeObject#yeah` rather than `SomeObject.yeah`.\n   * @instance\n   */",
+    "comment": "/**\r\n   * yeah is now `SomeObject#yeah` rather than `SomeObject.yeah`.\r\n   * @instance\r\n   */",
     "meta": {
       "range": [
-        132,
-        142
+        138,
+        148
       ],
       "filename": "0-src.js",
       "lineno": 7,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/instance",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\instance",
       "code": {
         "id": "astnode100000005",
         "name": "yeah",
@@ -49,12 +49,12 @@
     "comment": "/** Generates SomeObject instances. */",
     "meta": {
       "range": [
-        185,
-        297
+        195,
+        310
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/instance",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\instance",
       "code": {
         "id": "astnode100000007",
         "name": "yeahFactory",
@@ -78,12 +78,12 @@
     "comment": "",
     "meta": {
       "range": [
-        226,
-        253
+        237,
+        264
       ],
       "filename": "0-src.js",
       "lineno": 12,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/instance",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\instance",
       "code": {
         "id": "astnode100000012",
         "name": "props",
@@ -102,12 +102,12 @@
     "comment": "",
     "meta": {
       "range": [
-        236,
-        251
+        247,
+        262
       ],
       "filename": "0-src.js",
       "lineno": 12,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/instance",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\instance",
       "code": {
         "id": "astnode100000015",
         "name": "yeah",
@@ -126,7 +126,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/instance/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\instance\\0-src.js"
     ]
   }
 ]

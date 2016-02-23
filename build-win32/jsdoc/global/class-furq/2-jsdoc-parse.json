@@ -4,7 +4,7 @@
     "longname": "FurQ",
     "name": "FurQ",
     "kind": "constructor",
-    "description": "She's an Uzi lover.\n\n![uzi](https://sampleface.co.uk/wp-content/uploads/2013/07/fur-q-uzi-lover.png)",
+    "description": "She's an Uzi lover.\r\n\r\n![uzi](https://sampleface.co.uk/wp-content/uploads/2013/07/fur-q-uzi-lover.png)",
     "memberof": "FurQ",
     "params": [],
     "examples": [
@@ -46,7 +46,7 @@
     "meta": {
       "lineno": 22,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq"
     },
     "order": 0
   },
@@ -59,7 +59,7 @@
     "meta": {
       "lineno": 109,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq"
     },
     "order": 13
   },
@@ -74,7 +74,7 @@
     "meta": {
       "lineno": 97,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq"
     },
     "order": 11
   },
@@ -98,7 +98,7 @@
     "meta": {
       "lineno": 55,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq"
     },
     "order": 5
   },
@@ -113,7 +113,7 @@
     "meta": {
       "lineno": 131,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq"
     },
     "order": 19
   },
@@ -133,7 +133,7 @@
     "meta": {
       "lineno": 47,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq"
     },
     "order": 4
   },
@@ -149,7 +149,7 @@
     "meta": {
       "lineno": 60,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq"
     },
     "order": 6
   },
@@ -164,7 +164,7 @@
     "meta": {
       "lineno": 113,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq"
     },
     "order": 14
   },
@@ -179,7 +179,7 @@
     "meta": {
       "lineno": 117,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq"
     },
     "order": 15
   },
@@ -196,7 +196,7 @@
     "meta": {
       "lineno": 117,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq"
     },
     "order": 20
   },
@@ -212,7 +212,7 @@
     "meta": {
       "lineno": 97,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq"
     },
     "order": 21
   },
@@ -238,7 +238,7 @@
     "meta": {
       "lineno": 62,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq"
     },
     "order": 7
   },
@@ -253,7 +253,7 @@
     "meta": {
       "lineno": 67,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq"
     },
     "order": 8
   },
@@ -266,14 +266,14 @@
     "description": "kill",
     "memberof": "FurQ",
     "examples": [
-      "var kill = uziLover.kill()\n  ",
+      "var kill = uziLover.kill()\r\n  ",
       "uziLover.kill()"
     ],
     "category": "standard",
     "meta": {
       "lineno": 29,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq"
     },
     "order": 2
   },
@@ -297,13 +297,13 @@
       }
     ],
     "examples": [
-      "uziLover.respect(function(err, gain){\n    console.log(gain)\n})"
+      "uziLover.respect(function(err, gain){\r    console.log(gain)\r})"
     ],
     "category": "standard",
     "meta": {
       "lineno": 39,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq"
     },
     "order": 3
   },
@@ -367,7 +367,7 @@
     "meta": {
       "lineno": 85,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq"
     },
     "order": 10
   },
@@ -386,7 +386,7 @@
     "meta": {
       "lineno": 78,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq"
     },
     "order": 9
   },
@@ -401,7 +401,7 @@
     "meta": {
       "lineno": 122,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq"
     },
     "order": 16
   },
@@ -415,7 +415,7 @@
     "meta": {
       "lineno": 127,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq"
     },
     "order": 17
   },
@@ -455,7 +455,7 @@
     "meta": {
       "lineno": 99,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq"
     },
     "order": 12
   }

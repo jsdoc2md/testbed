@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * A module representing a jacket.\n * @module jacket\n */",
+    "comment": "/**\r\n * A module representing a jacket.\r\n * @module jacket\r\n */",
     "meta": {
       "range": [
         0,
-        60
+        63
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/jacket",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\amd\\jacket",
       "code": {}
     },
     "description": "A module representing a jacket.",
@@ -17,15 +17,15 @@
     "longname": "module:jacket"
   },
   {
-    "comment": "/**\n   * @constructor\n   * @alias module:jacket\n   */",
+    "comment": "/**\r\n   * @constructor\r\n   * @alias module:jacket\r\n   */",
     "meta": {
       "range": [
-        154,
-        177
+        163,
+        186
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/jacket",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\amd\\jacket",
       "code": {
         "id": "astnode100000008",
         "name": "Jacket",
@@ -41,12 +41,12 @@
     "comment": "/** Open and close your Jacket. */",
     "meta": {
       "range": [
-        218,
-        255
+        230,
+        267
       ],
       "filename": "0-src.js",
       "lineno": 13,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/jacket",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\amd\\jacket",
       "code": {
         "id": "astnode100000013",
         "name": "Jacket.prototype.zip",
@@ -66,7 +66,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/jacket/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\amd\\jacket\\0-src.js"
     ]
   }
 ]

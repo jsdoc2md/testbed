@@ -3,12 +3,12 @@
     "comment": "/** @constructor */",
     "meta": {
       "range": [
-        20,
-        75
+        21,
+        78
       ],
       "filename": "0-src.js",
       "lineno": 2,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/this",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\this",
       "code": {
         "id": "astnode100000001",
         "name": "Greeter",
@@ -28,12 +28,12 @@
     "comment": "/** @this Greeter */",
     "meta": {
       "range": [
-        98,
-        166
+        104,
+        175
       ],
       "filename": "0-src.js",
       "lineno": 7,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/this",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\this",
       "code": {
         "id": "astnode100000012",
         "name": "setName",
@@ -57,12 +57,12 @@
     "comment": "/** a great name */",
     "meta": {
       "range": [
-        148,
-        164
+        156,
+        172
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/this",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\this",
       "code": {
         "id": "astnode100000017",
         "name": "this.name",
@@ -82,7 +82,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/this/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\this\\0-src.js"
     ]
   }
 ]

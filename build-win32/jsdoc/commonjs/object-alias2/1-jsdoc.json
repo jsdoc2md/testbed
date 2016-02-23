@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\nsimple object export\n@module\n@alias _\n*/",
+    "comment": "/**\r\nsimple object export\r\n@module\r\n@alias _\r\n*/",
     "meta": {
       "range": [
         0,
-        44
+        48
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-alias2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-alias2",
       "code": {}
     },
     "description": "simple object export",
@@ -18,15 +18,15 @@
     "longname": "module:0-src"
   },
   {
-    "comment": "/**\nfirst property\n*/",
+    "comment": "/**\r\nfirst property\r\n*/",
     "meta": {
       "range": [
-        68,
-        83
+        77,
+        92
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-alias2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-alias2",
       "code": {
         "id": "astnode100000002",
         "name": "exports.one",
@@ -43,15 +43,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\nsecond property\n*/",
+    "comment": "/**\r\nsecond property\r\n*/",
     "meta": {
       "range": [
-        108,
-        123
+        122,
+        137
       ],
       "filename": "0-src.js",
       "lineno": 15,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-alias2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-alias2",
       "code": {
         "id": "astnode100000008",
         "name": "exports.two",
@@ -68,15 +68,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\na function\n*/",
+    "comment": "/**\r\na function\r\n*/",
     "meta": {
       "range": [
-        143,
-        183
+        162,
+        202
       ],
       "filename": "0-src.js",
       "lineno": 20,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-alias2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-alias2",
       "code": {
         "id": "astnode100000014",
         "name": "exports.three",
@@ -98,7 +98,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-alias2/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-alias2\\0-src.js"
     ]
   }
 ]

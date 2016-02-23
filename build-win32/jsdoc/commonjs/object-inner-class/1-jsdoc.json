@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\nexports an object.. has an inner class.\n@module cyberdyne\n@alias cyber\n@example\n```js\nvar cyber = require(\"cyberdyne\")\n```\n*/",
+    "comment": "/**\r\nexports an object.. has an inner class.\r\n@module cyberdyne\r\n@alias cyber\r\n@example\r\n```js\r\nvar cyber = require(\"cyberdyne\")\r\n```\r\n*/",
     "meta": {
       "range": [
         0,
-        129
+        137
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inner-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-inner-class",
       "code": {}
     },
     "description": "exports an object.. has an inner class.",
@@ -16,20 +16,20 @@
     "name": "cyberdyne",
     "alias": "cyber",
     "examples": [
-      "```js\nvar cyber = require(\"cyberdyne\")\n```"
+      "```js\r\nvar cyber = require(\"cyberdyne\")\r\n```"
     ],
     "longname": "module:cyberdyne"
   },
   {
-    "comment": "/**\n@returns {module:cyberdyne~Machine}\n*/",
+    "comment": "/**\r\n@returns {module:cyberdyne~Machine}\r\n*/",
     "meta": {
       "range": [
-        174,
-        212
+        187,
+        225
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inner-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-inner-class",
       "code": {
         "id": "astnode100000002",
         "name": "exports.createMachine",
@@ -53,15 +53,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\nthe Machine constructor\n@class \n@classdesc The main class of machine\n@param {object} - constructor options\n*/",
+    "comment": "/**\r\nthe Machine constructor\r\n@class \r\n@classdesc The main class of machine\r\n@param {object} - constructor options\r\n*/",
     "meta": {
       "range": [
-        328,
-        456
+        349,
+        487
       ],
       "filename": "0-src.js",
       "lineno": 22,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inner-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-inner-class",
       "code": {
         "id": "astnode100000008",
         "name": "Machine",
@@ -95,15 +95,15 @@
     "memberof": "module:cyberdyne"
   },
   {
-    "comment": "/**\n  @type {number}\n  */",
+    "comment": "/**\r\n  @type {number}\r\n  */",
     "meta": {
       "range": [
-        387,
-        400
+        412,
+        425
       ],
       "filename": "0-src.js",
       "lineno": 26,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inner-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-inner-class",
       "code": {
         "id": "astnode100000013",
         "name": "this.eyes",
@@ -124,15 +124,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  @type {string}\n  */",
+    "comment": "/**\r\n  @type {string}\r\n  */",
     "meta": {
       "range": [
-        432,
-        454
+        462,
+        484
       ],
       "filename": "0-src.js",
       "lineno": 31,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inner-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-inner-class",
       "code": {
         "id": "astnode100000019",
         "name": "this.vibe",
@@ -153,15 +153,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\nrandom \n*/",
+    "comment": "/**\r\nrandom \r\n*/",
     "meta": {
       "range": [
-        477,
-        490
+        513,
+        526
       ],
       "filename": "0-src.js",
       "lineno": 37,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inner-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-inner-class",
       "code": {
         "id": "astnode100000025",
         "name": "something",
@@ -180,7 +180,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inner-class/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-inner-class\\0-src.js"
     ]
   }
 ]

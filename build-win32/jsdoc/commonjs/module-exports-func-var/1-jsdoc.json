@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * @module module-exports-func-var\n */",
+    "comment": "/**\r\n * @module module-exports-func-var\r\n */",
     "meta": {
       "range": [
         0,
-        42
+        44
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-func-var",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-func-var",
       "code": {}
     },
     "kind": "module",
@@ -19,12 +19,12 @@
     "comment": "",
     "meta": {
       "range": [
-        43,
-        64
+        46,
+        67
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-func-var",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-func-var",
       "code": {
         "id": "astnode100000002",
         "name": "module.exports",
@@ -39,15 +39,15 @@
     "kind": "member"
   },
   {
-    "comment": "/**\n * @param {number}\n * @param {number}\n * @returns {number}\n * @alias module:module-exports-func-var\n */",
+    "comment": "/**\r\n * @param {number}\r\n * @param {number}\r\n * @returns {number}\r\n * @alias module:module-exports-func-var\r\n */",
     "meta": {
       "range": [
-        174,
-        201
+        185,
+        212
       ],
       "filename": "0-src.js",
       "lineno": 12,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-func-var",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-func-var",
       "code": {
         "id": "astnode100000007",
         "name": "func",
@@ -94,7 +94,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-func-var/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-func-var\\0-src.js"
     ]
   }
 ]

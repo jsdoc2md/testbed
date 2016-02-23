@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * note the exports are documented directly\n * @module exports-values\n */",
+    "comment": "/**\r\n * note the exports are documented directly\r\n * @module exports-values\r\n */",
     "meta": {
       "range": [
         0,
-        77
+        80
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/exports-values",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\exports-values",
       "code": {}
     },
     "description": "note the exports are documented directly",
@@ -17,15 +17,15 @@
     "longname": "module:exports-values"
   },
   {
-    "comment": "/**\n* @type {number}\n*/",
+    "comment": "/**\r\n* @type {number}\r\n*/",
     "meta": {
       "range": [
-        103,
-        118
+        111,
+        126
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/exports-values",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\exports-values",
       "code": {
         "id": "astnode100000002",
         "name": "exports.one",
@@ -46,15 +46,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n * @type {number}\n */",
+    "comment": "/**\r\n * @type {number}\r\n */",
     "meta": {
       "range": [
-        145,
-        160
+        157,
+        172
       ],
       "filename": "0-src.js",
       "lineno": 13,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/exports-values",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\exports-values",
       "code": {
         "id": "astnode100000008",
         "name": "exports.two",
@@ -78,7 +78,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/exports-values/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\exports-values\\0-src.js"
     ]
   }
 ]

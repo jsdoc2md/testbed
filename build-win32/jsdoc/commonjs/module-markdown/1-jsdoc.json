@@ -1,17 +1,17 @@
 [
   {
-    "comment": "/**\nAnimals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\n\n| yeah | desc |\n| ---- | ---- |\n| some | markdown |\n| in the | module |\n| description | |\n\n@module animal\n@example var animal = require(\"animal\")\n*/",
+    "comment": "/**\r\nAnimals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\r\n\r\n| yeah | desc |\r\n| ---- | ---- |\r\n| some | markdown |\r\n| in the | module |\r\n| description | |\r\n\r\n@module animal\r\n@example var animal = require(\"animal\")\r\n*/",
     "meta": {
       "range": [
         0,
-        552
+        563
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-markdown",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-markdown",
       "code": {}
     },
-    "description": "Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\n\n| yeah | desc |\n| ---- | ---- |\n| some | markdown |\n| in the | module |\n| description | |",
+    "description": "Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\r\n\r\n| yeah | desc |\r\n| ---- | ---- |\r\n| some | markdown |\r\n| in the | module |\r\n| description | |",
     "kind": "module",
     "name": "animal",
     "examples": [
@@ -23,12 +23,12 @@
     "comment": "",
     "meta": {
       "range": [
-        554,
-        577
+        567,
+        590
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-markdown",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-markdown",
       "code": {
         "id": "astnode100000002",
         "name": "module.exports",
@@ -43,15 +43,15 @@
     "kind": "member"
   },
   {
-    "comment": "/**\n@class\n@param {array} - an array of two parent {@link Animal} objects\n@param {Species} - the species\n*/",
+    "comment": "/**\r\n@class\r\n@param {array} - an array of two parent {@link Animal} objects\r\n@param {Species} - the species\r\n*/",
     "meta": {
       "range": [
-        687,
-        854
+        707,
+        886
       ],
       "filename": "0-src.js",
       "lineno": 21,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-markdown",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-markdown",
       "code": {
         "id": "astnode100000007",
         "name": "Animal",
@@ -93,15 +93,15 @@
     "memberof": "module:animal"
   },
   {
-    "comment": "/**\n  the current age\n  @type {number}\n  @default 0\n  */",
+    "comment": "/**\r\n  the current age\r\n  @type {number}\r\n  @default 0\r\n  */",
     "meta": {
       "range": [
-        785,
-        797
+        811,
+        823
       ],
       "filename": "0-src.js",
       "lineno": 27,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-markdown",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-markdown",
       "code": {
         "id": "astnode100000013",
         "name": "this.age",
@@ -124,15 +124,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  @type {Species}\n  */",
+    "comment": "/**\r\n  @type {Species}\r\n  */",
     "meta": {
       "range": [
-        830,
-        852
+        861,
+        883
       ],
       "filename": "0-src.js",
       "lineno": 32,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-markdown",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-markdown",
       "code": {
         "id": "astnode100000019",
         "name": "this.species",
@@ -153,15 +153,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\nAnimal moods\n@enum \n*/",
+    "comment": "/**\r\nAnimal moods\r\n@enum \r\n*/",
     "meta": {
       "range": [
-        883,
-        1000
+        921,
+        1045
       ],
       "filename": "0-src.js",
       "lineno": 39,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-markdown",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-markdown",
       "code": {
         "id": "astnode100000025",
         "name": "Animal.eMood",
@@ -182,12 +182,12 @@
         "comment": "/** chilling */",
         "meta": {
           "range": [
-            920,
-            932
+            960,
+            972
           ],
           "filename": "0-src.js",
           "lineno": 41,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-markdown",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-markdown",
           "code": {
             "id": "astnode100000030",
             "name": "satisfied",
@@ -207,12 +207,12 @@
         "comment": "/** pissed off */",
         "meta": {
           "range": [
-            956,
-            964
+            998,
+            1006
           ],
           "filename": "0-src.js",
           "lineno": 43,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-markdown",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-markdown",
           "code": {
             "id": "astnode100000032",
             "name": "angry",
@@ -232,12 +232,12 @@
         "comment": "/** need to eat */",
         "meta": {
           "range": [
-            989,
-            998
+            1033,
+            1042
           ],
           "filename": "0-src.js",
           "lineno": 45,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-markdown",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-markdown",
           "code": {
             "id": "astnode100000034",
             "name": "hungry",
@@ -259,12 +259,12 @@
     "comment": "/** chilling */",
     "meta": {
       "range": [
-        920,
-        932
+        960,
+        972
       ],
       "filename": "0-src.js",
       "lineno": 41,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-markdown",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-markdown",
       "code": {
         "id": "astnode100000030",
         "name": "satisfied",
@@ -284,12 +284,12 @@
     "comment": "/** pissed off */",
     "meta": {
       "range": [
-        956,
-        964
+        998,
+        1006
       ],
       "filename": "0-src.js",
       "lineno": 43,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-markdown",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-markdown",
       "code": {
         "id": "astnode100000032",
         "name": "angry",
@@ -309,12 +309,12 @@
     "comment": "/** need to eat */",
     "meta": {
       "range": [
-        989,
-        998
+        1033,
+        1042
       ],
       "filename": "0-src.js",
       "lineno": 45,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-markdown",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-markdown",
       "code": {
         "id": "astnode100000034",
         "name": "hungry",
@@ -334,7 +334,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-markdown/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-markdown\\0-src.js"
     ]
   }
 ]

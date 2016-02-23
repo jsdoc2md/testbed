@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n@namespace\n*/",
+    "comment": "/**\r\n@namespace\r\n*/",
     "meta": {
       "range": [
-        22,
-        536
+        25,
+        574
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\namespace",
       "code": {
         "id": "astnode100000002",
         "name": "car",
@@ -22,15 +22,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n  the round things\n  */",
+    "comment": "/**\r\n  the round things\r\n  */",
     "meta": {
       "range": [
-        62,
-        72
+        69,
+        79
       ],
       "filename": "0-src.js",
       "lineno": 8,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\namespace",
       "code": {
         "id": "astnode100000005",
         "name": "wheels",
@@ -46,15 +46,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n  the electronics that always go wrong\n  */",
+    "comment": "/**\r\n  the electronics that always go wrong\r\n  */",
     "meta": {
       "range": [
-        126,
-        138
+        137,
+        149
       ],
       "filename": "0-src.js",
       "lineno": 12,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\namespace",
       "code": {
         "id": "astnode100000007",
         "name": "sensors",
@@ -70,15 +70,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n  start the car\n  @param {string}\n  @param {function}\n  */",
+    "comment": "/**\r\n  start the car\r\n  @param {string}\r\n  @param {function}\r\n  */",
     "meta": {
       "range": [
-        208,
-        534
+        226,
+        571
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\namespace",
       "code": {
         "id": "astnode100000009",
         "name": "start",
@@ -112,15 +112,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n    decribes the current conditions\n    @namespace\n    */",
+    "comment": "/**\r\n    decribes the current conditions\r\n    @namespace\r\n    */",
     "meta": {
       "range": [
-        308,
-        530
+        331,
+        566
       ],
       "filename": "0-src.js",
       "lineno": 24,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\namespace",
       "code": {
         "id": "astnode100000015",
         "name": "this.env",
@@ -137,15 +137,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n      what kind of day is it\n      @type {string}\n      @default\n      */",
+    "comment": "/**\r\n      what kind of day is it\r\n      @type {string}\r\n      @default\r\n      */",
     "meta": {
       "range": [
-        411,
-        428
+        440,
+        457
       ],
       "filename": "0-src.js",
       "lineno": 30,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\namespace",
       "code": {
         "id": "astnode100000020",
         "name": "weather",
@@ -167,15 +167,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n      road condition\n      @type {string}\n      @default\n      */",
+    "comment": "/**\r\n      road condition\r\n      @type {string}\r\n      @default\r\n      */",
     "meta": {
       "range": [
-        512,
-        524
+        547,
+        559
       ],
       "filename": "0-src.js",
       "lineno": 36,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\namespace",
       "code": {
         "id": "astnode100000022",
         "name": "roads",
@@ -200,7 +200,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\namespace\\0-src.js"
     ]
   }
 ]

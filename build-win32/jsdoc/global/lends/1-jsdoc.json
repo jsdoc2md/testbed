@@ -3,12 +3,12 @@
     "comment": "/** @class */",
     "meta": {
       "range": [
-        18,
-        178
+        19,
+        188
       ],
       "filename": "0-src.js",
       "lineno": 2,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/lends",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\lends",
       "code": {
         "id": "astnode100000002",
         "name": "LendsClass",
@@ -25,12 +25,12 @@
     "comment": "",
     "meta": {
       "range": [
-        71,
-        176
+        74,
+        185
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/lends",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\lends",
       "code": {
         "id": "astnode100000006",
         "type": "ObjectExpression"
@@ -47,12 +47,12 @@
     "comment": "",
     "meta": {
       "range": [
-        77,
-        107
+        81,
+        111
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/lends",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\lends",
       "code": {
         "id": "astnode100000007",
         "name": "initialize",
@@ -67,15 +67,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n    say something\n    */",
+    "comment": "/**\r\n    say something\r\n    */",
     "meta": {
       "range": [
-        146,
-        172
+        154,
+        180
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/lends",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\lends",
       "code": {
         "id": "astnode100000011",
         "name": "say",
@@ -93,12 +93,12 @@
     "comment": "",
     "meta": {
       "range": [
-        184,
-        387
+        196,
+        411
       ],
       "filename": "0-src.js",
       "lineno": 13,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/lends",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\lends",
       "code": {
         "id": "astnode100000016",
         "name": "LendsClass2",
@@ -113,15 +113,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n    @constructs\n    */",
+    "comment": "/**\r\n    @constructs\r\n    */",
     "meta": {
       "range": [
-        286,
-        316
+        304,
+        334
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/lends",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\lends",
       "code": {
         "id": "astnode100000021",
         "name": "initialize",
@@ -135,15 +135,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n    say something\n    */",
+    "comment": "/**\r\n    say something\r\n    */",
     "meta": {
       "range": [
-        355,
-        381
+        377,
+        403
       ],
       "filename": "0-src.js",
       "lineno": 23,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/lends",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\lends",
       "code": {
         "id": "astnode100000025",
         "name": "say",
@@ -161,7 +161,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/lends/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\lends\\0-src.js"
     ]
   }
 ]

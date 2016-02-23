@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\na global var with custom tags\n@sitcom The Office\n@character Oggmeister\n*/",
+    "comment": "/**\r\na global var with custom tags\r\n@sitcom The Office\r\n@character Oggmeister\r\n*/",
     "meta": {
       "range": [
-        82,
-        101
+        87,
+        106
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/custom-tags",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\custom-tags",
       "code": {
         "id": "astnode100000002",
         "name": "customTagged",
@@ -37,15 +37,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\nthe constructor\n@class\n@classdesc a class that has custom tags\n@sitcom Only Fools\n@character Rodney Trotter\n*/",
+    "comment": "/**\r\nthe constructor\r\n@class\r\n@classdesc a class that has custom tags\r\n@sitcom Only Fools\r\n@character Rodney Trotter\r\n*/",
     "meta": {
       "range": [
-        218,
-        244
+        232,
+        258
       ],
       "filename": "0-src.js",
       "lineno": 15,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/custom-tags",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\custom-tags",
       "code": {
         "id": "astnode100000005",
         "name": "customClass",
@@ -76,15 +76,15 @@
     "params": []
   },
   {
-    "comment": "/**\na global function with custom tags\n@sitcom Brass Eye\n@character Noel Edmonds\n*/",
+    "comment": "/**\r\na global function with custom tags\r\n@sitcom Brass Eye\r\n@character Noel Edmonds\r\n*/",
     "meta": {
       "range": [
-        330,
-        359
+        351,
+        380
       ],
       "filename": "0-src.js",
       "lineno": 22,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/custom-tags",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\custom-tags",
       "code": {
         "id": "astnode100000008",
         "name": "customFunction",
@@ -117,7 +117,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/custom-tags/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\custom-tags\\0-src.js"
     ]
   }
 ]

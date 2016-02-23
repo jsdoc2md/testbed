@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\nan example var\n@type {string}\n@default \"something\"\n@example\nvar thisVar = funtion(){\n    return \"a value\"\n}\n*/",
+    "comment": "/**\r\nan example var\r\n@type {string}\r\n@default \"something\"\r\n@example\r\nvar thisVar = funtion(){\r\n    return \"a value\"\r\n}\r\n*/",
     "meta": {
       "range": [
-        119,
-        143
+        128,
+        152
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/example",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\example",
       "code": {
         "id": "astnode100000002",
         "name": "exampleVar",
@@ -24,7 +24,7 @@
     },
     "defaultvalue": "\"something\"",
     "examples": [
-      "var thisVar = funtion(){\n    return \"a value\"\n}"
+      "var thisVar = funtion(){\r\n    return \"a value\"\r\n}"
     ],
     "name": "exampleVar",
     "longname": "exampleVar",
@@ -35,7 +35,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/example/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\example\\0-src.js"
     ]
   }
 ]

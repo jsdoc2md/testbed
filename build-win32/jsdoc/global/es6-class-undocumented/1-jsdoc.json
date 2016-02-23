@@ -4,11 +4,11 @@
     "meta": {
       "range": [
         0,
-        131
+        140
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-undocumented",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\es6-class-undocumented",
       "code": {
         "id": "astnode100000001",
         "name": "GlobalClass",
@@ -29,12 +29,12 @@
     "comment": "",
     "meta": {
       "range": [
-        22,
-        71
+        23,
+        74
       ],
       "filename": "0-src.js",
       "lineno": 2,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-undocumented",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\es6-class-undocumented",
       "code": {
         "id": "astnode100000004",
         "name": "GlobalClass",
@@ -59,12 +59,12 @@
     "comment": "",
     "meta": {
       "range": [
-        51,
-        67
+        53,
+        69
       ],
       "filename": "0-src.js",
       "lineno": 3,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-undocumented",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\es6-class-undocumented",
       "code": {
         "id": "astnode100000011",
         "name": "this.propOne",
@@ -84,12 +84,12 @@
     "comment": "",
     "meta": {
       "range": [
-        75,
-        92
+        80,
+        97
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-undocumented",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\es6-class-undocumented",
       "code": {
         "id": "astnode100000016",
         "name": "GlobalClass.shat",
@@ -112,12 +112,12 @@
     "comment": "",
     "meta": {
       "range": [
-        96,
-        111
+        103,
+        118
       ],
       "filename": "0-src.js",
       "lineno": 8,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-undocumented",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\es6-class-undocumented",
       "code": {
         "id": "astnode100000020",
         "name": "GlobalClass#methodOne",
@@ -140,12 +140,12 @@
     "comment": "",
     "meta": {
       "range": [
-        114,
-        129
+        122,
+        137
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-undocumented",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\es6-class-undocumented",
       "code": {
         "id": "astnode100000024",
         "name": "GlobalClass#methodTwo",
@@ -168,7 +168,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-undocumented/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\es6-class-undocumented\\0-src.js"
     ]
   }
 ]

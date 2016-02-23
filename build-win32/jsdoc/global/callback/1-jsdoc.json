@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n@param {string} - the filename\n@param {onComplete} - the callback\n*/",
+    "comment": "/**\r\n@param {string} - the filename\r\n@param {onComplete} - the callback\r\n*/",
     "meta": {
       "range": [
-        73,
-        106
+        77,
+        110
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/callback",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\callback",
       "code": {
         "id": "astnode100000001",
         "name": "read",
@@ -45,15 +45,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\nCalled when an async operation completes\n@callback onComplete\n@param {object} err - an error, or `null`\n@param {string} result - the result info\n*/",
+    "comment": "/**\r\nCalled when an async operation completes\r\n@callback onComplete\r\n@param {object} err - an error, or `null`\r\n@param {string} result - the result info\r\n*/",
     "meta": {
       "range": [
-        108,
-        259
+        114,
+        270
       ],
       "filename": "0-src.js",
       "lineno": 7,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/callback",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\callback",
       "code": {}
     },
     "description": "Called when an async operation completes",
@@ -91,7 +91,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/callback/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\callback\\0-src.js"
     ]
   }
 ]

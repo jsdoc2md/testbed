@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\nA simple example with some code.. it will format using the language specified by `--example-lang`\n@example\nvar result = one()\n*/",
+    "comment": "/**\r\nA simple example with some code.. it will format using the language specified by `--example-lang`\r\n@example\r\nvar result = one()\r\n*/",
     "meta": {
       "range": [
-        133,
-        151
+        138,
+        156
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/example-lang",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\example-lang",
       "code": {
         "id": "astnode100000001",
         "name": "one",
@@ -27,15 +27,15 @@
     "params": []
   },
   {
-    "comment": "/**\nAn example that already contains a fenced-code block (language `json`)\n@example\nhere is the example:\n```json\n{\n    \"clive\": \"yeah?\"\n}\n```\n*/",
+    "comment": "/**\r\nAn example that already contains a fenced-code block (language `json`)\r\n@example\r\nhere is the example:\r\n```json\r\n{\r\n    \"clive\": \"yeah?\"\r\n}\r\n```\r\n*/",
     "meta": {
       "range": [
-        298,
-        316
+        315,
+        333
       ],
       "filename": "0-src.js",
       "lineno": 18,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/example-lang",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\example-lang",
       "code": {
         "id": "astnode100000004",
         "name": "two",
@@ -45,7 +45,7 @@
     },
     "description": "An example that already contains a fenced-code block (language `json`)",
     "examples": [
-      "here is the example:\n```json\n{\n    \"clive\": \"yeah?\"\n}\n```"
+      "here is the example:\r\n```json\r\n{\r\n    \"clive\": \"yeah?\"\r\n}\r\n```"
     ],
     "name": "two",
     "longname": "two",
@@ -54,15 +54,15 @@
     "params": []
   },
   {
-    "comment": "/**\nAn example with no code, just text\n@example\nThis example is just some plain text, no code format or syntax highlighting required here.\n*/",
+    "comment": "/**\r\nAn example with no code, just text\r\n@example\r\nThis example is just some plain text, no code format or syntax highlighting required here.\r\n*/",
     "meta": {
       "range": [
-        460,
-        480
+        484,
+        504
       ],
       "filename": "0-src.js",
       "lineno": 25,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/example-lang",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\example-lang",
       "code": {
         "id": "astnode100000007",
         "name": "three",
@@ -81,15 +81,15 @@
     "params": []
   },
   {
-    "comment": "/**\nAnother text example, using the `@lang off` sub-tag..\n@example @lang off\nThis example is just some plain text, no code format or syntax highlighting required here.\n*/",
+    "comment": "/**\r\nAnother text example, using the `@lang off` sub-tag..\r\n@example @lang off\r\nThis example is just some plain text, no code format or syntax highlighting required here.\r\n*/",
     "meta": {
       "range": [
-        653,
-        672
+        684,
+        703
       ],
       "filename": "0-src.js",
       "lineno": 32,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/example-lang",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\example-lang",
       "code": {
         "id": "astnode100000010",
         "name": "four",
@@ -99,7 +99,7 @@
     },
     "description": "Another text example, using the `@lang off` sub-tag..",
     "examples": [
-      "@lang off\nThis example is just some plain text, no code format or syntax highlighting required here."
+      "@lang off\r\nThis example is just some plain text, no code format or syntax highlighting required here."
     ],
     "name": "four",
     "longname": "four",
@@ -108,15 +108,15 @@
     "params": []
   },
   {
-    "comment": "/**\nA simple example using `@example @lang hbs` to specify handlebars as the language\n@example @lang hbs\nhello {{name}}, welcome to {{country}}.\n*/",
+    "comment": "/**\r\nA simple example using `@example @lang hbs` to specify handlebars as the language\r\n@example @lang hbs\r\nhello {{name}}, welcome to {{country}}.\r\n*/",
     "meta": {
       "range": [
-        822,
-        841
+        860,
+        879
       ],
       "filename": "0-src.js",
       "lineno": 39,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/example-lang",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\example-lang",
       "code": {
         "id": "astnode100000013",
         "name": "five",
@@ -126,7 +126,7 @@
     },
     "description": "A simple example using `@example @lang hbs` to specify handlebars as the language",
     "examples": [
-      "@lang hbs\nhello {{name}}, welcome to {{country}}."
+      "@lang hbs\r\nhello {{name}}, welcome to {{country}}."
     ],
     "name": "five",
     "longname": "five",
@@ -138,7 +138,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/example-lang/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\example-lang\\0-src.js"
     ]
   }
 ]

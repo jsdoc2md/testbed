@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * @example <caption>This is how it's done.</caption>\n * const result = exampleCaption()\n */",
+    "comment": "/**\r\n * @example <caption>This is how it's done.</caption>\r\n * const result = exampleCaption()\r\n */",
     "meta": {
       "range": [
-        97,
-        126
+        101,
+        130
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/example-caption",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\example-caption",
       "code": {
         "id": "astnode100000001",
         "name": "exampleCaption",
@@ -17,7 +17,7 @@
       }
     },
     "examples": [
-      "<caption>This is how it's done.</caption>\nconst result = exampleCaption()"
+      "<caption>This is how it's done.</caption>\rconst result = exampleCaption()"
     ],
     "name": "exampleCaption",
     "longname": "exampleCaption",
@@ -29,7 +29,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/example-caption/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\example-caption\\0-src.js"
     ]
   }
 ]

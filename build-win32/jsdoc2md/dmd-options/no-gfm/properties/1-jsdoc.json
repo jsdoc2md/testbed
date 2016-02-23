@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n@enum\n*/",
+    "comment": "/**\r\n@enum\r\n*/",
     "meta": {
       "range": [
-        17,
-        91
+        20,
+        103
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/properties",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\no-gfm\\properties",
       "code": {
         "id": "astnode100000002",
         "name": "eType",
@@ -23,15 +23,15 @@
     "scope": "global",
     "properties": [
       {
-        "comment": "/**\n  type one\n  */",
+        "comment": "/**\r\n  type one\r\n  */",
         "meta": {
           "range": [
-            51,
-            57
+            58,
+            64
           ],
           "filename": "0-src.js",
           "lineno": 8,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/properties",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\no-gfm\\properties",
           "code": {
             "id": "astnode100000005",
             "name": "ONE",
@@ -48,15 +48,15 @@
         "defaultvalue": 1
       },
       {
-        "comment": "/**\n  type two\n  */",
+        "comment": "/**\r\n  type two\r\n  */",
         "meta": {
           "range": [
-            83,
-            89
+            94,
+            100
           ],
           "filename": "0-src.js",
           "lineno": 12,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/properties",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\no-gfm\\properties",
           "code": {
             "id": "astnode100000007",
             "name": "TWO",
@@ -75,15 +75,15 @@
     ]
   },
   {
-    "comment": "/**\n  type one\n  */",
+    "comment": "/**\r\n  type one\r\n  */",
     "meta": {
       "range": [
-        51,
-        57
+        58,
+        64
       ],
       "filename": "0-src.js",
       "lineno": 8,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/properties",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\no-gfm\\properties",
       "code": {
         "id": "astnode100000005",
         "name": "ONE",
@@ -100,15 +100,15 @@
     "defaultvalue": 1
   },
   {
-    "comment": "/**\n  type two\n  */",
+    "comment": "/**\r\n  type two\r\n  */",
     "meta": {
       "range": [
-        83,
-        89
+        94,
+        100
       ],
       "filename": "0-src.js",
       "lineno": 12,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/properties",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\no-gfm\\properties",
       "code": {
         "id": "astnode100000007",
         "name": "TWO",
@@ -128,7 +128,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/properties/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\no-gfm\\properties\\0-src.js"
     ]
   }
 ]

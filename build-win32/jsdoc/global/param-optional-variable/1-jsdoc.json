@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * @param {number}\n * @param {number}\n * @param [optionalVariable] {...number}\n */",
+    "comment": "/**\r\n * @param {number}\r\n * @param {number}\r\n * @param [optionalVariable] {...number}\r\n */",
     "meta": {
       "range": [
-        87,
-        112
+        92,
+        117
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/param-optional-variable",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\param-optional-variable",
       "code": {
         "id": "astnode100000001",
         "name": "two",
@@ -57,7 +57,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/param-optional-variable/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\param-optional-variable\\0-src.js"
     ]
   }
 ]

@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n@returns {string}\n*/",
+    "comment": "/**\r\n@returns {string}\r\n*/",
     "meta": {
       "range": [
-        25,
-        56
+        28,
+        59
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/returns2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\returns2",
       "code": {
         "id": "astnode100000001",
         "name": "returnsSomething",
@@ -32,15 +32,15 @@
     "params": []
   },
   {
-    "comment": "/**\n@returns {string} returns a string\n*/",
+    "comment": "/**\r\n@returns {string} returns a string\r\n*/",
     "meta": {
       "range": [
-        100,
-        130
+        108,
+        138
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/returns2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\returns2",
       "code": {
         "id": "astnode100000004",
         "name": "returnsWithDesc",
@@ -68,7 +68,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/returns2/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\returns2\\0-src.js"
     ]
   }
 ]

@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\nexported object, with-inner-members\n@module cattle\n*/",
+    "comment": "/**\r\nexported object, with-inner-members\r\n@module cattle\r\n*/",
     "meta": {
       "range": [
         0,
-        57
+        60
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inners",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-inners",
       "code": {}
     },
     "description": "exported object, with-inner-members",
@@ -17,15 +17,15 @@
     "longname": "module:cattle"
   },
   {
-    "comment": "/**\n@returns {boolean}\n*/",
+    "comment": "/**\r\n@returns {boolean}\r\n*/",
     "meta": {
       "range": [
-        85,
-        119
+        93,
+        127
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inners",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-inners",
       "code": {
         "id": "astnode100000002",
         "name": "exports.createCow",
@@ -49,15 +49,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\nthe inner member\n*/",
+    "comment": "/**\r\nthe inner member\r\n*/",
     "meta": {
       "range": [
-        149,
-        164
+        162,
+        177
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inners",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-inners",
       "code": {
         "id": "astnode100000009",
         "name": "innerMember",
@@ -73,15 +73,15 @@
     "memberof": "module:cattle"
   },
   {
-    "comment": "/**\nthe inner function\n*/",
+    "comment": "/**\r\nthe inner function\r\n*/",
     "meta": {
       "range": [
-        192,
-        219
+        210,
+        237
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inners",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-inners",
       "code": {
         "id": "astnode100000012",
         "name": "innerFuction",
@@ -98,15 +98,15 @@
     "params": []
   },
   {
-    "comment": "/**\nanother inner function\n@deprecated\n*/",
+    "comment": "/**\r\nanother inner function\r\n@deprecated\r\n*/",
     "meta": {
       "range": [
-        263,
-        297
+        287,
+        321
       ],
       "filename": "0-src.js",
       "lineno": 25,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inners",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-inners",
       "code": {
         "id": "astnode100000015",
         "name": "anotherInnerFuction",
@@ -127,7 +127,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inners/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-inners\\0-src.js"
     ]
   }
 ]

@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * @file Manages the configuration settings for the widget.\n * @author Rowina Sanela \n */",
+    "comment": "/**\r\n * @file Manages the configuration settings for the widget.\r\n * @author Rowina Sanela \r\n */",
     "meta": {
       "range": [
         0,
-        93
+        96
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/file",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\file",
       "code": {}
     },
     "name": "0-src.js",
@@ -22,15 +22,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\na variable in the file\n*/",
+    "comment": "/**\r\na variable in the file\r\n*/",
     "meta": {
       "range": [
-        129,
-        140
+        137,
+        148
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/file",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\file",
       "code": {
         "id": "astnode100000002",
         "name": "fileVar",
@@ -48,7 +48,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/file/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\file\\0-src.js"
     ]
   }
 ]

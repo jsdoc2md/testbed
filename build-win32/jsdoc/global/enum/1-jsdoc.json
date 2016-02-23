@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * Enum with a `type` value, no individual property descriptions.\n * @readonly\n * @enum {number}\n */",
+    "comment": "/**\r\n * Enum with a `type` value, no individual property descriptions.\r\n * @readonly\r\n * @enum {number}\r\n */",
     "meta": {
       "range": [
-        109,
-        158
+        114,
+        167
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/enum",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\enum",
       "code": {
         "id": "astnode100000002",
         "name": "eFileType",
@@ -33,12 +33,12 @@
         "comment": "",
         "meta": {
           "range": [
-            125,
-            135
+            131,
+            141
           ],
           "filename": "0-src.js",
           "lineno": 7,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/enum",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\enum",
           "code": {
             "id": "astnode100000005",
             "name": "NOEXIST",
@@ -62,12 +62,12 @@
         "comment": "",
         "meta": {
           "range": [
-            139,
-            146
+            146,
+            153
           ],
           "filename": "0-src.js",
           "lineno": 8,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/enum",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\enum",
           "code": {
             "id": "astnode100000007",
             "name": "FILE",
@@ -91,12 +91,12 @@
         "comment": "",
         "meta": {
           "range": [
-            150,
-            156
+            158,
+            164
           ],
           "filename": "0-src.js",
           "lineno": 9,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/enum",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\enum",
           "code": {
             "id": "astnode100000009",
             "name": "DIR",
@@ -122,12 +122,12 @@
     "comment": "",
     "meta": {
       "range": [
-        125,
-        135
+        131,
+        141
       ],
       "filename": "0-src.js",
       "lineno": 7,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/enum",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\enum",
       "code": {
         "id": "astnode100000005",
         "name": "NOEXIST",
@@ -151,12 +151,12 @@
     "comment": "",
     "meta": {
       "range": [
-        139,
-        146
+        146,
+        153
       ],
       "filename": "0-src.js",
       "lineno": 8,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/enum",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\enum",
       "code": {
         "id": "astnode100000007",
         "name": "FILE",
@@ -180,12 +180,12 @@
     "comment": "",
     "meta": {
       "range": [
-        150,
-        156
+        158,
+        164
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/enum",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\enum",
       "code": {
         "id": "astnode100000009",
         "name": "DIR",
@@ -206,15 +206,15 @@
     "defaultvalue": 2
   },
   {
-    "comment": "/**\n * enum, no type, property descriptions.\n * @enum\n */",
+    "comment": "/**\r\n * enum, no type, property descriptions.\r\n * @enum\r\n */",
     "meta": {
       "range": [
-        222,
-        296
+        237,
+        320
       ],
       "filename": "0-src.js",
       "lineno": 16,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/enum",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\enum",
       "code": {
         "id": "astnode100000012",
         "name": "eType",
@@ -230,15 +230,15 @@
     "scope": "global",
     "properties": [
       {
-        "comment": "/**\n  type one\n  */",
+        "comment": "/**\r\n  type one\r\n  */",
         "meta": {
           "range": [
-            256,
-            262
+            275,
+            281
           ],
           "filename": "0-src.js",
           "lineno": 20,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/enum",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\enum",
           "code": {
             "id": "astnode100000015",
             "name": "ONE",
@@ -255,15 +255,15 @@
         "defaultvalue": 1
       },
       {
-        "comment": "/**\n  type two\n  */",
+        "comment": "/**\r\n  type two\r\n  */",
         "meta": {
           "range": [
-            288,
-            294
+            311,
+            317
           ],
           "filename": "0-src.js",
           "lineno": 24,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/enum",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\enum",
           "code": {
             "id": "astnode100000017",
             "name": "TWO",
@@ -282,15 +282,15 @@
     ]
   },
   {
-    "comment": "/**\n  type one\n  */",
+    "comment": "/**\r\n  type one\r\n  */",
     "meta": {
       "range": [
-        256,
-        262
+        275,
+        281
       ],
       "filename": "0-src.js",
       "lineno": 20,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/enum",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\enum",
       "code": {
         "id": "astnode100000015",
         "name": "ONE",
@@ -307,15 +307,15 @@
     "defaultvalue": 1
   },
   {
-    "comment": "/**\n  type two\n  */",
+    "comment": "/**\r\n  type two\r\n  */",
     "meta": {
       "range": [
-        288,
-        294
+        311,
+        317
       ],
       "filename": "0-src.js",
       "lineno": 24,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/enum",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\enum",
       "code": {
         "id": "astnode100000017",
         "name": "TWO",
@@ -332,15 +332,15 @@
     "defaultvalue": 2
   },
   {
-    "comment": "/**\n * normal function..\n */",
+    "comment": "/**\r\n * normal function..\r\n */",
     "meta": {
       "range": [
-        327,
-        356
+        356,
+        385
       ],
       "filename": "0-src.js",
       "lineno": 30,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/enum",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\enum",
       "code": {
         "id": "astnode100000019",
         "name": "normalFunction",
@@ -356,15 +356,15 @@
     "params": []
   },
   {
-    "comment": "/**\n * enum function! It has a kind of 'member' not 'function'.\n * @enum\n */",
+    "comment": "/**\r\n * enum function! It has a kind of 'member' not 'function'.\r\n * @enum\r\n */",
     "meta": {
       "range": [
-        435,
-        459
+        470,
+        494
       ],
       "filename": "0-src.js",
       "lineno": 36,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/enum",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\enum",
       "code": {
         "id": "astnode100000022",
         "name": "eFunction",
@@ -381,15 +381,15 @@
     "params": []
   },
   {
-    "comment": "/**\n * enum function, type, properties\n * @enum {number}\n * @property {number} ONE - first\n * @property {number} TWO - second\n */",
+    "comment": "/**\r\n * enum function, type, properties\r\n * @enum {number}\r\n * @property {number} ONE - first\r\n * @property {number} TWO - second\r\n */",
     "meta": {
       "range": [
-        591,
-        615
+        634,
+        658
       ],
       "filename": "0-src.js",
       "lineno": 44,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/enum",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\enum",
       "code": {
         "id": "astnode100000025",
         "name": "eFunction",
@@ -434,7 +434,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/enum/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\enum\\0-src.js"
     ]
   }
 ]

@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * ES6 Class (with sub-class) exported indirectly by a variable on module.exports.\n * @module es6-class\n */",
+    "comment": "/**\r\n * ES6 Class (with sub-class) exported indirectly by a variable on module.exports.\r\n * @module es6-class\r\n */",
     "meta": {
       "range": [
         0,
-        111
+        114
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-es6-class-subclass-var",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-es6-class-subclass-var",
       "code": {}
     },
     "description": "ES6 Class (with sub-class) exported indirectly by a variable on module.exports.",
@@ -17,15 +17,15 @@
     "longname": "module:es6-class"
   },
   {
-    "comment": "/**\n * a class exported from a module\n * @alias module:es6-class\n */",
+    "comment": "/**\r\n * a class exported from a module\r\n * @alias module:es6-class\r\n */",
     "meta": {
       "range": [
-        182,
-        649
+        191,
+        682
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-es6-class-subclass-var",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-es6-class-subclass-var",
       "code": {
         "id": "astnode100000001",
         "name": "ExportedClass",
@@ -77,15 +77,15 @@
     ]
   },
   {
-    "comment": "/**\n   * the class constructor\n   * @param {number} - first param\n   * @param {string} - second param\n   * @throws {string} A serious error occurred.\n   * @example\n   * var one = 1\n   */",
+    "comment": "/**\r\n   * the class constructor\r\n   * @param {number} - first param\r\n   * @param {string} - second param\r\n   * @throws {string} A serious error occurred.\r\n   * @example\r\n   * var one = 1\r\n   */",
     "meta": {
       "range": [
-        395,
-        510
+        413,
+        534
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-es6-class-subclass-var",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-es6-class-subclass-var",
       "code": {
         "id": "astnode100000004",
         "name": "ExportedClass",
@@ -141,15 +141,15 @@
     "undocumented": true
   },
   {
-    "comment": "/**\n     * an instance property\n     * @type {number}\n     */",
+    "comment": "/**\r\n     * an instance property\r\n     * @type {number}\r\n     */",
     "meta": {
       "range": [
-        490,
-        506
+        513,
+        529
       ],
       "filename": "0-src.js",
       "lineno": 24,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-es6-class-subclass-var",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-es6-class-subclass-var",
       "code": {
         "id": "astnode100000011",
         "name": "this.propOne",
@@ -174,12 +174,12 @@
     "comment": "/** a static method */",
     "meta": {
       "range": [
-        539,
-        556
+        566,
+        583
       ],
       "filename": "0-src.js",
       "lineno": 28,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-es6-class-subclass-var",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-es6-class-subclass-var",
       "code": {
         "id": "astnode100000016",
         "name": "ExportedClass.shat",
@@ -202,12 +202,12 @@
     "comment": "/** parent method one */",
     "meta": {
       "range": [
-        587,
-        602
+        617,
+        632
       ],
       "filename": "0-src.js",
       "lineno": 31,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-es6-class-subclass-var",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-es6-class-subclass-var",
       "code": {
         "id": "astnode100000020",
         "name": "ExportedClass#methodOne",
@@ -230,12 +230,12 @@
     "comment": "/** parent method two */",
     "meta": {
       "range": [
-        632,
-        647
+        664,
+        679
       ],
       "filename": "0-src.js",
       "lineno": 33,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-es6-class-subclass-var",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-es6-class-subclass-var",
       "code": {
         "id": "astnode100000024",
         "name": "ExportedClass#methodTwo",
@@ -255,15 +255,15 @@
     "params": []
   },
   {
-    "comment": "/**\n * the child of exported class\n * @extends ExportedClass\n */",
+    "comment": "/**\r\n * the child of exported class\r\n * @extends ExportedClass\r\n */",
     "meta": {
       "range": [
-        716,
-        836
+        755,
+        880
       ],
       "filename": "0-src.js",
       "lineno": 40,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-es6-class-subclass-var",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-es6-class-subclass-var",
       "code": {
         "id": "astnode100000028",
         "name": "ChildClass",
@@ -286,12 +286,12 @@
     "comment": "",
     "meta": {
       "range": [
-        759,
-        834
+        799,
+        877
       ],
       "filename": "0-src.js",
       "lineno": 41,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-es6-class-subclass-var",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-es6-class-subclass-var",
       "code": {
         "id": "astnode100000032",
         "name": "ChildClass",
@@ -314,12 +314,12 @@
     "comment": "/** an instance property */",
     "meta": {
       "range": [
-        812,
-        830
+        854,
+        872
       ],
       "filename": "0-src.js",
       "lineno": 43,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-es6-class-subclass-var",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-es6-class-subclass-var",
       "code": {
         "id": "astnode100000037",
         "name": "this.propThree",
@@ -339,12 +339,12 @@
     "comment": "",
     "meta": {
       "range": [
-        838,
-        868
+        884,
+        914
       ],
       "filename": "0-src.js",
       "lineno": 47,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-es6-class-subclass-var",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-es6-class-subclass-var",
       "code": {
         "id": "astnode100000043",
         "name": "module.exports",
@@ -362,7 +362,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-exports-es6-class-subclass-var/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\module-exports-es6-class-subclass-var\\0-src.js"
     ]
   }
 ]

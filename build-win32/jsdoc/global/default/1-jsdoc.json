@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n@type {object}\n@default { one: 1, two: \"yeah?\" }\n*/",
+    "comment": "/**\r\n@type {object}\r\n@default { one: 1, two: \"yeah?\" }\r\n*/",
     "meta": {
       "range": [
-        60,
-        77
+        64,
+        81
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/default",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\default",
       "code": {
         "id": "astnode100000002",
         "name": "defaultedOne",
@@ -28,15 +28,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@type {function}\n@default function f(n){ return something(n); }\n*/",
+    "comment": "/**\r\n@type {function}\r\n@default function f(n){ return something(n); }\r\n*/",
     "meta": {
       "range": [
-        154,
-        171
+        164,
+        181
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/default",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\default",
       "code": {
         "id": "astnode100000006",
         "name": "defaultedTwo",
@@ -59,7 +59,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/default/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\default\\0-src.js"
     ]
   }
 ]

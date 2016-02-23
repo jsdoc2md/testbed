@@ -7,7 +7,7 @@
     "kind": "member",
     "description": "an example var",
     "examples": [
-      "var thisVar = funtion(){\n    return \"a value\"\n}"
+      "var thisVar = funtion(){\r\n    return \"a value\"\r\n}"
     ],
     "type": {
       "names": [
@@ -18,7 +18,7 @@
     "meta": {
       "lineno": 10,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/example"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\example"
     },
     "order": 0
   }

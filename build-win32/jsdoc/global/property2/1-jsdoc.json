@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * A personality object, documented using the more concise `@property` notation.\n * @namespace\n * @property openness {object} - openness\n * @property conscientiousness {object} - conscientiousness\n * @property extraversion {*} - extraversion\n * @property agreeableness {object} - agreeableness\n * @property neuroticism {object} - neuroticism\n */",
+    "comment": "/**\r\n * A personality object, documented using the more concise `@property` notation.\r\n * @namespace\r\n * @property openness {object} - openness\r\n * @property conscientiousness {object} - conscientiousness\r\n * @property extraversion {*} - extraversion\r\n * @property agreeableness {object} - agreeableness\r\n * @property neuroticism {object} - neuroticism\r\n */",
     "meta": {
       "range": [
-        355,
-        472
+        365,
+        488
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/property2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\property2",
       "code": {
         "id": "astnode100000002",
         "name": "personality",
@@ -73,12 +73,12 @@
     "comment": "",
     "meta": {
       "range": [
-        373,
-        385
+        384,
+        396
       ],
       "filename": "0-src.js",
       "lineno": 12,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/property2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\property2",
       "code": {
         "id": "astnode100000005",
         "name": "openness",
@@ -97,12 +97,12 @@
     "comment": "",
     "meta": {
       "range": [
-        389,
-        410
+        401,
+        422
       ],
       "filename": "0-src.js",
       "lineno": 13,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/property2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\property2",
       "code": {
         "id": "astnode100000007",
         "name": "conscientiousness",
@@ -121,12 +121,12 @@
     "comment": "",
     "meta": {
       "range": [
-        414,
-        430
+        427,
+        443
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/property2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\property2",
       "code": {
         "id": "astnode100000009",
         "name": "extraversion",
@@ -145,12 +145,12 @@
     "comment": "",
     "meta": {
       "range": [
-        434,
-        451
+        448,
+        465
       ],
       "filename": "0-src.js",
       "lineno": 15,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/property2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\property2",
       "code": {
         "id": "astnode100000011",
         "name": "agreeableness",
@@ -169,12 +169,12 @@
     "comment": "",
     "meta": {
       "range": [
-        455,
-        470
+        470,
+        485
       ],
       "filename": "0-src.js",
       "lineno": 16,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/property2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\property2",
       "code": {
         "id": "astnode100000013",
         "name": "neuroticism",
@@ -193,7 +193,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/property2/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\property2\\0-src.js"
     ]
   }
 ]

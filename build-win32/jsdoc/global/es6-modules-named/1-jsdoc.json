@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * @module es6-modules-named\n * @typicalname named\n */",
+    "comment": "/**\r\n * @module es6-modules-named\r\n * @typicalname named\r\n */",
     "meta": {
       "range": [
         0,
-        58
+        61
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-named",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\es6-modules-named",
       "code": {}
     },
     "kind": "module",
@@ -24,15 +24,15 @@
     "longname": "module:es6-modules-named"
   },
   {
-    "comment": "/**\n * exported number\n */",
+    "comment": "/**\r\n * exported number\r\n */",
     "meta": {
       "range": [
-        87,
-        138
+        95,
+        151
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-named",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\es6-modules-named",
       "code": {
         "id": "astnode100000001",
         "name": "exports.one",
@@ -50,12 +50,12 @@
     "comment": "",
     "meta": {
       "range": [
-        100,
-        107
+        108,
+        115
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-named",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\es6-modules-named",
       "code": {
         "id": "astnode100000003",
         "name": "one",
@@ -71,15 +71,15 @@
     "memberof": "module:es6-modules-named"
   },
   {
-    "comment": "/**\n * exported function\n */",
+    "comment": "/**\r\n * exported function\r\n */",
     "meta": {
       "range": [
-        138,
-        163
+        151,
+        176
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-named",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\es6-modules-named",
       "code": {
         "id": "astnode100000006",
         "name": "exports.two",
@@ -98,12 +98,12 @@
     "comment": "",
     "meta": {
       "range": [
-        145,
-        163
+        158,
+        176
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-named",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\es6-modules-named",
       "code": {
         "id": "astnode100000007",
         "name": "two",
@@ -123,7 +123,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-named/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\es6-modules-named\\0-src.js"
     ]
   }
 ]

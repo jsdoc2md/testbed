@@ -13,7 +13,7 @@
     "meta": {
       "lineno": 6,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/example2"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\example2"
     },
     "order": 0
   },
@@ -26,12 +26,12 @@
     "description": "An example written in a different lang to the default (json)",
     "params": [],
     "examples": [
-      "```json\n{\n    \"clive\": \"yeah?\"\n}\n```"
+      "```json\r\n{\r\n    \"clive\": \"yeah?\"\r\n}\r\n```"
     ],
     "meta": {
       "lineno": 17,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/example2"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\example2"
     },
     "order": 1
   },
@@ -44,12 +44,12 @@
     "description": "An example with no code, just text",
     "params": [],
     "examples": [
-      "This example is just plain text. Note that it's formatted as javascript\nas that's the default `--example-lang` value and dmd has no way of \ndistinguishing whether the example text is, or is not source code."
+      "This example is just plain text. Note that it's formatted as javascript\r\nas that's the default `--example-lang` value and dmd has no way of \r\ndistinguishing whether the example text is, or is not source code."
     ],
     "meta": {
       "lineno": 26,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/example2"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\example2"
     },
     "order": 2
   },
@@ -62,12 +62,12 @@
     "description": "Another text example, using the `@lang off` sub-tag..",
     "params": [],
     "examples": [
-      "@lang off\nThis example is plain text but it has not been formatted using the default \n`--example-lang` of javascript because the `@example @lang off` was used.."
+      "@lang off\r\nThis example is plain text but it has not been formatted using the default \r\n`--example-lang` of javascript because the `@example @lang off` was used.."
     ],
     "meta": {
       "lineno": 34,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/example2"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\example2"
     },
     "order": 3
   },
@@ -80,12 +80,12 @@
     "description": "An example with text and code, with no fenced-code blocks",
     "params": [],
     "examples": [
-      "Here, i introduce the example: \n\nvar result = five()"
+      "Here, i introduce the example: \r\n\r\nvar result = five()"
     ],
     "meta": {
       "lineno": 43,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/example2"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\example2"
     },
     "order": 4
   },
@@ -98,12 +98,12 @@
     "description": "An example with text and code, with fenced-code block and no lang set",
     "params": [],
     "examples": [
-      "Here, i introduce the example: \n\n```\nvar result = six()\n```"
+      "Here, i introduce the example: \r\n\r\n```\r\nvar result = six()\r\n```"
     ],
     "meta": {
       "lineno": 54,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/example2"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\example2"
     },
     "order": 5
   },
@@ -116,12 +116,12 @@
     "description": "An example with text and code, with fenced-code block and `js` lang set",
     "params": [],
     "examples": [
-      "Here, i introduce the example: \n\n```js\nvar result = seven()\n```"
+      "Here, i introduce the example: \r\n\r\n```js\r\nvar result = seven()\r\n```"
     ],
     "meta": {
       "lineno": 65,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/example2"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\example2"
     },
     "order": 6
   },
@@ -134,12 +134,12 @@
     "description": "An example with text and code, with fenced-code block and `json` lang set",
     "params": [],
     "examples": [
-      "this function returns data like:\n\n```json\n{\n    \"yeah\": \"gets?\"\n}\n```"
+      "this function returns data like:\r\n\r\n```json\r\n{\r\n    \"yeah\": \"gets?\"\r\n}\r\n```"
     ],
     "meta": {
       "lineno": 78,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/example2"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\example2"
     },
     "order": 7
   }

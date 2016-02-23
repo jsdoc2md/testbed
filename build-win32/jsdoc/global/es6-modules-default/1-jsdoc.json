@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * exporting a function directly\n * @module es6-modules-default\n */",
+    "comment": "/**\r\n * exporting a function directly\r\n * @module es6-modules-default\r\n */",
     "meta": {
       "range": [
         0,
-        71
+        74
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-default",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\es6-modules-default",
       "code": {}
     },
     "description": "exporting a function directly",
@@ -17,15 +17,15 @@
     "longname": "module:es6-modules-default"
   },
   {
-    "comment": "/**\n * exported function\n */",
+    "comment": "/**\r\n * exported function\r\n */",
     "meta": {
       "range": [
-        102,
-        166
+        110,
+        176
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-default",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\es6-modules-default",
       "code": {
         "id": "astnode100000001",
         "name": "module.exports",
@@ -42,12 +42,12 @@
     "comment": "",
     "meta": {
       "range": [
-        117,
-        166
+        125,
+        176
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-default",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\es6-modules-default",
       "code": {
         "id": "astnode100000002",
         "name": "exportedFunction",
@@ -67,7 +67,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-default/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\es6-modules-default\\0-src.js"
     ]
   }
 ]

@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n@file\n@copyright Chris Morris 1994\n*/",
+    "comment": "/**\r\n@file\r\n@copyright Chris Morris 1994\r\n*/",
     "meta": {
       "range": [
         0,
-        41
+        44
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {}
     },
     "name": "0-src.js",
@@ -19,15 +19,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\nShe's an Uzi lover.\n\n![uzi](https://sampleface.co.uk/wp-content/uploads/2013/07/fur-q-uzi-lover.png)\n\n@class\n@classdesc C\\*ck, b!tch, c\\*ck, b!tch, m\\*therf!cker. You gotta kill people, to respect people.\n@see https://www.youtube.com/watch?v=1sxZ4tsp8gc\n@public\n@extends Rapper\n@author Chris Morris\n@borrows plant as #punch\n@fires FurQ#pop\n@fires FurQ#slap\n@example var uziLover = require(\"FurQ\")\n*/",
+    "comment": "/**\r\nShe's an Uzi lover.\r\n\r\n![uzi](https://sampleface.co.uk/wp-content/uploads/2013/07/fur-q-uzi-lover.png)\r\n\r\n@class\r\n@classdesc C\\*ck, b!tch, c\\*ck, b!tch, m\\*therf!cker. You gotta kill people, to respect people.\r\n@see https://www.youtube.com/watch?v=1sxZ4tsp8gc\r\n@public\r\n@extends Rapper\r\n@author Chris Morris\r\n@borrows plant as #punch\r\n@fires FurQ#pop\r\n@fires FurQ#slap\r\n@example var uziLover = require(\"FurQ\")\r\n*/",
     "meta": {
       "range": [
-        447,
-        1261
+        468,
+        1331
       ],
       "filename": "0-src.js",
       "lineno": 22,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {
         "id": "astnode100000001",
         "name": "FurQ",
@@ -44,7 +44,7 @@
         "this.spit": "FurQ#spit"
       }
     },
-    "description": "She's an Uzi lover.\n\n![uzi](https://sampleface.co.uk/wp-content/uploads/2013/07/fur-q-uzi-lover.png)",
+    "description": "She's an Uzi lover.\r\n\r\n![uzi](https://sampleface.co.uk/wp-content/uploads/2013/07/fur-q-uzi-lover.png)",
     "kind": "class",
     "classdesc": "C\\*ck, b!tch, c\\*ck, b!tch, m\\*therf!cker. You gotta kill people, to respect people.",
     "see": [
@@ -70,15 +70,15 @@
     "params": []
   },
   {
-    "comment": "/**\n  kill\n  @category standard\n  @example var kill = uziLover.kill()\n  @example uziLover.kill()\n  */",
+    "comment": "/**\r\n  kill\r\n  @category standard\r\n  @example var kill = uziLover.kill()\r\n  @example uziLover.kill()\r\n  */",
     "meta": {
       "range": [
-        572,
-        598
+        600,
+        626
       ],
       "filename": "0-src.js",
       "lineno": 29,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {
         "id": "astnode100000005",
         "name": "this.kill",
@@ -96,7 +96,7 @@
       }
     ],
     "examples": [
-      "var kill = uziLover.kill()\n  ",
+      "var kill = uziLover.kill()\r\n  ",
       "uziLover.kill()"
     ],
     "name": "kill",
@@ -106,15 +106,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  * respect\n  * @category standard\n  * @param {FurQ~onRespect} - called on reciprocation of respect\n  * @example\n  * uziLover.respect(function(err, gain){\n  *     console.log(gain)\n  * })\n  */",
+    "comment": "/**\r\n  * respect\r\n  * @category standard\r\n  * @param {FurQ~onRespect} - called on reciprocation of respect\r\n  * @example\r\n  * uziLover.respect(function(err, gain){\r\n  *     console.log(gain)\r\n  * })\r\n  */",
     "meta": {
       "range": [
-        800,
-        833
+        838,
+        871
       ],
       "filename": "0-src.js",
       "lineno": 39,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {
         "id": "astnode100000012",
         "name": "this.respect",
@@ -145,7 +145,7 @@
       }
     ],
     "examples": [
-      "uziLover.respect(function(err, gain){\n    console.log(gain)\n})"
+      "uziLover.respect(function(err, gain){\r    console.log(gain)\r})"
     ],
     "name": "respect",
     "longname": "FurQ#respect",
@@ -157,12 +157,12 @@
     "comment": "",
     "meta": {
       "range": [
-        837,
-        864
+        877,
+        904
       ],
       "filename": "0-src.js",
       "lineno": 41,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {
         "id": "astnode100000020",
         "name": "this.punch",
@@ -178,15 +178,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  @const {string}\n  @default\n  */",
+    "comment": "/**\r\n  @const {string}\r\n  @default\r\n  */",
     "meta": {
       "range": [
-        908,
-        925
+        954,
+        971
       ],
       "filename": "0-src.js",
       "lineno": 47,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {
         "id": "astnode100000027",
         "name": "this.LOVE",
@@ -208,15 +208,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  @type {string}\n  @default\n  @see \"Uzi like a metal dick in my hand.\"\n  @see \"Magazine like a big testicle gland.\"\n  */",
+    "comment": "/**\r\n  @type {string}\r\n  @default\r\n  @see \"Uzi like a metal dick in my hand.\"\r\n  @see \"Magazine like a big testicle gland.\"\r\n  */",
     "meta": {
       "range": [
-        1056,
-        1081
+        1110,
+        1135
       ],
       "filename": "0-src.js",
       "lineno": 55,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {
         "id": "astnode100000033",
         "name": "this.wannaTryIt",
@@ -242,15 +242,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  override\n  */",
+    "comment": "/**\r\n  override\r\n  */",
     "meta": {
       "range": [
-        1107,
-        1133
+        1166,
+        1192
       ],
       "filename": "0-src.js",
       "lineno": 60,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {
         "id": "astnode100000039",
         "name": "this.spit",
@@ -267,15 +267,15 @@
     "overrides": "Rapper#spit"
   },
   {
-    "comment": "/**\nfire weapon\n@event FurQ#pop\n@param zoop {boolean} - make 'zooping' sound as you fire\n*/",
+    "comment": "/**\r\nfire weapon\r\n@event FurQ#pop\r\n@param zoop {boolean} - make 'zooping' sound as you fire\r\n*/",
     "meta": {
       "range": [
-        1135,
-        1226
+        1196,
+        1291
       ],
       "filename": "0-src.js",
       "lineno": 62,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {}
     },
     "description": "fire weapon",
@@ -297,15 +297,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\nslap man\n@event FurQ#slap\n*/",
+    "comment": "/**\r\nslap man\r\n@event FurQ#slap\r\n*/",
     "meta": {
       "range": [
-        1227,
-        1259
+        1293,
+        1328
       ],
       "filename": "0-src.js",
       "lineno": 67,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {}
     },
     "description": "slap man",
@@ -316,15 +316,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\ncheck if at peace\n@deprecated\n@example var peace = FurQ.peace()\n*/",
+    "comment": "/**\r\ncheck if at peace\r\n@deprecated\r\n@example var peace = FurQ.peace()\r\n*/",
     "meta": {
       "range": [
-        1334,
-        1361
+        1411,
+        1438
       ],
       "filename": "0-src.js",
       "lineno": 78,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {
         "id": "astnode100000046",
         "name": "FurQ.peace",
@@ -344,15 +344,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\nFUR-Q enemy types\n@enum {number}\n@readonly\n*/",
+    "comment": "/**\r\nFUR-Q enemy types\r\n@enum {number}\r\n@readonly\r\n*/",
     "meta": {
       "range": [
-        1413,
-        1501
+        1497,
+        1592
       ],
       "filename": "0-src.js",
       "lineno": 85,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {
         "id": "astnode100000053",
         "name": "FurQ.enemy",
@@ -376,15 +376,15 @@
     "scope": "static",
     "properties": [
       {
-        "comment": "/**\n  an awful individual\n  */",
+        "comment": "/**\r\n  an awful individual\r\n  */",
         "meta": {
           "range": [
-            1463,
-            1470
+            1551,
+            1558
           ],
           "filename": "0-src.js",
           "lineno": 89,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
           "code": {
             "id": "astnode100000058",
             "name": "COCK",
@@ -409,12 +409,12 @@
         "comment": "",
         "meta": {
           "range": [
-            1474,
-            1482
+            1563,
+            1571
           ],
           "filename": "0-src.js",
           "lineno": 90,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
           "code": {
             "id": "astnode100000060",
             "name": "BITCH",
@@ -438,12 +438,12 @@
         "comment": "",
         "meta": {
           "range": [
-            1486,
-            1499
+            1576,
+            1589
           ],
           "filename": "0-src.js",
           "lineno": 91,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
           "code": {
             "id": "astnode100000062",
             "name": "MUTHAFUCKA",
@@ -466,15 +466,15 @@
     ]
   },
   {
-    "comment": "/**\n  an awful individual\n  */",
+    "comment": "/**\r\n  an awful individual\r\n  */",
     "meta": {
       "range": [
-        1463,
-        1470
+        1551,
+        1558
       ],
       "filename": "0-src.js",
       "lineno": 89,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {
         "id": "astnode100000058",
         "name": "COCK",
@@ -499,12 +499,12 @@
     "comment": "",
     "meta": {
       "range": [
-        1474,
-        1482
+        1563,
+        1571
       ],
       "filename": "0-src.js",
       "lineno": 90,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {
         "id": "astnode100000060",
         "name": "BITCH",
@@ -528,12 +528,12 @@
     "comment": "",
     "meta": {
       "range": [
-        1486,
-        1499
+        1576,
+        1589
       ],
       "filename": "0-src.js",
       "lineno": 91,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {
         "id": "astnode100000062",
         "name": "MUTHAFUCKA",
@@ -554,15 +554,15 @@
     "defaultvalue": 2
   },
   {
-    "comment": "/**\nto plant ones fist in a buster's mush\n*/",
+    "comment": "/**\r\nto plant ones fist in a buster's mush\r\n*/",
     "meta": {
       "range": [
-        1548,
-        1568
+        1644,
+        1664
       ],
       "filename": "0-src.js",
       "lineno": 97,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {
         "id": "astnode100000064",
         "name": "plant",
@@ -578,15 +578,15 @@
     "params": []
   },
   {
-    "comment": "/**\nPassed to {@link FurQ#respect}\n@callback FurQ~onRespect\n@param err {Error} - an issue with the punch\n@param gain {*} - the respect percentage gained\n*/",
+    "comment": "/**\r\nPassed to {@link FurQ#respect}\r\n@callback FurQ~onRespect\r\n@param err {Error} - an issue with the punch\r\n@param gain {*} - the respect percentage gained\r\n*/",
     "meta": {
       "range": [
-        1570,
-        1725
+        1668,
+        1828
       ],
       "filename": "0-src.js",
       "lineno": 99,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {}
     },
     "description": "Passed to {@link FurQ#respect}",
@@ -622,15 +622,15 @@
     "scope": "inner"
   },
   {
-    "comment": "/**\n@class\n*/",
+    "comment": "/**\r\n@class\r\n*/",
     "meta": {
       "range": [
-        1741,
-        1861
+        1849,
+        1978
       ],
       "filename": "0-src.js",
       "lineno": 109,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {
         "id": "astnode100000067",
         "name": "Rapper",
@@ -650,15 +650,15 @@
     "params": []
   },
   {
-    "comment": "/**\n  spit\n  */",
+    "comment": "/**\r\n  spit\r\n  */",
     "meta": {
       "range": [
-        1782,
-        1808
+        1894,
+        1920
       ],
       "filename": "0-src.js",
       "lineno": 113,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {
         "id": "astnode100000071",
         "name": "this.spit",
@@ -674,15 +674,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  battle\n  */",
+    "comment": "/**\r\n  battle\r\n  */",
     "meta": {
       "range": [
-        1831,
-        1859
+        1947,
+        1975
       ],
       "filename": "0-src.js",
       "lineno": 117,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {
         "id": "astnode100000078",
         "name": "this.battle",
@@ -698,15 +698,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\ntrain new rappers\n*/",
+    "comment": "/**\r\ntrain new rappers\r\n*/",
     "meta": {
       "range": [
-        1887,
-        2059
+        2008,
+        2192
       ],
       "filename": "0-src.js",
       "lineno": 122,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {
         "id": "astnode100000085",
         "name": "Rapper.train",
@@ -725,15 +725,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n  rap school\n  @class\n  */",
+    "comment": "/**\r\n  rap school\r\n  @class\r\n  */",
     "meta": {
       "range": [
-        1951,
-        2035
+        2077,
+        2166
       ],
       "filename": "0-src.js",
       "lineno": 127,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {
         "id": "astnode100000091",
         "name": "School",
@@ -753,15 +753,15 @@
     "params": []
   },
   {
-    "comment": "/**\n    best student\n    */",
+    "comment": "/**\r\n    best student\r\n    */",
     "meta": {
       "range": [
-        2008,
-        2031
+        2138,
+        2161
       ],
       "filename": "0-src.js",
       "lineno": 131,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {
         "id": "astnode100000095",
         "name": "this.bestStudent",
@@ -781,19 +781,19 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq\\0-src.js"
     ]
   },
   {
-    "comment": "/**\n  battle\n  */",
+    "comment": "/**\r\n  battle\r\n  */",
     "meta": {
       "range": [
-        1831,
-        1859
+        1947,
+        1975
       ],
       "filename": "0-src.js",
       "lineno": 117,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {
         "id": "astnode100000078",
         "name": "this.battle",
@@ -811,15 +811,15 @@
     "inherited": true
   },
   {
-    "comment": "/**\nto plant ones fist in a buster's mush\n*/",
+    "comment": "/**\r\nto plant ones fist in a buster's mush\r\n*/",
     "meta": {
       "range": [
-        1548,
-        1568
+        1644,
+        1664
       ],
       "filename": "0-src.js",
       "lineno": 97,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-furq",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-furq",
       "code": {
         "id": "astnode100000064",
         "name": "plant",

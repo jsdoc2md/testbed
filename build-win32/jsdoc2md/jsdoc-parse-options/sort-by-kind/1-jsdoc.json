@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * one\n * @typedef {(number|string)} one\n */",
+    "comment": "/**\r\n * one\r\n * @typedef {(number|string)} one\r\n */",
     "meta": {
       "range": [
         0,
-        48
+        51
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {}
     },
     "description": "one",
@@ -24,15 +24,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n * two\n * @mixin\n */",
+    "comment": "/**\r\n * two\r\n * @mixin\r\n */",
     "meta": {
       "range": [
-        79,
-        344
+        88,
+        375
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {
         "id": "astnode100000002",
         "name": "two",
@@ -47,15 +47,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n   * two_one\n   * @returns {number}\n   */",
+    "comment": "/**\r\n   * two_one\r\n   * @returns {number}\r\n   */",
     "meta": {
       "range": [
-        137,
-        160
+        151,
+        174
       ],
       "filename": "0-src.js",
       "lineno": 15,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {
         "id": "astnode100000005",
         "name": "two_one",
@@ -79,15 +79,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n   * two_two\n   * @type {number}\n   */",
+    "comment": "/**\r\n   * two_two\r\n   * @type {number}\r\n   */",
     "meta": {
       "range": [
-        209,
-        219
+        228,
+        238
       ],
       "filename": "0-src.js",
       "lineno": 20,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {
         "id": "astnode100000008",
         "name": "two_two",
@@ -108,15 +108,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n   * two_three\n   * @namespace\n   */",
+    "comment": "/**\r\n   * two_three\r\n   * @namespace\r\n   */",
     "meta": {
       "range": [
-        266,
-        279
+        290,
+        303
       ],
       "filename": "0-src.js",
       "lineno": 25,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {
         "id": "astnode100000010",
         "name": "two_three",
@@ -132,15 +132,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n   * two_four\n   * @const {number}\n   */",
+    "comment": "/**\r\n   * two_four\r\n   * @const {number}\r\n   */",
     "meta": {
       "range": [
-        331,
-        342
+        361,
+        372
       ],
       "filename": "0-src.js",
       "lineno": 31,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {
         "id": "astnode100000012",
         "name": "two_four",
@@ -161,15 +161,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n * three\n * @enum\n */",
+    "comment": "/**\r\n * three\r\n * @enum\r\n */",
     "meta": {
       "range": [
-        376,
-        408
+        413,
+        448
       ],
       "filename": "0-src.js",
       "lineno": 38,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {
         "id": "astnode100000015",
         "name": "three",
@@ -188,12 +188,12 @@
         "comment": "",
         "meta": {
           "range": [
-            388,
-            395
+            426,
+            433
           ],
           "filename": "0-src.js",
           "lineno": 39,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
           "code": {
             "id": "astnode100000018",
             "name": "THIS",
@@ -212,12 +212,12 @@
         "comment": "",
         "meta": {
           "range": [
-            399,
-            406
+            438,
+            445
           ],
           "filename": "0-src.js",
           "lineno": 40,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
           "code": {
             "id": "astnode100000020",
             "name": "THAT",
@@ -238,12 +238,12 @@
     "comment": "",
     "meta": {
       "range": [
-        388,
-        395
+        426,
+        433
       ],
       "filename": "0-src.js",
       "lineno": 39,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {
         "id": "astnode100000018",
         "name": "THIS",
@@ -262,12 +262,12 @@
     "comment": "",
     "meta": {
       "range": [
-        399,
-        406
+        438,
+        445
       ],
       "filename": "0-src.js",
       "lineno": 40,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {
         "id": "astnode100000020",
         "name": "THAT",
@@ -283,15 +283,15 @@
     "defaultvalue": 1
   },
   {
-    "comment": "/**\n * four\n * @returns {number}\n */",
+    "comment": "/**\r\n * four\r\n * @returns {number}\r\n */",
     "meta": {
       "range": [
-        451,
-        472
+        497,
+        518
       ],
       "filename": "0-src.js",
       "lineno": 47,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {
         "id": "astnode100000023",
         "name": "four",
@@ -314,15 +314,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n * five\n * @const {number}\n */",
+    "comment": "/**\r\n * five\r\n * @const {number}\r\n */",
     "meta": {
       "range": [
-        513,
-        521
+        565,
+        573
       ],
       "filename": "0-src.js",
       "lineno": 53,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {
         "id": "astnode100000028",
         "name": "five",
@@ -342,15 +342,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n * six\n * @class\n */",
+    "comment": "/**\r\n * six\r\n * @class\r\n */",
     "meta": {
       "range": [
-        548,
-        713
+        606,
+        783
       ],
       "filename": "0-src.js",
       "lineno": 59,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {
         "id": "astnode100000031",
         "name": "six",
@@ -371,15 +371,15 @@
     "params": []
   },
   {
-    "comment": "/**\n   * six_one\n   * @const {number}\n   */",
+    "comment": "/**\r\n   * six_one\r\n   * @const {number}\r\n   */",
     "meta": {
       "range": [
-        614,
-        630
+        677,
+        693
       ],
       "filename": "0-src.js",
       "lineno": 64,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {
         "id": "astnode100000035",
         "name": "this.six_one",
@@ -401,15 +401,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n   * six_two\n   * @returns {number}\n   */",
+    "comment": "/**\r\n   * six_two\r\n   * @returns {number}\r\n   */",
     "meta": {
       "range": [
-        682,
-        711
+        751,
+        780
       ],
       "filename": "0-src.js",
       "lineno": 70,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {
         "id": "astnode100000041",
         "name": "this.six_two",
@@ -434,15 +434,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n * six_static_one\n * @namespace\n */",
+    "comment": "/**\r\n * six_static_one\r\n * @namespace\r\n */",
     "meta": {
       "range": [
-        754,
-        777
+        829,
+        852
       ],
       "filename": "0-src.js",
       "lineno": 76,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {
         "id": "astnode100000048",
         "name": "six.six_static_one",
@@ -459,15 +459,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n * six_static_two\n * @mixin\n */",
+    "comment": "/**\r\n * six_static_two\r\n * @mixin\r\n */",
     "meta": {
       "range": [
-        815,
-        838
+        896,
+        919
       ],
       "filename": "0-src.js",
       "lineno": 82,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {
         "id": "astnode100000054",
         "name": "six.six_static_two",
@@ -484,15 +484,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n * six_static_three\n * @type {number}\n */",
+    "comment": "/**\r\n * six_static_three\r\n * @type {number}\r\n */",
     "meta": {
       "range": [
-        886,
-        910
+        973,
+        997
       ],
       "filename": "0-src.js",
       "lineno": 88,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {
         "id": "astnode100000060",
         "name": "six.six_static_three",
@@ -514,15 +514,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n * seven\n * @type {number}\n */",
+    "comment": "/**\r\n * seven\r\n * @type {number}\r\n */",
     "meta": {
       "range": [
-        951,
-        960
+        1044,
+        1053
       ],
       "filename": "0-src.js",
       "lineno": 94,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {
         "id": "astnode100000066",
         "name": "seven",
@@ -542,15 +542,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n * eight\n * @namespace\n */",
+    "comment": "/**\r\n * eight\r\n * @namespace\r\n */",
     "meta": {
       "range": [
-        997,
-        1007
+        1096,
+        1106
       ],
       "filename": "0-src.js",
       "lineno": 100,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {
         "id": "astnode100000070",
         "name": "eight",
@@ -565,15 +565,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n * nine\n * @returns {number}\n */",
+    "comment": "/**\r\n * nine\r\n * @returns {number}\r\n */",
     "meta": {
       "range": [
-        1050,
-        1071
+        1155,
+        1176
       ],
       "filename": "0-src.js",
       "lineno": 106,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {
         "id": "astnode100000074",
         "name": "nine",
@@ -596,15 +596,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n * ten\n * @event ten\n*/",
+    "comment": "/**\r\n * ten\r\n * @event ten\r\n*/",
     "meta": {
       "range": [
-        1073,
-        1100
+        1180,
+        1210
       ],
       "filename": "0-src.js",
       "lineno": 108,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {}
     },
     "description": "ten",
@@ -614,15 +614,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n * eleven\n * @external eleven\n */",
+    "comment": "/**\r\n * eleven\r\n * @external eleven\r\n */",
     "meta": {
       "range": [
-        1102,
-        1139
+        1214,
+        1254
       ],
       "filename": "0-src.js",
       "lineno": 113,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {}
     },
     "description": "eleven",
@@ -632,15 +632,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n * twelve\n * @returns {function}\n */",
+    "comment": "/**\r\n * twelve\r\n * @returns {function}\r\n */",
     "meta": {
       "range": [
-        1186,
-        1209
+        1307,
+        1330
       ],
       "filename": "0-src.js",
       "lineno": 122,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {
         "id": "astnode100000079",
         "name": "twelve",
@@ -663,15 +663,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n * thirteen\n * @type {number}\n */",
+    "comment": "/**\r\n * thirteen\r\n * @type {number}\r\n */",
     "meta": {
       "range": [
-        1253,
-        1265
+        1380,
+        1392
       ],
       "filename": "0-src.js",
       "lineno": 128,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind",
       "code": {
         "id": "astnode100000084",
         "name": "thirteen",
@@ -694,7 +694,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\jsdoc-parse-options\\sort-by-kind\\0-src.js"
     ]
   }
 ]

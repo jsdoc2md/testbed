@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\na global var with a @see \n@see something or other\n*/",
+    "comment": "/**\r\na global var with a @see \r\n@see something or other\r\n*/",
     "meta": {
       "range": [
-        61,
-        85
+        65,
+        89
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/see",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\see",
       "code": {
         "id": "astnode100000002",
         "name": "seeableVar",
@@ -26,15 +26,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n * Both of these will link to the bar function.\n * @see {@link seebar}\n * @see bar\n */",
+    "comment": "/**\r\n * Both of these will link to the bar function.\r\n * @see {@link seebar}\r\n * @see bar\r\n */",
     "meta": {
       "range": [
-        178,
-        199
+        189,
+        210
       ],
       "filename": "0-src.js",
       "lineno": 12,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/see",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\see",
       "code": {
         "id": "astnode100000005",
         "name": "seefoo",
@@ -54,15 +54,15 @@
     "params": []
   },
   {
-    "comment": "/**\n * @see {@link seefoo} for further information.\n * @see {@link http://github.com|GitHub}\n */",
+    "comment": "/**\r\n * @see {@link seefoo} for further information.\r\n * @see {@link http://github.com|GitHub}\r\n */",
     "meta": {
       "range": [
-        378,
-        399
+        396,
+        417
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/see",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\see",
       "code": {
         "id": "astnode100000008",
         "name": "seebar",
@@ -84,7 +84,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/see/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\see\\0-src.js"
     ]
   }
 ]

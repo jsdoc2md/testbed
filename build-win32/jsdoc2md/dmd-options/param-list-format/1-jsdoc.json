@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * Pump an idiot full of volts\n * @deprecated\n * @param {object | array} - the victim(s) to fry\n * @param [options] {object} - electricution options\n * @param [options.strength=11] {number} - strength\n * @param [options.crazyHair=true] {number} - optional spikey hair effect\n * @param [options.origin] {object} - origin details\n * @param [options.origin.country] {string} - the country of origin\n * @param [done] {function} - callback on slump, which has:\n * - devestating power\n * - an unusual aftertaste\n */",
+    "comment": "/**\r\n * Pump an idiot full of volts\r\n * @deprecated\r\n * @param {object | array} - the victim(s) to fry\r\n * @param [options] {object} - electricution options\r\n * @param [options.strength=11] {number} - strength\r\n * @param [options.crazyHair=true] {number} - optional spikey hair effect\r\n * @param [options.origin] {object} - origin details\r\n * @param [options.origin.country] {string} - the country of origin\r\n * @param [done] {function} - callback on slump, which has:\r\n * - devestating power\r\n * - an unusual aftertaste\r\n */",
     "meta": {
       "range": [
-        514,
-        554
+        527,
+        567
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/param-list-format",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\param-list-format",
       "code": {
         "id": "astnode100000001",
         "name": "taze",
@@ -92,7 +92,7 @@
           ]
         },
         "optional": true,
-        "description": "callback on slump, which has:\n- devestating power\n- an unusual aftertaste",
+        "description": "callback on slump, which has:\r- devestating power\r- an unusual aftertaste",
         "name": "done"
       }
     ],
@@ -102,15 +102,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n * this func has no params\n */",
+    "comment": "/**\r\n * this func has no params\r\n */",
     "meta": {
       "range": [
-        591,
-        614
+        609,
+        632
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/param-list-format",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\param-list-format",
       "code": {
         "id": "astnode100000007",
         "name": "noParams",
@@ -129,7 +129,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/param-list-format/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\param-list-format\\0-src.js"
     ]
   }
 ]

@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n@param {object} options - the function options\n@param {string} options.one - first option\n@param {string} options.two - second option\n*/",
+    "comment": "/**\r\n@param {object} options - the function options\r\n@param {string} options.one - first option\r\n@param {string} options.two - second option\r\n*/",
     "meta": {
       "range": [
-        141,
-        174
+        146,
+        179
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/options",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\options",
       "code": {
         "id": "astnode100000001",
         "name": "doSomething",
@@ -53,15 +53,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@param {{one: string, two: string}} options - the function options\n*/",
+    "comment": "/**\r\n@param {{one: string, two: string}} options - the function options\r\n*/",
     "meta": {
       "range": [
-        250,
-        281
+        260,
+        291
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/options",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\options",
       "code": {
         "id": "astnode100000005",
         "name": "doAnother",
@@ -91,7 +91,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/options/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\options\\0-src.js"
     ]
   }
 ]

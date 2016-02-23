@@ -6,12 +6,12 @@
     "kind": "module",
     "description": "This module exports a simple maths function",
     "examples": [
-      "```js\nvar sum = require(\"sum-alias\")\n```"
+      "```js\r\nvar sum = require(\"sum-alias\")\r\n```"
     ],
     "meta": {
       "lineno": 1,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/function-alias2"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\function-alias2"
     },
     "order": 0
   },
@@ -45,7 +45,7 @@
       }
     ],
     "examples": [
-      "```js\nvar result = sum(1, 1)\n```"
+      "```js\r\nvar result = sum(1, 1)\r\n```"
     ],
     "returns": [
       {
@@ -60,7 +60,7 @@
     "meta": {
       "lineno": 22,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/function-alias2"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\function-alias2"
     },
     "order": 1
   }

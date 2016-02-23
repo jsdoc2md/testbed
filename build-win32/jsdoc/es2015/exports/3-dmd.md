@@ -34,8 +34,7 @@ Blend two colors together.
 Get the red, green, and blue values of a color.
 
 **Kind**: static method of <code>[color/mixer](#module_color/mixer)</code>  
-**Returns**: <code>Array</code> - An array of the red, green, and blue values,
-each ranging from 0 to 255.  
+**Returns**: <code>Array</code> - An array of the red, green, and blue values,each ranging from 0 to 255.  
 
 | Param | Type | Description |
 | --- | --- | --- |

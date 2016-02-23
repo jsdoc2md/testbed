@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\nthe first important constant\n@constant {number}\n*/",
+    "comment": "/**\r\nthe first important constant\r\n@constant {number}\r\n*/",
     "meta": {
       "range": [
-        59,
-        72
+        63,
+        76
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/constants",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\constants",
       "code": {
         "id": "astnode100000002",
         "name": "CONST_ONE",
@@ -28,15 +28,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\nThis variable has all tags set\n@deprecated\n@constant {boolean}\n@readonly\n@author Lloyd Brookes <lloyd@brookes.com>\n@since v0.10.28\n@example\n```js\nvar CONST_TWO = true\n```\n*/",
+    "comment": "/**\r\nThis variable has all tags set\r\n@deprecated\r\n@constant {boolean}\r\n@readonly\r\n@author Lloyd Brookes <lloyd@brookes.com>\r\n@since v0.10.28\r\n@example\r\n```js\r\nvar CONST_TWO = true\r\n```\r\n*/",
     "meta": {
       "range": [
-        256,
-        273
+        274,
+        291
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/constants",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\constants",
       "code": {
         "id": "astnode100000006",
         "name": "CONST_TWO",
@@ -58,7 +58,7 @@
     ],
     "since": "v0.10.28",
     "examples": [
-      "```js\nvar CONST_TWO = true\n```"
+      "```js\r\nvar CONST_TWO = true\r\n```"
     ],
     "name": "CONST_TWO",
     "longname": "CONST_TWO",
@@ -68,7 +68,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/constants/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\constants\\0-src.js"
     ]
   }
 ]

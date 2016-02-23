@@ -20,7 +20,7 @@
     "meta": {
       "lineno": 36,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/external"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\external"
     },
     "order": 6
   },
@@ -38,7 +38,7 @@
     "meta": {
       "lineno": 45,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/external"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\external"
     },
     "order": 8
   },
@@ -56,7 +56,7 @@
     "meta": {
       "lineno": 50,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/external"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\external"
     },
     "order": 9
   },
@@ -72,7 +72,7 @@
     "meta": {
       "lineno": 1,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/external"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\external"
     },
     "order": 0
   },
@@ -88,7 +88,7 @@
     "meta": {
       "lineno": 6,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/external"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\external"
     },
     "order": 1
   },
@@ -105,7 +105,7 @@
     "meta": {
       "lineno": 19,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/external"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\external"
     },
     "order": 3
   },
@@ -122,7 +122,7 @@
     "meta": {
       "lineno": 30,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/external"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\external"
     },
     "order": 5
   },
@@ -135,12 +135,12 @@
     "description": "Adds a new method to the built-in string.",
     "memberof": "external:String",
     "examples": [
-      "var greeting = new String('hello world')\nconsole.log( greeting.rot13() ) // uryyb jbeyq"
+      "var greeting = new String('hello world')\rconsole.log( greeting.rot13() ) // uryyb jbeyq"
     ],
     "meta": {
       "lineno": 11,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/external"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\external"
     },
     "order": 2
   },
@@ -155,7 +155,7 @@
     "meta": {
       "lineno": 25,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/external"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\external"
     },
     "order": 4
   }

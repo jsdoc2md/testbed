@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n@class\n@classdesc Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\n\n- some markdown\n- in the module\n- description\n\n@summary It's an animal, yeah? \n@param {array} - an array of two parent {@link Animal} objects\n@param {Species} - the species\n*/",
+    "comment": "/**\r\n@class\r\n@classdesc Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\r\n\r\n- some markdown\r\n- in the module\r\n- description\r\n\r\n@summary It's an animal, yeah? \r\n@param {array} - an array of two parent {@link Animal} objects\r\n@param {Species} - the species\r\n*/",
     "meta": {
       "range": [
-        598,
-        763
+        610,
+        787
       ],
       "filename": "animal.js",
       "lineno": 13,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000001",
         "name": "Animal",
@@ -24,7 +24,7 @@
       }
     },
     "kind": "class",
-    "classdesc": "Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\n\n- some markdown\n- in the module\n- description",
+    "classdesc": "Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\r\n\r\n- some markdown\r\n- in the module\r\n- description",
     "summary": "It's an animal, yeah?",
     "params": [
       {
@@ -51,15 +51,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n  the current age\n  @type {number}\n  @default\n  */",
+    "comment": "/**\r\n  the current age\r\n  @type {number}\r\n  @default\r\n  */",
     "meta": {
       "range": [
-        694,
-        706
+        712,
+        724
       ],
       "filename": "animal.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000007",
         "name": "this.age",
@@ -82,15 +82,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  @type {Species}\n  */",
+    "comment": "/**\r\n  @type {Species}\r\n  */",
     "meta": {
       "range": [
-        739,
-        761
+        762,
+        784
       ],
       "filename": "animal.js",
       "lineno": 24,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000013",
         "name": "this.species",
@@ -111,15 +111,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\nAnimal moods\n@enum \n*/",
+    "comment": "/**\r\nAnimal moods\r\n@enum \r\n*/",
     "meta": {
       "range": [
-        792,
-        909
+        822,
+        946
       ],
       "filename": "animal.js",
       "lineno": 31,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000019",
         "name": "Animal.eMood",
@@ -140,12 +140,12 @@
         "comment": "/** chilling */",
         "meta": {
           "range": [
-            829,
-            841
+            861,
+            873
           ],
           "filename": "animal.js",
           "lineno": 33,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
           "code": {
             "id": "astnode100000024",
             "name": "satisfied",
@@ -165,12 +165,12 @@
         "comment": "/** pissed off */",
         "meta": {
           "range": [
-            865,
-            873
+            899,
+            907
           ],
           "filename": "animal.js",
           "lineno": 35,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
           "code": {
             "id": "astnode100000026",
             "name": "angry",
@@ -190,12 +190,12 @@
         "comment": "/** need to eat */",
         "meta": {
           "range": [
-            898,
-            907
+            934,
+            943
           ],
           "filename": "animal.js",
           "lineno": 37,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
           "code": {
             "id": "astnode100000028",
             "name": "hungry",
@@ -217,12 +217,12 @@
     "comment": "/** chilling */",
     "meta": {
       "range": [
-        829,
-        841
+        861,
+        873
       ],
       "filename": "animal.js",
       "lineno": 33,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000024",
         "name": "satisfied",
@@ -242,12 +242,12 @@
     "comment": "/** pissed off */",
     "meta": {
       "range": [
-        865,
-        873
+        899,
+        907
       ],
       "filename": "animal.js",
       "lineno": 35,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000026",
         "name": "angry",
@@ -267,12 +267,12 @@
     "comment": "/** need to eat */",
     "meta": {
       "range": [
-        898,
-        907
+        934,
+        943
       ],
       "filename": "animal.js",
       "lineno": 37,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000028",
         "name": "hungry",
@@ -289,15 +289,15 @@
     "defaultvalue": 2
   },
   {
-    "comment": "/**\n@file\n@copyright Chris Morris 1994\n*/",
+    "comment": "/**\r\n@file\r\n@copyright Chris Morris 1994\r\n*/",
     "meta": {
       "range": [
         0,
-        41
+        44
       ],
       "filename": "furq.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {}
     },
     "name": "furq.js",
@@ -308,15 +308,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\nShe's an Uzi lover.\n\n![uzi](https://sampleface.co.uk/wp-content/uploads/2013/07/fur-q-uzi-lover.png)\n\n@class\n@classdesc C\\*ck, b!tch, c\\*ck, b!tch, m\\*therf!cker. You gotta kill people, to respect people.\n@see https://www.youtube.com/watch?v=1sxZ4tsp8gc\n@public\n@extends Rapper\n@author Chris Morris\n@borrows plant as #punch\n@fires FurQ#pop\n@fires FurQ#slap\n@example var uziLover = require(\"FurQ\")\n*/",
+    "comment": "/**\r\nShe's an Uzi lover.\r\n\r\n![uzi](https://sampleface.co.uk/wp-content/uploads/2013/07/fur-q-uzi-lover.png)\r\n\r\n@class\r\n@classdesc C\\*ck, b!tch, c\\*ck, b!tch, m\\*therf!cker. You gotta kill people, to respect people.\r\n@see https://www.youtube.com/watch?v=1sxZ4tsp8gc\r\n@public\r\n@extends Rapper\r\n@author Chris Morris\r\n@borrows plant as #punch\r\n@fires FurQ#pop\r\n@fires FurQ#slap\r\n@example var uziLover = require(\"FurQ\")\r\n*/",
     "meta": {
       "range": [
-        447,
-        1261
+        468,
+        1331
       ],
       "filename": "furq.js",
       "lineno": 22,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000031",
         "name": "FurQ",
@@ -333,7 +333,7 @@
         "this.spit": "FurQ#spit"
       }
     },
-    "description": "She's an Uzi lover.\n\n![uzi](https://sampleface.co.uk/wp-content/uploads/2013/07/fur-q-uzi-lover.png)",
+    "description": "She's an Uzi lover.\r\n\r\n![uzi](https://sampleface.co.uk/wp-content/uploads/2013/07/fur-q-uzi-lover.png)",
     "kind": "class",
     "classdesc": "C\\*ck, b!tch, c\\*ck, b!tch, m\\*therf!cker. You gotta kill people, to respect people.",
     "see": [
@@ -359,15 +359,15 @@
     "params": []
   },
   {
-    "comment": "/**\n  kill\n  @category standard\n  @example var kill = uziLover.kill()\n  @example uziLover.kill()\n  */",
+    "comment": "/**\r\n  kill\r\n  @category standard\r\n  @example var kill = uziLover.kill()\r\n  @example uziLover.kill()\r\n  */",
     "meta": {
       "range": [
-        572,
-        598
+        600,
+        626
       ],
       "filename": "furq.js",
       "lineno": 29,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000035",
         "name": "this.kill",
@@ -385,7 +385,7 @@
       }
     ],
     "examples": [
-      "var kill = uziLover.kill()\n  ",
+      "var kill = uziLover.kill()\r\n  ",
       "uziLover.kill()"
     ],
     "name": "kill",
@@ -395,15 +395,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  * respect\n  * @category standard\n  * @param {FurQ~onRespect} - called on reciprocation of respect\n  * @example\n  * uziLover.respect(function(err, gain){\n  *     console.log(gain)\n  * })\n  */",
+    "comment": "/**\r\n  * respect\r\n  * @category standard\r\n  * @param {FurQ~onRespect} - called on reciprocation of respect\r\n  * @example\r\n  * uziLover.respect(function(err, gain){\r\n  *     console.log(gain)\r\n  * })\r\n  */",
     "meta": {
       "range": [
-        800,
-        833
+        838,
+        871
       ],
       "filename": "furq.js",
       "lineno": 39,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000042",
         "name": "this.respect",
@@ -434,7 +434,7 @@
       }
     ],
     "examples": [
-      "uziLover.respect(function(err, gain){\n    console.log(gain)\n})"
+      "uziLover.respect(function(err, gain){\r    console.log(gain)\r})"
     ],
     "name": "respect",
     "longname": "FurQ#respect",
@@ -446,12 +446,12 @@
     "comment": "",
     "meta": {
       "range": [
-        837,
-        864
+        877,
+        904
       ],
       "filename": "furq.js",
       "lineno": 41,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000050",
         "name": "this.punch",
@@ -467,15 +467,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  @const {string}\n  @default\n  */",
+    "comment": "/**\r\n  @const {string}\r\n  @default\r\n  */",
     "meta": {
       "range": [
-        908,
-        925
+        954,
+        971
       ],
       "filename": "furq.js",
       "lineno": 47,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000057",
         "name": "this.LOVE",
@@ -497,15 +497,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  @type {string}\n  @default\n  @see \"Uzi like a metal dick in my hand.\"\n  @see \"Magazine like a big testicle gland.\"\n  */",
+    "comment": "/**\r\n  @type {string}\r\n  @default\r\n  @see \"Uzi like a metal dick in my hand.\"\r\n  @see \"Magazine like a big testicle gland.\"\r\n  */",
     "meta": {
       "range": [
-        1056,
-        1081
+        1110,
+        1135
       ],
       "filename": "furq.js",
       "lineno": 55,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000063",
         "name": "this.wannaTryIt",
@@ -531,15 +531,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  override\n  */",
+    "comment": "/**\r\n  override\r\n  */",
     "meta": {
       "range": [
-        1107,
-        1133
+        1166,
+        1192
       ],
       "filename": "furq.js",
       "lineno": 60,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000069",
         "name": "this.spit",
@@ -556,15 +556,15 @@
     "overrides": "Rapper#spit"
   },
   {
-    "comment": "/**\nfire weapon\n@event FurQ#pop\n@param zoop {boolean} - make 'zooping' sound as you fire\n*/",
+    "comment": "/**\r\nfire weapon\r\n@event FurQ#pop\r\n@param zoop {boolean} - make 'zooping' sound as you fire\r\n*/",
     "meta": {
       "range": [
-        1135,
-        1226
+        1196,
+        1291
       ],
       "filename": "furq.js",
       "lineno": 62,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {}
     },
     "description": "fire weapon",
@@ -586,15 +586,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\nslap man\n@event FurQ#slap\n*/",
+    "comment": "/**\r\nslap man\r\n@event FurQ#slap\r\n*/",
     "meta": {
       "range": [
-        1227,
-        1259
+        1293,
+        1328
       ],
       "filename": "furq.js",
       "lineno": 67,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {}
     },
     "description": "slap man",
@@ -605,15 +605,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\ncheck if at peace\n@deprecated\n@example var peace = FurQ.peace()\n*/",
+    "comment": "/**\r\ncheck if at peace\r\n@deprecated\r\n@example var peace = FurQ.peace()\r\n*/",
     "meta": {
       "range": [
-        1334,
-        1361
+        1411,
+        1438
       ],
       "filename": "furq.js",
       "lineno": 78,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000076",
         "name": "FurQ.peace",
@@ -633,15 +633,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\nFUR-Q enemy types\n@enum {number}\n@readonly\n*/",
+    "comment": "/**\r\nFUR-Q enemy types\r\n@enum {number}\r\n@readonly\r\n*/",
     "meta": {
       "range": [
-        1413,
-        1501
+        1497,
+        1592
       ],
       "filename": "furq.js",
       "lineno": 85,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000083",
         "name": "FurQ.enemy",
@@ -665,15 +665,15 @@
     "scope": "static",
     "properties": [
       {
-        "comment": "/**\n  an awful individual\n  */",
+        "comment": "/**\r\n  an awful individual\r\n  */",
         "meta": {
           "range": [
-            1463,
-            1470
+            1551,
+            1558
           ],
           "filename": "furq.js",
           "lineno": 89,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
           "code": {
             "id": "astnode100000088",
             "name": "COCK",
@@ -698,12 +698,12 @@
         "comment": "",
         "meta": {
           "range": [
-            1474,
-            1482
+            1563,
+            1571
           ],
           "filename": "furq.js",
           "lineno": 90,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
           "code": {
             "id": "astnode100000090",
             "name": "BITCH",
@@ -727,12 +727,12 @@
         "comment": "",
         "meta": {
           "range": [
-            1486,
-            1499
+            1576,
+            1589
           ],
           "filename": "furq.js",
           "lineno": 91,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
           "code": {
             "id": "astnode100000092",
             "name": "MUTHAFUCKA",
@@ -755,15 +755,15 @@
     ]
   },
   {
-    "comment": "/**\n  an awful individual\n  */",
+    "comment": "/**\r\n  an awful individual\r\n  */",
     "meta": {
       "range": [
-        1463,
-        1470
+        1551,
+        1558
       ],
       "filename": "furq.js",
       "lineno": 89,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000088",
         "name": "COCK",
@@ -788,12 +788,12 @@
     "comment": "",
     "meta": {
       "range": [
-        1474,
-        1482
+        1563,
+        1571
       ],
       "filename": "furq.js",
       "lineno": 90,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000090",
         "name": "BITCH",
@@ -817,12 +817,12 @@
     "comment": "",
     "meta": {
       "range": [
-        1486,
-        1499
+        1576,
+        1589
       ],
       "filename": "furq.js",
       "lineno": 91,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000092",
         "name": "MUTHAFUCKA",
@@ -843,15 +843,15 @@
     "defaultvalue": 2
   },
   {
-    "comment": "/**\nto plant ones fist in a buster's mush\n*/",
+    "comment": "/**\r\nto plant ones fist in a buster's mush\r\n*/",
     "meta": {
       "range": [
-        1548,
-        1568
+        1644,
+        1664
       ],
       "filename": "furq.js",
       "lineno": 97,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000094",
         "name": "plant",
@@ -867,15 +867,15 @@
     "params": []
   },
   {
-    "comment": "/**\nPassed to {@link FurQ#respect}\n@callback FurQ~onRespect\n@param err {Error} - an issue with the punch\n@param gain {*} - the respect percentage gained\n*/",
+    "comment": "/**\r\nPassed to {@link FurQ#respect}\r\n@callback FurQ~onRespect\r\n@param err {Error} - an issue with the punch\r\n@param gain {*} - the respect percentage gained\r\n*/",
     "meta": {
       "range": [
-        1570,
-        1725
+        1668,
+        1828
       ],
       "filename": "furq.js",
       "lineno": 99,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {}
     },
     "description": "Passed to {@link FurQ#respect}",
@@ -911,15 +911,15 @@
     "scope": "inner"
   },
   {
-    "comment": "/**\n@class\n*/",
+    "comment": "/**\r\n@class\r\n*/",
     "meta": {
       "range": [
-        1741,
-        1861
+        1849,
+        1978
       ],
       "filename": "furq.js",
       "lineno": 109,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000097",
         "name": "Rapper",
@@ -939,15 +939,15 @@
     "params": []
   },
   {
-    "comment": "/**\n  spit\n  */",
+    "comment": "/**\r\n  spit\r\n  */",
     "meta": {
       "range": [
-        1782,
-        1808
+        1894,
+        1920
       ],
       "filename": "furq.js",
       "lineno": 113,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000101",
         "name": "this.spit",
@@ -963,15 +963,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  battle\n  */",
+    "comment": "/**\r\n  battle\r\n  */",
     "meta": {
       "range": [
-        1831,
-        1859
+        1947,
+        1975
       ],
       "filename": "furq.js",
       "lineno": 117,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000108",
         "name": "this.battle",
@@ -987,15 +987,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\ntrain new rappers\n*/",
+    "comment": "/**\r\ntrain new rappers\r\n*/",
     "meta": {
       "range": [
-        1887,
-        2059
+        2008,
+        2192
       ],
       "filename": "furq.js",
       "lineno": 122,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000115",
         "name": "Rapper.train",
@@ -1014,15 +1014,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n  rap school\n  @class\n  */",
+    "comment": "/**\r\n  rap school\r\n  @class\r\n  */",
     "meta": {
       "range": [
-        1951,
-        2035
+        2077,
+        2166
       ],
       "filename": "furq.js",
       "lineno": 127,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000121",
         "name": "School",
@@ -1042,15 +1042,15 @@
     "params": []
   },
   {
-    "comment": "/**\n    best student\n    */",
+    "comment": "/**\r\n    best student\r\n    */",
     "meta": {
       "range": [
-        2008,
-        2031
+        2138,
+        2161
       ],
       "filename": "furq.js",
       "lineno": 131,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000125",
         "name": "this.bestStudent",
@@ -1067,15 +1067,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n@class\n@classdesc A multi-line\nclass description\n*/",
+    "comment": "/**\r\n@class\r\n@classdesc A multi-line\r\nclass description\r\n*/",
     "meta": {
       "range": [
-        56,
-        374
+        61,
+        396
       ],
       "filename": "newlines.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000134",
         "name": "NewLines",
@@ -1089,22 +1089,22 @@
       }
     },
     "kind": "class",
-    "classdesc": "A multi-line\nclass description",
+    "classdesc": "A multi-line\r\nclass description",
     "name": "NewLines",
     "longname": "NewLines",
     "scope": "global",
     "params": []
   },
   {
-    "comment": "/**\n  @param {string} - a param description \n  with an awkward newline\n  or two. \n  @returns {number} the returns\n  description also \n  has newlines\n  */",
+    "comment": "/**\r\n  @param {string} - a param description \r\n  with an awkward newline\r\n  or two. \r\n  @returns {number} the returns\r\n  description also \r\n  has newlines\r\n  */",
     "meta": {
       "range": [
-        237,
-        270
+        251,
+        284
       ],
       "filename": "newlines.js",
       "lineno": 15,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000138",
         "name": "this.method",
@@ -1121,7 +1121,7 @@
             "string"
           ]
         },
-        "description": "a param description \n  with an awkward newline\n  or two.",
+        "description": "a param description \r\n  with an awkward newline\r\n  or two.",
         "name": "input"
       }
     ],
@@ -1132,7 +1132,7 @@
             "number"
           ]
         },
-        "description": "the returns\n  description also \n  has newlines"
+        "description": "the returns\r\n  description also \r\n  has newlines"
       }
     ],
     "name": "method",
@@ -1142,15 +1142,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  @property one {number} - a property\n  with newlines for \n  a change\n  */",
+    "comment": "/**\r\n  @property one {number} - a property\r\n  with newlines for \r\n  a change\r\n  */",
     "meta": {
       "range": [
-        355,
-        372
+        376,
+        393
       ],
       "filename": "newlines.js",
       "lineno": 22,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000146",
         "name": "this.numbers",
@@ -1166,7 +1166,7 @@
             "number"
           ]
         },
-        "description": "a property\n  with newlines for \n  a change",
+        "description": "a property\r\n  with newlines for \r\n  a change",
         "name": "one"
       }
     ],
@@ -1177,15 +1177,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n@class\n@classdesc In biology, a species (abbreviated sp., with the plural form species abbreviated spp.) is one of the basic units of biological classification and a taxonomic rank. A species is often defined as the largest group of organisms capable of interbreeding and producing fertile offspring. While in many cases this definition is adequate, the difficulty of defining species is known as the species problem. Differing measures are often used, such as similarity of DNA, morphology, or ecological niche. Presence of specific locally adapted traits may further subdivide species into \"infraspecific taxa\" such as subspecies (and in botany other taxa are used, such as varieties, subvarieties, and formae).\n*/",
+    "comment": "/**\r\n@class\r\n@classdesc In biology, a species (abbreviated sp., with the plural form species abbreviated spp.) is one of the basic units of biological classification and a taxonomic rank. A species is often defined as the largest group of organisms capable of interbreeding and producing fertile offspring. While in many cases this definition is adequate, the difficulty of defining species is known as the species problem. Differing measures are often used, such as similarity of DNA, morphology, or ecological niche. Presence of specific locally adapted traits may further subdivide species into \"infraspecific taxa\" such as subspecies (and in botany other taxa are used, such as varieties, subvarieties, and formae).\r\n*/",
     "meta": {
       "range": [
-        721,
-        863
+        725,
+        878
       ],
       "filename": "species.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000152",
         "name": "Species",
@@ -1205,15 +1205,15 @@
     "params": []
   },
   {
-    "comment": "/**\n  the species name\n  @type {string}\n  */",
+    "comment": "/**\r\n  the species name\r\n  @type {string}\r\n  */",
     "meta": {
       "range": [
-        792,
-        806
+        801,
+        815
       ],
       "filename": "species.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000156",
         "name": "this.name",
@@ -1235,15 +1235,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  @type {Species}\n  */",
+    "comment": "/**\r\n  @type {Species}\r\n  */",
     "meta": {
       "range": [
-        839,
-        861
+        853,
+        875
       ],
       "filename": "species.js",
       "lineno": 15,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000162",
         "name": "this.species",
@@ -1264,15 +1264,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\nmerge two species into a new one\n@param {Species} - first\n@param {Species} - second\n@returns {Species}\n*/",
+    "comment": "/**\r\nmerge two species into a new one\r\n@param {Species} - first\r\n@param {Species} - second\r\n@returns {Species}\r\n*/",
     "meta": {
       "range": [
-        975,
-        1013
+        998,
+        1036
       ],
       "filename": "species.js",
       "lineno": 24,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000168",
         "name": "Species.merge",
@@ -1323,22 +1323,22 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src/animal.js",
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src/furq.js",
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src/newlines.js",
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src/species.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src\\animal.js",
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src\\furq.js",
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src\\newlines.js",
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src\\species.js"
     ]
   },
   {
-    "comment": "/**\n  battle\n  */",
+    "comment": "/**\r\n  battle\r\n  */",
     "meta": {
       "range": [
-        1831,
-        1859
+        1947,
+        1975
       ],
       "filename": "furq.js",
       "lineno": 117,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000108",
         "name": "this.battle",
@@ -1356,15 +1356,15 @@
     "inherited": true
   },
   {
-    "comment": "/**\nto plant ones fist in a buster's mush\n*/",
+    "comment": "/**\r\nto plant ones fist in a buster's mush\r\n*/",
     "meta": {
       "range": [
-        1548,
-        1568
+        1644,
+        1664
       ],
       "filename": "furq.js",
       "lineno": 97,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/member-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\member-index-format\\src",
       "code": {
         "id": "astnode100000094",
         "name": "plant",

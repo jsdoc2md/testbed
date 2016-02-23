@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\na module exporting `exports` directly\n@module cjs/object\n@typicalname obj\n*/",
+    "comment": "/**\r\na module exporting `exports` directly\r\n@module cjs/object\r\n@typicalname obj\r\n*/",
     "meta": {
       "range": [
         0,
-        80
+        84
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object",
       "code": {}
     },
     "description": "a module exporting `exports` directly",
@@ -25,15 +25,15 @@
     "longname": "module:cjs/object"
   },
   {
-    "comment": "/**\nthe first property\n@type {number}\n*/",
+    "comment": "/**\r\nthe first property\r\n@type {number}\r\n*/",
     "meta": {
       "range": [
-        123,
-        138
+        133,
+        148
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object",
       "code": {
         "id": "astnode100000002",
         "name": "exports.one",
@@ -55,15 +55,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\nthe second property, a function\n@example\nthis is the example\n*/",
+    "comment": "/**\r\nthe second property, a function\r\n@example\r\nthis is the example\r\n*/",
     "meta": {
       "range": [
-        208,
-        244
+        225,
+        261
       ],
       "filename": "0-src.js",
       "lineno": 18,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object",
       "code": {
         "id": "astnode100000008",
         "name": "exports.two",
@@ -88,7 +88,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object\\0-src.js"
     ]
   }
 ]

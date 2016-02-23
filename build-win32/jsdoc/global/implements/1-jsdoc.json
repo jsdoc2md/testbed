@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n@implements {Speech}\n@class\n@classdesc a synth, that also implements speech\n*/",
+    "comment": "/**\r\n@implements {Speech}\r\n@class\r\n@classdesc a synth, that also implements speech\r\n*/",
     "meta": {
       "range": [
-        83,
-        223
+        88,
+        234
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/implements",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\implements",
       "code": {
         "id": "astnode100000001",
         "name": "Synth",
@@ -32,15 +32,15 @@
     "params": []
   },
   {
-    "comment": "/**\n  play a demo piece, Beethoven or something.. \n  */",
+    "comment": "/**\r\n  play a demo piece, Beethoven or something.. \r\n  */",
     "meta": {
       "range": [
-        163,
-        189
+        172,
+        198
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/implements",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\implements",
       "code": {
         "id": "astnode100000005",
         "name": "this.demo",
@@ -59,12 +59,12 @@
     "comment": "",
     "meta": {
       "range": [
-        192,
-        221
+        202,
+        231
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/implements",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\implements",
       "code": {
         "id": "astnode100000012",
         "name": "this.say",
@@ -85,7 +85,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/implements/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\implements\\0-src.js"
     ]
   }
 ]

@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\nexports a class\n@module cjs/human\n@typicalname d\n*/",
+    "comment": "/**\r\nexports a class\r\n@module cjs/human\r\n@typicalname d\r\n*/",
     "meta": {
       "range": [
         0,
-        55
+        59
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/human",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\human",
       "code": {}
     },
     "description": "exports a class",
@@ -28,12 +28,12 @@
     "comment": "",
     "meta": {
       "range": [
-        56,
-        78
+        61,
+        83
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/human",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\human",
       "code": {
         "id": "astnode100000002",
         "name": "module.exports",
@@ -48,15 +48,15 @@
     "kind": "member"
   },
   {
-    "comment": "/**\nthe exported contructor\n@class\n@classdesc the exported class\n@alias module:cjs/human\n*/",
+    "comment": "/**\r\nthe exported contructor\r\n@class\r\n@classdesc the exported class\r\n@alias module:cjs/human\r\n*/",
     "meta": {
       "range": [
-        172,
-        583
+        185,
+        620
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/human",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\human",
       "code": {
         "id": "astnode100000007",
         "name": "Human",
@@ -77,15 +77,15 @@
     "params": []
   },
   {
-    "comment": "/**\n  @class\n  @classdesc a class inside a class\n  */",
+    "comment": "/**\r\n  @class\r\n  @classdesc a class inside a class\r\n  */",
     "meta": {
       "range": [
-        250,
-        486
+        268,
+        516
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/human",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\human",
       "code": {
         "id": "astnode100000010",
         "name": "Organ",
@@ -106,15 +106,15 @@
     "params": []
   },
   {
-    "comment": "/**\n    @class\n    @classdesc a class inside a class inside a class\n    */",
+    "comment": "/**\r\n    @class\r\n    @classdesc a class inside a class inside a class\r\n    */",
     "meta": {
       "range": [
-        353,
-        372
+        376,
+        395
       ],
       "filename": "0-src.js",
       "lineno": 24,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/human",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\human",
       "code": {
         "id": "astnode100000013",
         "name": "Cell",
@@ -131,15 +131,15 @@
     "params": []
   },
   {
-    "comment": "/**\n    an instance of Cell\n    @type {module:cjs/human~Organ~Cell}\n    */",
+    "comment": "/**\r\n    an instance of Cell\r\n    @type {module:cjs/human~Organ~Cell}\r\n    */",
     "meta": {
       "range": [
-        457,
-        482
+        486,
+        511
       ],
       "filename": "0-src.js",
       "lineno": 30,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/human",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\human",
       "code": {
         "id": "astnode100000017",
         "name": "this.redCell",
@@ -161,15 +161,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  an instance of Organ\n  @type {module:cjs/human~Organ}\n  */",
+    "comment": "/**\r\n  an instance of Organ\r\n  @type {module:cjs/human~Organ}\r\n  */",
     "meta": {
       "range": [
-        557,
-        581
+        593,
+        617
       ],
       "filename": "0-src.js",
       "lineno": 37,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/human",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\human",
       "code": {
         "id": "astnode100000024",
         "name": "this.liver",
@@ -194,7 +194,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/human/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\human\\0-src.js"
     ]
   }
 ]

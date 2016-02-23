@@ -8,7 +8,7 @@
     "meta": {
       "lineno": 11,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/custom"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\custom"
     },
     "order": 1
   },
@@ -41,7 +41,7 @@
     "meta": {
       "lineno": 6,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/custom"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\custom"
     },
     "order": 0
   },
@@ -55,13 +55,13 @@
     "customTags": [
       {
         "tag": "cast",
-        "value": "in order of appearance:\n1. David Jason\n2. Nicholas Lyndhurst\n3. Buster Merryfield"
+        "value": "in order of appearance:\r\n1. David Jason\r\n2. Nicholas Lyndhurst\r\n3. Buster Merryfield"
       }
     ],
     "meta": {
       "lineno": 19,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/custom"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\custom"
     },
     "order": 2
   }

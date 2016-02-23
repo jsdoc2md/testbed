@@ -76,7 +76,7 @@
           ]
         },
         "optional": true,
-        "description": "callback on slump, which has:\n- devestating power\n- an unusual aftertaste",
+        "description": "callback on slump, which has:\r- devestating power\r- an unusual aftertaste",
         "name": "done"
       }
     ],
@@ -84,7 +84,7 @@
     "meta": {
       "lineno": 14,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/param-markdown"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\param-markdown"
     },
     "order": 0
   }

@@ -7,7 +7,7 @@
     "meta": {
       "lineno": 1,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/es2015/exports"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\es2015\\exports"
     },
     "order": 0
   },
@@ -22,7 +22,7 @@
     "meta": {
       "lineno": 9,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/es2015/exports"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\es2015\\exports"
     },
     "order": 2
   },
@@ -37,7 +37,7 @@
     "meta": {
       "lineno": 6,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/es2015/exports"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\es2015\\exports"
     },
     "order": 1
   },
@@ -82,7 +82,7 @@
     "meta": {
       "lineno": 17,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/es2015/exports"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\es2015\\exports"
     },
     "order": 3
   },
@@ -112,13 +112,13 @@
             "Array"
           ]
         },
-        "description": "An array of the red, green, and blue values,\neach ranging from 0 to 255."
+        "description": "An array of the red, green, and blue values,\reach ranging from 0 to 255."
       }
     ],
     "meta": {
       "lineno": 30,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/es2015/exports"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\es2015\\exports"
     },
     "order": 4
   }

@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\na module exporting an object\n@module cjs/object-alias\n*/",
+    "comment": "/**\r\na module exporting an object\r\n@module cjs/object-alias\r\n*/",
     "meta": {
       "range": [
         0,
-        60
+        63
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-alias",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-alias",
       "code": {}
     },
     "description": "a module exporting an object",
@@ -17,15 +17,15 @@
     "longname": "module:cjs/object-alias"
   },
   {
-    "comment": "/**\nthe teams\n@alias module:cjs/object-alias\n*/",
+    "comment": "/**\r\nthe teams\r\n@alias module:cjs/object-alias\r\n*/",
     "meta": {
       "range": [
-        114,
-        161
+        123,
+        173
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-alias",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-alias",
       "code": {
         "id": "astnode100000002",
         "name": "teams",
@@ -43,12 +43,12 @@
     "comment": "",
     "meta": {
       "range": [
-        126,
-        141
+        136,
+        151
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-alias",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-alias",
       "code": {
         "id": "astnode100000005",
         "name": "manu",
@@ -67,12 +67,12 @@
     "comment": "",
     "meta": {
       "range": [
-        145,
-        159
+        156,
+        170
       ],
       "filename": "0-src.js",
       "lineno": 12,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-alias",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-alias",
       "code": {
         "id": "astnode100000007",
         "name": "lyon",
@@ -91,12 +91,12 @@
     "comment": "",
     "meta": {
       "range": [
-        163,
-        185
+        177,
+        199
       ],
       "filename": "0-src.js",
       "lineno": 15,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-alias",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-alias",
       "code": {
         "id": "astnode100000010",
         "name": "module.exports",
@@ -114,7 +114,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-alias/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-alias\\0-src.js"
     ]
   }
 ]

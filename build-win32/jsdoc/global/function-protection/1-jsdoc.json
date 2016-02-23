@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\na quite wonderful function\n@param {object} - privacy gown\n@param {object} - security\n@returns {survival}\n*/",
+    "comment": "/**\r\na quite wonderful function\r\n@param {object} - privacy gown\r\n@param {object} - security\r\n@returns {survival}\r\n*/",
     "meta": {
       "range": [
-        112,
-        150
+        118,
+        156
       ],
       "filename": "0-src.js",
       "lineno": 7,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/function-protection",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\function-protection",
       "code": {
         "id": "astnode100000001",
         "name": "protection",
@@ -58,7 +58,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/function-protection/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\function-protection\\0-src.js"
     ]
   }
 ]

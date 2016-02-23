@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * exporting a function pointer.. requires an @alias else exportedFunction is documented as an inner.\n * @module es6-modules-default2\n */",
+    "comment": "/**\r\n * exporting a function pointer.. requires an @alias else exportedFunction is documented as an inner.\r\n * @module es6-modules-default2\r\n */",
     "meta": {
       "range": [
         0,
-        141
+        144
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-default2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\es6-modules-default2",
       "code": {}
     },
     "description": "exporting a function pointer.. requires an @alias else exportedFunction is documented as an inner.",
@@ -20,12 +20,12 @@
     "comment": "",
     "meta": {
       "range": [
-        143,
-        243
+        148,
+        254
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-default2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\es6-modules-default2",
       "code": {
         "id": "astnode100000001",
         "name": "module.exports",
@@ -38,15 +38,15 @@
     "kind": "member"
   },
   {
-    "comment": "/**\n * exported function\n * @alias module:es6-modules-default2\n */",
+    "comment": "/**\r\n * exported function\r\n * @alias module:es6-modules-default2\r\n */",
     "meta": {
       "range": [
-        243,
-        292
+        254,
+        305
       ],
       "filename": "0-src.js",
       "lineno": 12,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-default2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\es6-modules-default2",
       "code": {
         "id": "astnode100000003",
         "name": "exportedFunction",
@@ -65,7 +65,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-default2/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\es6-modules-default2\\0-src.js"
     ]
   }
 ]

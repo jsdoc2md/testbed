@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n@fulfil {Tree} - Fulfils with a damn tree\n@reject {Error} This is an error which is passed back\n@returns {Promise}\n*/",
+    "comment": "/**\r\n@fulfil {Tree} - Fulfils with a damn tree\r\n@reject {Error} This is an error which is passed back\r\n@returns {Promise}\r\n*/",
     "meta": {
       "range": [
-        122,
-        153
+        127,
+        158
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/custom",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\custom",
       "code": {
         "id": "astnode100000001",
         "name": "promiseSomething",
@@ -46,15 +46,15 @@
     "params": []
   },
   {
-    "comment": "/**\n@class\n*/",
+    "comment": "/**\r\n@class\r\n*/",
     "meta": {
       "range": [
-        169,
-        188
+        179,
+        198
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/custom",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\custom",
       "code": {
         "id": "astnode100000004",
         "name": "Tree",
@@ -69,15 +69,15 @@
     "params": []
   },
   {
-    "comment": "/**\n@cast in order of appearance:\n1. David Jason\n2. Nicholas Lyndhurst\n3. Buster Merryfield\n*/",
+    "comment": "/**\r\n@cast in order of appearance:\r\n1. David Jason\r\n2. Nicholas Lyndhurst\r\n3. Buster Merryfield\r\n*/",
     "meta": {
       "range": [
-        285,
-        306
+        303,
+        324
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/custom",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\custom",
       "code": {
         "id": "astnode100000007",
         "name": "Comedy",
@@ -89,8 +89,8 @@
       {
         "originalTitle": "cast",
         "title": "cast",
-        "text": "in order of appearance:\n1. David Jason\n2. Nicholas Lyndhurst\n3. Buster Merryfield",
-        "value": "in order of appearance:\n1. David Jason\n2. Nicholas Lyndhurst\n3. Buster Merryfield"
+        "text": "in order of appearance:\r\n1. David Jason\r\n2. Nicholas Lyndhurst\r\n3. Buster Merryfield",
+        "value": "in order of appearance:\r\n1. David Jason\r\n2. Nicholas Lyndhurst\r\n3. Buster Merryfield"
       }
     ],
     "name": "Comedy",
@@ -103,7 +103,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/custom/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\custom\\0-src.js"
     ]
   }
 ]

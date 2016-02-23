@@ -1,21 +1,21 @@
 [
   {
-    "comment": "/**\nThis module exports a simple maths function\n@module sum-alias\n@example\n```js\nvar sum = require(\"sum-alias\")\n```\n*/",
+    "comment": "/**\r\nThis module exports a simple maths function\r\n@module sum-alias\r\n@example\r\n```js\r\nvar sum = require(\"sum-alias\")\r\n```\r\n*/",
     "meta": {
       "range": [
         0,
-        118
+        125
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/function-alias2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\function-alias2",
       "code": {}
     },
     "description": "This module exports a simple maths function",
     "kind": "module",
     "name": "sum-alias",
     "examples": [
-      "```js\nvar sum = require(\"sum-alias\")\n```"
+      "```js\r\nvar sum = require(\"sum-alias\")\r\n```"
     ],
     "longname": "module:sum-alias"
   },
@@ -23,12 +23,12 @@
     "comment": "",
     "meta": {
       "range": [
-        119,
-        139
+        127,
+        147
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/function-alias2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\function-alias2",
       "code": {
         "id": "astnode100000002",
         "name": "module.exports",
@@ -43,15 +43,15 @@
     "kind": "member"
   },
   {
-    "comment": "/**\nSums two numbers together\n@param {number} - first number \n@param {number} - second number\n@returns {number} the result\n@example\n```js\nvar result = sum(1, 1)\n```\n@alias module:sum-alias\n*/",
+    "comment": "/**\r\nSums two numbers together\r\n@param {number} - first number \r\n@param {number} - second number\r\n@returns {number} the result\r\n@example\r\n```js\r\nvar result = sum(1, 1)\r\n```\r\n@alias module:sum-alias\r\n*/",
     "meta": {
       "range": [
-        333,
-        355
+        354,
+        376
       ],
       "filename": "0-src.js",
       "lineno": 22,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/function-alias2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\function-alias2",
       "code": {
         "id": "astnode100000007",
         "name": "sum",
@@ -94,7 +94,7 @@
       }
     ],
     "examples": [
-      "```js\nvar result = sum(1, 1)\n```"
+      "```js\r\nvar result = sum(1, 1)\r\n```"
     ],
     "alias": "module:sum-alias",
     "name": "module:sum-alias",
@@ -105,7 +105,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/function-alias2/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\function-alias2\\0-src.js"
     ]
   }
 ]

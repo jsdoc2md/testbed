@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * @module category\n */",
+    "comment": "/**\r\n * @module category\r\n */",
     "meta": {
       "range": [
         0,
-        27
+        29
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/tags/category",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\tags\\category",
       "code": {}
     },
     "kind": "module",
@@ -16,15 +16,15 @@
     "longname": "module:category"
   },
   {
-    "comment": "/**\n * one\n * @category first\n */",
+    "comment": "/**\r\n * one\r\n * @category first\r\n */",
     "meta": {
       "range": [
-        63,
-        78
+        71,
+        86
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/tags/category",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\tags\\category",
       "code": {
         "id": "astnode100000002",
         "name": "exports.one",
@@ -49,15 +49,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n * two\n * @category first\n */",
+    "comment": "/**\r\n * two\r\n * @category first\r\n */",
     "meta": {
       "range": [
-        113,
-        128
+        126,
+        141
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/tags/category",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\tags\\category",
       "code": {
         "id": "astnode100000008",
         "name": "exports.two",
@@ -82,15 +82,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n * three\n * @category second\n */",
+    "comment": "/**\r\n * three\r\n * @category second\r\n */",
     "meta": {
       "range": [
-        166,
-        183
+        184,
+        201
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/tags/category",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\tags\\category",
       "code": {
         "id": "astnode100000014",
         "name": "exports.three",
@@ -115,15 +115,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n * four\n * @category second\n */",
+    "comment": "/**\r\n * four\r\n * @category second\r\n */",
     "meta": {
       "range": [
-        220,
-        236
+        243,
+        259
       ],
       "filename": "0-src.js",
       "lineno": 24,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/tags/category",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\tags\\category",
       "code": {
         "id": "astnode100000020",
         "name": "exports.four",
@@ -151,7 +151,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/tags/category/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\tags\\category\\0-src.js"
     ]
   }
 ]

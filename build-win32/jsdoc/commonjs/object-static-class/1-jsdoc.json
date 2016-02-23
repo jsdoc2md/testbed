@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\nfactory module creating dodgy cloud. object-with-static-class.\n@module heaven\n*/",
+    "comment": "/**\r\nfactory module creating dodgy cloud. object-with-static-class.\r\n@module heaven\r\n*/",
     "meta": {
       "range": [
         0,
-        84
+        87
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-static-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-static-class",
       "code": {}
     },
     "description": "factory module creating dodgy cloud. object-with-static-class.",
@@ -17,15 +17,15 @@
     "longname": "module:heaven"
   },
   {
-    "comment": "/**\n@returns {module:heaven~Cloud}\n*/",
+    "comment": "/**\r\n@returns {module:heaven~Cloud}\r\n*/",
     "meta": {
       "range": [
-        124,
-        160
+        132,
+        168
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-static-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-static-class",
       "code": {
         "id": "astnode100000002",
         "name": "exports.createCloud",
@@ -49,15 +49,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\naccess to the Cloud class\n@type {module:heaven~Cloud}\n*/",
+    "comment": "/**\r\naccess to the Cloud class\r\n@type {module:heaven~Cloud}\r\n*/",
     "meta": {
       "range": [
-        223,
-        244
+        237,
+        258
       ],
       "filename": "0-src.js",
       "lineno": 15,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-static-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-static-class",
       "code": {
         "id": "astnode100000009",
         "name": "exports.Cloud",
@@ -79,15 +79,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\ncloud constructor\n@class\n@classdesc The main class for a cloud\n@param {object} - the options\n*/",
+    "comment": "/**\r\ncloud constructor\r\n@class\r\n@classdesc The main class for a cloud\r\n@param {object} - the options\r\n*/",
     "meta": {
       "range": [
-        346,
-        490
+        368,
+        524
       ],
       "filename": "0-src.js",
       "lineno": 23,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-static-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-static-class",
       "code": {
         "id": "astnode100000014",
         "name": "Cloud",
@@ -121,15 +121,15 @@
     "memberof": "module:heaven"
   },
   {
-    "comment": "/**\n  @type {number}\n  @default\n  */",
+    "comment": "/**\r\n  @type {number}\r\n  @default\r\n  */",
     "meta": {
       "range": [
-        414,
-        427
+        441,
+        454
       ],
       "filename": "0-src.js",
       "lineno": 28,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-static-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-static-class",
       "code": {
         "id": "astnode100000019",
         "name": "this.size",
@@ -151,15 +151,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  @type {boolean}\n  @default\n  */",
+    "comment": "/**\r\n  @type {boolean}\r\n  @default\r\n  */",
     "meta": {
       "range": [
-        471,
-        488
+        504,
+        521
       ],
       "filename": "0-src.js",
       "lineno": 34,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-static-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-static-class",
       "code": {
         "id": "astnode100000025",
         "name": "this.rain",
@@ -181,15 +181,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\na class method\n*/",
+    "comment": "/**\r\na class method\r\n*/",
     "meta": {
       "range": [
-        514,
-        548
+        553,
+        587
       ],
       "filename": "0-src.js",
       "lineno": 40,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-static-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-static-class",
       "code": {
         "id": "astnode100000031",
         "name": "Cloud.classMethod",
@@ -205,15 +205,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\na class constant\n@const {number}\n*/",
+    "comment": "/**\r\na class constant\r\n@const {number}\r\n*/",
     "meta": {
       "range": [
-        590,
-        607
+        635,
+        652
       ],
       "filename": "0-src.js",
       "lineno": 46,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-static-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-static-class",
       "code": {
         "id": "astnode100000038",
         "name": "Cloud.SPACES",
@@ -235,15 +235,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\nan inner constant\n@const {boolean}\n*/",
+    "comment": "/**\r\nan inner constant\r\n@const {boolean}\r\n*/",
     "meta": {
       "range": [
-        655,
-        667
+        706,
+        718
       ],
       "filename": "0-src.js",
       "lineno": 52,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-static-class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-static-class",
       "code": {
         "id": "astnode100000044",
         "name": "FACT",
@@ -267,7 +267,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-static-class/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-static-class\\0-src.js"
     ]
   }
 ]

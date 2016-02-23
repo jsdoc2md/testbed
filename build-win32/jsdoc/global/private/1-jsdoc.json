@@ -3,12 +3,12 @@
     "comment": "/** @namespace */",
     "meta": {
       "range": [
-        22,
-        145
+        23,
+        156
       ],
       "filename": "0-src.js",
       "lineno": 2,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/private",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\private",
       "code": {
         "id": "astnode100000002",
         "name": "Documents",
@@ -22,15 +22,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n   * An ordinary newspaper.\n   */",
+    "comment": "/**\r\n   * An ordinary newspaper.\r\n   */",
     "meta": {
       "range": [
-        78,
-        90
+        83,
+        95
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/private",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\private",
       "code": {
         "id": "astnode100000005",
         "name": "Newspaper",
@@ -46,15 +46,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n   * My diary.\n   * @private\n   */",
+    "comment": "/**\r\n   * My diary.\r\n   * @private\r\n   */",
     "meta": {
       "range": [
-        135,
-        143
+        145,
+        153
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/private",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\private",
       "code": {
         "id": "astnode100000007",
         "name": "Diary",
@@ -74,7 +74,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/private/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\private\\0-src.js"
     ]
   }
 ]

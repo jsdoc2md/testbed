@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n@type {module:cjs/human[]}\n*/",
+    "comment": "/**\r\n@type {module:cjs/human[]}\r\n*/",
     "meta": {
       "range": [
-        38,
-        56
+        41,
+        59
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/types",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\types",
       "code": {
         "id": "astnode100000002",
         "name": "returnsArrayOfType"
@@ -25,15 +25,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@type {?module:cjs/human[]}\n*/",
+    "comment": "/**\r\n@type {?module:cjs/human[]}\r\n*/",
     "meta": {
       "range": [
-        97,
-        116
+        105,
+        124
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/types",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\types",
       "code": {
         "id": "astnode100000005",
         "name": "returnsArrayOfType2"
@@ -51,15 +51,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@type {?number}\n*/",
+    "comment": "/**\r\n@type {?number}\r\n*/",
     "meta": {
       "range": [
-        145,
-        166
+        158,
+        179
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/types",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\types",
       "code": {
         "id": "astnode100000008",
         "name": "nullableNumber",
@@ -79,15 +79,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@type {!number}\n*/",
+    "comment": "/**\r\n@type {!number}\r\n*/",
     "meta": {
       "range": [
-        195,
-        219
+        213,
+        237
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/types",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\types",
       "code": {
         "id": "astnode100000012",
         "name": "nonNullableNumber",
@@ -107,15 +107,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@type {{ a: number, b: string, c}}\n*/",
+    "comment": "/**\r\n@type {{ a: number, b: string, c}}\r\n*/",
     "meta": {
       "range": [
-        267,
-        282
+        290,
+        305
       ],
       "filename": "0-src.js",
       "lineno": 24,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/types",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\types",
       "code": {
         "id": "astnode100000016",
         "name": "objectType",
@@ -134,15 +134,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@param {?module:cjs/human[]}\n*/",
+    "comment": "/**\r\n@param {?module:cjs/human[]}\r\n*/",
     "meta": {
       "range": [
-        320,
-        360
+        348,
+        388
       ],
       "filename": "0-src.js",
       "lineno": 29,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/types",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\types",
       "code": {
         "id": "astnode100000019",
         "name": "nullableArrayTypeParam",
@@ -172,7 +172,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/types/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\types\\0-src.js"
     ]
   }
 ]

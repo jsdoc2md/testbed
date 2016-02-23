@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\nthis module exports one value, that's it\n@module\n*/",
+    "comment": "/**\r\nthis module exports one value, that's it\r\n@module\r\n*/",
     "meta": {
       "range": [
         0,
-        55
+        58
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/single-value",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\single-value",
       "code": {}
     },
     "description": "this module exports one value, that's it",
@@ -17,15 +17,15 @@
     "longname": "module:0-src"
   },
   {
-    "comment": "/**\n@type {boolean}\n@default\n*/",
+    "comment": "/**\r\n@type {boolean}\r\n@default\r\n*/",
     "meta": {
       "range": [
-        89,
-        110
+        98,
+        119
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/single-value",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\single-value",
       "code": {
         "id": "astnode100000002",
         "name": "module.exports",
@@ -48,7 +48,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/single-value/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\single-value\\0-src.js"
     ]
   }
 ]

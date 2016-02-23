@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n@class\n@classdesc In biology, a species (abbreviated sp., with the plural form species abbreviated spp.) is one of the basic units of biological classification and a taxonomic rank. A species is often defined as the largest group of organisms capable of interbreeding and producing fertile offspring. While in many cases this definition is adequate, the difficulty of defining species is known as the species problem. Differing measures are often used, such as similarity of DNA, morphology, or ecological niche. Presence of specific locally adapted traits may further subdivide species into \"infraspecific taxa\" such as subspecies (and in botany other taxa are used, such as varieties, subvarieties, and formae).\n*/",
+    "comment": "/**\r\n@class\r\n@classdesc In biology, a species (abbreviated sp., with the plural form species abbreviated spp.) is one of the basic units of biological classification and a taxonomic rank. A species is often defined as the largest group of organisms capable of interbreeding and producing fertile offspring. While in many cases this definition is adequate, the difficulty of defining species is known as the species problem. Differing measures are often used, such as similarity of DNA, morphology, or ecological niche. Presence of specific locally adapted traits may further subdivide species into \"infraspecific taxa\" such as subspecies (and in botany other taxa are used, such as varieties, subvarieties, and formae).\r\n*/",
     "meta": {
       "range": [
-        721,
-        863
+        725,
+        878
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-species",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-species",
       "code": {
         "id": "astnode100000001",
         "name": "Species",
@@ -28,15 +28,15 @@
     "params": []
   },
   {
-    "comment": "/**\n  the species name\n  @type {string}\n  */",
+    "comment": "/**\r\n  the species name\r\n  @type {string}\r\n  */",
     "meta": {
       "range": [
-        792,
-        806
+        801,
+        815
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-species",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-species",
       "code": {
         "id": "astnode100000005",
         "name": "this.name",
@@ -58,15 +58,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  @type {Species}\n  */",
+    "comment": "/**\r\n  @type {Species}\r\n  */",
     "meta": {
       "range": [
-        839,
-        861
+        853,
+        875
       ],
       "filename": "0-src.js",
       "lineno": 15,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-species",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-species",
       "code": {
         "id": "astnode100000011",
         "name": "this.species",
@@ -87,15 +87,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\nmerge two species into a new one\n@param {Species} - first\n@param {Species} - second\n@returns {Species}\n*/",
+    "comment": "/**\r\nmerge two species into a new one\r\n@param {Species} - first\r\n@param {Species} - second\r\n@returns {Species}\r\n*/",
     "meta": {
       "range": [
-        975,
-        1013
+        998,
+        1036
       ],
       "filename": "0-src.js",
       "lineno": 24,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-species",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-species",
       "code": {
         "id": "astnode100000017",
         "name": "Species.merge",
@@ -146,7 +146,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-species/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-species\\0-src.js"
     ]
   }
 ]

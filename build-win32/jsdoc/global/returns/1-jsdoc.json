@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * a global function returning multiple stuff\n * @returns {string} if something you get a string back\n * @returns {object|function} or an object, or function\n */",
+    "comment": "/**\r\n * a global function returning multiple stuff\r\n * @returns {string} if something you get a string back\r\n * @returns {object|function} or an object, or function\r\n */",
     "meta": {
       "range": [
-        166,
-        203
+        171,
+        208
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/returns",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\returns",
       "code": {
         "id": "astnode100000001",
         "name": "globalFunction",
@@ -46,15 +46,15 @@
     "params": []
   },
   {
-    "comment": "/**\n * returns has no desc\n * @returns {string}\n */",
+    "comment": "/**\r\n * returns has no desc\r\n * @returns {string}\r\n */",
     "meta": {
       "range": [
-        257,
-        296
+        268,
+        307
       ],
       "filename": "0-src.js",
       "lineno": 12,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/returns",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\returns",
       "code": {
         "id": "astnode100000006",
         "name": "returnsSomething",
@@ -85,7 +85,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/returns/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\returns\\0-src.js"
     ]
   }
 ]

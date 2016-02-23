@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\nSomething\n@todo first\n@todo second\n@done third\n@done fourth \n*/",
+    "comment": "/**\r\nSomething\r\n@todo first\r\n@todo second\r\n@done third\r\n@done fourth \r\n*/",
     "meta": {
       "range": [
-        68,
-        92
+        75,
+        99
       ],
       "filename": "0-src.js",
       "lineno": 8,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/done",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\done",
       "code": {
         "id": "astnode100000001",
         "name": "Something",
@@ -45,7 +45,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/done/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\done\\0-src.js"
     ]
   }
 ]

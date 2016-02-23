@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n@class\n*/",
+    "comment": "/**\r\n@class\r\n*/",
     "meta": {
       "range": [
-        14,
-        33
+        17,
+        36
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/event",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\event",
       "code": {
         "id": "astnode100000001",
         "name": "Hurl",
@@ -23,15 +23,15 @@
     "params": []
   },
   {
-    "comment": "/**\n * Throw a snowball.\n *\n * @fires Hurl#snowball\n */",
+    "comment": "/**\r\n * Throw a snowball.\r\n *\r\n * @fires Hurl#snowball\r\n */",
     "meta": {
       "range": [
-        91,
-        371
+        101,
+        392
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/event",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\event",
       "code": {
         "id": "astnode100000005",
         "name": "Hurl.prototype.snowball",
@@ -50,15 +50,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n   * Snowball event.\n   *\n   * @event Hurl#snowball\n   * @type {object}\n   * @property {boolean} isPacked - Indicates whether the snowball is tightly packed.\n   */",
+    "comment": "/**\r\n   * Snowball event.\r\n   *\r\n   * @event Hurl#snowball\r\n   * @type {object}\r\n   * @property {boolean} isPacked - Indicates whether the snowball is tightly packed.\r\n   */",
     "meta": {
       "range": [
-        133,
-        300
+        144,
+        317
       ],
       "filename": "0-src.js",
       "lineno": 12,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/event",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\event",
       "code": {}
     },
     "description": "Snowball event.",
@@ -88,12 +88,12 @@
     "comment": "",
     "meta": {
       "range": [
-        331,
-        364
+        350,
+        383
       ],
       "filename": "0-src.js",
       "lineno": 20,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/event",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\event",
       "code": {
         "id": "astnode100000020",
         "name": "isPacked",
@@ -111,7 +111,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/event/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\event\\0-src.js"
     ]
   }
 ]

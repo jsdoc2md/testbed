@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\nthe function\n*/",
+    "comment": "/**\r\nthe function\r\n*/",
     "meta": {
       "range": [
-        20,
-        54
+        23,
+        57
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/function-obj",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\function-obj",
       "code": {
         "id": "astnode100000001",
         "name": "functionObj",
@@ -27,15 +27,15 @@
     "params": []
   },
   {
-    "comment": "/**\na static method on the function\n*/",
+    "comment": "/**\r\na static method on the function\r\n*/",
     "meta": {
       "range": [
-        95,
-        129
+        103,
+        137
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/function-obj",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\function-obj",
       "code": {
         "id": "astnode100000007",
         "name": "functionObj.extra",
@@ -54,7 +54,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/function-obj/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\function-obj\\0-src.js"
     ]
   }
 ]

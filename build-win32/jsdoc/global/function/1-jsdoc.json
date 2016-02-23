@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * a global function\n * @param {number} - first param\n * @returns {number} - returned value\n */",
+    "comment": "/**\r\n * a global function\r\n * @param {number} - first param\r\n * @returns {number} - returned value\r\n */",
     "meta": {
       "range": [
-        100,
-        132
+        105,
+        137
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/function",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\function",
       "code": {
         "id": "astnode100000001",
         "name": "globalFunction",
@@ -49,7 +49,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/function/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\function\\0-src.js"
     ]
   }
 ]

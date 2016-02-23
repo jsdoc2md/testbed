@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\nexports a pointer to a function\n@module falias-obj\n*/",
+    "comment": "/**\r\nexports a pointer to a function\r\n@module falias-obj\r\n*/",
     "meta": {
       "range": [
         0,
-        57
+        60
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/falias-obj",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\falias-obj",
       "code": {}
     },
     "description": "exports a pointer to a function",
@@ -20,12 +20,12 @@
     "comment": "",
     "meta": {
       "range": [
-        58,
-        78
+        62,
+        82
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/falias-obj",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\falias-obj",
       "code": {
         "id": "astnode100000002",
         "name": "module.exports",
@@ -40,15 +40,15 @@
     "kind": "member"
   },
   {
-    "comment": "/**\nthe function\n@alias module:falias-obj\n*/",
+    "comment": "/**\r\nthe function\r\n@alias module:falias-obj\r\n*/",
     "meta": {
       "range": [
-        125,
-        151
+        135,
+        161
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/falias-obj",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\falias-obj",
       "code": {
         "id": "astnode100000007",
         "name": "sum",
@@ -67,15 +67,15 @@
     "params": []
   },
   {
-    "comment": "/**\na static method on the exported function\n*/",
+    "comment": "/**\r\na static method on the exported function\r\n*/",
     "meta": {
       "range": [
-        201,
-        227
+        216,
+        242
       ],
       "filename": "0-src.js",
       "lineno": 16,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/falias-obj",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\falias-obj",
       "code": {
         "id": "astnode100000013",
         "name": "sum.extra",
@@ -94,7 +94,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/falias-obj/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\falias-obj\\0-src.js"
     ]
   }
 ]

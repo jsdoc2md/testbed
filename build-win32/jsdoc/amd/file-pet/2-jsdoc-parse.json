@@ -7,12 +7,12 @@
     "description": "this module returns a pet of files",
     "alias": "filePet",
     "examples": [
-      "```js\nvar cowFiles = FilePet(\"cow/*\")\n```"
+      "```js\r\nvar cowFiles = FilePet(\"cow/*\")\r\n```"
     ],
     "meta": {
       "lineno": 1,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/file-pet"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\amd\\file-pet"
     },
     "order": 0
   },
@@ -28,7 +28,7 @@
     "meta": {
       "lineno": 22,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/file-pet"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\amd\\file-pet"
     },
     "order": 1
   },
@@ -51,7 +51,7 @@
       }
     ],
     "examples": [
-      "```js\n  var cowFiles = FilePet(\"cow/*\")\n  ```\n  "
+      "```js\r\n  var cowFiles = FilePet(\"cow/*\")\r\n  ```\r\n  "
     ],
     "order": 2
   },
@@ -66,7 +66,7 @@
     "meta": {
       "lineno": 26,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/file-pet"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\amd\\file-pet"
     },
     "order": 3
   },
@@ -87,7 +87,7 @@
     "meta": {
       "lineno": 34,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/file-pet"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\amd\\file-pet"
     },
     "order": 4
   },
@@ -113,7 +113,7 @@
     "meta": {
       "lineno": 40,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/file-pet"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\amd\\file-pet"
     },
     "order": 5
   }

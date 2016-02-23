@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/exports-tag",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\exports-tag",
       "code": {
         "id": "astnode100000002",
         "name": "module.exports",
@@ -25,15 +25,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n * Exported function\n * @param {number}\n * @param {number}\n * @returns {number}\n * @exports module-exports-func\n */",
+    "comment": "/**\r\n * Exported function\r\n * @param {number}\r\n * @param {number}\r\n * @returns {number}\r\n * @exports module-exports-func\r\n */",
     "meta": {
       "range": [
-        143,
-        170
+        152,
+        179
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/exports-tag",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\exports-tag",
       "code": {
         "id": "astnode100000007",
         "name": "func",
@@ -81,7 +81,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/exports-tag/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\exports-tag\\0-src.js"
     ]
   }
 ]

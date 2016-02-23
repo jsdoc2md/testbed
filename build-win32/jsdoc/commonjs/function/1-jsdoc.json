@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\nThis is the module description\n@module\n@author Lloyd <75pound@gmail.com>\n@since v0.10.28\n*/",
+    "comment": "/**\r\nThis is the module description\r\n@module\r\n@author Lloyd <75pound@gmail.com>\r\n@since v0.10.28\r\n*/",
     "meta": {
       "range": [
         0,
-        95
+        100
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/function",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\function",
       "code": {}
     },
     "description": "This is the module description",
@@ -21,15 +21,15 @@
     "longname": "module:0-src"
   },
   {
-    "comment": "/**\nthe main function description\n@param {string} - The input string\n@param {object} - a second input\n@returns {object | string} this return has several types\n*/",
+    "comment": "/**\r\nthe main function description\r\n@param {string} - The input string\r\n@param {object} - a second input\r\n@returns {object | string} this return has several types\r\n*/",
     "meta": {
       "range": [
-        259,
-        298
+        272,
+        311
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/function",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\function",
       "code": {
         "id": "astnode100000002",
         "name": "module.exports",
@@ -80,7 +80,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/function/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\function\\0-src.js"
     ]
   }
 ]

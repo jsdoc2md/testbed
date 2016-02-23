@@ -5,11 +5,11 @@
     "name": "Eventful",
     "scope": "global",
     "kind": "mixin",
-    "description": "This provides methods used for event handling. It's not meant to\nbe used directly.",
+    "description": "This provides methods used for event handling. It's not meant to\r\nbe used directly.",
     "meta": {
       "lineno": 6,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/mixin"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\mixin"
     },
     "order": 0
   },
@@ -23,7 +23,7 @@
     "meta": {
       "lineno": 22,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/mixin"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\mixin"
     },
     "order": 3
   },
@@ -58,7 +58,7 @@
     "meta": {
       "lineno": 12,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/mixin"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\mixin"
     },
     "order": 1
   },
@@ -93,7 +93,7 @@
     "meta": {
       "lineno": 19,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/mixin"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\mixin"
     },
     "order": 2
   }

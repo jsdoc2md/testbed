@@ -3,12 +3,12 @@
     "comment": "",
     "meta": {
       "range": [
-        17,
-        49
+        18,
+        50
       ],
       "filename": "0-src.js",
       "lineno": 2,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/summary",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\summary",
       "code": {
         "id": "astnode100000004",
         "name": "render",
@@ -26,12 +26,12 @@
     "comment": "",
     "meta": {
       "range": [
-        55,
-        82
+        58,
+        85
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/summary",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\summary",
       "code": {
         "id": "astnode100000010",
         "name": "src",
@@ -49,12 +49,12 @@
     "comment": "",
     "meta": {
       "range": [
-        99,
-        107
+        105,
+        113
       ],
       "filename": "0-src.js",
       "lineno": 7,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/summary",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\summary",
       "code": {
         "id": "astnode100000019",
         "name": "src",
@@ -72,12 +72,12 @@
     "comment": "",
     "meta": {
       "range": [
-        113,
-        153
+        120,
+        160
       ],
       "filename": "0-src.js",
       "lineno": 8,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/summary",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\summary",
       "code": {
         "id": "astnode100000021",
         "name": "template",
@@ -95,12 +95,12 @@
     "comment": "",
     "meta": {
       "range": [
-        159,
-        188
+        167,
+        196
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/summary",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\summary",
       "code": {
         "id": "astnode100000025",
         "name": "\"global-index-format\"",
@@ -118,12 +118,12 @@
     "comment": "",
     "meta": {
       "range": [
-        194,
-        205
+        203,
+        214
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/summary",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\summary",
       "code": {
         "id": "astnode100000027",
         "name": "source",
@@ -141,7 +141,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/summary/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\summary\\0-src.js"
     ]
   }
 ]

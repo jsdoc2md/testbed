@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\na constructor description\n@class\n@classdesc simple class description\n@extends {Object}\n*/",
+    "comment": "/**\r\na constructor description\r\n@class\r\n@classdesc simple class description\r\n@extends {Object}\r\n*/",
     "meta": {
       "range": [
-        94,
-        115
+        100,
+        121
       ],
       "filename": "0-src.js",
       "lineno": 7,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-constructors",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-constructors",
       "code": {
         "id": "astnode100000001",
         "name": "Person",
@@ -31,12 +31,12 @@
     "comment": "",
     "meta": {
       "range": [
-        116,
-        159
+        123,
+        166
       ],
       "filename": "0-src.js",
       "lineno": 8,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-constructors",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-constructors",
       "code": {
         "id": "astnode100000005",
         "name": "Person.prototype.methodOne",
@@ -52,15 +52,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\na constructor with args\n@class\n@param [options] {object} - optional shit\n*/",
+    "comment": "/**\r\na constructor with args\r\n@class\r\n@param [options] {object} - optional shit\r\n*/",
     "meta": {
       "range": [
-        241,
-        266
+        255,
+        280
       ],
       "filename": "0-src.js",
       "lineno": 15,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-constructors",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-constructors",
       "code": {
         "id": "astnode100000013",
         "name": "Car",
@@ -89,15 +89,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@class\n@classdesc a class which extends\n@extends Pipe\n*/",
+    "comment": "/**\r\n@class\r\n@classdesc a class which extends\r\n@extends Pipe\r\n*/",
     "meta": {
       "range": [
-        329,
-        348
+        350,
+        369
       ],
       "filename": "0-src.js",
       "lineno": 22,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-constructors",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-constructors",
       "code": {
         "id": "astnode100000017",
         "name": "Pipe",
@@ -116,15 +116,15 @@
     "params": []
   },
   {
-    "comment": "/**\nthe constructor description\n@class\n@classdesc a class with all trimmings\n@extends Pipe\n@param {object} - an input\n@param [options] {object} - optional shit\n@author 75lb <75pound@gmail.com>\n@deprecated\n@since v0.10.28\n@example\n```js\nvar yeah = new Everything(true)\n```\n*/",
+    "comment": "/**\r\nthe constructor description\r\n@class\r\n@classdesc a class with all trimmings\r\n@extends Pipe\r\n@param {object} - an input\r\n@param [options] {object} - optional shit\r\n@author 75lb <75pound@gmail.com>\r\n@deprecated\r\n@since v0.10.28\r\n@example\r\n```js\r\nvar yeah = new Everything(true)\r\n```\r\n*/",
     "meta": {
       "range": [
-        625,
-        663
+        663,
+        701
       ],
       "filename": "0-src.js",
       "lineno": 39,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-constructors",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-constructors",
       "code": {
         "id": "astnode100000020",
         "name": "Everything",
@@ -168,7 +168,7 @@
     "deprecated": true,
     "since": "v0.10.28",
     "examples": [
-      "```js\nvar yeah = new Everything(true)\n```"
+      "```js\r\nvar yeah = new Everything(true)\r\n```"
     ],
     "name": "Everything",
     "longname": "Everything",
@@ -178,7 +178,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-constructors/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-constructors\\0-src.js"
     ]
   }
 ]

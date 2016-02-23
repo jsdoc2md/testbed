@@ -76,7 +76,7 @@
           ]
         },
         "optional": true,
-        "description": "callback on slump, which has:\n- devestating power\n- an unusual aftertaste",
+        "description": "callback on slump, which has:\r\n- devestating power\r\n- an unusual aftertaste",
         "name": "done"
       }
     ],
@@ -84,7 +84,7 @@
     "meta": {
       "lineno": 14,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/param-list"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\no-gfm\\param-list"
     },
     "order": 0
   }

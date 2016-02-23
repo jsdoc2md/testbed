@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n@class\n*/",
+    "comment": "/**\r\n@class\r\n*/",
     "meta": {
       "range": [
-        14,
-        38
+        17,
+        41
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-methods",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-methods",
       "code": {
         "id": "astnode100000001",
         "name": "Something",
@@ -23,15 +23,15 @@
     "params": []
   },
   {
-    "comment": "/**\nmethod description\n*/",
+    "comment": "/**\r\nmethod description\r\n*/",
     "meta": {
       "range": [
-        66,
-        112
+        74,
+        120
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-methods",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-methods",
       "code": {
         "id": "astnode100000005",
         "name": "Something.prototype.methodOne",
@@ -47,15 +47,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\nThis function has all tags set\n@deprecated\n@param {string} - The input string\n@param {object} - a second input\n@author Lloyd <75pound@gmail.com>\n@since v0.10.28\n@returns {object | string} this return has several types\n@example\n```js\nsomething.allTogether(true)\n```\n*/",
+    "comment": "/**\r\nThis function has all tags set\r\n@deprecated\r\n@param {string} - The input string\r\n@param {object} - a second input\r\n@author Lloyd <75pound@gmail.com>\r\n@since v0.10.28\r\n@returns {object | string} this return has several types\r\n@example\r\n```js\r\nsomething.allTogether(true)\r\n```\r\n*/",
     "meta": {
       "range": [
-        386,
-        442
+        409,
+        465
       ],
       "filename": "0-src.js",
       "lineno": 24,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-methods",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-methods",
       "code": {
         "id": "astnode100000014",
         "name": "Something.prototype.allTogether",
@@ -104,7 +104,7 @@
       }
     ],
     "examples": [
-      "```js\nsomething.allTogether(true)\n```"
+      "```js\r\nsomething.allTogether(true)\r\n```"
     ],
     "name": "allTogether",
     "longname": "Something#allTogether",
@@ -116,7 +116,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-methods/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-methods\\0-src.js"
     ]
   }
 ]

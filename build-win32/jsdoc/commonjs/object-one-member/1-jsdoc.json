@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\nsimple object, one member. It shouldn't have an index. \n@module one-member\n@alias object\n*/",
+    "comment": "/**\r\nsimple object, one member. It shouldn't have an index. \r\n@module one-member\r\n@alias object\r\n*/",
     "meta": {
       "range": [
         0,
-        95
+        99
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-one-member",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-one-member",
       "code": {}
     },
     "description": "simple object, one member. It shouldn't have an index.",
@@ -18,15 +18,15 @@
     "longname": "module:one-member"
   },
   {
-    "comment": "/**\na function\n@param {string} - The input string\n@param {object} - a second input\n@author Lloyd <75pound@gmail.com>\n@since v0.10.28\n@returns {object | string} this return has several types\n@example\n```js\nallTogether(true)\n```\n*/",
+    "comment": "/**\r\na function\r\n@param {string} - The input string\r\n@param {object} - a second input\r\n@author Lloyd <75pound@gmail.com>\r\n@since v0.10.28\r\n@returns {object | string} this return has several types\r\n@example\r\n```js\r\nallTogether(true)\r\n```\r\n*/",
     "meta": {
       "range": [
-        327,
-        367
+        345,
+        385
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-one-member",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-one-member",
       "code": {
         "id": "astnode100000002",
         "name": "exports.three",
@@ -74,7 +74,7 @@
       }
     ],
     "examples": [
-      "```js\nallTogether(true)\n```"
+      "```js\r\nallTogether(true)\r\n```"
     ],
     "name": "three",
     "longname": "module:one-member.three",
@@ -86,7 +86,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-one-member/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-one-member\\0-src.js"
     ]
   }
 ]

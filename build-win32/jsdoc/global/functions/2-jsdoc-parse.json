@@ -10,7 +10,7 @@
     "meta": {
       "lineno": 4,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions"
     },
     "order": 0
   },
@@ -23,12 +23,12 @@
     "description": "a function with an example",
     "params": [],
     "examples": [
-      "```js\nvar result = exampled()\n```"
+      "```js\r\nvar result = exampled()\r\n```"
     ],
     "meta": {
       "lineno": 13,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions"
     },
     "order": 1
   },
@@ -41,13 +41,13 @@
     "description": "a function with multiple examples",
     "params": [],
     "examples": [
-      "```js\nvar another = 100\n```",
-      "```js\nvar next = \"p\"\n```"
+      "```js\r\nvar another = 100\r\n```",
+      "```js\r\nvar next = \"p\"\r\n```"
     ],
     "meta": {
       "lineno": 26,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions"
     },
     "order": 2
   },
@@ -61,7 +61,7 @@
     "meta": {
       "lineno": 31,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions"
     },
     "order": 3
   },
@@ -78,7 +78,7 @@
     "meta": {
       "lineno": 41,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions"
     },
     "order": 5
   },
@@ -93,7 +93,7 @@
     "meta": {
       "lineno": 46,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions"
     },
     "order": 6
   },
@@ -108,7 +108,7 @@
     "meta": {
       "lineno": 51,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions"
     },
     "order": 7
   },
@@ -132,7 +132,7 @@
     "meta": {
       "lineno": 56,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions"
     },
     "order": 8
   },
@@ -164,7 +164,7 @@
     "meta": {
       "lineno": 62,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions"
     },
     "order": 9
   },
@@ -198,7 +198,7 @@
     "meta": {
       "lineno": 68,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions"
     },
     "order": 10
   },
@@ -208,7 +208,7 @@
     "name": "withBullets",
     "scope": "global",
     "kind": "function",
-    "description": "this description has \n\n- bullet\n- points\n\nand needs this line to separate the above list from the below",
+    "description": "this description has \r\n\r\n- bullet\r\n- points\r\n\r\nand needs this line to separate the above list from the below",
     "params": [
       {
         "type": {
@@ -232,7 +232,7 @@
     "meta": {
       "lineno": 81,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions"
     },
     "order": 11
   },
@@ -255,7 +255,7 @@
     "meta": {
       "lineno": 86,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions"
     },
     "order": 12
   },
@@ -279,7 +279,7 @@
     "meta": {
       "lineno": 91,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions"
     },
     "order": 13
   },
@@ -304,7 +304,7 @@
     "meta": {
       "lineno": 96,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions"
     },
     "order": 14
   },
@@ -336,7 +336,7 @@
       }
     ],
     "examples": [
-      "```js\nallTogether(true)\n```"
+      "```js\r\nallTogether(true)\r\n```"
     ],
     "returns": [
       {
@@ -357,7 +357,7 @@
     "meta": {
       "lineno": 111,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions"
     },
     "order": 15
   }

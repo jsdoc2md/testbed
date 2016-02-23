@@ -110,9 +110,7 @@ respect
 
 **Example**  
 ```js
-uziLover.respect(function(err, gain){
-    console.log(gain)
-})
+uziLover.respect(function(err, gain){    console.log(gain)})
 ```
 <a name="FurQ.enemy"></a>
 ### FurQ.enemy : <code>enum</code>

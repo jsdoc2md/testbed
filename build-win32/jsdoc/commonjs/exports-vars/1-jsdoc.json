@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * note the vars are documented, not the exports. \n * @module exports-vars\n */",
+    "comment": "/**\r\n * note the vars are documented, not the exports. \r\n * @module exports-vars\r\n */",
     "meta": {
       "range": [
         0,
-        82
+        85
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/exports-vars",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\exports-vars",
       "code": {}
     },
     "description": "note the vars are documented, not the exports.",
@@ -17,15 +17,15 @@
     "longname": "module:exports-vars"
   },
   {
-    "comment": "/**\n* @type {number}\n*/",
+    "comment": "/**\r\n* @type {number}\r\n*/",
     "meta": {
       "range": [
-        112,
-        119
+        120,
+        127
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/exports-vars",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\exports-vars",
       "code": {
         "id": "astnode100000002",
         "name": "one",
@@ -45,15 +45,15 @@
     "memberof": "module:exports-vars"
   },
   {
-    "comment": "/**\n * @type {number}\n */",
+    "comment": "/**\r\n * @type {number}\r\n */",
     "meta": {
       "range": [
-        151,
-        158
+        164,
+        171
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/exports-vars",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\exports-vars",
       "code": {
         "id": "astnode100000006",
         "name": "two",
@@ -76,12 +76,12 @@
     "comment": "",
     "meta": {
       "range": [
-        160,
-        177
+        175,
+        192
       ],
       "filename": "0-src.js",
       "lineno": 16,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/exports-vars",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\exports-vars",
       "code": {
         "id": "astnode100000010",
         "name": "exports.one",
@@ -101,12 +101,12 @@
     "comment": "",
     "meta": {
       "range": [
-        178,
-        195
+        194,
+        211
       ],
       "filename": "0-src.js",
       "lineno": 17,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/exports-vars",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\exports-vars",
       "code": {
         "id": "astnode100000016",
         "name": "exports.two",
@@ -126,7 +126,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/exports-vars/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\exports-vars\\0-src.js"
     ]
   }
 ]

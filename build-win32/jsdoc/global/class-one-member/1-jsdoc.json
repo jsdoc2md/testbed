@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n@class\n*/",
+    "comment": "/**\r\n@class\r\n*/",
     "meta": {
       "range": [
-        14,
-        88
+        17,
+        96
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-one-member",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-one-member",
       "code": {
         "id": "astnode100000001",
         "name": "Pizza",
@@ -26,15 +26,15 @@
     "params": []
   },
   {
-    "comment": "/**\n  the general size\n  */",
+    "comment": "/**\r\n  the general size\r\n  */",
     "meta": {
       "range": [
-        66,
-        86
+        73,
+        93
       ],
       "filename": "0-src.js",
       "lineno": 8,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-one-member",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-one-member",
       "code": {
         "id": "astnode100000005",
         "name": "this.size",
@@ -54,7 +54,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-one-member/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-one-member\\0-src.js"
     ]
   }
 ]

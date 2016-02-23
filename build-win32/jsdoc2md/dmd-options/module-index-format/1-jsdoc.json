@@ -1,17 +1,17 @@
 [
   {
-    "comment": "/**\nAnimals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\n\n| yeah | desc |\n| ---- | ---- |\n| some | markdown |\n| in the | module |\n| description | |\n\n@module animal\n@example var animal = require(\"animal\")\n*/",
+    "comment": "/**\r\nAnimals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\r\n\r\n| yeah | desc |\r\n| ---- | ---- |\r\n| some | markdown |\r\n| in the | module |\r\n| description | |\r\n\r\n@module animal\r\n@example var animal = require(\"animal\")\r\n*/",
     "meta": {
       "range": [
         0,
-        552
+        563
       ],
       "filename": "animal.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src",
       "code": {}
     },
-    "description": "Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\n\n| yeah | desc |\n| ---- | ---- |\n| some | markdown |\n| in the | module |\n| description | |",
+    "description": "Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\r\n\r\n| yeah | desc |\r\n| ---- | ---- |\r\n| some | markdown |\r\n| in the | module |\r\n| description | |",
     "kind": "module",
     "name": "animal",
     "examples": [
@@ -23,12 +23,12 @@
     "comment": "",
     "meta": {
       "range": [
-        554,
-        577
+        567,
+        590
       ],
       "filename": "animal.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src",
       "code": {
         "id": "astnode100000002",
         "name": "module.exports",
@@ -43,15 +43,15 @@
     "kind": "member"
   },
   {
-    "comment": "/**\n@class\n@param {array} - an array of two parent {@link Animal} objects\n@param {Species} - the species\n*/",
+    "comment": "/**\r\n@class\r\n@param {array} - an array of two parent {@link Animal} objects\r\n@param {Species} - the species\r\n*/",
     "meta": {
       "range": [
-        687,
-        854
+        707,
+        886
       ],
       "filename": "animal.js",
       "lineno": 21,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src",
       "code": {
         "id": "astnode100000007",
         "name": "Animal",
@@ -93,15 +93,15 @@
     "memberof": "module:animal"
   },
   {
-    "comment": "/**\n  the current age\n  @type {number}\n  @default 0\n  */",
+    "comment": "/**\r\n  the current age\r\n  @type {number}\r\n  @default 0\r\n  */",
     "meta": {
       "range": [
-        785,
-        797
+        811,
+        823
       ],
       "filename": "animal.js",
       "lineno": 27,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src",
       "code": {
         "id": "astnode100000013",
         "name": "this.age",
@@ -124,15 +124,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  @type {Species}\n  */",
+    "comment": "/**\r\n  @type {Species}\r\n  */",
     "meta": {
       "range": [
-        830,
-        852
+        861,
+        883
       ],
       "filename": "animal.js",
       "lineno": 32,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src",
       "code": {
         "id": "astnode100000019",
         "name": "this.species",
@@ -153,15 +153,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\nAnimal moods\n@enum \n*/",
+    "comment": "/**\r\nAnimal moods\r\n@enum \r\n*/",
     "meta": {
       "range": [
-        883,
-        1000
+        921,
+        1045
       ],
       "filename": "animal.js",
       "lineno": 39,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src",
       "code": {
         "id": "astnode100000025",
         "name": "Animal.eMood",
@@ -182,12 +182,12 @@
         "comment": "/** chilling */",
         "meta": {
           "range": [
-            920,
-            932
+            960,
+            972
           ],
           "filename": "animal.js",
           "lineno": 41,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src",
           "code": {
             "id": "astnode100000030",
             "name": "satisfied",
@@ -207,12 +207,12 @@
         "comment": "/** pissed off */",
         "meta": {
           "range": [
-            956,
-            964
+            998,
+            1006
           ],
           "filename": "animal.js",
           "lineno": 43,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src",
           "code": {
             "id": "astnode100000032",
             "name": "angry",
@@ -232,12 +232,12 @@
         "comment": "/** need to eat */",
         "meta": {
           "range": [
-            989,
-            998
+            1033,
+            1042
           ],
           "filename": "animal.js",
           "lineno": 45,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src",
           "code": {
             "id": "astnode100000034",
             "name": "hungry",
@@ -259,12 +259,12 @@
     "comment": "/** chilling */",
     "meta": {
       "range": [
-        920,
-        932
+        960,
+        972
       ],
       "filename": "animal.js",
       "lineno": 41,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src",
       "code": {
         "id": "astnode100000030",
         "name": "satisfied",
@@ -284,12 +284,12 @@
     "comment": "/** pissed off */",
     "meta": {
       "range": [
-        956,
-        964
+        998,
+        1006
       ],
       "filename": "animal.js",
       "lineno": 43,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src",
       "code": {
         "id": "astnode100000032",
         "name": "angry",
@@ -309,12 +309,12 @@
     "comment": "/** need to eat */",
     "meta": {
       "range": [
-        989,
-        998
+        1033,
+        1042
       ],
       "filename": "animal.js",
       "lineno": 45,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src",
       "code": {
         "id": "astnode100000034",
         "name": "hungry",
@@ -331,15 +331,15 @@
     "defaultvalue": 2
   },
   {
-    "comment": "/**\nAside from humans, who are the most prolific and versatile builders, building behaviour is common in many mammals, birds, insects and arachnids. It is also seen in a few species of fish, reptiles, amphibians, molluscs, urochordates, crustaceans, annelids and some other arthropods. It is virtually absent from all the other animal phyla.\n@module builder\n*/",
+    "comment": "/**\r\nAside from humans, who are the most prolific and versatile builders, building behaviour is common in many mammals, birds, insects and arachnids. It is also seen in a few species of fish, reptiles, amphibians, molluscs, urochordates, crustaceans, annelids and some other arthropods. It is virtually absent from all the other animal phyla.\r\n@module builder\r\n*/",
     "meta": {
       "range": [
         0,
-        360
+        363
       ],
       "filename": "builder.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src",
       "code": {}
     },
     "description": "Aside from humans, who are the most prolific and versatile builders, building behaviour is common in many mammals, birds, insects and arachnids. It is also seen in a few species of fish, reptiles, amphibians, molluscs, urochordates, crustaceans, annelids and some other arthropods. It is virtually absent from all the other animal phyla.",
@@ -348,15 +348,15 @@
     "longname": "module:builder"
   },
   {
-    "comment": "/**\n@mixin\n*/",
+    "comment": "/**\r\n@mixin\r\n*/",
     "meta": {
       "range": [
-        380,
-        510
+        388,
+        527
       ],
       "filename": "builder.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src",
       "code": {
         "id": "astnode100000038",
         "name": "builder",
@@ -371,15 +371,15 @@
     "memberof": "module:builder"
   },
   {
-    "comment": "/**\n  construct something\n  */",
+    "comment": "/**\r\n  construct something\r\n  */",
     "meta": {
       "range": [
-        427,
-        452
+        439,
+        464
       ],
       "filename": "builder.js",
       "lineno": 13,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src",
       "code": {
         "id": "astnode100000041",
         "name": "construct",
@@ -394,15 +394,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n  repair something\n  */",
+    "comment": "/**\r\n  repair something\r\n  */",
     "meta": {
       "range": [
-        486,
-        508
+        502,
+        524
       ],
       "filename": "builder.js",
       "lineno": 17,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src",
       "code": {
         "id": "astnode100000044",
         "name": "repair",
@@ -420,12 +420,12 @@
     "comment": "",
     "meta": {
       "range": [
-        512,
-        536
+        531,
+        555
       ],
       "filename": "builder.js",
       "lineno": 20,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src",
       "code": {
         "id": "astnode100000048",
         "name": "module.exports",
@@ -440,15 +440,15 @@
     "kind": "member"
   },
   {
-    "comment": "/**\nIn biology, a species (abbreviated sp., with the plural form species abbreviated spp.) is one of the basic units of biological classification and a taxonomic rank. A species is often defined as the largest group of organisms capable of interbreeding and producing fertile offspring. While in many cases this definition is adequate, the difficulty of defining species is known as the species problem. Differing measures are often used, such as similarity of DNA, morphology, or ecological niche. Presence of specific locally adapted traits may further subdivide species into \"infraspecific taxa\" such as subspecies (and in botany other taxa are used, such as varieties, subvarieties, and formae).\n@module\n*/",
+    "comment": "/**\r\nIn biology, a species (abbreviated sp., with the plural form species abbreviated spp.) is one of the basic units of biological classification and a taxonomic rank. A species is often defined as the largest group of organisms capable of interbreeding and producing fertile offspring. While in many cases this definition is adequate, the difficulty of defining species is known as the species problem. Differing measures are often used, such as similarity of DNA, morphology, or ecological niche. Presence of specific locally adapted traits may further subdivide species into \"infraspecific taxa\" such as subspecies (and in botany other taxa are used, such as varieties, subvarieties, and formae).\r\n@module\r\n*/",
     "meta": {
       "range": [
         0,
-        710
+        713
       ],
       "filename": "species.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src",
       "code": {}
     },
     "description": "In biology, a species (abbreviated sp., with the plural form species abbreviated spp.) is one of the basic units of biological classification and a taxonomic rank. A species is often defined as the largest group of organisms capable of interbreeding and producing fertile offspring. While in many cases this definition is adequate, the difficulty of defining species is known as the species problem. Differing measures are often used, such as similarity of DNA, morphology, or ecological niche. Presence of specific locally adapted traits may further subdivide species into \"infraspecific taxa\" such as subspecies (and in botany other taxa are used, such as varieties, subvarieties, and formae).",
@@ -460,12 +460,12 @@
     "comment": "",
     "meta": {
       "range": [
-        712,
-        736
+        717,
+        741
       ],
       "filename": "species.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src",
       "code": {
         "id": "astnode100000055",
         "name": "module.exports",
@@ -480,15 +480,15 @@
     "kind": "member"
   },
   {
-    "comment": "/**\n@class\n*/",
+    "comment": "/**\r\n@class\r\n*/",
     "meta": {
       "range": [
-        752,
-        894
+        762,
+        915
       ],
       "filename": "species.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src",
       "code": {
         "id": "astnode100000060",
         "name": "Species",
@@ -508,15 +508,15 @@
     "params": []
   },
   {
-    "comment": "/**\n  the species name\n  @type {string}\n  */",
+    "comment": "/**\r\n  the species name\r\n  @type {string}\r\n  */",
     "meta": {
       "range": [
-        823,
-        837
+        838,
+        852
       ],
       "filename": "species.js",
       "lineno": 16,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src",
       "code": {
         "id": "astnode100000064",
         "name": "this.name",
@@ -538,15 +538,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  @type {Species}\n  */",
+    "comment": "/**\r\n  @type {Species}\r\n  */",
     "meta": {
       "range": [
-        870,
-        892
+        890,
+        912
       ],
       "filename": "species.js",
       "lineno": 21,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src",
       "code": {
         "id": "astnode100000070",
         "name": "this.species",
@@ -567,15 +567,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\nmerge two species into a new one\n@param {Species} - first\n@param {Species} - second\n@returns {Species}\n*/",
+    "comment": "/**\r\nmerge two species into a new one\r\n@param {Species} - first\r\n@param {Species} - second\r\n@returns {Species}\r\n*/",
     "meta": {
       "range": [
-        1006,
-        1044
+        1035,
+        1073
       ],
       "filename": "species.js",
       "lineno": 30,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src",
       "code": {
         "id": "astnode100000076",
         "name": "Species.merge",
@@ -626,9 +626,9 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src/animal.js",
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src/builder.js",
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/module-index-format/src/species.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src\\animal.js",
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src\\builder.js",
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\module-index-format\\src\\species.js"
     ]
   }
 ]

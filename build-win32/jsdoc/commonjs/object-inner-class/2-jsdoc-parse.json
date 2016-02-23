@@ -7,12 +7,12 @@
     "description": "exports an object.. has an inner class.",
     "alias": "cyber",
     "examples": [
-      "```js\nvar cyber = require(\"cyberdyne\")\n```"
+      "```js\r\nvar cyber = require(\"cyberdyne\")\r\n```"
     ],
     "meta": {
       "lineno": 1,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inner-class"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-inner-class"
     },
     "order": 0
   },
@@ -51,7 +51,7 @@
     "meta": {
       "lineno": 26,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inner-class"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-inner-class"
     },
     "order": 4
   },
@@ -70,7 +70,7 @@
     "meta": {
       "lineno": 31,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inner-class"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-inner-class"
     },
     "order": 5
   },
@@ -93,7 +93,7 @@
     "meta": {
       "lineno": 14,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inner-class"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-inner-class"
     },
     "order": 1
   },
@@ -108,7 +108,7 @@
     "meta": {
       "lineno": 22,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inner-class"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-inner-class"
     },
     "order": 2
   },
@@ -123,7 +123,7 @@
     "meta": {
       "lineno": 37,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inner-class"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\object-inner-class"
     },
     "order": 6
   }

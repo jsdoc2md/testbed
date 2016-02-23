@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n@class\n@classdesc Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\n\n- some markdown\n- in the module\n- description\n\n@summary It's an animal, yeah? \n@param {array} - an array of two parent {@link Animal} objects\n@param {Species} - the species\n*/",
+    "comment": "/**\r\n@class\r\n@classdesc Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\r\n\r\n- some markdown\r\n- in the module\r\n- description\r\n\r\n@summary It's an animal, yeah? \r\n@param {array} - an array of two parent {@link Animal} objects\r\n@param {Species} - the species\r\n*/",
     "meta": {
       "range": [
-        598,
-        763
+        610,
+        787
       ],
       "filename": "0-src.js",
       "lineno": 13,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/separators",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\no-gfm\\separators",
       "code": {
         "id": "astnode100000001",
         "name": "Animal",
@@ -24,7 +24,7 @@
       }
     },
     "kind": "class",
-    "classdesc": "Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\n\n- some markdown\n- in the module\n- description",
+    "classdesc": "Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\r\n\r\n- some markdown\r\n- in the module\r\n- description",
     "summary": "It's an animal, yeah?",
     "params": [
       {
@@ -51,15 +51,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n  the current age\n  @type {number}\n  @default\n  */",
+    "comment": "/**\r\n  the current age\r\n  @type {number}\r\n  @default\r\n  */",
     "meta": {
       "range": [
-        694,
-        706
+        712,
+        724
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/separators",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\no-gfm\\separators",
       "code": {
         "id": "astnode100000007",
         "name": "this.age",
@@ -82,15 +82,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  @type {Species}\n  */",
+    "comment": "/**\r\n  @type {Species}\r\n  */",
     "meta": {
       "range": [
-        739,
-        761
+        762,
+        784
       ],
       "filename": "0-src.js",
       "lineno": 24,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/separators",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\no-gfm\\separators",
       "code": {
         "id": "astnode100000013",
         "name": "this.species",
@@ -111,15 +111,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\nAnimal moods\n@enum \n*/",
+    "comment": "/**\r\nAnimal moods\r\n@enum \r\n*/",
     "meta": {
       "range": [
-        792,
-        909
+        822,
+        946
       ],
       "filename": "0-src.js",
       "lineno": 31,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/separators",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\no-gfm\\separators",
       "code": {
         "id": "astnode100000019",
         "name": "Animal.eMood",
@@ -140,12 +140,12 @@
         "comment": "/** chilling */",
         "meta": {
           "range": [
-            829,
-            841
+            861,
+            873
           ],
           "filename": "0-src.js",
           "lineno": 33,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/separators",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\no-gfm\\separators",
           "code": {
             "id": "astnode100000024",
             "name": "satisfied",
@@ -165,12 +165,12 @@
         "comment": "/** pissed off */",
         "meta": {
           "range": [
-            865,
-            873
+            899,
+            907
           ],
           "filename": "0-src.js",
           "lineno": 35,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/separators",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\no-gfm\\separators",
           "code": {
             "id": "astnode100000026",
             "name": "angry",
@@ -190,12 +190,12 @@
         "comment": "/** need to eat */",
         "meta": {
           "range": [
-            898,
-            907
+            934,
+            943
           ],
           "filename": "0-src.js",
           "lineno": 37,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/separators",
+          "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\no-gfm\\separators",
           "code": {
             "id": "astnode100000028",
             "name": "hungry",
@@ -217,12 +217,12 @@
     "comment": "/** chilling */",
     "meta": {
       "range": [
-        829,
-        841
+        861,
+        873
       ],
       "filename": "0-src.js",
       "lineno": 33,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/separators",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\no-gfm\\separators",
       "code": {
         "id": "astnode100000024",
         "name": "satisfied",
@@ -242,12 +242,12 @@
     "comment": "/** pissed off */",
     "meta": {
       "range": [
-        865,
-        873
+        899,
+        907
       ],
       "filename": "0-src.js",
       "lineno": 35,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/separators",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\no-gfm\\separators",
       "code": {
         "id": "astnode100000026",
         "name": "angry",
@@ -267,12 +267,12 @@
     "comment": "/** need to eat */",
     "meta": {
       "range": [
-        898,
-        907
+        934,
+        943
       ],
       "filename": "0-src.js",
       "lineno": 37,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/separators",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\no-gfm\\separators",
       "code": {
         "id": "astnode100000028",
         "name": "hungry",
@@ -292,7 +292,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/separators/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc2md\\dmd-options\\no-gfm\\separators\\0-src.js"
     ]
   }
 ]

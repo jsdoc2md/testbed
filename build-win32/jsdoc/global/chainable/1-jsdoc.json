@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n@class\n@classdesc has a chainable method\n*/",
+    "comment": "/**\r\n@class\r\n@classdesc has a chainable method\r\n*/",
     "meta": {
       "range": [
-        48,
-        145
+        52,
+        155
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/chainable",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\chainable",
       "code": {
         "id": "astnode100000001",
         "name": "Chainable",
@@ -28,15 +28,15 @@
     "params": []
   },
   {
-    "comment": "/**\n  returns itself\n  @chainable\n  */",
+    "comment": "/**\r\n  returns itself\r\n  @chainable\r\n  */",
     "meta": {
       "range": [
-        115,
-        143
+        124,
+        152
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/chainable",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\chainable",
       "code": {
         "id": "astnode100000005",
         "name": "this.method",
@@ -62,7 +62,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/chainable/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\chainable\\0-src.js"
     ]
   }
 ]

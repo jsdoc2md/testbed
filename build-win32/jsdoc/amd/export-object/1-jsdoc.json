@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n   * A module that says hello!\n   * @exports amd/export-object\n   */",
+    "comment": "/**\r\n   * A module that says hello!\r\n   * @exports amd/export-object\r\n   */",
     "meta": {
       "range": [
-        102,
-        109
+        107,
+        114
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/export-object",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\amd\\export-object",
       "code": {
         "id": "astnode100000007",
         "name": "ns",
@@ -26,12 +26,12 @@
     "comment": "/** Say hello. */",
     "meta": {
       "range": [
-        133,
-        189
+        141,
+        199
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/export-object",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\amd\\export-object",
       "code": {
         "id": "astnode100000011",
         "name": "ns.sayHello",
@@ -51,7 +51,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/amd/export-object/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\amd\\export-object\\0-src.js"
     ]
   }
 ]

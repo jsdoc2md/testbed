@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\na global variable\n*/",
+    "comment": "/**\r\na global variable\r\n*/",
     "meta": {
       "range": [
-        29,
-        41
+        32,
+        44
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/members",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\members",
       "code": {
         "id": "astnode100000002",
         "name": "variable",
@@ -23,15 +23,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@type {string}\n*/",
+    "comment": "/**\r\n@type {string}\r\n*/",
     "meta": {
       "range": [
-        69,
-        78
+        77,
+        86
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/members",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\members",
       "code": {
         "id": "astnode100000006",
         "name": "typed",
@@ -50,15 +50,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@type {string|number}\n*/",
+    "comment": "/**\r\n@type {string|number}\r\n*/",
     "meta": {
       "range": [
-        113,
-        122
+        126,
+        135
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/members",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\members",
       "code": {
         "id": "astnode100000010",
         "name": "types",
@@ -78,15 +78,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\na var with an example\n@example\n```js\nvar another = 100\n```\n*/",
+    "comment": "/**\r\na var with an example\r\n@example\r\n```js\r\nvar another = 100\r\n```\r\n*/",
     "meta": {
       "range": [
-        194,
-        206
+        216,
+        228
       ],
       "filename": "0-src.js",
       "lineno": 23,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/members",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\members",
       "code": {
         "id": "astnode100000014",
         "name": "exampled",
@@ -96,7 +96,7 @@
     },
     "description": "a var with an example",
     "examples": [
-      "```js\nvar another = 100\n```"
+      "```js\r\nvar another = 100\r\n```"
     ],
     "name": "exampled",
     "longname": "exampled",
@@ -104,15 +104,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\na var with multiple examples\n@example\n```js\nvar another = 100\n```\n@example\n```js\nvar next = \"p\"\n```\n*/",
+    "comment": "/**\r\na var with multiple examples\r\n@example\r\n```js\r\nvar another = 100\r\n```\r\n@example\r\n```js\r\nvar next = \"p\"\r\n```\r\n*/",
     "meta": {
       "range": [
-        319,
-        331
+        354,
+        366
       ],
       "filename": "0-src.js",
       "lineno": 36,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/members",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\members",
       "code": {
         "id": "astnode100000018",
         "name": "examples",
@@ -122,8 +122,8 @@
     },
     "description": "a var with multiple examples",
     "examples": [
-      "```js\nvar another = 100\n```",
-      "```js\nvar next = \"p\"\n```"
+      "```js\r\nvar another = 100\r\n```",
+      "```js\r\nvar next = \"p\"\r\n```"
     ],
     "name": "examples",
     "longname": "examples",
@@ -131,15 +131,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@protected\n*/",
+    "comment": "/**\r\n@protected\r\n*/",
     "meta": {
       "range": [
-        355,
-        372
+        395,
+        412
       ],
       "filename": "0-src.js",
       "lineno": 41,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/members",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\members",
       "code": {
         "id": "astnode100000022",
         "name": "_protected",
@@ -154,15 +154,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@private\n*/",
+    "comment": "/**\r\n@private\r\n*/",
     "meta": {
       "range": [
-        394,
-        409
+        439,
+        454
       ],
       "filename": "0-src.js",
       "lineno": 46,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/members",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\members",
       "code": {
         "id": "astnode100000026",
         "name": "_private",
@@ -177,15 +177,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@author Clive Jones <clive@jones.com>\n*/",
+    "comment": "/**\r\n@author Clive Jones <clive@jones.com>\r\n*/",
     "meta": {
       "range": [
-        460,
-        477
+        510,
+        527
       ],
       "filename": "0-src.js",
       "lineno": 51,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/members",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\members",
       "code": {
         "id": "astnode100000030",
         "name": "withAuthor",
@@ -202,15 +202,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@default\n*/",
+    "comment": "/**\r\n@default\r\n*/",
     "meta": {
       "range": [
-        499,
-        514
+        554,
+        569
       ],
       "filename": "0-src.js",
       "lineno": 56,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/members",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\members",
       "code": {
         "id": "astnode100000034",
         "name": "hasDefault",
@@ -225,15 +225,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@default\n*/",
+    "comment": "/**\r\n@default\r\n*/",
     "meta": {
       "range": [
-        536,
-        577
+        596,
+        640
       ],
       "filename": "0-src.js",
       "lineno": 61,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/members",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\members",
       "code": {
         "id": "astnode100000038",
         "name": "hasDefaultObject",
@@ -252,12 +252,12 @@
     "comment": "",
     "meta": {
       "range": [
-        559,
-        565
+        620,
+        626
       ],
       "filename": "0-src.js",
       "lineno": 62,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/members",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\members",
       "code": {
         "id": "astnode100000041",
         "name": "one",
@@ -276,12 +276,12 @@
     "comment": "",
     "meta": {
       "range": [
-        569,
-        575
+        631,
+        637
       ],
       "filename": "0-src.js",
       "lineno": 63,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/members",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\members",
       "code": {
         "id": "astnode100000043",
         "name": "two",
@@ -297,15 +297,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n@deprecated\n*/",
+    "comment": "/**\r\n@deprecated\r\n*/",
     "meta": {
       "range": [
-        602,
-        619
+        670,
+        687
       ],
       "filename": "0-src.js",
       "lineno": 69,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/members",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\members",
       "code": {
         "id": "astnode100000046",
         "name": "deprecated",
@@ -320,15 +320,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@readonly\n*/",
+    "comment": "/**\r\n@readonly\r\n*/",
     "meta": {
       "range": [
-        642,
-        657
+        715,
+        730
       ],
       "filename": "0-src.js",
       "lineno": 74,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/members",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\members",
       "code": {
         "id": "astnode100000050",
         "name": "readOnly",
@@ -343,15 +343,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@since v0.10.28\n*/",
+    "comment": "/**\r\n@since v0.10.28\r\n*/",
     "meta": {
       "range": [
-        686,
-        701
+        764,
+        779
       ],
       "filename": "0-src.js",
       "lineno": 79,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/members",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\members",
       "code": {
         "id": "astnode100000054",
         "name": "hasSince",
@@ -366,15 +366,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\nThis variable has all tags set\n@deprecated\n@type {boolean}\n@private\n@default\n@readonly\n@author 75lb <75pound@gmail.com>\n@since v0.10.28\n@example\n```js\nvar allTogether = true\n```\n*/",
+    "comment": "/**\r\nThis variable has all tags set\r\n@deprecated\r\n@type {boolean}\r\n@private\r\n@default\r\n@readonly\r\n@author 75lb <75pound@gmail.com>\r\n@since v0.10.28\r\n@example\r\n```js\r\nvar allTogether = true\r\n```\r\n*/",
     "meta": {
       "range": [
-        892,
-        911
+        986,
+        1005
       ],
       "filename": "0-src.js",
       "lineno": 95,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/members",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\members",
       "code": {
         "id": "astnode100000058",
         "name": "allTogether",
@@ -397,7 +397,7 @@
     ],
     "since": "v0.10.28",
     "examples": [
-      "```js\nvar allTogether = true\n```"
+      "```js\r\nvar allTogether = true\r\n```"
     ],
     "name": "allTogether",
     "longname": "allTogether",
@@ -408,7 +408,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/members/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\members\\0-src.js"
     ]
   }
 ]

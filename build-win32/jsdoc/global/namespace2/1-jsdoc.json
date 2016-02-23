@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * A missle object, with separate docs for each property.\n * @namespace missle\n */",
+    "comment": "/**\r\n * A missle object, with separate docs for each property.\r\n * @namespace missle\r\n */",
     "meta": {
       "range": [
         0,
-        86
+        89
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\namespace2",
       "code": {}
     },
     "description": "A missle object, with separate docs for each property.",
@@ -21,12 +21,12 @@
     "comment": "",
     "meta": {
       "range": [
-        91,
-        427
+        95,
+        457
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\namespace2",
       "code": {
         "id": "astnode100000002",
         "name": "missle",
@@ -41,15 +41,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n   * missile range\n   * @default\n   * @type {number}\n   */",
+    "comment": "/**\r\n   * missile range\r\n   * @default\r\n   * @type {number}\r\n   */",
     "meta": {
       "range": [
-        169,
-        182
+        179,
+        192
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\namespace2",
       "code": {
         "id": "astnode100000005",
         "name": "range",
@@ -71,15 +71,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n   * ballistic\n   * @default\n   * @type {boolean}\n   */",
+    "comment": "/**\r\n   * ballistic\r\n   * @default\r\n   * @type {boolean}\r\n   */",
     "meta": {
       "range": [
-        249,
-        264
+        266,
+        281
       ],
       "filename": "0-src.js",
       "lineno": 18,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\namespace2",
       "code": {
         "id": "astnode100000007",
         "name": "ballistic",
@@ -101,15 +101,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n   * hydrogen bomb?\n   */",
+    "comment": "/**\r\n   * hydrogen bomb?\r\n   */",
     "meta": {
       "range": [
-        300,
-        314
+        321,
+        335
       ],
       "filename": "0-src.js",
       "lineno": 22,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\namespace2",
       "code": {
         "id": "astnode100000009",
         "name": "hydrogen",
@@ -125,15 +125,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\n   * number of megatons\n   * @default\n   * @type {number}\n   */",
+    "comment": "/**\r\n   * number of megatons\r\n   * @default\r\n   * @type {number}\r\n   */",
     "meta": {
       "range": [
-        389,
-        401
+        417,
+        429
       ],
       "filename": "0-src.js",
       "lineno": 29,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\namespace2",
       "code": {
         "id": "astnode100000011",
         "name": "megaton",
@@ -158,12 +158,12 @@
     "comment": "",
     "meta": {
       "range": [
-        405,
-        425
+        434,
+        454
       ],
       "filename": "0-src.js",
       "lineno": 30,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace2",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\namespace2",
       "code": {
         "id": "astnode100000013",
         "name": "destruction",
@@ -182,7 +182,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/namespace2/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\namespace2\\0-src.js"
     ]
   }
 ]

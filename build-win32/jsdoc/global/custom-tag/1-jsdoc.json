@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\nthis function has a wonderful custom tag\n@createdIn Nigeria\n*/",
+    "comment": "/**\r\nthis function has a wonderful custom tag\r\n@createdIn Nigeria\r\n*/",
     "meta": {
       "range": [
-        67,
-        102
+        71,
+        106
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/custom-tag",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\custom-tag",
       "code": {
         "id": "astnode100000001",
         "name": "customTaggedFunction",
@@ -35,7 +35,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/custom-tag/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\custom-tag\\0-src.js"
     ]
   }
 ]

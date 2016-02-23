@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n * @param {number}\n * @param {number}\n * @param variable {...number}\n */",
+    "comment": "/**\r\n * @param {number}\r\n * @param {number}\r\n * @param variable {...number}\r\n */",
     "meta": {
       "range": [
-        77,
-        102
+        82,
+        107
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/param-variable",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\param-variable",
       "code": {
         "id": "astnode100000001",
         "name": "one",
@@ -56,7 +56,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/param-variable/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\param-variable\\0-src.js"
     ]
   }
 ]

@@ -28,7 +28,7 @@
       }
     ],
     "examples": [
-      "```js\nvar yeah = new Everything(true)\n```"
+      "```js\r\nvar yeah = new Everything(true)\r\n```"
     ],
     "order": 1
   },
@@ -50,7 +50,7 @@
     "meta": {
       "lineno": 16,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-all"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-all"
     },
     "order": 0
   },
@@ -72,7 +72,7 @@
     "meta": {
       "lineno": 23,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-all"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-all"
     },
     "order": 2
   },
@@ -87,7 +87,7 @@
     "meta": {
       "lineno": 28,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-all"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-all"
     },
     "order": 3
   },
@@ -120,7 +120,7 @@
       }
     ],
     "examples": [
-      "```js\nall.allTogether(true)\n```"
+      "```js\r\nall.allTogether(true)\r\n```"
     ],
     "returns": [
       {
@@ -141,7 +141,7 @@
     "meta": {
       "lineno": 44,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-all"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-all"
     },
     "order": 4
   },
@@ -156,7 +156,7 @@
     "meta": {
       "lineno": 48,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-all"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-all"
     },
     "order": 5
   }

@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\nIn biology, a species (abbreviated sp., with the plural form species abbreviated spp.) is one of the basic units of biological classification and a taxonomic rank. A species is often defined as the largest group of organisms capable of interbreeding and producing fertile offspring. While in many cases this definition is adequate, the difficulty of defining species is known as the species problem. Differing measures are often used, such as similarity of DNA, morphology, or ecological niche. Presence of specific locally adapted traits may further subdivide species into \"infraspecific taxa\" such as subspecies (and in botany other taxa are used, such as varieties, subvarieties, and formae).\n@module\n*/",
+    "comment": "/**\r\nIn biology, a species (abbreviated sp., with the plural form species abbreviated spp.) is one of the basic units of biological classification and a taxonomic rank. A species is often defined as the largest group of organisms capable of interbreeding and producing fertile offspring. While in many cases this definition is adequate, the difficulty of defining species is known as the species problem. Differing measures are often used, such as similarity of DNA, morphology, or ecological niche. Presence of specific locally adapted traits may further subdivide species into \"infraspecific taxa\" such as subspecies (and in botany other taxa are used, such as varieties, subvarieties, and formae).\r\n@module\r\n*/",
     "meta": {
       "range": [
         0,
-        710
+        713
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/species",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\species",
       "code": {}
     },
     "description": "In biology, a species (abbreviated sp., with the plural form species abbreviated spp.) is one of the basic units of biological classification and a taxonomic rank. A species is often defined as the largest group of organisms capable of interbreeding and producing fertile offspring. While in many cases this definition is adequate, the difficulty of defining species is known as the species problem. Differing measures are often used, such as similarity of DNA, morphology, or ecological niche. Presence of specific locally adapted traits may further subdivide species into \"infraspecific taxa\" such as subspecies (and in botany other taxa are used, such as varieties, subvarieties, and formae).",
@@ -20,12 +20,12 @@
     "comment": "",
     "meta": {
       "range": [
-        712,
-        736
+        717,
+        741
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/species",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\species",
       "code": {
         "id": "astnode100000002",
         "name": "module.exports",
@@ -40,15 +40,15 @@
     "kind": "member"
   },
   {
-    "comment": "/**\n@class\n*/",
+    "comment": "/**\r\n@class\r\n*/",
     "meta": {
       "range": [
-        752,
-        894
+        762,
+        915
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/species",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\species",
       "code": {
         "id": "astnode100000007",
         "name": "Species",
@@ -68,15 +68,15 @@
     "params": []
   },
   {
-    "comment": "/**\n  the species name\n  @type {string}\n  */",
+    "comment": "/**\r\n  the species name\r\n  @type {string}\r\n  */",
     "meta": {
       "range": [
-        823,
-        837
+        838,
+        852
       ],
       "filename": "0-src.js",
       "lineno": 16,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/species",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\species",
       "code": {
         "id": "astnode100000011",
         "name": "this.name",
@@ -98,15 +98,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  @type {Species}\n  */",
+    "comment": "/**\r\n  @type {Species}\r\n  */",
     "meta": {
       "range": [
-        870,
-        892
+        890,
+        912
       ],
       "filename": "0-src.js",
       "lineno": 21,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/species",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\species",
       "code": {
         "id": "astnode100000017",
         "name": "this.species",
@@ -127,15 +127,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\nmerge two species into a new one\n@param {Species} - first\n@param {Species} - second\n@returns {Species}\n*/",
+    "comment": "/**\r\nmerge two species into a new one\r\n@param {Species} - first\r\n@param {Species} - second\r\n@returns {Species}\r\n*/",
     "meta": {
       "range": [
-        1006,
-        1044
+        1035,
+        1073
       ],
       "filename": "0-src.js",
       "lineno": 30,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/species",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\species",
       "code": {
         "id": "astnode100000023",
         "name": "Species.merge",
@@ -186,7 +186,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/species/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\species\\0-src.js"
     ]
   }
 ]

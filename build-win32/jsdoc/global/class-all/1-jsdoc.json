@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\nthe constructor description\n@class\n@classdesc a class with all of the things\n@param {object} - an input\n@param [options] {object} - optional shit\n@author 75lb <75pound@gmail.com>\n@deprecated\n@since v0.10.28\n@extends {Number}\n@example\n```js\nvar yeah = new Everything(true)\n```\n*/",
+    "comment": "/**\r\nthe constructor description\r\n@class\r\n@classdesc a class with all of the things\r\n@param {object} - an input\r\n@param [options] {object} - optional shit\r\n@author 75lb <75pound@gmail.com>\r\n@deprecated\r\n@since v0.10.28\r\n@extends {Number}\r\n@example\r\n```js\r\nvar yeah = new Everything(true)\r\n```\r\n*/",
     "meta": {
       "range": [
-        283,
-        481
+        298,
+        509
       ],
       "filename": "0-src.js",
       "lineno": 16,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-all",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-all",
       "code": {
         "id": "astnode100000001",
         "name": "All",
@@ -56,22 +56,22 @@
       "Number"
     ],
     "examples": [
-      "```js\nvar yeah = new Everything(true)\n```"
+      "```js\r\nvar yeah = new Everything(true)\r\n```"
     ],
     "name": "All",
     "longname": "All",
     "scope": "global"
   },
   {
-    "comment": "/**\n  the ingredients on top\n  @default\n  @type {string}\n  @since v1.0.0\n  */",
+    "comment": "/**\r\n  the ingredients on top\r\n  @default\r\n  @type {string}\r\n  @since v1.0.0\r\n  */",
     "meta": {
       "range": [
-        396,
-        425
+        418,
+        447
       ],
       "filename": "0-src.js",
       "lineno": 23,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-all",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-all",
       "code": {
         "id": "astnode100000007",
         "name": "this.topping",
@@ -95,15 +95,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  the general size\n  */",
+    "comment": "/**\r\n  the general size\r\n  */",
     "meta": {
       "range": [
-        459,
-        479
+        486,
+        506
       ],
       "filename": "0-src.js",
       "lineno": 28,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-all",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-all",
       "code": {
         "id": "astnode100000013",
         "name": "this.size",
@@ -120,15 +120,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\nThis function has all tags set\n@deprecated\n@param {string} - The input string\n@param {object} - a second input\n@author Lloyd <75pound@gmail.com>\n@since v0.10.28\n@returns {object | string} this return has several types\n@example\n```js\nall.allTogether(true)\n```\n*/",
+    "comment": "/**\r\nThis function has all tags set\r\n@deprecated\r\n@param {string} - The input string\r\n@param {object} - a second input\r\n@author Lloyd <75pound@gmail.com>\r\n@since v0.10.28\r\n@returns {object | string} this return has several types\r\n@example\r\n```js\r\nall.allTogether(true)\r\n```\r\n*/",
     "meta": {
       "range": [
-        749,
-        853
+        792,
+        901
       ],
       "filename": "0-src.js",
       "lineno": 44,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-all",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-all",
       "code": {
         "id": "astnode100000019",
         "name": "All.prototype.allThings",
@@ -180,7 +180,7 @@
       }
     ],
     "examples": [
-      "```js\nall.allTogether(true)\n```"
+      "```js\r\nall.allTogether(true)\r\n```"
     ],
     "name": "allThings",
     "longname": "All#allThings",
@@ -189,15 +189,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  a rarseclart inner\n  */",
+    "comment": "/**\r\n  a rarseclart inner\r\n  */",
     "meta": {
       "range": [
-        835,
-        851
+        882,
+        898
       ],
       "filename": "0-src.js",
       "lineno": 48,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-all",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-all",
       "code": {
         "id": "astnode100000030",
         "name": "some",
@@ -216,7 +216,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class-all/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class-all\\0-src.js"
     ]
   }
 ]

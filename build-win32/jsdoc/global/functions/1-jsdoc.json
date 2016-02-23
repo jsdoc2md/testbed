@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\na global function \n*/",
+    "comment": "/**\r\na global function \r\n*/",
     "meta": {
       "range": [
-        26,
-        51
+        29,
+        54
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions",
       "code": {
         "id": "astnode100000001",
         "name": "globalFunc",
@@ -24,15 +24,15 @@
     "params": []
   },
   {
-    "comment": "/**\na function with an example\n@example\n```js\nvar result = exampled()\n```\n*/",
+    "comment": "/**\r\na function with an example\r\n@example\r\n```js\r\nvar result = exampled()\r\n```\r\n*/",
     "meta": {
       "range": [
-        130,
-        153
+        142,
+        165
       ],
       "filename": "0-src.js",
       "lineno": 13,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions",
       "code": {
         "id": "astnode100000004",
         "name": "exampled",
@@ -42,7 +42,7 @@
     },
     "description": "a function with an example",
     "examples": [
-      "```js\nvar result = exampled()\n```"
+      "```js\r\nvar result = exampled()\r\n```"
     ],
     "name": "exampled",
     "longname": "exampled",
@@ -51,15 +51,15 @@
     "params": []
   },
   {
-    "comment": "/**\na function with multiple examples\n@example\n```js\nvar another = 100\n```\n@example\n```js\nvar next = \"p\"\n```\n*/",
+    "comment": "/**\r\na function with multiple examples\r\n@example\r\n```js\r\nvar another = 100\r\n```\r\n@example\r\n```js\r\nvar next = \"p\"\r\n```\r\n*/",
     "meta": {
       "range": [
-        267,
-        295
+        292,
+        320
       ],
       "filename": "0-src.js",
       "lineno": 26,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions",
       "code": {
         "id": "astnode100000007",
         "name": "multiExampled",
@@ -69,8 +69,8 @@
     },
     "description": "a function with multiple examples",
     "examples": [
-      "```js\nvar another = 100\n```",
-      "```js\nvar next = \"p\"\n```"
+      "```js\r\nvar another = 100\r\n```",
+      "```js\r\nvar next = \"p\"\r\n```"
     ],
     "name": "multiExampled",
     "longname": "multiExampled",
@@ -79,15 +79,15 @@
     "params": []
   },
   {
-    "comment": "/**\n@protected\n*/",
+    "comment": "/**\r\n@protected\r\n*/",
     "meta": {
       "range": [
-        319,
-        346
+        349,
+        376
       ],
       "filename": "0-src.js",
       "lineno": 31,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions",
       "code": {
         "id": "astnode100000011",
         "name": "_protected",
@@ -101,15 +101,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@private\n*/",
+    "comment": "/**\r\n@private\r\n*/",
     "meta": {
       "range": [
-        368,
-        393
+        403,
+        428
       ],
       "filename": "0-src.js",
       "lineno": 36,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions",
       "code": {
         "id": "astnode100000016",
         "name": "_private",
@@ -123,15 +123,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@author Clive Jones <clive@jones.com>\n*/",
+    "comment": "/**\r\n@author Clive Jones <clive@jones.com>\r\n*/",
     "meta": {
       "range": [
-        440,
-        465
+        480,
+        505
       ],
       "filename": "0-src.js",
       "lineno": 41,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions",
       "code": {
         "id": "astnode100000020",
         "name": "withAuthor",
@@ -149,15 +149,15 @@
     "params": []
   },
   {
-    "comment": "/**\n@deprecated\n*/",
+    "comment": "/**\r\n@deprecated\r\n*/",
     "meta": {
       "range": [
-        486,
-        512
+        531,
+        557
       ],
       "filename": "0-src.js",
       "lineno": 46,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions",
       "code": {
         "id": "astnode100000023",
         "name": "oldFunction",
@@ -173,15 +173,15 @@
     "params": []
   },
   {
-    "comment": "/**\n@since v0.10.28\n*/",
+    "comment": "/**\r\n@since v0.10.28\r\n*/",
     "meta": {
       "range": [
-        537,
-        563
+        587,
+        613
       ],
       "filename": "0-src.js",
       "lineno": 51,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions",
       "code": {
         "id": "astnode100000026",
         "name": "newFunction",
@@ -197,15 +197,15 @@
     "params": []
   },
   {
-    "comment": "/**\n@param {string} - The input string\n*/",
+    "comment": "/**\r\n@param {string} - The input string\r\n*/",
     "meta": {
       "range": [
-        607,
-        639
+        662,
+        694
       ],
       "filename": "0-src.js",
       "lineno": 56,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions",
       "code": {
         "id": "astnode100000029",
         "name": "withParam",
@@ -233,15 +233,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@param {string} - The input string\n@param {object}\n*/",
+    "comment": "/**\r\n@param {string} - The input string\r\n@param {object}\r\n*/",
     "meta": {
       "range": [
-        699,
-        732
+        760,
+        793
       ],
       "filename": "0-src.js",
       "lineno": 62,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions",
       "code": {
         "id": "astnode100000034",
         "name": "withParams",
@@ -277,15 +277,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@param {string} - The input string\n@param [two]{object} - this one is optional\n*/",
+    "comment": "/**\r\n@param {string} - The input string\r\n@param [two]{object} - this one is optional\r\n*/",
     "meta": {
       "range": [
-        820,
-        855
+        887,
+        922
       ],
       "filename": "0-src.js",
       "lineno": 68,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions",
       "code": {
         "id": "astnode100000039",
         "name": "withOptional",
@@ -323,15 +323,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\nthis description has \n\n- bullet\n- points\n\nand needs this line to separate the above list from the below\n\n@param {string} - The input string\n@param {object} - a second input\n*/",
+    "comment": "/**\r\nthis description has \r\n\r\n- bullet\r\n- points\r\n\r\nand needs this line to separate the above list from the below\r\n\r\n@param {string} - The input string\r\n@param {object} - a second input\r\n*/",
     "meta": {
       "range": [
-        1037,
-        1071
+        1117,
+        1151
       ],
       "filename": "0-src.js",
       "lineno": 81,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions",
       "code": {
         "id": "astnode100000044",
         "name": "withBullets",
@@ -342,7 +342,7 @@
         ]
       }
     },
-    "description": "this description has \n\n- bullet\n- points\n\nand needs this line to separate the above list from the below",
+    "description": "this description has \r\n\r\n- bullet\r\n- points\r\n\r\nand needs this line to separate the above list from the below",
     "params": [
       {
         "type": {
@@ -369,15 +369,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@returns {string}\n*/",
+    "comment": "/**\r\n@returns {string}\r\n*/",
     "meta": {
       "range": [
-        1098,
-        1137
+        1183,
+        1222
       ],
       "filename": "0-src.js",
       "lineno": 86,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions",
       "code": {
         "id": "astnode100000049",
         "name": "returnsSomething",
@@ -404,15 +404,15 @@
     "params": []
   },
   {
-    "comment": "/**\n@returns {object} this return has a description\n*/",
+    "comment": "/**\r\n@returns {object} this return has a description\r\n*/",
     "meta": {
       "range": [
-        1194,
-        1237
+        1284,
+        1327
       ],
       "filename": "0-src.js",
       "lineno": 91,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions",
       "code": {
         "id": "astnode100000054",
         "name": "returnsSomethingDesc",
@@ -440,15 +440,15 @@
     "params": []
   },
   {
-    "comment": "/**\n@returns {object | string} this return has several types\n*/",
+    "comment": "/**\r\n@returns {object | string} this return has several types\r\n*/",
     "meta": {
       "range": [
-        1303,
-        1340
+        1398,
+        1435
       ],
       "filename": "0-src.js",
       "lineno": 96,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions",
       "code": {
         "id": "astnode100000059",
         "name": "returnsSeveral",
@@ -477,15 +477,15 @@
     "params": []
   },
   {
-    "comment": "/**\nThis function has all tags set\n@deprecated\n@param {string} - The input string\n@param {object} - a second input\n@author Lloyd <75pound@gmail.com>\n@since v0.10.28\n@returns {object | string} this return has several types\n@example\n```js\nallTogether(true)\n```\n*/",
+    "comment": "/**\r\nThis function has all tags set\r\n@deprecated\r\n@param {string} - The input string\r\n@param {object} - a second input\r\n@author Lloyd <75pound@gmail.com>\r\n@since v0.10.28\r\n@returns {object | string} this return has several types\r\n@example\r\n```js\r\nallTogether(true)\r\n```\r\n*/",
     "meta": {
       "range": [
-        1604,
-        1638
+        1714,
+        1748
       ],
       "filename": "0-src.js",
       "lineno": 111,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions",
       "code": {
         "id": "astnode100000064",
         "name": "allTogether",
@@ -534,7 +534,7 @@
       }
     ],
     "examples": [
-      "```js\nallTogether(true)\n```"
+      "```js\r\nallTogether(true)\r\n```"
     ],
     "name": "allTogether",
     "longname": "allTogether",
@@ -545,7 +545,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\functions\\0-src.js"
     ]
   }
 ]

@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\nthe global class constructor\n@class\n@classdesc a global class\n@private\n@param {number} - first param\n@param {string} - second param\n*/",
+    "comment": "/**\r\nthe global class constructor\r\n@class\r\n@classdesc a global class\r\n@private\r\n@param {number} - first param\r\n@param {string} - second param\r\n*/",
     "meta": {
       "range": [
-        139,
-        223
+        147,
+        234
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class",
       "code": {
         "id": "astnode100000001",
         "name": "GlobalClass",
@@ -54,12 +54,12 @@
     "comment": "/** an instance property */",
     "meta": {
       "range": [
-        205,
-        221
+        215,
+        231
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class",
       "code": {
         "id": "astnode100000007",
         "name": "this.propOne",
@@ -79,12 +79,12 @@
     "comment": "/** a static property */",
     "meta": {
       "range": [
-        249,
-        272
+        262,
+        285
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class",
       "code": {
         "id": "astnode100000013",
         "name": "GlobalClass.propTwo",
@@ -104,12 +104,12 @@
     "comment": "/** parent method one */",
     "meta": {
       "range": [
-        299,
-        347
+        315,
+        363
       ],
       "filename": "0-src.js",
       "lineno": 17,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class",
       "code": {
         "id": "astnode100000019",
         "name": "GlobalClass.prototype.methodOne",
@@ -128,12 +128,12 @@
     "comment": "/** parent method two */",
     "meta": {
       "range": [
-        373,
-        421
+        391,
+        439
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class",
       "code": {
         "id": "astnode100000028",
         "name": "GlobalClass.prototype.methodTwo",
@@ -149,15 +149,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n@class\n@classdesc the child of global class\n@extends GlobalClass\n*/",
+    "comment": "/**\r\n@class\r\n@classdesc the child of global class\r\n@extends GlobalClass\r\n*/",
     "meta": {
       "range": [
-        495,
-        582
+        520,
+        612
       ],
       "filename": "0-src.js",
       "lineno": 26,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class",
       "code": {
         "id": "astnode100000036",
         "name": "GlobalChildClass",
@@ -179,15 +179,15 @@
     "params": []
   },
   {
-    "comment": "/**\n  an instance property\n  */",
+    "comment": "/**\r\n  an instance property\r\n  */",
     "meta": {
       "range": [
-        562,
-        580
+        591,
+        609
       ],
       "filename": "0-src.js",
       "lineno": 30,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class",
       "code": {
         "id": "astnode100000040",
         "name": "this.propThree",
@@ -207,12 +207,12 @@
     "comment": "/** overridden child methodTwo */",
     "meta": {
       "range": [
-        617,
-        670
+        649,
+        702
       ],
       "filename": "0-src.js",
       "lineno": 33,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class",
       "code": {
         "id": "astnode100000046",
         "name": "GlobalChildClass.prototype.methodTwo",
@@ -232,19 +232,19 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class\\0-src.js"
     ]
   },
   {
     "comment": "/** an instance property */",
     "meta": {
       "range": [
-        205,
-        221
+        215,
+        231
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class",
       "code": {
         "id": "astnode100000007",
         "name": "this.propOne",
@@ -266,12 +266,12 @@
     "comment": "/** parent method one */",
     "meta": {
       "range": [
-        299,
-        347
+        315,
+        363
       ],
       "filename": "0-src.js",
       "lineno": 17,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\class",
       "code": {
         "id": "astnode100000019",
         "name": "GlobalClass.prototype.methodOne",

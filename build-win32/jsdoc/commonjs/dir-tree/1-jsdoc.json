@@ -8,7 +8,7 @@
       ],
       "filename": "main.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/dir-tree/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\dir-tree\\src",
       "code": {
         "id": "astnode100000002",
         "name": "one",
@@ -26,12 +26,12 @@
     "comment": "",
     "meta": {
       "range": [
-        37,
-        65
+        38,
+        66
       ],
       "filename": "main.js",
       "lineno": 2,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/dir-tree/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\dir-tree\\src",
       "code": {
         "id": "astnode100000008",
         "name": "two",
@@ -46,15 +46,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\nthis is for something\n@type {string}\n*/",
+    "comment": "/**\r\nthis is for something\r\n@type {string}\r\n*/",
     "meta": {
       "range": [
-        115,
-        134
+        122,
+        141
       ],
       "filename": "main.js",
       "lineno": 8,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/dir-tree/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\dir-tree\\src",
       "code": {
         "id": "astnode100000014",
         "name": "something",
@@ -74,15 +74,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\nthis is for something else\n@type {string}\n*/",
+    "comment": "/**\r\nthis is for something else\r\n@type {string}\r\n*/",
     "meta": {
       "range": [
-        189,
-        206
+        202,
+        219
       ],
       "filename": "main.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/dir-tree/src",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\dir-tree\\src",
       "code": {
         "id": "astnode100000020",
         "name": "another",
@@ -102,15 +102,15 @@
     "scope": "global"
   },
   {
-    "comment": "/**\nmodule one yeah\n@module\n*/",
+    "comment": "/**\r\nmodule one yeah\r\n@module\r\n*/",
     "meta": {
       "range": [
         0,
-        30
+        33
       ],
       "filename": "one.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/dir-tree/src/modules",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\dir-tree\\src\\modules",
       "code": {}
     },
     "description": "module one yeah",
@@ -122,12 +122,12 @@
     "comment": "",
     "meta": {
       "range": [
-        31,
-        46
+        35,
+        50
       ],
       "filename": "one.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/dir-tree/src/modules",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\dir-tree\\src\\modules",
       "code": {
         "id": "astnode100000027",
         "name": "exports.one",
@@ -144,15 +144,15 @@
     "scope": "static"
   },
   {
-    "comment": "/**\ntwo is this one\n@module\n*/",
+    "comment": "/**\r\ntwo is this one\r\n@module\r\n*/",
     "meta": {
       "range": [
         0,
-        30
+        33
       ],
       "filename": "two.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/dir-tree/src/modules",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\dir-tree\\src\\modules",
       "code": {}
     },
     "description": "two is this one",
@@ -164,12 +164,12 @@
     "comment": "",
     "meta": {
       "range": [
-        31,
-        46
+        35,
+        50
       ],
       "filename": "two.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/dir-tree/src/modules",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\dir-tree\\src\\modules",
       "code": {
         "id": "astnode100000034",
         "name": "exports.two",
@@ -189,9 +189,9 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/dir-tree/src/main.js",
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/dir-tree/src/modules/one.js",
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/dir-tree/src/modules/two.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\dir-tree\\src\\main.js",
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\dir-tree\\src\\modules\\one.js",
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\commonjs\\dir-tree\\src\\modules\\two.js"
     ]
   }
 ]

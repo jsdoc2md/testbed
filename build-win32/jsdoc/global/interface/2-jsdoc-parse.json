@@ -5,12 +5,12 @@
     "name": "Speech",
     "scope": "global",
     "kind": "interface",
-    "description": "Interface for a Currah Speech Synth\n\n![currah](http://ecx.images-amazon.com/images/I/41NReuJn%2BGL._SX300_.jpg)",
+    "description": "Interface for a Currah Speech Synth\r\n\r\n![currah](http://ecx.images-amazon.com/images/I/41NReuJn%2BGL._SX300_.jpg)",
     "params": [],
     "meta": {
       "lineno": 7,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/interface"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\interface"
     },
     "order": 0
   },
@@ -36,7 +36,7 @@
     "meta": {
       "lineno": 13,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/interface"
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\interface"
     },
     "order": 1
   }

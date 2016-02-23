@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/**\n@class\n@classdesc A multi-line\nclass description\n*/",
+    "comment": "/**\r\n@class\r\n@classdesc A multi-line\r\nclass description\r\n*/",
     "meta": {
       "range": [
-        56,
-        374
+        61,
+        396
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/newlines",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\newlines",
       "code": {
         "id": "astnode100000001",
         "name": "NewLines",
@@ -22,22 +22,22 @@
       }
     },
     "kind": "class",
-    "classdesc": "A multi-line\nclass description",
+    "classdesc": "A multi-line\r\nclass description",
     "name": "NewLines",
     "longname": "NewLines",
     "scope": "global",
     "params": []
   },
   {
-    "comment": "/**\n  @param {string} - a param description \n  with an awkward newline\n  or two. \n  @returns {number} the returns\n  description also \n  has newlines\n  */",
+    "comment": "/**\r\n  @param {string} - a param description \r\n  with an awkward newline\r\n  or two. \r\n  @returns {number} the returns\r\n  description also \r\n  has newlines\r\n  */",
     "meta": {
       "range": [
-        237,
-        270
+        251,
+        284
       ],
       "filename": "0-src.js",
       "lineno": 15,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/newlines",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\newlines",
       "code": {
         "id": "astnode100000005",
         "name": "this.method",
@@ -54,7 +54,7 @@
             "string"
           ]
         },
-        "description": "a param description \n  with an awkward newline\n  or two.",
+        "description": "a param description \r\n  with an awkward newline\r\n  or two.",
         "name": "input"
       }
     ],
@@ -65,7 +65,7 @@
             "number"
           ]
         },
-        "description": "the returns\n  description also \n  has newlines"
+        "description": "the returns\r\n  description also \r\n  has newlines"
       }
     ],
     "name": "method",
@@ -75,15 +75,15 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n  @property one {number} - a property\n  with newlines for \n  a change\n  */",
+    "comment": "/**\r\n  @property one {number} - a property\r\n  with newlines for \r\n  a change\r\n  */",
     "meta": {
       "range": [
-        355,
-        372
+        376,
+        393
       ],
       "filename": "0-src.js",
       "lineno": 22,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/newlines",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\newlines",
       "code": {
         "id": "astnode100000013",
         "name": "this.numbers",
@@ -99,7 +99,7 @@
             "number"
           ]
         },
-        "description": "a property\n  with newlines for \n  a change",
+        "description": "a property\r\n  with newlines for \r\n  a change",
         "name": "one"
       }
     ],
@@ -113,7 +113,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/newlines/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\newlines\\0-src.js"
     ]
   }
 ]

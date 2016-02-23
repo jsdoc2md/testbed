@@ -1,14 +1,14 @@
 [
   {
-    "comment": "/** A module. Refer to it using {@link module:foo/bar}.\n * @module foo/bar\n */",
+    "comment": "/** A module. Refer to it using {@link module:foo/bar}.\r\n * @module foo/bar\r\n */",
     "meta": {
       "range": [
         0,
-        78
+        80
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/link",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\link",
       "code": {}
     },
     "description": "A module. Refer to it using {@link module:foo/bar}.",
@@ -17,15 +17,15 @@
     "longname": "module:foo/bar"
   },
   {
-    "comment": "/** The built in string object. Refer to it with {@link external:String}.\n * @external String\n */",
+    "comment": "/** The built in string object. Refer to it with {@link external:String}.\r\n * @external String\r\n */",
     "meta": {
       "range": [
-        79,
-        176
+        82,
+        181
       ],
       "filename": "0-src.js",
       "lineno": 4,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/link",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\link",
       "code": {}
     },
     "description": "The built in string object. Refer to it with {@link external:String}.",
@@ -36,15 +36,15 @@
     "memberof": "module:foo/bar"
   },
   {
-    "comment": "/** An event. Refer to with {@link module:foo/bar.event:MyEvent}.\n * @event module:foo/bar.event:MyEvent\n */",
+    "comment": "/** An event. Refer to with {@link module:foo/bar.event:MyEvent}.\r\n * @event module:foo/bar.event:MyEvent\r\n */",
     "meta": {
       "range": [
-        177,
-        285
+        183,
+        293
       ],
       "filename": "0-src.js",
       "lineno": 7,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/link",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\link",
       "code": {}
     },
     "description": "An event. Refer to with {@link module:foo/bar.event:MyEvent}.",
@@ -55,15 +55,15 @@
     "scope": "static"
   },
   {
-    "comment": "/** See {@link LinkClass} and [LinkClass's foo property]{@link LinkClass#foo}.\n * Also check out {@link http://www.google.com|Google} and {@link http://github.com GitHub}.\n */",
+    "comment": "/** See {@link LinkClass} and [LinkClass's foo property]{@link LinkClass#foo}.\r\n * Also check out {@link http://www.google.com|Google} and {@link http://github.com GitHub}.\r\n */",
     "meta": {
       "range": [
-        463,
-        490
+        476,
+        503
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/link",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\link",
       "code": {
         "id": "astnode100000001",
         "name": "linkFunction",
@@ -71,7 +71,7 @@
         "paramnames": []
       }
     },
-    "description": "See {@link LinkClass} and [LinkClass's foo property]{@link LinkClass#foo}.\nAlso check out {@link http://www.google.com|Google} and {@link http://github.com GitHub}.",
+    "description": "See {@link LinkClass} and [LinkClass's foo property]{@link LinkClass#foo}.\rAlso check out {@link http://www.google.com|Google} and {@link http://github.com GitHub}.",
     "name": "linkFunction",
     "longname": "module:foo/bar~linkFunction",
     "kind": "function",
@@ -80,15 +80,15 @@
     "params": []
   },
   {
-    "comment": "/** A class.\n * @class */",
+    "comment": "/** A class.\r\n * @class */",
     "meta": {
       "range": [
-        518,
-        580
+        535,
+        600
       ],
       "filename": "0-src.js",
       "lineno": 18,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/link",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\link",
       "code": {
         "id": "astnode100000004",
         "name": "LinkClass",
@@ -111,12 +111,12 @@
     "comment": "/** foo property */",
     "meta": {
       "range": [
-        566,
-        578
+        585,
+        597
       ],
       "filename": "0-src.js",
       "lineno": 20,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/link",
+      "path": "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\link",
       "code": {
         "id": "astnode100000008",
         "name": "this.foo",
@@ -136,7 +136,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/link/0-src.js"
+      "C:\\Users\\IEUser\\Documents\\testbed\\build-win32\\jsdoc\\global\\link\\0-src.js"
     ]
   }
 ]
