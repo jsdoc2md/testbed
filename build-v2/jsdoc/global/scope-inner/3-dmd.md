@@ -1,34 +1,27 @@
-# Category: global
-
-
 <a name="Something"></a>
-### Something
+## Something
 **Kind**: global class  
 
 * [Something](#Something)
     * [new Something()](#new_Something_new)
-    * _inner_
-        * [~four](#Something..four)
-        * [~three](#Something..three)
+    * [~four](#Something..four)
+    * [~three](#Something..three)
 
 
 <a name="new_Something_new"></a>
-#### new Something()
+### new Something()
 something
 
 
-### Category: inner
-
-
 <a name="Something..four"></a>
-##### Something~four
+### Something~four
 inner var
 
 **Kind**: inner property of [`Something`](#Something)
 
 
 <a name="Something..three"></a>
-##### Something~three 
+### Something~three 
 inner constant
 
 **Kind**: inner constant of [`Something`](#Something)

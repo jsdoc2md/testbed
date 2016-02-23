@@ -15,8 +15,7 @@ ES6 Class (with sub-class) exported indirectly by a variable on module.exports.
             * [.shat()](#module_es6-class--ExportedClass.shat)
         * _inner_
             * [~ChildClass](#module_es6-class--ExportedClass..ChildClass) ⇐ ExportedClass
-                * _instance_
-                    * [.propThree](#module_es6-class--ExportedClass..ChildClass.ChildClass+propThree)
+                * [.propThree](#module_es6-class--ExportedClass..ChildClass.ChildClass+propThree)
 
 
 <a name="exp_module_es6-class--ExportedClass"></a>
@@ -44,7 +43,7 @@ var one = 1
 ```
 
 
-### Category: instance
+### Group: instance
 
 
 <a name="module_es6-class--ExportedClass.ExportedClass+propOne"></a>
@@ -68,7 +67,7 @@ parent method two
 **Kind**: instance method of [`ExportedClass`](#exp_module_es6-class--ExportedClass)
 
 
-### Category: static
+### Group: static
 
 
 <a name="module_es6-class--ExportedClass.shat"></a>
@@ -78,25 +77,18 @@ a static method
 **Kind**: static method of [`ExportedClass`](#exp_module_es6-class--ExportedClass)
 
 
-### Category: inner
+### Group: inner
 
 
 <a name="module_es6-class--ExportedClass..ChildClass"></a>
 ##### ExportedClass~ChildClass ⇐ ExportedClass
 the child of exported class
 
-**Kind**: inner class of [`ExportedClass`](#exp_module_es6-class--ExportedClass)  
-
-* [~ChildClass](#module_es6-class--ExportedClass..ChildClass) ⇐ ExportedClass
-    * _instance_
-        * [.propThree](#module_es6-class--ExportedClass..ChildClass.ChildClass+propThree)
-
-
-##### Category: instance
+**Kind**: inner class of [`ExportedClass`](#exp_module_es6-class--ExportedClass)
 
 
 <a name="module_es6-class--ExportedClass..ChildClass.ChildClass+propThree"></a>
-####### childClass.propThree
+###### childClass.propThree
 an instance property
 
 **Kind**: instance property of [`ChildClass`](#module_es6-class--ExportedClass..ChildClass)

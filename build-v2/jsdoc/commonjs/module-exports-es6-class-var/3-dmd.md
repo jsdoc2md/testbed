@@ -5,8 +5,7 @@
 * module-exports-es6-class-var
     * [Example](#exp_module_module-exports-es6-class-var--Example) ⏏
         * [new Example(one, two)](#new_module_module-exports-es6-class-var--Example_new)
-        * _instance_
-            * [.three](#module_module-exports-es6-class-var--Example.Example+three)
+        * [.three](#module_module-exports-es6-class-var--Example.Example+three)
 
 
 <a name="exp_module_module-exports-es6-class-var--Example"></a>
@@ -24,11 +23,8 @@
 | two   | `number` |
 
 
-### Category: instance
-
-
 <a name="module_module-exports-es6-class-var--Example.Example+three"></a>
-##### example.three
+#### example.three
 instance
 
 **Kind**: instance property of [`Example`](#exp_module_module-exports-es6-class-var--Example)

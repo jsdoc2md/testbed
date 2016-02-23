@@ -1,42 +1,32 @@
-# Category: global
-
-
 <a name="another"></a>
-### another : `number`
+## another : `number`
 **Kind**: global variable
 
 
 <a name="mixin"></a>
-### mixin
-**Kind**: global mixin  
-
-* [mixin](#mixin)
-    * _static_
-        * [.one](#mixin.one) : `number`
-
-
-### Category: static
+## mixin
+**Kind**: global mixin
 
 
 <a name="mixin.one"></a>
-##### mixin.one : `number`
+### mixin.one : `number`
 **Kind**: static property of [`mixin`](#mixin)
 
 
 <a name="external_ext"></a>
-### ext
+## ext
 something external
 
 **Kind**: global external
 
 
 <a name="object"></a>
-### object : `object`
+## object : `object`
 **Kind**: global namespace
 
 
 <a name="Droid"></a>
-### Droid
+## Droid
 **Kind**: global class  
 
 * [Droid](#Droid)
@@ -56,33 +46,33 @@ something external
         * [.repair()](#Droid.repair) ⇒ `boolean`
 
 
-### Category: instance
+## Group: instance
 
 
 <a name="Droid+jobs"></a>
-##### droid.jobs : `number`
+#### droid.jobs : `number`
 **Kind**: instance property of [`Droid`](#Droid)
 
 
 <a name="Droid+battery"></a>
-##### droid.battery : `number`
+#### droid.battery : `number`
 **Kind**: instance property of [`Droid`](#Droid)
 
 
 <a name="Droid+colour"></a>
-##### droid.colour : `string`
+#### droid.colour : `string`
 **Kind**: instance property of [`Droid`](#Droid)  
 **Category**: standard
 
 
 <a name="Droid+age"></a>
-##### droid.age : `number`
+#### droid.age : `number`
 **Kind**: instance property of [`Droid`](#Droid)  
 **Category**: standard
 
 
 <a name="Droid+move"></a>
-##### droid.move(one) ⇒ `number`
+#### droid.move(one) ⇒ `number`
 **Kind**: instance method of [`Droid`](#Droid)  
 
 | Param | Type     |
@@ -94,7 +84,7 @@ something external
 
 
 <a name="Droid+stop"></a>
-##### droid.stop(one) ⇒ `number`
+#### droid.stop(one) ⇒ `number`
 **Kind**: instance method of [`Droid`](#Droid)  
 
 | Param | Type     |
@@ -106,7 +96,7 @@ something external
 
 
 <a name="Droid+pray"></a>
-##### droid.pray(one) ⇒ `number`
+#### droid.pray(one) ⇒ `number`
 **Kind**: instance method of [`Droid`](#Droid)  
 
 | Param | Type     |
@@ -117,32 +107,32 @@ something external
 **Category**: no-functions
 
 
-### Category: inner
+## Group: inner
 
 
 <a name="Droid..legs"></a>
-##### Droid~legs : 
+#### Droid~legs : 
 **Kind**: inner constant of [`Droid`](#Droid)  
 **Category**: inner-consts
 
 
 <a name="Droid..arms"></a>
-##### Droid~arms : 
+#### Droid~arms : 
 **Kind**: inner constant of [`Droid`](#Droid)  
 **Category**: inner-consts
 
 
 <a name="Droid..human"></a>
-##### Droid~human : 
+#### Droid~human : 
 **Kind**: inner constant of [`Droid`](#Droid)  
 **Category**: inner-consts-two
 
 
-### Category: static
+## Group: static
 
 
 <a name="Droid.repair"></a>
-##### Droid.repair() ⇒ `boolean`
+#### Droid.repair() ⇒ `boolean`
 **Kind**: static method of [`Droid`](#Droid)  
 
 | Type     |
