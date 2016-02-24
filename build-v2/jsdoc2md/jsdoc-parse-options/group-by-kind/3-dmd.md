@@ -1,4 +1,4 @@
-## Group: class
+## class list
 
 
 <a name="Droid"></a>
@@ -22,7 +22,7 @@
         * [.repair()](#Droid.repair) ⇒ `boolean`
 
 
-#### Group: member
+#### member list
 
 
 <a name="Droid+colour"></a>
@@ -47,7 +47,7 @@
 **Kind**: instance property of [`Droid`](#Droid)
 
 
-#### Group: constant
+#### constant list
 
 
 <a name="Droid..legs"></a>
@@ -68,7 +68,7 @@
 **Category**: inner-consts-two
 
 
-#### Group: function
+#### function list
 
 
 <a name="Droid+move"></a>
@@ -116,7 +116,7 @@
 | `number` |
 
 
-## Group: mixin
+## mixin list
 
 
 <a name="mixin"></a>
@@ -129,7 +129,7 @@
 **Kind**: static property of [`mixin`](#mixin)
 
 
-## Group: member
+## member list
 
 
 <a name="another"></a>
@@ -137,7 +137,7 @@
 **Kind**: global variable
 
 
-## Group: namespace
+## namespace list
 
 
 <a name="object"></a>
@@ -145,7 +145,7 @@
 **Kind**: global namespace
 
 
-## Group: external
+## external list
 
 
 <a name="external_ext"></a>
