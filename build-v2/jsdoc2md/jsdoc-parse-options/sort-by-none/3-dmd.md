@@ -39,9 +39,9 @@ something external
         * [.stop(one)](#Droid+stop) ⇒ `number`
         * [.pray(one)](#Droid+pray) ⇒ `number`
     * _inner_
-        * [~legs](#Droid..legs) : 
-        * [~arms](#Droid..arms) : 
-        * [~human](#Droid..human) : 
+        * [~legs](#Droid..legs) : `number`
+        * [~arms](#Droid..arms) : `number`
+        * [~human](#Droid..human) : `boolean`
     * _static_
         * [.repair()](#Droid.repair) ⇒ `boolean`
 
@@ -111,19 +111,19 @@ something external
 
 
 <a name="Droid..legs"></a>
-#### Droid~legs : 
+#### Droid~legs : `number`
 **Kind**: inner constant of [`Droid`](#Droid)  
 **Category**: inner-consts
 
 
 <a name="Droid..arms"></a>
-#### Droid~arms : 
+#### Droid~arms : `number`
 **Kind**: inner constant of [`Droid`](#Droid)  
 **Category**: inner-consts
 
 
 <a name="Droid..human"></a>
-#### Droid~human : 
+#### Droid~human : `boolean`
 **Kind**: inner constant of [`Droid`](#Droid)  
 **Category**: inner-consts-two
 

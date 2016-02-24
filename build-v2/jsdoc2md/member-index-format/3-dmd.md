@@ -56,7 +56,7 @@ Animal
     * [new FurQ()](#new_FurQ_new)
     * _instance_
         * [.wannaTryIt](#FurQ+wannaTryIt) : `string`
-        * [.LOVE](#FurQ+LOVE) : 
+        * [.LOVE](#FurQ+LOVE) : `string`
         * [.spit()](#FurQ+spit)
         * [.battle()](#the anchor of the super class)
         * [.punch()](#FurQ+punch)

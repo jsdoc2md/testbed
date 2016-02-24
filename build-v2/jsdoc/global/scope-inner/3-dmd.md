@@ -21,7 +21,7 @@ inner var
 
 
 <a name="Something..three"></a>
-### Something~three 
+### Something~three
 inner constant
 
 **Kind**: inner constant of [`Something`](#Something)
