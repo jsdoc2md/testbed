@@ -1,2 +1,3 @@
 * text=auto
 build-win32/**/*.md -text
+build-win32/**/*.js -text
