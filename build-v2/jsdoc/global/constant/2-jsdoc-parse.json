@@ -1,0 +1,41 @@
+[
+  {
+    "id": "CONST_ONE",
+    "longname": "CONST_ONE",
+    "name": "CONST_ONE",
+    "kind": "constant",
+    "scope": "global",
+    "description": "the first important constant",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "meta": {
+      "lineno": 5,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/global/constant"
+    },
+    "order": 0
+  },
+  {
+    "id": "CONST_TWO",
+    "longname": "CONST_TWO",
+    "name": "CONST_TWO",
+    "kind": "constant",
+    "scope": "global",
+    "description": "include `@type` and `@default`",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "defaultvalue": 2,
+    "meta": {
+      "lineno": 13,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/global/constant"
+    },
+    "order": 1
+  }
+]

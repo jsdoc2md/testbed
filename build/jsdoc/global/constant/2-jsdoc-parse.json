@@ -14,7 +14,7 @@
     "meta": {
       "lineno": 5,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/constants"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/constant"
     },
     "order": 0
   },
@@ -24,25 +24,17 @@
     "name": "CONST_TWO",
     "scope": "global",
     "kind": "constant",
-    "description": "This variable has all tags set",
-    "examples": [
-      "```js\nvar CONST_TWO = true\n```"
-    ],
+    "description": "include `@type` and `@default`",
     "type": {
       "names": [
-        "boolean"
+        "number"
       ]
     },
-    "readonly": true,
-    "author": [
-      "Lloyd Brookes <lloyd@brookes.com>"
-    ],
-    "deprecated": true,
-    "since": "v0.10.28",
+    "defaultvalue": 2,
     "meta": {
-      "lineno": 19,
+      "lineno": 13,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/constants"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/constant"
     },
     "order": 1
   }
