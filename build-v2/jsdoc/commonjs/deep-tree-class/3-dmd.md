@@ -6,10 +6,11 @@ test to check deep trees render ok
 
 * farm
     * [Farm](#exp_module_farm--Farm) ⏏
-        * [new Farm()](#new_module_farm--Farm_new)
-        * _instance_
+        * _constructor_
+            * [new Farm()](#new_module_farm--Farm_new)
+        * _member_
             * [.equipment](#module_farm--Farm.Farm+equipment) : [`Equipment`](#module_farm--Farm..Equipment)
-        * _inner_
+        * _class_
             * [~Equipment](#module_farm--Farm..Equipment)
                 * [.tractor](#module_farm--Farm..Equipment.Equipment+tractor) : [`Tractor`](#module_farm--Farm..Tractor)
             * [~Tractor](#module_farm--Farm..Tractor)
@@ -25,12 +26,15 @@ the farm
 **Kind**: Exported class
 
 
+#### constructor list
+
+
 <a name="new_module_farm--Farm_new"></a>
-#### new Farm()
+##### new Farm()
 the constructor
 
 
-#### Group: instance
+#### member list
 
 
 <a name="module_farm--Farm.Farm+equipment"></a>
@@ -40,7 +44,7 @@ farm equipment
 **Kind**: instance property of [`Farm`](#exp_module_farm--Farm)
 
 
-#### Group: inner
+#### class list
 
 
 <a name="module_farm--Farm..Equipment"></a>

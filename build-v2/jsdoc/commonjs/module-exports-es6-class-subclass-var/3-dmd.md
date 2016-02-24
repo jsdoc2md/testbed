@@ -6,14 +6,15 @@ ES6 Class (with sub-class) exported indirectly by a variable on module.exports.
 
 * es6-class
     * [ExportedClass](#exp_module_es6-class--ExportedClass) ⏏
-        * [new ExportedClass(one, two)](#new_module_es6-class--ExportedClass_new)
-        * _instance_
+        * _constructor_
+            * [new ExportedClass(one, two)](#new_module_es6-class--ExportedClass_new)
+        * _member_
             * [.propOne](#module_es6-class--ExportedClass.ExportedClass+propOne) : `number`
+        * _function_
             * [.methodOne()](#module_es6-class--ExportedClass+methodOne)
             * [.methodTwo()](#module_es6-class--ExportedClass+methodTwo)
-        * _static_
             * [.shat()](#module_es6-class--ExportedClass.shat)
-        * _inner_
+        * _class_
             * [~ChildClass](#module_es6-class--ExportedClass..ChildClass) ⇐ ExportedClass
                 * [.propThree](#module_es6-class--ExportedClass..ChildClass.ChildClass+propThree)
 
@@ -25,8 +26,11 @@ a class exported from a module
 **Kind**: Exported class
 
 
+#### constructor list
+
+
 <a name="new_module_es6-class--ExportedClass_new"></a>
-#### new ExportedClass(one, two)
+##### new ExportedClass(one, two)
 the class constructor
 
   
@@ -43,7 +47,7 @@ var one = 1
 ```
 
 
-#### Group: instance
+#### member list
 
 
 <a name="module_es6-class--ExportedClass.ExportedClass+propOne"></a>
@@ -51,6 +55,9 @@ var one = 1
 an instance property
 
 **Kind**: instance property of [`ExportedClass`](#exp_module_es6-class--ExportedClass)
+
+
+#### function list
 
 
 <a name="module_es6-class--ExportedClass+methodOne"></a>
@@ -67,9 +74,6 @@ parent method two
 **Kind**: instance method of [`ExportedClass`](#exp_module_es6-class--ExportedClass)
 
 
-#### Group: static
-
-
 <a name="module_es6-class--ExportedClass.shat"></a>
 ##### ExportedClass.shat()
 a static method
@@ -77,7 +81,7 @@ a static method
 **Kind**: static method of [`ExportedClass`](#exp_module_es6-class--ExportedClass)
 
 
-#### Group: inner
+#### class list
 
 
 <a name="module_es6-class--ExportedClass..ChildClass"></a>

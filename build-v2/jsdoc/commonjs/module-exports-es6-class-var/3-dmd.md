@@ -4,8 +4,10 @@
 
 * module-exports-es6-class-var
     * [Example](#exp_module_module-exports-es6-class-var--Example) ⏏
-        * [new Example(one, two)](#new_module_module-exports-es6-class-var--Example_new)
-        * [.three](#module_module-exports-es6-class-var--Example.Example+three)
+        * _constructor_
+            * [new Example(one, two)](#new_module_module-exports-es6-class-var--Example_new)
+        * _member_
+            * [.three](#module_module-exports-es6-class-var--Example.Example+three)
 
 
 <a name="exp_module_module-exports-es6-class-var--Example"></a>
@@ -13,8 +15,11 @@
 **Kind**: Exported class
 
 
+#### constructor list
+
+
 <a name="new_module_module-exports-es6-class-var--Example_new"></a>
-#### new Example(one, two)
+##### new Example(one, two)
   
 
 | Param | Type     |
@@ -23,8 +28,11 @@
 | two   | `number` |
 
 
+#### member list
+
+
 <a name="module_module-exports-es6-class-var--Example.Example+three"></a>
-#### example.three
+##### example.three
 instance
 
 **Kind**: instance property of [`Example`](#exp_module_module-exports-es6-class-var--Example)

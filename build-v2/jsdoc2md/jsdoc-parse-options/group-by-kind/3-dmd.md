@@ -12,14 +12,18 @@
         * [.jobs](#Droid+jobs) : `number`
         * [.battery](#Droid+battery) : `number`
     * _constant_
-        * [~legs](#Droid..legs) : `number`
-        * [~arms](#Droid..arms) : `number`
-        * [~human](#Droid..human) : `boolean`
+        * _inner-consts_
+            * [~legs](#Droid..legs) : `number`
+            * [~arms](#Droid..arms) : `number`
+        * _inner-consts-two_
+            * [~human](#Droid..human) : `boolean`
     * _function_
-        * [.move(one)](#Droid+move) ⇒ `number`
-        * [.stop(one)](#Droid+stop) ⇒ `number`
-        * [.pray(one)](#Droid+pray) ⇒ `number`
         * [.repair()](#Droid.repair) ⇒ `boolean`
+        * _yeah-functions_
+            * [.move(one)](#Droid+move) ⇒ `number`
+            * [.stop(one)](#Droid+stop) ⇒ `number`
+        * _no-functions_
+            * [.pray(one)](#Droid+pray) ⇒ `number`
 
 
 #### member list
@@ -50,20 +54,26 @@
 #### constant list
 
 
+##### inner-consts list
+
+
 <a name="Droid..legs"></a>
-##### Droid~legs : `number`
+###### Droid~legs : `number`
 **Kind**: inner constant of [`Droid`](#Droid)  
 **Category**: inner-consts
 
 
 <a name="Droid..arms"></a>
-##### Droid~arms : `number`
+###### Droid~arms : `number`
 **Kind**: inner constant of [`Droid`](#Droid)  
 **Category**: inner-consts
 
 
+##### inner-consts-two list
+
+
 <a name="Droid..human"></a>
-##### Droid~human : `boolean`
+###### Droid~human : `boolean`
 **Kind**: inner constant of [`Droid`](#Droid)  
 **Category**: inner-consts-two
 
@@ -71,8 +81,20 @@
 #### function list
 
 
+<a name="Droid.repair"></a>
+##### Droid.repair() ⇒ `boolean`
+**Kind**: static method of [`Droid`](#Droid)  
+
+| Type     |
+| -------- |
+| `number` |
+
+
+##### yeah-functions list
+
+
 <a name="Droid+move"></a>
-##### droid.move(one) ⇒ `number`
+###### droid.move(one) ⇒ `number`
 **Kind**: instance method of [`Droid`](#Droid)  
 
 | Param | Type     |
@@ -84,7 +106,7 @@
 
 
 <a name="Droid+stop"></a>
-##### droid.stop(one) ⇒ `number`
+###### droid.stop(one) ⇒ `number`
 **Kind**: instance method of [`Droid`](#Droid)  
 
 | Param | Type     |
@@ -95,8 +117,11 @@
 **Category**: yeah-functions
 
 
+##### no-functions list
+
+
 <a name="Droid+pray"></a>
-##### droid.pray(one) ⇒ `number`
+###### droid.pray(one) ⇒ `number`
 **Kind**: instance method of [`Droid`](#Droid)  
 
 | Param | Type     |
@@ -105,15 +130,6 @@
 
 
 **Category**: no-functions
-
-
-<a name="Droid.repair"></a>
-##### Droid.repair() ⇒ `boolean`
-**Kind**: static method of [`Droid`](#Droid)  
-
-| Type     |
-| -------- |
-| `number` |
 
 
 ## mixin list

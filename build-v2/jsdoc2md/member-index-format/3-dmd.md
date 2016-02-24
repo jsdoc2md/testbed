@@ -1,112 +1,62 @@
 ## `jsdoc2md --member-index-format list`
 This format is inspired by the [node docs](http://nodejs.org/api/).
 
-- root
-  - Animal
-    - Animal()
-    - instance
-      - Animal#age
-      - Animal#species
-    - static
-      - Animal.eMood
-  - FurQ
-    - FurQ()
-    - instance
-      - FurQ#wannaTryIt
-      - FurQ#LOVE
-      - FurQ#spit
-      - FurQ#battle
-      - FurQ#punch
-      - FurQ#event:pop
-      - FurQ#event:slap
-      - FurQ#kill
-      - FurQ#respect
-    - static
-      - FurQ.enemy
-      - FurQ.peace
-    - inner
-      - FurQ~onRespect
-  - Rapper
-    - instance
-      - Rapper#spit
-      - Rapper#battle
-    - static
-      - Rapper.train
-        - Rapper.train~School
-          - Rapper.train~School()
-          - Rapper.train~School#bestStudent
-  - NewLines
-    - NewLines#numbers
-    - NewLines#method
-  - Species
-    - instance
-      - Species#name
-      - Species#species
-    - static
-      - Species.merge
-  - plant
+- root [root]
+  - class [group]
+    - Animal [class]
+      - constructor [group]
+        - Animal() [constructor]
+      - member [group]
+        - Animal#age [member]
+        - Animal#species [member]
+      - enum [group]
+        - Animal.eMood [enum]
+    - FurQ [class]
+      - constructor [group]
+        - FurQ() [constructor]
+      - member [group]
+        - FurQ#wannaTryIt [member]
+      - constant [group]
+        - FurQ#LOVE [constant]
+      - function [group]
+        - FurQ#spit [function]
+        - FurQ#battle [function]
+        - FurQ#punch [function]
+        - FurQ#kill [function]
+        - FurQ#respect [function]
+        - FurQ.peace [function]
+      - event [group]
+        - FurQ#event:pop [event]
+        - FurQ#event:slap [event]
+      - enum [group]
+        - FurQ.enemy [enum]
+      - typedef [group]
+        - FurQ~onRespect [typedef]
+    - Rapper [class]
+      - Rapper#spit [function]
+      - Rapper#battle [function]
+      - Rapper.train [function]
+        - Rapper.train~School [class]
+          - constructor [group]
+            - Rapper.train~School() [constructor]
+          - member [group]
+            - Rapper.train~School#bestStudent [member]
+    - NewLines [class]
+      - member [group]
+        - NewLines#numbers [member]
+      - function [group]
+        - NewLines#method [function]
+    - Species [class]
+      - member [group]
+        - Species#name [member]
+        - Species#species [member]
+      - function [group]
+        - Species.merge [function]
+  - function [group]
+    - plant [function]
 
 
-Animal
-
--
-
-
-* [FurQ](#FurQ) ⇐ Rapper
-    * [new FurQ()](#new_FurQ_new)
-    * _instance_
-        * [.wannaTryIt](#FurQ+wannaTryIt) : `string`
-        * [.LOVE](#FurQ+LOVE) : `string`
-        * [.spit()](#FurQ+spit)
-        * [.battle()](#the anchor of the super class)
-        * [.punch()](#FurQ+punch)
-        * "pop"
-        * "slap"
-        * [.kill()](#FurQ+kill)
-        * [.respect(done)](#FurQ+respect)
-    * _static_
-        * [.enemy](#FurQ.enemy) : `enum`
-        * [.peace()](#FurQ.peace)
-    * _inner_
-        * [~onRespect](#FurQ..onRespect)
-
-
-
--
-
-
-* [Rapper](#Rapper)
-    * _instance_
-        * [.spit()](#Rapper+spit)
-        * [.battle()](#Rapper+battle)
-    * _static_
-        * [.train()](#Rapper.train)
-            * [~School](#Rapper.train..School)
-                * [new School()](#new_Rapper.train..School_new)
-                * [.bestStudent](#Rapper.train..School+bestStudent)
-
-
-
--
-
-
-* [NewLines](#NewLines)
-    * [.numbers](#NewLines+numbers)
-    * [.method(input)](#NewLines+method) ⇒ `number`
-
-
-
--
-
-
-* [Species](#Species)
-    * _instance_
-        * [.name](#Species+name) : `string`
-        * [.species](#Species+species) : [`Species`](#Species)
-    * _static_
-        * [.merge(one, two)](#Species.merge) ⇒ [`Species`](#Species)
-
-
+class [group]
 
 -
 
