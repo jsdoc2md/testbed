@@ -1,2 +1,2 @@
 * text=auto
-build-win32 -text
+build-win32/**/*.md -text
