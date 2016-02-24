@@ -26,48 +26,6 @@
     "order": 1
   },
   {
-    "id": "Droid#colour",
-    "parentId": "Droid",
-    "longname": "Droid#colour",
-    "name": "colour",
-    "kind": "member",
-    "scope": "instance",
-    "memberof": "Droid",
-    "type": {
-      "names": [
-        "string"
-      ]
-    },
-    "category": "standard",
-    "meta": {
-      "lineno": 46,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
-    },
-    "order": 8
-  },
-  {
-    "id": "Droid#age",
-    "parentId": "Droid",
-    "longname": "Droid#age",
-    "name": "age",
-    "kind": "member",
-    "scope": "instance",
-    "memberof": "Droid",
-    "type": {
-      "names": [
-        "number"
-      ]
-    },
-    "category": "standard",
-    "meta": {
-      "lineno": 52,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
-    },
-    "order": 9
-  },
-  {
     "id": "another",
     "longname": "another",
     "name": "another",
@@ -86,24 +44,31 @@
     "order": 0
   },
   {
-    "id": "mixin.one",
-    "parentId": "mixin",
-    "longname": "mixin.one",
-    "name": "one",
-    "kind": "member",
-    "scope": "static",
-    "memberof": "mixin",
-    "type": {
-      "names": [
-        "number"
-      ]
-    },
+    "id": "object",
+    "longname": "object",
+    "name": "object",
+    "kind": "namespace",
+    "scope": "global",
     "meta": {
-      "lineno": 15,
+      "lineno": 26,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
     },
-    "order": 2
+    "order": 4
+  },
+  {
+    "id": "external:ext",
+    "longname": "external:ext",
+    "name": "ext",
+    "kind": "external",
+    "scope": "global",
+    "description": "something external",
+    "meta": {
+      "lineno": 18,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+    },
+    "order": 3
   },
   {
     "id": "Droid#jobs",
@@ -146,80 +111,81 @@
     "order": 7
   },
   {
-    "id": "object",
-    "longname": "object",
-    "name": "object",
-    "kind": "namespace",
-    "scope": "global",
+    "id": "Droid#pray",
+    "parentId": "Droid",
+    "longname": "Droid#pray",
+    "name": "pray",
+    "kind": "function",
+    "scope": "instance",
+    "memberof": "Droid",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "name": "one"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        }
+      }
+    ],
+    "category": "no-functions",
     "meta": {
-      "lineno": 26,
+      "lineno": 93,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
     },
-    "order": 4
+    "order": 15
   },
   {
-    "id": "Droid~legs",
+    "id": "Droid#colour",
     "parentId": "Droid",
-    "longname": "Droid~legs",
-    "name": "legs",
-    "kind": "constant",
-    "scope": "inner",
+    "longname": "Droid#colour",
+    "name": "colour",
+    "kind": "member",
+    "scope": "instance",
+    "memberof": "Droid",
+    "type": {
+      "names": [
+        "string"
+      ]
+    },
+    "category": "standard",
+    "meta": {
+      "lineno": 46,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+    },
+    "order": 8
+  },
+  {
+    "id": "Droid#age",
+    "parentId": "Droid",
+    "longname": "Droid#age",
+    "name": "age",
+    "kind": "member",
+    "scope": "instance",
     "memberof": "Droid",
     "type": {
       "names": [
         "number"
       ]
     },
-    "category": "inner-consts",
+    "category": "standard",
     "meta": {
-      "lineno": 59,
+      "lineno": 52,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
     },
-    "order": 10
-  },
-  {
-    "id": "Droid~arms",
-    "parentId": "Droid",
-    "longname": "Droid~arms",
-    "name": "arms",
-    "kind": "constant",
-    "scope": "inner",
-    "memberof": "Droid",
-    "type": {
-      "names": [
-        "number"
-      ]
-    },
-    "category": "inner-consts",
-    "meta": {
-      "lineno": 65,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
-    },
-    "order": 11
-  },
-  {
-    "id": "Droid~human",
-    "parentId": "Droid",
-    "longname": "Droid~human",
-    "name": "human",
-    "kind": "constant",
-    "scope": "inner",
-    "memberof": "Droid",
-    "type": {
-      "names": [
-        "boolean"
-      ]
-    },
-    "category": "inner-consts-two",
-    "meta": {
-      "lineno": 71,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
-    },
-    "order": 12
+    "order": 9
   },
   {
     "id": "Droid#move",
@@ -292,39 +258,24 @@
     "order": 14
   },
   {
-    "id": "Droid#pray",
-    "parentId": "Droid",
-    "longname": "Droid#pray",
-    "name": "pray",
-    "kind": "function",
-    "scope": "instance",
-    "memberof": "Droid",
-    "params": [
-      {
-        "type": {
-          "names": [
-            "number"
-          ]
-        },
-        "name": "one"
-      }
-    ],
-    "returns": [
-      {
-        "type": {
-          "names": [
-            "number"
-          ]
-        }
-      }
-    ],
-    "category": "no-functions",
+    "id": "mixin.one",
+    "parentId": "mixin",
+    "longname": "mixin.one",
+    "name": "one",
+    "kind": "member",
+    "scope": "static",
+    "memberof": "mixin",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
     "meta": {
-      "lineno": 93,
+      "lineno": 15,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
     },
-    "order": 15
+    "order": 2
   },
   {
     "id": "Droid.repair",
@@ -361,17 +312,66 @@
     "order": 16
   },
   {
-    "id": "external:ext",
-    "longname": "external:ext",
-    "name": "ext",
-    "kind": "external",
-    "scope": "global",
-    "description": "something external",
+    "id": "Droid~legs",
+    "parentId": "Droid",
+    "longname": "Droid~legs",
+    "name": "legs",
+    "kind": "constant",
+    "scope": "inner",
+    "memberof": "Droid",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "category": "inner-consts",
     "meta": {
-      "lineno": 18,
+      "lineno": 59,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
     },
-    "order": 3
+    "order": 10
+  },
+  {
+    "id": "Droid~arms",
+    "parentId": "Droid",
+    "longname": "Droid~arms",
+    "name": "arms",
+    "kind": "constant",
+    "scope": "inner",
+    "memberof": "Droid",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "category": "inner-consts",
+    "meta": {
+      "lineno": 65,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+    },
+    "order": 11
+  },
+  {
+    "id": "Droid~human",
+    "parentId": "Droid",
+    "longname": "Droid~human",
+    "name": "human",
+    "kind": "constant",
+    "scope": "inner",
+    "memberof": "Droid",
+    "type": {
+      "names": [
+        "boolean"
+      ]
+    },
+    "category": "inner-consts-two",
+    "meta": {
+      "lineno": 71,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+    },
+    "order": 12
   }
 ]

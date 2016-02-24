@@ -2,61 +2,95 @@
 This format is inspired by the [node docs](http://nodejs.org/api/).
 
 - root [root]
-  - class [group]
-    - Animal [class]
-      - constructor [group]
-        - Animal() [constructor]
-      - member [group]
-        - Animal#age [member]
-        - Animal#species [member]
-      - enum [group]
-        - Animal.eMood [enum]
-    - FurQ [class]
-      - constructor [group]
-        - FurQ() [constructor]
-      - member [group]
-        - FurQ#wannaTryIt [member]
-      - constant [group]
-        - FurQ#LOVE [constant]
-      - function [group]
-        - FurQ#spit [function]
-        - FurQ#battle [function]
-        - FurQ#punch [function]
-        - FurQ#kill [function]
-        - FurQ#respect [function]
-        - FurQ.peace [function]
-      - event [group]
-        - FurQ#event:pop [event]
-        - FurQ#event:slap [event]
-      - enum [group]
-        - FurQ.enemy [enum]
-      - typedef [group]
-        - FurQ~onRespect [typedef]
-    - Rapper [class]
-      - Rapper#spit [function]
-      - Rapper#battle [function]
-      - Rapper.train [function]
-        - Rapper.train~School [class]
-          - constructor [group]
-            - Rapper.train~School() [constructor]
-          - member [group]
-            - Rapper.train~School#bestStudent [member]
-    - NewLines [class]
-      - member [group]
-        - NewLines#numbers [member]
-      - function [group]
-        - NewLines#method [function]
-    - Species [class]
-      - member [group]
-        - Species#name [member]
-        - Species#species [member]
-      - function [group]
-        - Species.merge [function]
-  - function [group]
-    - plant [function]
+  - Animal [class]
+    - Animal() [constructor]
+    - Animal#age [member]
+    - Animal#species [member]
+    - Animal.eMood [enum]
+  - FurQ [class]
+    - FurQ() [constructor]
+    - FurQ#wannaTryIt [member]
+    - FurQ#LOVE [constant]
+    - FurQ#spit [function]
+    - FurQ#battle [function]
+    - FurQ#punch [function]
+    - FurQ#event:pop [event]
+    - FurQ#event:slap [event]
+    - FurQ#kill [function]
+    - FurQ#respect [function]
+    - FurQ.enemy [enum]
+    - FurQ.peace [function]
+    - FurQ~onRespect [typedef]
+  - Rapper [class]
+    - Rapper#spit [function]
+    - Rapper#battle [function]
+    - Rapper.train [function]
+      - Rapper.train~School [class]
+        - Rapper.train~School() [constructor]
+        - Rapper.train~School#bestStudent [member]
+  - NewLines [class]
+    - NewLines#numbers [member]
+    - NewLines#method [function]
+  - Species [class]
+    - Species#name [member]
+    - Species#species [member]
+    - Species.merge [function]
+  - plant [function]
 
 
-class [group]
+Animal [class]
+
+-
+
+
+* [FurQ](#FurQ) ⇐ Rapper
+    * [new FurQ()](#new_FurQ_new)
+    * [.wannaTryIt](#FurQ+wannaTryIt) : `string`
+    * [.LOVE](#FurQ+LOVE) : `string`
+    * [.spit()](#FurQ+spit)
+    * [.battle()](#the anchor of the super class)
+    * [.punch()](#FurQ+punch)
+    * "pop"
+    * "slap"
+    * [.kill()](#FurQ+kill)
+    * [.respect(done)](#FurQ+respect)
+    * [.enemy](#FurQ.enemy) : `enum`
+    * [.peace()](#FurQ.peace)
+    * [~onRespect](#FurQ..onRespect)
+
+
+
+-
+
+
+* [Rapper](#Rapper)
+    * [.spit()](#Rapper+spit)
+    * [.battle()](#Rapper+battle)
+    * [.train()](#Rapper.train)
+        * [~School](#Rapper.train..School)
+            * [new School()](#new_Rapper.train..School_new)
+            * [.bestStudent](#Rapper.train..School+bestStudent)
+
+
+
+-
+
+
+* [NewLines](#NewLines)
+    * [.numbers](#NewLines+numbers)
+    * [.method(input)](#NewLines+method) ⇒ `number`
+
+
+
+-
+
+
+* [Species](#Species)
+    * [.name](#Species+name) : `string`
+    * [.species](#Species+species) : [`Species`](#Species)
+    * [.merge(one, two)](#Species.merge) ⇒ [`Species`](#Species)
+
+
 
 -
 
