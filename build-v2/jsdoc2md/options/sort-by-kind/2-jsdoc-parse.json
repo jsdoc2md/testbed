@@ -13,7 +13,7 @@
     "meta": {
       "lineno": 6,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/sort-by-kind"
     },
     "order": 0
   },
@@ -26,7 +26,7 @@
     "meta": {
       "lineno": 11,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/sort-by-kind"
     },
     "order": 1
   },
@@ -46,7 +46,7 @@
     "meta": {
       "lineno": 15,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/sort-by-kind"
     },
     "order": 2
   },
@@ -60,7 +60,7 @@
     "meta": {
       "lineno": 18,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/sort-by-kind"
     },
     "order": 3
   },
@@ -73,7 +73,7 @@
     "meta": {
       "lineno": 26,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/sort-by-kind"
     },
     "order": 4
   },
@@ -86,7 +86,7 @@
     "meta": {
       "lineno": 31,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/sort-by-kind"
     },
     "order": 5
   },
@@ -106,7 +106,7 @@
     "meta": {
       "lineno": 35,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/sort-by-kind"
     },
     "order": 6
   },
@@ -126,7 +126,7 @@
     "meta": {
       "lineno": 40,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/sort-by-kind"
     },
     "order": 7
   },
@@ -147,7 +147,7 @@
     "meta": {
       "lineno": 46,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/sort-by-kind"
     },
     "order": 8
   },
@@ -168,7 +168,7 @@
     "meta": {
       "lineno": 52,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/sort-by-kind"
     },
     "order": 9
   },
@@ -189,7 +189,7 @@
     "meta": {
       "lineno": 59,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/sort-by-kind"
     },
     "order": 10
   },
@@ -210,7 +210,7 @@
     "meta": {
       "lineno": 65,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/sort-by-kind"
     },
     "order": 11
   },
@@ -231,7 +231,7 @@
     "meta": {
       "lineno": 71,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/sort-by-kind"
     },
     "order": 12
   },
@@ -266,7 +266,7 @@
     "meta": {
       "lineno": 79,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/sort-by-kind"
     },
     "order": 13
   },
@@ -301,7 +301,7 @@
     "meta": {
       "lineno": 86,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/sort-by-kind"
     },
     "order": 14
   },
@@ -336,7 +336,7 @@
     "meta": {
       "lineno": 93,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/sort-by-kind"
     },
     "order": 15
   },
@@ -370,7 +370,7 @@
     "meta": {
       "lineno": 99,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/sort-by-kind"
     },
     "order": 16
   }
