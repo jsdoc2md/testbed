@@ -7,8 +7,8 @@
     * [~legs](#Droid..legs) : `number`
     * [~human](#Droid..human) : `boolean`
     * [.pray(one)](#Droid+pray) ⇒ `number`
-    * [.move(one)](#Droid+move) ⇒ `number`
     * [.stop(one)](#Droid+stop) ⇒ `number`
+    * [.move(one)](#Droid+move) ⇒ `number`
     * [.repair()](#Droid.repair) ⇒ `boolean`
     * [.battery](#Droid+battery) : `number`
     * [.jobs](#Droid+jobs) : `number`
@@ -46,8 +46,8 @@
 **Category**: no-functions
 
 
-<a name="Droid+move"></a>
-### droid.move(one) ⇒ `number`
+<a name="Droid+stop"></a>
+### droid.stop(one) ⇒ `number`
 **Kind**: instance method of [`Droid`](#Droid)  
 
 | Param | Type     |
@@ -58,8 +58,8 @@
 **Category**: yeah-functions
 
 
-<a name="Droid+stop"></a>
-### droid.stop(one) ⇒ `number`
+<a name="Droid+move"></a>
+### droid.move(one) ⇒ `number`
 **Kind**: instance method of [`Droid`](#Droid)  
 
 | Param | Type     |

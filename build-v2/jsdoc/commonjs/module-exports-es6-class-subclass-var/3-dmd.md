@@ -8,9 +8,9 @@ ES6 Class (with sub-class) exported indirectly by a variable on module.exports.
     * [ExportedClass](#exp_module_es6-class--ExportedClass) ⏏
         * [new ExportedClass(one, two)](#new_module_es6-class--ExportedClass_new)
         * [.propOne](#module_es6-class--ExportedClass.ExportedClass+propOne) : `number`
+        * [.shat()](#module_es6-class--ExportedClass.shat)
         * [.methodOne()](#module_es6-class--ExportedClass+methodOne)
         * [.methodTwo()](#module_es6-class--ExportedClass+methodTwo)
-        * [.shat()](#module_es6-class--ExportedClass.shat)
         * [~ChildClass](#module_es6-class--ExportedClass..ChildClass) ⇐ ExportedClass
             * [.propThree](#module_es6-class--ExportedClass..ChildClass.ChildClass+propThree)
 
@@ -47,6 +47,13 @@ an instance property
 **Kind**: instance property of [`ExportedClass`](#exp_module_es6-class--ExportedClass)
 
 
+<a name="module_es6-class--ExportedClass.shat"></a>
+#### ExportedClass.shat()
+a static method
+
+**Kind**: static method of [`ExportedClass`](#exp_module_es6-class--ExportedClass)
+
+
 <a name="module_es6-class--ExportedClass+methodOne"></a>
 #### exportedClass.methodOne()
 parent method one
@@ -59,13 +66,6 @@ parent method one
 parent method two
 
 **Kind**: instance method of [`ExportedClass`](#exp_module_es6-class--ExportedClass)
-
-
-<a name="module_es6-class--ExportedClass.shat"></a>
-#### ExportedClass.shat()
-a static method
-
-**Kind**: static method of [`ExportedClass`](#exp_module_es6-class--ExportedClass)
 
 
 <a name="module_es6-class--ExportedClass..ChildClass"></a>

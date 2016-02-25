@@ -3,23 +3,17 @@
 **Kind**: global class  
 
 * [Droid](#Droid)
-    * [~human](#Droid..human) : `boolean`
     * [~arms](#Droid..arms) : `number`
     * [~legs](#Droid..legs) : `number`
-    * [.move(one)](#Droid+move) ⇒ `number`
+    * [~human](#Droid..human) : `boolean`
     * [.pray(one)](#Droid+pray) ⇒ `number`
     * [.stop(one)](#Droid+stop) ⇒ `number`
+    * [.move(one)](#Droid+move) ⇒ `number`
     * [.repair()](#Droid.repair) ⇒ `boolean`
     * [.battery](#Droid+battery) : `number`
     * [.age](#Droid+age) : `number`
     * [.colour](#Droid+colour) : `string`
     * [.jobs](#Droid+jobs) : `number`
-
-
-<a name="Droid..human"></a>
-### Droid~human : `boolean`
-**Kind**: inner constant of [`Droid`](#Droid)  
-**Category**: inner-consts-two
 
 
 <a name="Droid..arms"></a>
@@ -34,16 +28,10 @@
 **Category**: inner-consts
 
 
-<a name="Droid+move"></a>
-### droid.move(one) ⇒ `number`
-**Kind**: instance method of [`Droid`](#Droid)  
-
-| Param | Type     |
-| ----- | -------- |
-| one   | `number` |
-
-
-**Category**: yeah-functions
+<a name="Droid..human"></a>
+### Droid~human : `boolean`
+**Kind**: inner constant of [`Droid`](#Droid)  
+**Category**: inner-consts-two
 
 
 <a name="Droid+pray"></a>
@@ -60,6 +48,18 @@
 
 <a name="Droid+stop"></a>
 ### droid.stop(one) ⇒ `number`
+**Kind**: instance method of [`Droid`](#Droid)  
+
+| Param | Type     |
+| ----- | -------- |
+| one   | `number` |
+
+
+**Category**: yeah-functions
+
+
+<a name="Droid+move"></a>
+### droid.move(one) ⇒ `number`
 **Kind**: instance method of [`Droid`](#Droid)  
 
 | Param | Type     |

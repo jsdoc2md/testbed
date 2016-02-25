@@ -94,20 +94,21 @@
     "order": 3
   },
   {
-    "id": "module:es6-class--ExportedClass~ChildClass.ChildClass#propThree",
-    "parentId": "module:es6-class--ExportedClass~ChildClass",
-    "longname": "module:es6-class~ChildClass.ChildClass#propThree",
-    "name": "propThree",
-    "kind": "member",
-    "scope": "instance",
-    "description": "an instance property",
-    "memberof": "module:es6-class--ExportedClass~ChildClass",
+    "id": "module:es6-class--ExportedClass.shat",
+    "parentId": "module:es6-class--ExportedClass",
+    "longname": "module:es6-class.shat",
+    "name": "shat",
+    "kind": "function",
+    "scope": "static",
+    "description": "a static method",
+    "memberof": "module:es6-class--ExportedClass",
+    "params": [],
     "meta": {
-      "lineno": 43,
+      "lineno": 28,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/commonjs/module-exports-es6-class-subclass-var"
     },
-    "order": 8
+    "order": 4
   },
   {
     "id": "module:es6-class--ExportedClass#methodOne",
@@ -144,23 +145,6 @@
     "order": 6
   },
   {
-    "id": "module:es6-class--ExportedClass.shat",
-    "parentId": "module:es6-class--ExportedClass",
-    "longname": "module:es6-class.shat",
-    "name": "shat",
-    "kind": "function",
-    "scope": "static",
-    "description": "a static method",
-    "memberof": "module:es6-class--ExportedClass",
-    "params": [],
-    "meta": {
-      "lineno": 28,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/commonjs/module-exports-es6-class-subclass-var"
-    },
-    "order": 4
-  },
-  {
     "id": "module:es6-class--ExportedClass~ChildClass",
     "parentId": "module:es6-class--ExportedClass",
     "longname": "module:es6-class~ChildClass",
@@ -178,5 +162,21 @@
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/commonjs/module-exports-es6-class-subclass-var"
     },
     "order": 7
+  },
+  {
+    "id": "module:es6-class--ExportedClass~ChildClass.ChildClass#propThree",
+    "parentId": "module:es6-class--ExportedClass~ChildClass",
+    "longname": "module:es6-class~ChildClass.ChildClass#propThree",
+    "name": "propThree",
+    "kind": "member",
+    "scope": "instance",
+    "description": "an instance property",
+    "memberof": "module:es6-class--ExportedClass~ChildClass",
+    "meta": {
+      "lineno": 43,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/commonjs/module-exports-es6-class-subclass-var"
+    },
+    "order": 8
   }
 ]

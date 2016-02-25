@@ -1,16 +1,5 @@
 [
   {
-    "id": "Something()",
-    "parentId": "Something",
-    "longname": "Something",
-    "name": "Something",
-    "kind": "constructor",
-    "description": "something",
-    "memberof": "Something",
-    "params": [],
-    "order": 1
-  },
-  {
     "id": "Something",
     "longname": "Something",
     "name": "Something",
@@ -24,20 +13,15 @@
     "order": 0
   },
   {
-    "id": "Something~four",
+    "id": "Something()",
     "parentId": "Something",
-    "longname": "Something~four",
-    "name": "four",
-    "kind": "member",
-    "scope": "inner",
-    "description": "inner var",
+    "longname": "Something",
+    "name": "Something",
+    "kind": "constructor",
+    "description": "something",
     "memberof": "Something",
-    "meta": {
-      "lineno": 16,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/global/scope-inner"
-    },
-    "order": 3
+    "params": [],
+    "order": 1
   },
   {
     "id": "Something~three",
@@ -54,5 +38,21 @@
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/global/scope-inner"
     },
     "order": 2
+  },
+  {
+    "id": "Something~four",
+    "parentId": "Something",
+    "longname": "Something~four",
+    "name": "four",
+    "kind": "member",
+    "scope": "inner",
+    "description": "inner var",
+    "memberof": "Something",
+    "meta": {
+      "lineno": 16,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/global/scope-inner"
+    },
+    "order": 3
   }
 ]

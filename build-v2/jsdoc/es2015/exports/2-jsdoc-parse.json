@@ -12,22 +12,6 @@
     "order": 0
   },
   {
-    "id": "module:color/mixer.lastColor",
-    "parentId": "module:color/mixer",
-    "longname": "module:color/mixer.lastColor",
-    "name": "lastColor",
-    "kind": "member",
-    "scope": "static",
-    "description": "The most recent blended color.",
-    "memberof": "module:color/mixer",
-    "meta": {
-      "lineno": 9,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/es2015/exports"
-    },
-    "order": 2
-  },
-  {
     "id": "module:color/mixer.name",
     "parentId": "module:color/mixer",
     "longname": "module:color/mixer.name",
@@ -42,6 +26,22 @@
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/es2015/exports"
     },
     "order": 1
+  },
+  {
+    "id": "module:color/mixer.lastColor",
+    "parentId": "module:color/mixer",
+    "longname": "module:color/mixer.lastColor",
+    "name": "lastColor",
+    "kind": "member",
+    "scope": "static",
+    "description": "The most recent blended color.",
+    "memberof": "module:color/mixer",
+    "meta": {
+      "lineno": 9,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/es2015/exports"
+    },
+    "order": 2
   },
   {
     "id": "module:color/mixer.blend",

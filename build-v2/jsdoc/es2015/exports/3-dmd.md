@@ -3,17 +3,10 @@
   
 
 * color/mixer
-    * [.lastColor](#module_color/mixer.lastColor)
     * [.name](#module_color/mixer.name)
+    * [.lastColor](#module_color/mixer.lastColor)
     * [.blend(color1, color2)](#module_color/mixer.blend) ⇒ `string`
     * [.toRgb(color)](#module_color/mixer.toRgb) ⇒ `Array`
-
-
-<a name="module_color/mixer.lastColor"></a>
-### color/mixer.lastColor
-The most recent blended color.
-
-**Kind**: static property of [`color/mixer`](#module_color/mixer)
 
 
 <a name="module_color/mixer.name"></a>
@@ -21,6 +14,13 @@ The most recent blended color.
 The name of the module.
 
 **Kind**: static constant of [`color/mixer`](#module_color/mixer)
+
+
+<a name="module_color/mixer.lastColor"></a>
+### color/mixer.lastColor
+The most recent blended color.
+
+**Kind**: static property of [`color/mixer`](#module_color/mixer)
 
 
 <a name="module_color/mixer.blend"></a>

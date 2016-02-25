@@ -3,23 +3,17 @@
 **Kind**: global class  
 
 * [Droid](#Droid)
-    * [~human](#Droid..human) : `boolean`
     * [~arms](#Droid..arms) : `number`
     * [~legs](#Droid..legs) : `number`
+    * [~human](#Droid..human) : `boolean`
+    * [.stop(one)](#Droid+stop) ⇒ `number`
+    * [.repair()](#Droid.repair) ⇒ `boolean`
     * [.move(one)](#Droid+move) ⇒ `number`
     * [.pray(one)](#Droid+pray) ⇒ `number`
-    * [.repair()](#Droid.repair) ⇒ `boolean`
-    * [.stop(one)](#Droid+stop) ⇒ `number`
     * [.battery](#Droid+battery) : `number`
     * [.age](#Droid+age) : `number`
     * [.colour](#Droid+colour) : `string`
     * [.jobs](#Droid+jobs) : `number`
-
-
-<a name="Droid..human"></a>
-### Droid~human : `boolean`
-**Kind**: inner constant of [`Droid`](#Droid)  
-**Category**: inner-consts-two
 
 
 <a name="Droid..arms"></a>
@@ -32,6 +26,33 @@
 ### Droid~legs : `number`
 **Kind**: inner constant of [`Droid`](#Droid)  
 **Category**: inner-consts
+
+
+<a name="Droid..human"></a>
+### Droid~human : `boolean`
+**Kind**: inner constant of [`Droid`](#Droid)  
+**Category**: inner-consts-two
+
+
+<a name="Droid+stop"></a>
+### droid.stop(one) ⇒ `number`
+**Kind**: instance method of [`Droid`](#Droid)  
+
+| Param | Type     |
+| ----- | -------- |
+| one   | `number` |
+
+
+**Category**: yeah-functions
+
+
+<a name="Droid.repair"></a>
+### Droid.repair() ⇒ `boolean`
+**Kind**: static method of [`Droid`](#Droid)  
+
+| Type     |
+| -------- |
+| `number` |
 
 
 <a name="Droid+move"></a>
@@ -56,27 +77,6 @@
 
 
 **Category**: no-functions
-
-
-<a name="Droid.repair"></a>
-### Droid.repair() ⇒ `boolean`
-**Kind**: static method of [`Droid`](#Droid)  
-
-| Type     |
-| -------- |
-| `number` |
-
-
-<a name="Droid+stop"></a>
-### droid.stop(one) ⇒ `number`
-**Kind**: instance method of [`Droid`](#Droid)  
-
-| Param | Type     |
-| ----- | -------- |
-| one   | `number` |
-
-
-**Category**: yeah-functions
 
 
 <a name="Droid+battery"></a>

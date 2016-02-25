@@ -62,6 +62,22 @@
     "order": 3
   },
   {
+    "id": "module:farm--Farm~Equipment",
+    "parentId": "module:farm--Farm",
+    "longname": "module:farm~Equipment",
+    "name": "Equipment",
+    "kind": "class",
+    "scope": "inner",
+    "description": "Equipment class",
+    "memberof": "module:farm--Farm",
+    "meta": {
+      "lineno": 28,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/commonjs/deep-tree-class"
+    },
+    "order": 4
+  },
+  {
     "id": "module:farm--Farm~Equipment.Equipment#tractor",
     "parentId": "module:farm--Farm~Equipment",
     "longname": "module:farm~Equipment.Equipment#tractor",
@@ -81,6 +97,22 @@
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/commonjs/deep-tree-class"
     },
     "order": 5
+  },
+  {
+    "id": "module:farm--Farm~Tractor",
+    "parentId": "module:farm--Farm",
+    "longname": "module:farm~Tractor",
+    "name": "Tractor",
+    "kind": "class",
+    "scope": "inner",
+    "description": "Tractor class",
+    "memberof": "module:farm--Farm",
+    "meta": {
+      "lineno": 41,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/commonjs/deep-tree-class"
+    },
+    "order": 6
   },
   {
     "id": "module:farm--Farm~Tractor.Tractor#engine",
@@ -129,37 +161,5 @@
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/commonjs/deep-tree-class"
     },
     "order": 9
-  },
-  {
-    "id": "module:farm--Farm~Equipment",
-    "parentId": "module:farm--Farm",
-    "longname": "module:farm~Equipment",
-    "name": "Equipment",
-    "kind": "class",
-    "scope": "inner",
-    "description": "Equipment class",
-    "memberof": "module:farm--Farm",
-    "meta": {
-      "lineno": 28,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/commonjs/deep-tree-class"
-    },
-    "order": 4
-  },
-  {
-    "id": "module:farm--Farm~Tractor",
-    "parentId": "module:farm--Farm",
-    "longname": "module:farm~Tractor",
-    "name": "Tractor",
-    "kind": "class",
-    "scope": "inner",
-    "description": "Tractor class",
-    "memberof": "module:farm--Farm",
-    "meta": {
-      "lineno": 41,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/commonjs/deep-tree-class"
-    },
-    "order": 6
   }
 ]

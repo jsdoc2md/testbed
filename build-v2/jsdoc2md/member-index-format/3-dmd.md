@@ -9,18 +9,19 @@ This format is inspired by the [node docs](http://nodejs.org/api/).
     - Animal.eMood [enum]
   - FurQ [class]
     - FurQ() [constructor]
-    - FurQ#wannaTryIt [member]
-    - FurQ#LOVE [constant]
-    - FurQ#spit [function]
-    - FurQ#battle [function]
-    - FurQ#punch [function]
-    - FurQ#event:pop [event]
-    - FurQ#event:slap [event]
     - FurQ#kill [function]
     - FurQ#respect [function]
-    - FurQ.enemy [enum]
+    - FurQ#LOVE [constant]
+    - FurQ#wannaTryIt [member]
+    - FurQ#spit [function]
+    - FurQ#event:pop [event]
+    - FurQ#event:slap [event]
     - FurQ.peace [function]
+    - FurQ.enemy [enum]
     - FurQ~onRespect [typedef]
+    - FurQ#battle [function]
+    - FurQ#punch [function]
+  - plant [function]
   - Rapper [class]
     - Rapper#spit [function]
     - Rapper#battle [function]
@@ -29,13 +30,12 @@ This format is inspired by the [node docs](http://nodejs.org/api/).
         - Rapper.train~School() [constructor]
         - Rapper.train~School#bestStudent [member]
   - NewLines [class]
-    - NewLines#numbers [member]
     - NewLines#method [function]
+    - NewLines#numbers [member]
   - Species [class]
     - Species#name [member]
     - Species#species [member]
     - Species.merge [function]
-  - plant [function]
 
 
 Animal [class]
@@ -45,20 +45,24 @@ Animal [class]
 
 * [FurQ](#FurQ) ⇐ Rapper
     * [new FurQ()](#new_FurQ_new)
-    * [.wannaTryIt](#FurQ+wannaTryIt) : `string`
-    * [.LOVE](#FurQ+LOVE) : `string`
-    * [.spit()](#FurQ+spit)
-    * [.battle()](#the anchor of the super class)
-    * [.punch()](#FurQ+punch)
-    * "pop"
-    * "slap"
     * [.kill()](#FurQ+kill)
     * [.respect(done)](#FurQ+respect)
-    * [.enemy](#FurQ.enemy) : `enum`
+    * [.LOVE](#FurQ+LOVE) : `string`
+    * [.wannaTryIt](#FurQ+wannaTryIt) : `string`
+    * [.spit()](#FurQ+spit)
+    * "pop"
+    * "slap"
     * [.peace()](#FurQ.peace)
+    * [.enemy](#FurQ.enemy) : `enum`
     * [~onRespect](#FurQ..onRespect)
+    * [.battle()](#the anchor of the super class)
+    * [.punch()](#FurQ+punch)
 
 
+
+-
+
+undefined
 
 -
 
@@ -77,8 +81,8 @@ Animal [class]
 
 
 * [NewLines](#NewLines)
-    * [.numbers](#NewLines+numbers)
     * [.method(input)](#NewLines+method) ⇒ `number`
+    * [.numbers](#NewLines+numbers)
 
 
 
@@ -91,10 +95,6 @@ Animal [class]
     * [.merge(one, two)](#Species.merge) ⇒ [`Species`](#Species)
 
 
-
--
-
-undefined
 
 ## `jsdoc2md --member-index-format grouped`
 If an object has members within two of more distinct scopes (instance, static or inner) then grouping will be shown. If all members are the same scope (e.g. instance) grouping is not used.

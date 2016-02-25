@@ -14,22 +14,6 @@
     "order": 0
   },
   {
-    "id": "<anonymous>~four",
-    "parentId": "<anonymous>",
-    "longname": "<anonymous>~four",
-    "name": "four",
-    "kind": "member",
-    "scope": "inner",
-    "description": "inner var",
-    "memberof": "<anonymous>",
-    "meta": {
-      "lineno": 16,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/global/scope-inner-es6"
-    },
-    "order": 2
-  },
-  {
     "id": "<anonymous>~three",
     "parentId": "<anonymous>",
     "longname": "<anonymous>~three",
@@ -44,5 +28,21 @@
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/global/scope-inner-es6"
     },
     "order": 1
+  },
+  {
+    "id": "<anonymous>~four",
+    "parentId": "<anonymous>",
+    "longname": "<anonymous>~four",
+    "name": "four",
+    "kind": "member",
+    "scope": "inner",
+    "description": "inner var",
+    "memberof": "<anonymous>",
+    "meta": {
+      "lineno": 16,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/global/scope-inner-es6"
+    },
+    "order": 2
   }
 ]

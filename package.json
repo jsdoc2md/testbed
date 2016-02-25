@@ -31,5 +31,8 @@
     "ignore": [
       "build"
     ]
+  },
+  "dependencies": {
+    "reduce-flatten": "^1.0.0"
   }
 }
