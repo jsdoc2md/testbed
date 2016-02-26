@@ -1,20 +1,18 @@
-<a name="read"></a>
 ## read(filename, done)
 **Kind**: global function  
 
 | Param | Type | Description |
 | --- | --- | --- |
-| filename | <code>string</code> | the filename |
-| done | <code>[onComplete](#onComplete)</code> | the callback |
+| filename | string | the filename |
+| done | onComplete | the callback |
 
-<a name="onComplete"></a>
-## onComplete : <code>function</code>
+## onComplete : function
 Called when an async operation completes
 
 **Kind**: global typedef  
 
 | Param | Type | Description |
 | --- | --- | --- |
-| err | <code>object</code> | an error, or `null` |
-| result | <code>string</code> | the result info |
+| err | object | an error, or `null` |
+| result | string | the result info |
 

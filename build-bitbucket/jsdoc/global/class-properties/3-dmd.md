@@ -1,20 +1,17 @@
-<a name="Pizza"></a>
 ## Pizza
 **Kind**: global class  
 
-* [Pizza](#Pizza)
-    * [.topping](#Pizza+topping) : <code>string</code>
-    * [.size](#Pizza+size)
+* [Pizza](#markdown-header-pizza)
+    * [.topping](#markdown-header-pizzatopping-string) : string
+    * [.size](#markdown-header-pizzasize)
 
-<a name="Pizza+topping"></a>
-### pizza.topping : <code>string</code>
+### pizza.topping : string
 the ingredients on top
 
-**Kind**: instance property of <code>[Pizza](#Pizza)</code>  
-**Default**: <code>&quot;mud, lettuce&quot;</code>  
+**Kind**: instance property of [Pizza](#markdown-header-pizza)  
+**Default**: `"mud, lettuce"`  
 **Since**: v1.0.0  
-<a name="Pizza+size"></a>
 ### pizza.size
 the general size
 
-**Kind**: instance property of <code>[Pizza](#Pizza)</code>  
+**Kind**: instance property of [Pizza](#markdown-header-pizza)  

@@ -3,7 +3,7 @@
 Global | Description
 ------ | -----------
 GlobalClass | a global class
-GlobalChildClass ⇐ GlobalClass | the child of global class
+GlobalChildClass ⇐ [GlobalClass](#markdown-header-new-globalclassone-two) | the child of global class
 
 ## GlobalClass
 a global class

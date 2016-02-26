@@ -1,34 +1,29 @@
-<a name="GlobalChildClass"></a>
-## GlobalChildClass ⇐ <code>[GlobalClass](#new_GlobalClass_new)</code>
+## GlobalChildClass ⇐ GlobalClass
 the child of global class
 
 **Kind**: global class  
-**Extends:** <code>[GlobalClass](#new_GlobalClass_new)</code>  
+**Extends:** GlobalClass  
 
-* [GlobalChildClass](#GlobalChildClass) ⇐ <code>[GlobalClass](#new_GlobalClass_new)</code>
-    * [.propThree](#GlobalChildClass+propThree)
-    * [.propOne](#GlobalClass+propOne)
-    * [.methodTwo()](#GlobalChildClass+methodTwo)
-    * [.methodOne()](#GlobalClass+methodOne)
+* [GlobalChildClass](#markdown-header-globalchildclass-globalclass) ⇐ GlobalClass
+    * [.propThree](#markdown-header-globalchildclasspropthree)
+    * [.propOne](#markdown-header-globalchildclasspropone)
+    * [.methodTwo()](#markdown-header-globalchildclassmethodtwo)
+    * [.methodOne()](#markdown-header-globalchildclassmethodone)
 
-<a name="GlobalChildClass+propThree"></a>
 ### globalChildClass.propThree
 an instance property
 
-**Kind**: instance property of <code>[GlobalChildClass](#GlobalChildClass)</code>  
-<a name="GlobalClass+propOne"></a>
+**Kind**: instance property of [GlobalChildClass](#markdown-header-globalchildclass-globalclass)  
 ### globalChildClass.propOne
 an instance property
 
-**Kind**: instance property of <code>[GlobalChildClass](#GlobalChildClass)</code>  
-<a name="GlobalChildClass+methodTwo"></a>
+**Kind**: instance property of [GlobalChildClass](#markdown-header-globalchildclass-globalclass)  
 ### globalChildClass.methodTwo()
 overridden child methodTwo
 
-**Kind**: instance method of <code>[GlobalChildClass](#GlobalChildClass)</code>  
-**Overrides:** <code>[methodTwo](#GlobalClass+methodTwo)</code>  
-<a name="GlobalClass+methodOne"></a>
+**Kind**: instance method of [GlobalChildClass](#markdown-header-globalchildclass-globalclass)  
+**Overrides:** methodTwo  
 ### globalChildClass.methodOne()
 parent method one
 
-**Kind**: instance method of <code>[GlobalChildClass](#GlobalChildClass)</code>  
+**Kind**: instance method of [GlobalChildClass](#markdown-header-globalchildclass-globalclass)  

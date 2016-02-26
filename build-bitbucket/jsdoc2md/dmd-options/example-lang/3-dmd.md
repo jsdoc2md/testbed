@@ -98,7 +98,7 @@
 
 # with `--example-lang js` set
 ## rendered
-<a name="one"></a>
+
 ### one()
 A simple example with some code.. it will format using the language specified by `--example-lang`
 
@@ -107,7 +107,6 @@ A simple example with some code.. it will format using the language specified by
 ```js
 var result = one()
 ```
-<a name="two"></a>
 ### two()
 An example that already contains a fenced-code block (language `json`)
 
@@ -119,7 +118,6 @@ here is the example:
     "clive": "yeah?"
 }
 ```
-<a name="three"></a>
 ### three()
 An example with no code, just text
 
@@ -128,14 +126,12 @@ An example with no code, just text
 ```js
 This example is just some plain text, no code format or syntax highlighting required here.
 ```
-<a name="four"></a>
 ### four()
 Another text example, using the `@lang off` sub-tag..
 
 **Kind**: global function  
 **Example**  
 This example is just some plain text, no code format or syntax highlighting required here.
-<a name="five"></a>
 ### five()
 A simple example using `@example @lang hbs` to specify handlebars as the language
 
@@ -147,7 +143,7 @@ hello {{name}}, welcome to {{country}}.
 
 # with `--example-lang none` set
 ## rendered
-<a name="one"></a>
+
 ### one()
 A simple example with some code.. it will format using the language specified by `--example-lang`
 
@@ -156,7 +152,6 @@ A simple example with some code.. it will format using the language specified by
 ```none
 var result = one()
 ```
-<a name="two"></a>
 ### two()
 An example that already contains a fenced-code block (language `json`)
 
@@ -168,7 +163,6 @@ here is the example:
     "clive": "yeah?"
 }
 ```
-<a name="three"></a>
 ### three()
 An example with no code, just text
 
@@ -177,14 +171,12 @@ An example with no code, just text
 ```none
 This example is just some plain text, no code format or syntax highlighting required here.
 ```
-<a name="four"></a>
 ### four()
 Another text example, using the `@lang off` sub-tag..
 
 **Kind**: global function  
 **Example**  
 This example is just some plain text, no code format or syntax highlighting required here.
-<a name="five"></a>
 ### five()
 A simple example using `@example @lang hbs` to specify handlebars as the language
 

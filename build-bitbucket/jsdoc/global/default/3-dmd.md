@@ -1,8 +1,6 @@
-<a name="defaultedOne"></a>
-## defaultedOne : <code>object</code>
+## defaultedOne : object
 **Kind**: global variable  
-**Default**: <code>{ one: 1, two: &quot;yeah?&quot; }</code>  
-<a name="defaultedTwo"></a>
-## defaultedTwo : <code>function</code>
+**Default**: `{ one: 1, two: "yeah?" }`  
+## defaultedTwo : function
 **Kind**: global variable  
-**Default**: <code>function f(n){ return something(n); }</code>  
+**Default**: `function f(n){ return something(n); }`  

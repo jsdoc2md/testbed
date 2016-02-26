@@ -1,24 +1,21 @@
-<a name="seeableVar"></a>
 ## seeableVar
 a global var with a @see
 
 **Kind**: global variable  
-**See**: something or other  
-<a name="seefoo"></a>
+**See**: something or other
 ## seefoo()
 Both of these will link to the bar function.
 
 **Kind**: global function  
 **See**
 
-- [seebar](#seebar)
+- {@link seebar}
 - bar
 
-<a name="seebar"></a>
 ## seebar()
 **Kind**: global function  
 **See**
 
-- [seefoo](#seefoo) for further information.
-- [GitHub](http://github.com)
+- {@link seefoo} for further information.
+- [{@link http://github.com|GitHub}]({@link http://github.com|GitHub})
 

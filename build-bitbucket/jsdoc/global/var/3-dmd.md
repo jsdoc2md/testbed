@@ -1,6 +1,5 @@
-<a name="globalVar"></a>
-## globalVar : <code>string</code>
+## globalVar : string
 a global var
 
 **Kind**: global variable  
-**Default**: <code>&quot;something&quot;</code>  
+**Default**: `"something"`  

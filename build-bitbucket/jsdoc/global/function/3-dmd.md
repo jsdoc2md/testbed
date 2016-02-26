@@ -1,11 +1,10 @@
-<a name="globalFunction"></a>
-## globalFunction(one) ⇒ <code>number</code>
+## globalFunction(one) ⇒ number
 a global function
 
 **Kind**: global function  
-**Returns**: <code>number</code> - - returned value  
+**Returns**: number - - returned value  
 
 | Param | Type | Description |
 | --- | --- | --- |
-| one | <code>number</code> | first param |
+| one | number | first param |
 

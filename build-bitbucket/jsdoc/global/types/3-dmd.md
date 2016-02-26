@@ -1,23 +1,17 @@
-<a name="returnsArrayOfType"></a>
-## returnsArrayOfType : <code>Array.&lt;module:cjs/human&gt;</code>
+## returnsArrayOfType : Array.<module:cjs/human>
 **Kind**: global variable  
-<a name="returnsArrayOfType2"></a>
-## returnsArrayOfType2 : <code>Array.&lt;module:cjs/human&gt;</code>
+## returnsArrayOfType2 : Array.<module:cjs/human>
 **Kind**: global variable  
-<a name="nullableNumber"></a>
-## nullableNumber : <code>number</code>
+## nullableNumber : number
 **Kind**: global variable  
-<a name="nonNullableNumber"></a>
-## nonNullableNumber : <code>number</code>
+## nonNullableNumber : number
 **Kind**: global variable  
-<a name="objectType"></a>
-## objectType : <code>Object</code>
+## objectType : Object
 **Kind**: global variable  
-<a name="nullableArrayTypeParam"></a>
 ## nullableArrayTypeParam(one)
 **Kind**: global function  
 
 | Param | Type |
 | --- | --- |
-| one | <code>Array.&lt;module:cjs/human&gt;</code> | 
+| one | Array.<module:cjs/human> | 
 

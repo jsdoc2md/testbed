@@ -1,9 +1,8 @@
-<a name="exampleVar"></a>
-## exampleVar : <code>string</code>
+## exampleVar : string
 an example var
 
 **Kind**: global variable  
-**Default**: <code>&quot;\&quot;something\&quot;&quot;</code>  
+**Default**: `"\"something\""`  
 **Example**  
 ```js
 var thisVar = funtion(){

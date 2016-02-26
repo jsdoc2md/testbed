@@ -1,93 +1,84 @@
-## Classes
 
-* [six](#six)
-    * [new six()](#new_six_new)
-    * _instance_
-        * [.six_one](#six+six_one) : <code>number</code>
-        * [.six_two()](#six+six_two) ⇒ <code>number</code>
-    * _static_
-        * [.six_static_one](#six.six_static_one) : <code>object</code>
-        * [.six_static_two](#six.six_static_two)
-        * [.six_static_three](#six.six_static_three) : <code>number</code>
+## Classes
+Global | Description
+------ | -----------
+six | 
 
 ## Mixins
-
-* [two](#two)
-    * [.two_one()](#two.two_one) ⇒ <code>number</code>
-    * [.two_two](#two.two_two) : <code>number</code>
-    * [.two_three](#two.two_three) : <code>object</code>
-    * [.two_four](#two.two_four) : <code>number</code>
+Global | Description
+------ | -----------
+two | two
 
 ## Members
-
-* [three](#three)
-* [seven](#seven) : <code>number</code>
-* [thirteen](#thirteen) : <code>number</code>
+Global | Description
+------ | -----------
+three | three
+seven : number | seven
+thirteen : number | thirteen
 
 ## Objects
-
-* [eight](#eight) : <code>object</code>
+Global | Description
+------ | -----------
+eight : object | eight
 
 ## Constants
-
-* [five](#five) : <code>number</code>
+Global | Description
+------ | -----------
+five : number | five
 
 ## Functions
-
-* [four()](#four) ⇒ <code>number</code>
-* [nine()](#nine) ⇒ <code>number</code>
-* [twelve()](#twelve) ⇒ <code>function</code>
+Global | Description
+------ | -----------
+four() ⇒ number | four
+nine() ⇒ number | nine
+twelve() ⇒ function | twelve
 
 ## Events
-
-* ["ten"](#event_ten)
+Global | Description
+------ | -----------
+"ten" | ten
 
 ## Typedefs
-
-* [one](#one) : <code>number</code> &#124; <code>string</code>
+Global | Description
+------ | -----------
+one : number ⎮ string | one
 
 ## External
+Global | Description
+------ | -----------
+eleven | eleven
 
-* [eleven](#external_eleven)
-
-<a name="one"></a>
-## one : <code>number</code> &#124; <code>string</code>
+## one : number ⎮ string
 one
 
 **Kind**: global typedef  
-<a name="two"></a>
 ## two
 two
 
 **Kind**: global mixin  
 
-* [two](#two)
-    * [.two_one()](#two.two_one) ⇒ <code>number</code>
-    * [.two_two](#two.two_two) : <code>number</code>
-    * [.two_three](#two.two_three) : <code>object</code>
-    * [.two_four](#two.two_four) : <code>number</code>
+* [two](#markdown-header-two)
+    * [.two_one()](#markdown-header-twotwo_one-number) ⇒ number
+    * [.two_two](#markdown-header-twotwo_two-number) : number
+    * [.two_three](#markdown-header-twotwo_three-object) : object
+    * [.two_four](#markdown-header-twotwo_four-number) : number
 
-<a name="two.two_one"></a>
-### two.two_one() ⇒ <code>number</code>
+### two.two_one() ⇒ number
 two_one
 
-**Kind**: static method of <code>[two](#two)</code>  
-<a name="two.two_two"></a>
-### two.two_two : <code>number</code>
+**Kind**: static method of [two](#markdown-header-two)  
+### two.two_two : number
 two_two
 
-**Kind**: static property of <code>[two](#two)</code>  
-<a name="two.two_three"></a>
-### two.two_three : <code>object</code>
+**Kind**: static property of [two](#markdown-header-two)  
+### two.two_three : object
 two_three
 
-**Kind**: static namespace of <code>[two](#two)</code>  
-<a name="two.two_four"></a>
-### two.two_four : <code>number</code>
+**Kind**: static namespace of [two](#markdown-header-two)  
+### two.two_four : number
 two_four
 
-**Kind**: static constant of <code>[two](#two)</code>  
-<a name="three"></a>
+**Kind**: static constant of [two](#markdown-header-two)  
 ## three
 three
 
@@ -96,94 +87,78 @@ three
 
 | Name | Default |
 | --- | --- |
-| THIS | <code>0</code> | 
-| THAT | <code>1</code> | 
+| THIS | `0` | 
+| THAT | `1` | 
 
-<a name="four"></a>
-## four() ⇒ <code>number</code>
+## four() ⇒ number
 four
 
 **Kind**: global function  
-<a name="five"></a>
-## five : <code>number</code>
+## five : number
 five
 
 **Kind**: global constant  
-<a name="six"></a>
 ## six
 **Kind**: global class  
 
-* [six](#six)
-    * [new six()](#new_six_new)
+* [six](#markdown-header-six)
+    * [new six()](#markdown-header-new-six)
     * _instance_
-        * [.six_one](#six+six_one) : <code>number</code>
-        * [.six_two()](#six+six_two) ⇒ <code>number</code>
+        * [.six_one](#markdown-header-sixsix_one-number) : number
+        * [.six_two()](#markdown-header-sixsix_two-number) ⇒ number
     * _static_
-        * [.six_static_one](#six.six_static_one) : <code>object</code>
-        * [.six_static_two](#six.six_static_two)
-        * [.six_static_three](#six.six_static_three) : <code>number</code>
+        * [.six_static_one](#markdown-header-sixsix_static_one-object) : object
+        * [.six_static_two](#markdown-header-sixsix_static_two)
+        * [.six_static_three](#markdown-header-sixsix_static_three-number) : number
 
-<a name="new_six_new"></a>
 ### new six()
 six
 
-<a name="six+six_one"></a>
-### six.six_one : <code>number</code>
+### six.six_one : number
 six_one
 
-**Kind**: instance constant of <code>[six](#six)</code>  
-<a name="six+six_two"></a>
-### six.six_two() ⇒ <code>number</code>
+**Kind**: instance constant of [six](#markdown-header-new-six)  
+### six.six_two() ⇒ number
 six_two
 
-**Kind**: instance method of <code>[six](#six)</code>  
-<a name="six.six_static_one"></a>
-### six.six_static_one : <code>object</code>
+**Kind**: instance method of [six](#markdown-header-new-six)  
+### six.six_static_one : object
 six_static_one
 
-**Kind**: static namespace of <code>[six](#six)</code>  
-<a name="six.six_static_two"></a>
+**Kind**: static namespace of [six](#markdown-header-new-six)  
 ### six.six_static_two
 six_static_two
 
-**Kind**: static mixin of <code>[six](#six)</code>  
-<a name="six.six_static_three"></a>
-### six.six_static_three : <code>number</code>
+**Kind**: static mixin of [six](#markdown-header-new-six)  
+### six.six_static_three : number
 six_static_three
 
-**Kind**: static property of <code>[six](#six)</code>  
-<a name="seven"></a>
-## seven : <code>number</code>
+**Kind**: static property of [six](#markdown-header-new-six)  
+## seven : number
 seven
 
 **Kind**: global variable  
-<a name="eight"></a>
-## eight : <code>object</code>
+## eight : object
 eight
 
 **Kind**: global namespace  
-<a name="nine"></a>
-## nine() ⇒ <code>number</code>
+## nine() ⇒ number
 nine
 
 **Kind**: global function  
-<a name="event_ten"></a>
 ## "ten"
 ten
 
 **Kind**: event emitted  
-<a name="external_eleven"></a>
 ## eleven
 eleven
 
 **Kind**: global external  
-<a name="twelve"></a>
-## twelve() ⇒ <code>function</code>
+## twelve() ⇒ function
 twelve
 
 **Kind**: global function  
-<a name="thirteen"></a>
-## thirteen : <code>number</code>
+## thirteen : number
 thirteen
 
 **Kind**: global variable  

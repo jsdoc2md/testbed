@@ -1,5 +1,4 @@
-<a name="eFileType"></a>
-## eFileType : <code>enum</code>
+## eFileType : enum
 Enum with a `type` value, no individual property descriptions.
 
 **Kind**: global enum  
@@ -8,11 +7,10 @@ Enum with a `type` value, no individual property descriptions.
 
 | Name | Type | Default |
 | --- | --- | --- |
-| NOEXIST | <code>number</code> | <code>0</code> | 
-| FILE | <code>number</code> | <code>1</code> | 
-| DIR | <code>number</code> | <code>2</code> | 
+| NOEXIST | number | `0` | 
+| FILE | number | `1` | 
+| DIR | number | `2` | 
 
-<a name="eType"></a>
 ## eType
 enum, no type, property descriptions.
 
@@ -21,16 +19,14 @@ enum, no type, property descriptions.
 
 | Name | Default | Description |
 | --- | --- | --- |
-| ONE | <code>1</code> | type one |
-| TWO | <code>2</code> | type two |
+| ONE | `1` | type one |
+| TWO | `2` | type two |
 
-<a name="eFunction"></a>
 ## eFunction
 enum function! It has a kind of 'member' not 'function'.
 
 **Kind**: global enum  
-<a name="eFunction"></a>
-## eFunction : <code>enum</code>
+## eFunction : enum
 enum function, type, properties
 
 **Kind**: global enum  
@@ -38,10 +34,9 @@ enum function, type, properties
 
 | Name | Type | Description |
 | --- | --- | --- |
-| ONE | <code>number</code> | first |
-| TWO | <code>number</code> | second |
+| ONE | number | first |
+| TWO | number | second |
 
-<a name="normalFunction"></a>
 ## normalFunction()
 normal function..
 

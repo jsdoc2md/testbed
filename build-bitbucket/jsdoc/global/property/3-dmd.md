@@ -1,13 +1,12 @@
-<a name="config"></a>
-## config : <code>object</code>
+## config : object
 **Kind**: global namespace  
 **Properties**
 
 | Name | Type | Description |
 | --- | --- | --- |
-| defaults | <code>object</code> | The default values for parties. |
-| defaults.players | <code>number</code> | The default number of players. |
-| defaults.level | <code>string</code> | The default level for the party. |
-| defaults.treasure | <code>object</code> | The default treasure. |
-| defaults.treasure.gold | <code>number</code> | How much gold the party starts with. |
+| defaults | object | The default values for parties. |
+| defaults.players | number | The default number of players. |
+| defaults.level | string | The default level for the party. |
+| defaults.treasure | object | The default treasure. |
+| defaults.treasure.gold | number | How much gold the party starts with. |
 

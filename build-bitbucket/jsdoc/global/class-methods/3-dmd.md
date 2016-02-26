@@ -1,31 +1,28 @@
-<a name="Something"></a>
 ## Something
 **Kind**: global class  
 
-* [Something](#Something)
-    * [.methodOne()](#Something+methodOne)
-    * ~~[.allTogether(one, two)](#Something+allTogether) ⇒ <code>object</code> &#124; <code>string</code>~~
+* [Something](#markdown-header-something)
+    * [.methodOne()](#markdown-header-somethingmethodone)
+    * ~~[.allTogether(one, two)](#markdown-header-somethingalltogetherone-two-objectstring) ⇒ object ⎮ string~~
 
-<a name="Something+methodOne"></a>
 ### something.methodOne()
 method description
 
-**Kind**: instance method of <code>[Something](#Something)</code>  
-<a name="Something+allTogether"></a>
-### ~~something.allTogether(one, two) ⇒ <code>object</code> &#124; <code>string</code>~~
+**Kind**: instance method of [Something](#markdown-header-something)  
+### ~~something.allTogether(one, two) ⇒ object ⎮ string~~
 ***Deprecated***
 
 This function has all tags set
 
-**Kind**: instance method of <code>[Something](#Something)</code>  
-**Returns**: <code>object</code> &#124; <code>string</code> - this return has several types  
+**Kind**: instance method of [Something](#markdown-header-something)  
+**Returns**: object ⎮ string - this return has several types  
 **Since**: v0.10.28  
 **Author:** Lloyd <75pound@gmail.com>  
 
 | Param | Type | Description |
 | --- | --- | --- |
-| one | <code>string</code> | The input string |
-| two | <code>object</code> | a second input |
+| one | string | The input string |
+| two | object | a second input |
 
 **Example**  
 ```js

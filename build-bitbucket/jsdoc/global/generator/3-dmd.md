@@ -1,4 +1,3 @@
-<a name="globalGenerator"></a>
 ## globalGenerator(one)
 a global generator
 
@@ -6,5 +5,5 @@ a global generator
 
 | Param | Type | Description |
 | --- | --- | --- |
-| one | <code>number</code> | first param |
+| one | number | first param |
 

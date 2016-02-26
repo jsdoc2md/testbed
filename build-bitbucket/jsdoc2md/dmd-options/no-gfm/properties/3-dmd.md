@@ -1,4 +1,3 @@
-<a name="eType"></a>
 ## eType
 **Kind**: global enum  
 **Properties**
@@ -11,9 +10,9 @@
   </thead>
   <tbody>
 <tr>
-    <td>ONE</td><td><code>1</code></td><td>type one</td>
+    <td>ONE</td><td>`1`</td><td>type one</td>
     </tr><tr>
-    <td>TWO</td><td><code>2</code></td><td>type two</td>
+    <td>TWO</td><td>`2`</td><td>type two</td>
     </tr>  </tbody>
 </table>
 

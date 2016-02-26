@@ -1,25 +1,22 @@
-<a name="Hurl"></a>
 ## Hurl
 **Kind**: global class  
 
-* [Hurl](#Hurl)
-    * [.snowball()](#Hurl+snowball)
-    * ["snowball"](#Hurl+event_snowball)
+* [Hurl](#markdown-header-hurl)
+    * [.snowball()](#markdown-header-hurlsnowball)
+    * ["snowball"](#markdown-header-snowball)
 
-<a name="Hurl+snowball"></a>
 ### hurl.snowball()
 Throw a snowball.
 
-**Kind**: instance method of <code>[Hurl](#Hurl)</code>  
-**Emits**: <code>[snowball](#Hurl+event_snowball)</code>  
-<a name="Hurl+event_snowball"></a>
+**Kind**: instance method of [Hurl](#markdown-header-hurl)  
+**Emits**: [snowball](#markdown-header-snowball)  
 ### "snowball"
 Snowball event.
 
-**Kind**: event emitted by <code>[Hurl](#Hurl)</code>  
+**Kind**: event emitted by [Hurl](#markdown-header-hurl)  
 **Properties**
 
 | Name | Type | Description |
 | --- | --- | --- |
-| isPacked | <code>boolean</code> | Indicates whether the snowball is tightly packed. |
+| isPacked | boolean | Indicates whether the snowball is tightly packed. |
 

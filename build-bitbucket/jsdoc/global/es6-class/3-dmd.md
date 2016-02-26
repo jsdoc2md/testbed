@@ -1,87 +1,76 @@
-<a name="GlobalClass"></a>
 ## GlobalClass
 a global class
 
 **Kind**: global class  
 
-* [GlobalClass](#GlobalClass)
-    * [new GlobalClass(one, two)](#new_GlobalClass_new)
+* [GlobalClass](#markdown-header-globalclass)
+    * [new GlobalClass(one, two)](#markdown-header-new-globalclassone-two)
     * _instance_
-        * [.propOne](#GlobalClass+propOne) : <code>number</code>
-        * [.methodOne()](#GlobalClass+methodOne)
-        * [.methodTwo()](#GlobalClass+methodTwo)
+        * [.propOne](#markdown-header-globalclasspropone-number) : number
+        * [.methodOne()](#markdown-header-globalclassmethodone)
+        * [.methodTwo()](#markdown-header-globalclassmethodtwo)
     * _static_
-        * [.shat()](#GlobalClass.shat)
+        * [.shat()](#markdown-header-globalclassshat)
 
-<a name="new_GlobalClass_new"></a>
 ### new GlobalClass(one, two)
 the global class constructor
 
 **Throws**:
 
-- <code>string</code> A serious error occurred.
+- string A serious error occurred.
 
 
 | Param | Type | Description |
 | --- | --- | --- |
-| one | <code>number</code> | first param |
-| two | <code>string</code> | second param |
+| one | number | first param |
+| two | string | second param |
 
 **Example**  
 ```js
 var one = 1
 ```
-<a name="GlobalClass+propOne"></a>
-### globalClass.propOne : <code>number</code>
+### globalClass.propOne : number
 an instance property
 
-**Kind**: instance property of <code>[GlobalClass](#GlobalClass)</code>  
-<a name="GlobalClass+methodOne"></a>
+**Kind**: instance property of [GlobalClass](#markdown-header-new-globalclassone-two)  
 ### globalClass.methodOne()
 parent method one
 
-**Kind**: instance method of <code>[GlobalClass](#GlobalClass)</code>  
-<a name="GlobalClass+methodTwo"></a>
+**Kind**: instance method of [GlobalClass](#markdown-header-new-globalclassone-two)  
 ### globalClass.methodTwo()
 parent method two
 
-**Kind**: instance method of <code>[GlobalClass](#GlobalClass)</code>  
-<a name="GlobalClass.shat"></a>
+**Kind**: instance method of [GlobalClass](#markdown-header-new-globalclassone-two)  
 ### GlobalClass.shat()
 a static method
 
-**Kind**: static method of <code>[GlobalClass](#GlobalClass)</code>  
-<a name="GlobalChildClass"></a>
-## GlobalChildClass ⇐ <code>[GlobalClass](#GlobalClass)</code>
+**Kind**: static method of [GlobalClass](#markdown-header-new-globalclassone-two)  
+## GlobalChildClass ⇐ [GlobalClass](#markdown-header-new-globalclassone-two)
 the child of global class
 
 **Kind**: global class  
-**Extends:** <code>[GlobalClass](#GlobalClass)</code>  
+**Extends:** [GlobalClass](#markdown-header-new-globalclassone-two)  
 
-* [GlobalChildClass](#GlobalChildClass) ⇐ <code>[GlobalClass](#GlobalClass)</code>
-    * [.propThree](#GlobalChildClass+propThree)
-    * [.propOne](#GlobalClass+propOne) : <code>number</code>
-    * [.methodTwo()](#GlobalChildClass+methodTwo)
-    * [.methodOne()](#GlobalClass+methodOne)
+* [GlobalChildClass](#markdown-header-globalchildclass-globalclass) ⇐ [GlobalClass](#markdown-header-new-globalclassone-two)
+    * [.propThree](#markdown-header-globalchildclasspropthree)
+    * [.propOne](#markdown-header-globalchildclasspropone-number) : number
+    * [.methodTwo()](#markdown-header-globalchildclassmethodtwo)
+    * [.methodOne()](#markdown-header-globalchildclassmethodone)
 
-<a name="GlobalChildClass+propThree"></a>
 ### globalChildClass.propThree
 an instance property
 
-**Kind**: instance property of <code>[GlobalChildClass](#GlobalChildClass)</code>  
-<a name="GlobalClass+propOne"></a>
-### globalChildClass.propOne : <code>number</code>
+**Kind**: instance property of [GlobalChildClass](#markdown-header-globalchildclass-globalclass)  
+### globalChildClass.propOne : number
 an instance property
 
-**Kind**: instance property of <code>[GlobalChildClass](#GlobalChildClass)</code>  
-<a name="GlobalChildClass+methodTwo"></a>
+**Kind**: instance property of [GlobalChildClass](#markdown-header-globalchildclass-globalclass)  
 ### globalChildClass.methodTwo()
 overridden child methodTwo
 
-**Kind**: instance method of <code>[GlobalChildClass](#GlobalChildClass)</code>  
-**Overrides:** <code>[methodTwo](#GlobalClass+methodTwo)</code>  
-<a name="GlobalClass+methodOne"></a>
+**Kind**: instance method of [GlobalChildClass](#markdown-header-globalchildclass-globalclass)  
+**Overrides:** methodTwo  
 ### globalChildClass.methodOne()
 parent method one
 
-**Kind**: instance method of <code>[GlobalChildClass](#GlobalChildClass)</code>  
+**Kind**: instance method of [GlobalChildClass](#markdown-header-globalchildclass-globalclass)  

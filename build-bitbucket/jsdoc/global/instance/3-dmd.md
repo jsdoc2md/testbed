@@ -1,12 +1,9 @@
-<a name="SomeObject"></a>
-## SomeObject : <code>object</code>
+## SomeObject : object
 **Kind**: global namespace  
-<a name="SomeObject+yeah"></a>
 ### someObject.yeah
 yeah is now `SomeObject#yeah` rather than `SomeObject.yeah`.
 
-**Kind**: instance property of <code>[SomeObject](#SomeObject)</code>  
-<a name="yeahFactory"></a>
+**Kind**: instance property of SomeObject  
 ## yeahFactory()
 Generates SomeObject instances.
 

@@ -31,7 +31,7 @@ Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also ca
     <td>species</td><td>array</td><td><p>an array of two parent <a href="#Animal">Animal</a> objects</p>
 </td>
     </tr><tr>
-    <td>parents</td><td>Species</td><td><p>the species</p>
+    <td>parents</td><td>[Species](#markdown-header-species)</td><td><p>the species</p>
 </td>
     </tr>  </tbody>
 </table>

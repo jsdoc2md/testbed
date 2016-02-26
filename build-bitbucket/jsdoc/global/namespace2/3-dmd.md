@@ -1,35 +1,30 @@
-<a name="missle"></a>
-## missle : <code>object</code>
+## missle : object
 A missle object, with separate docs for each property.
 
 **Kind**: global namespace  
 
-* [missle](#missle) : <code>object</code>
-    * [.range](#missle.range) : <code>number</code>
-    * [.ballistic](#missle.ballistic) : <code>boolean</code>
-    * [.hydrogen](#missle.hydrogen)
-    * [.megaton](#missle.megaton) : <code>number</code>
+* [missle](#markdown-header-missle-object) : object
+    * [.range](#markdown-header-misslerange-number) : number
+    * [.ballistic](#markdown-header-missleballistic-boolean) : boolean
+    * [.hydrogen](#markdown-header-misslehydrogen)
+    * [.megaton](#markdown-header-misslemegaton-number) : number
 
-<a name="missle.range"></a>
-### missle.range : <code>number</code>
+### missle.range : number
 missile range
 
-**Kind**: static property of <code>[missle](#missle)</code>  
-**Default**: <code>100000</code>  
-<a name="missle.ballistic"></a>
-### missle.ballistic : <code>boolean</code>
+**Kind**: static property of [missle](#markdown-header-missle-object)  
+**Default**: `100000`  
+### missle.ballistic : boolean
 ballistic
 
-**Kind**: static property of <code>[missle](#missle)</code>  
-**Default**: <code>true</code>  
-<a name="missle.hydrogen"></a>
+**Kind**: static property of [missle](#markdown-header-missle-object)  
+**Default**: `true`  
 ### missle.hydrogen
 hydrogen bomb?
 
-**Kind**: static property of <code>[missle](#missle)</code>  
-<a name="missle.megaton"></a>
-### missle.megaton : <code>number</code>
+**Kind**: static property of [missle](#markdown-header-missle-object)  
+### missle.megaton : number
 number of megatons
 
-**Kind**: static property of <code>[missle](#missle)</code>  
-**Default**: <code>200</code>  
+**Kind**: static property of [missle](#markdown-header-missle-object)  
+**Default**: `200`  
