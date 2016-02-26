@@ -1,0 +1,171 @@
+[
+  {
+    "id": "eFileType",
+    "longname": "eFileType",
+    "name": "eFileType",
+    "scope": "global",
+    "kind": "member",
+    "description": "Enum with a `type` value, no individual property descriptions.",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "readonly": true,
+    "isEnum": true,
+    "properties": [
+      {
+        "name": "NOEXIST",
+        "longname": "eFileType.NOEXIST",
+        "kind": "member",
+        "memberof": "eFileType",
+        "scope": "static",
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "defaultvalue": 0
+      },
+      {
+        "name": "FILE",
+        "longname": "eFileType.FILE",
+        "kind": "member",
+        "memberof": "eFileType",
+        "scope": "static",
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "defaultvalue": 1
+      },
+      {
+        "name": "DIR",
+        "longname": "eFileType.DIR",
+        "kind": "member",
+        "memberof": "eFileType",
+        "scope": "static",
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "defaultvalue": 2
+      }
+    ],
+    "meta": {
+      "lineno": 6,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/enum"
+    },
+    "order": 0
+  },
+  {
+    "id": "eType",
+    "longname": "eType",
+    "name": "eType",
+    "scope": "global",
+    "kind": "member",
+    "description": "enum, no type, property descriptions.",
+    "isEnum": true,
+    "properties": [
+      {
+        "description": "type one",
+        "name": "ONE",
+        "longname": "eType.ONE",
+        "kind": "member",
+        "memberof": "eType",
+        "scope": "static",
+        "defaultvalue": 1
+      },
+      {
+        "description": "type two",
+        "name": "TWO",
+        "longname": "eType.TWO",
+        "kind": "member",
+        "memberof": "eType",
+        "scope": "static",
+        "defaultvalue": 2
+      }
+    ],
+    "meta": {
+      "lineno": 16,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/enum"
+    },
+    "order": 1
+  },
+  {
+    "id": "eFunction",
+    "longname": "eFunction",
+    "name": "eFunction",
+    "scope": "global",
+    "kind": "member",
+    "description": "enum function! It has a kind of 'member' not 'function'.",
+    "params": [],
+    "isEnum": true,
+    "meta": {
+      "lineno": 36,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/enum"
+    },
+    "order": 3
+  },
+  {
+    "id": "eFunction",
+    "longname": "eFunction",
+    "name": "eFunction",
+    "scope": "global",
+    "kind": "member",
+    "description": "enum function, type, properties",
+    "params": [],
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "isEnum": true,
+    "properties": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "first",
+        "name": "ONE"
+      },
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "second",
+        "name": "TWO"
+      }
+    ],
+    "meta": {
+      "lineno": 44,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/enum"
+    },
+    "order": 4
+  },
+  {
+    "id": "normalFunction",
+    "longname": "normalFunction",
+    "name": "normalFunction",
+    "scope": "global",
+    "kind": "function",
+    "description": "normal function..",
+    "params": [],
+    "meta": {
+      "lineno": 30,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/enum"
+    },
+    "order": 2
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "comment": "/**\n * object 1\n */",
+    "meta": {
+      "range": [
+        26,
+        43
+      ],
+      "filename": "0-src.js",
+      "lineno": 4,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/object-rest-spread",
+      "code": {
+        "id": "astnode100000002",
+        "name": "obj1",
+        "type": "ObjectExpression",
+        "value": "{\"one\":1}"
+      }
+    },
+    "description": "object 1",
+    "name": "obj1",
+    "longname": "obj1",
+    "kind": "constant",
+    "scope": "global"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        35,
+        41
+      ],
+      "filename": "0-src.js",
+      "lineno": 4,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/object-rest-spread",
+      "code": {
+        "id": "astnode100000005",
+        "name": "one",
+        "type": "Literal",
+        "value": 1
+      }
+    },
+    "undocumented": true,
+    "name": "one",
+    "longname": "obj1.one",
+    "kind": "member",
+    "memberof": "obj1",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\n * object 2, uses object-rest-spread syntax\n * @see https://github.com/sebmarkbage/ecmascript-rest-spread\n */",
+    "meta": {
+      "range": [
+        165,
+        191
+      ],
+      "filename": "0-src.js",
+      "lineno": 10,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/object-rest-spread",
+      "code": {
+        "id": "astnode100000008",
+        "name": "obj2",
+        "type": "ObjectExpression",
+        "value": "{\"two\":2}"
+      }
+    },
+    "description": "object 2, uses object-rest-spread syntax",
+    "see": [
+      "https://github.com/sebmarkbage/ecmascript-rest-spread"
+    ],
+    "name": "obj2",
+    "longname": "obj2",
+    "kind": "constant",
+    "scope": "global"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        183,
+        189
+      ],
+      "filename": "0-src.js",
+      "lineno": 10,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/object-rest-spread",
+      "code": {
+        "id": "astnode100000013",
+        "name": "two",
+        "type": "Literal",
+        "value": 2
+      }
+    },
+    "undocumented": true,
+    "name": "two",
+    "longname": "obj2.two",
+    "kind": "member",
+    "memberof": "obj2",
+    "scope": "static"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/object-rest-spread/0-src.js"
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "Pizza",
+    "longname": "Pizza",
+    "name": "Pizza",
+    "scope": "global",
+    "kind": "class",
+    "meta": {
+      "lineno": 4,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/class-properties"
+    },
+    "order": 0
+  },
+  {
+    "id": "Pizza#topping",
+    "longname": "Pizza#topping",
+    "name": "topping",
+    "scope": "instance",
+    "kind": "member",
+    "description": "the ingredients on top",
+    "memberof": "Pizza",
+    "type": {
+      "names": [
+        "string"
+      ]
+    },
+    "defaultvalue": "mud, lettuce",
+    "since": "v1.0.0",
+    "meta": {
+      "lineno": 11,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/class-properties"
+    },
+    "order": 1
+  },
+  {
+    "id": "Pizza#size",
+    "longname": "Pizza#size",
+    "name": "size",
+    "scope": "instance",
+    "kind": "member",
+    "description": "the general size",
+    "memberof": "Pizza",
+    "meta": {
+      "lineno": 16,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/class-properties"
+    },
+    "order": 2
+  }
+]

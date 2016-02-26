@@ -1,0 +1,90 @@
+[
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        0,
+        123
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/es6-class-constructor",
+      "code": {
+        "id": "astnode100000001",
+        "name": "GlobalClass",
+        "type": "ClassDeclaration",
+        "paramnames": [
+          "one",
+          "two"
+        ]
+      }
+    },
+    "undocumented": true,
+    "name": "GlobalClass",
+    "longname": "GlobalClass",
+    "kind": "class",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n   * only the constructor has docs...\n   */",
+    "meta": {
+      "range": [
+        72,
+        121
+      ],
+      "filename": "0-src.js",
+      "lineno": 5,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/es6-class-constructor",
+      "code": {
+        "id": "astnode100000004",
+        "name": "GlobalClass",
+        "type": "MethodDefinition",
+        "paramnames": [
+          "one",
+          "two"
+        ]
+      },
+      "vars": {
+        "": null
+      }
+    },
+    "description": "only the constructor has docs...",
+    "name": "GlobalClass",
+    "longname": "GlobalClass",
+    "kind": "class",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        101,
+        117
+      ],
+      "filename": "0-src.js",
+      "lineno": 6,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/es6-class-constructor",
+      "code": {
+        "id": "astnode100000011",
+        "name": "this.propOne",
+        "type": "Literal",
+        "value": 1,
+        "paramnames": []
+      }
+    },
+    "undocumented": true,
+    "name": "propOne",
+    "longname": "GlobalClass#propOne",
+    "kind": "member",
+    "memberof": "GlobalClass",
+    "scope": "instance"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/es6-class-constructor/0-src.js"
+    ]
+  }
+]

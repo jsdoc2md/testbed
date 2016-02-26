@@ -1,0 +1,55 @@
+[
+  {
+    "comment": "/**\n * a global function\n * @param {number} - first param\n * @returns {number} - returned value\n */",
+    "meta": {
+      "range": [
+        100,
+        132
+      ],
+      "filename": "0-src.js",
+      "lineno": 6,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/function",
+      "code": {
+        "id": "astnode100000001",
+        "name": "globalFunction",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "one"
+        ]
+      }
+    },
+    "description": "a global function",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "first param",
+        "name": "one"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "- returned value"
+      }
+    ],
+    "name": "globalFunction",
+    "longname": "globalFunction",
+    "kind": "function",
+    "scope": "global"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/function/0-src.js"
+    ]
+  }
+]

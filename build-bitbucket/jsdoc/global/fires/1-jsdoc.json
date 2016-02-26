@@ -1,0 +1,89 @@
+[
+  {
+    "comment": "/**\n@fires error\n*/",
+    "meta": {
+      "range": [
+        20,
+        45
+      ],
+      "filename": "0-src.js",
+      "lineno": 4,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/fires",
+      "code": {
+        "id": "astnode100000001",
+        "name": "firesError",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "fires": [
+      "event:error"
+    ],
+    "name": "firesError",
+    "longname": "firesError",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\n@fires error\n@fires begin\n@fires end\n*/",
+    "meta": {
+      "range": [
+        91,
+        115
+      ],
+      "filename": "0-src.js",
+      "lineno": 11,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/fires",
+      "code": {
+        "id": "astnode100000004",
+        "name": "firesMany",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "fires": [
+      "event:error",
+      "event:begin",
+      "event:end"
+    ],
+    "name": "firesMany",
+    "longname": "firesMany",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "/**\n@fires event:docletEvent\n*/",
+    "meta": {
+      "range": [
+        149,
+        181
+      ],
+      "filename": "0-src.js",
+      "lineno": 16,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/fires",
+      "code": {
+        "id": "astnode100000007",
+        "name": "firesDefinedEvent",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "fires": [
+      "event:docletEvent"
+    ],
+    "name": "firesDefinedEvent",
+    "longname": "firesDefinedEvent",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/fires/0-src.js"
+    ]
+  }
+]

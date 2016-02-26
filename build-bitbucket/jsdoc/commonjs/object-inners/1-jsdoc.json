@@ -1,0 +1,133 @@
+[
+  {
+    "comment": "/**\nexported object, with-inner-members\n@module cattle\n*/",
+    "meta": {
+      "range": [
+        0,
+        57
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/commonjs/object-inners",
+      "code": {}
+    },
+    "description": "exported object, with-inner-members",
+    "kind": "module",
+    "name": "cattle",
+    "longname": "module:cattle"
+  },
+  {
+    "comment": "/**\n@returns {boolean}\n*/",
+    "meta": {
+      "range": [
+        85,
+        119
+      ],
+      "filename": "0-src.js",
+      "lineno": 9,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/commonjs/object-inners",
+      "code": {
+        "id": "astnode100000002",
+        "name": "exports.createCow",
+        "type": "FunctionExpression",
+        "paramnames": []
+      }
+    },
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "boolean"
+          ]
+        }
+      }
+    ],
+    "name": "createCow",
+    "longname": "module:cattle.createCow",
+    "kind": "function",
+    "memberof": "module:cattle",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\nthe inner member\n*/",
+    "meta": {
+      "range": [
+        149,
+        164
+      ],
+      "filename": "0-src.js",
+      "lineno": 14,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/commonjs/object-inners",
+      "code": {
+        "id": "astnode100000009",
+        "name": "innerMember",
+        "type": "Literal",
+        "value": 1
+      }
+    },
+    "description": "the inner member",
+    "name": "innerMember",
+    "longname": "module:cattle~innerMember",
+    "kind": "member",
+    "scope": "inner",
+    "memberof": "module:cattle"
+  },
+  {
+    "comment": "/**\nthe inner function\n*/",
+    "meta": {
+      "range": [
+        192,
+        219
+      ],
+      "filename": "0-src.js",
+      "lineno": 19,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/commonjs/object-inners",
+      "code": {
+        "id": "astnode100000012",
+        "name": "innerFuction",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "description": "the inner function",
+    "name": "innerFuction",
+    "longname": "module:cattle~innerFuction",
+    "kind": "function",
+    "scope": "inner",
+    "memberof": "module:cattle",
+    "params": []
+  },
+  {
+    "comment": "/**\nanother inner function\n@deprecated\n*/",
+    "meta": {
+      "range": [
+        263,
+        297
+      ],
+      "filename": "0-src.js",
+      "lineno": 25,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/commonjs/object-inners",
+      "code": {
+        "id": "astnode100000015",
+        "name": "anotherInnerFuction",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "description": "another inner function",
+    "deprecated": true,
+    "name": "anotherInnerFuction",
+    "longname": "module:cattle~anotherInnerFuction",
+    "kind": "function",
+    "scope": "inner",
+    "memberof": "module:cattle",
+    "params": []
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/commonjs/object-inners/0-src.js"
+    ]
+  }
+]

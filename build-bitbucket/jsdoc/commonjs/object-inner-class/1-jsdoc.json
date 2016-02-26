@@ -1,0 +1,186 @@
+[
+  {
+    "comment": "/**\nexports an object.. has an inner class.\n@module cyberdyne\n@alias cyber\n@example\n```js\nvar cyber = require(\"cyberdyne\")\n```\n*/",
+    "meta": {
+      "range": [
+        0,
+        129
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/commonjs/object-inner-class",
+      "code": {}
+    },
+    "description": "exports an object.. has an inner class.",
+    "kind": "module",
+    "name": "cyberdyne",
+    "alias": "cyber",
+    "examples": [
+      "```js\nvar cyber = require(\"cyberdyne\")\n```"
+    ],
+    "longname": "module:cyberdyne"
+  },
+  {
+    "comment": "/**\n@returns {module:cyberdyne~Machine}\n*/",
+    "meta": {
+      "range": [
+        174,
+        212
+      ],
+      "filename": "0-src.js",
+      "lineno": 14,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/commonjs/object-inner-class",
+      "code": {
+        "id": "astnode100000002",
+        "name": "exports.createMachine",
+        "type": "FunctionExpression",
+        "paramnames": []
+      }
+    },
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "module:cyberdyne~Machine"
+          ]
+        }
+      }
+    ],
+    "name": "createMachine",
+    "longname": "module:cyberdyne.createMachine",
+    "kind": "function",
+    "memberof": "module:cyberdyne",
+    "scope": "static"
+  },
+  {
+    "comment": "/**\nthe Machine constructor\n@class \n@classdesc The main class of machine\n@param {object} - constructor options\n*/",
+    "meta": {
+      "range": [
+        328,
+        456
+      ],
+      "filename": "0-src.js",
+      "lineno": 22,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/commonjs/object-inner-class",
+      "code": {
+        "id": "astnode100000008",
+        "name": "Machine",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "options"
+        ]
+      },
+      "vars": {
+        "this.eyes": "module:cyberdyne~Machine#eyes",
+        "this.vibe": "module:cyberdyne~Machine#vibe"
+      }
+    },
+    "description": "the Machine constructor",
+    "kind": "class",
+    "classdesc": "The main class of machine",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "constructor options",
+        "name": "options"
+      }
+    ],
+    "name": "Machine",
+    "longname": "module:cyberdyne~Machine",
+    "scope": "inner",
+    "memberof": "module:cyberdyne"
+  },
+  {
+    "comment": "/**\n  @type {number}\n  */",
+    "meta": {
+      "range": [
+        387,
+        400
+      ],
+      "filename": "0-src.js",
+      "lineno": 26,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/commonjs/object-inner-class",
+      "code": {
+        "id": "astnode100000013",
+        "name": "this.eyes",
+        "type": "Literal",
+        "value": 4,
+        "paramnames": []
+      }
+    },
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "name": "eyes",
+    "longname": "module:cyberdyne~Machine#eyes",
+    "kind": "member",
+    "memberof": "module:cyberdyne~Machine",
+    "scope": "instance"
+  },
+  {
+    "comment": "/**\n  @type {string}\n  */",
+    "meta": {
+      "range": [
+        432,
+        454
+      ],
+      "filename": "0-src.js",
+      "lineno": 31,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/commonjs/object-inner-class",
+      "code": {
+        "id": "astnode100000019",
+        "name": "this.vibe",
+        "type": "Literal",
+        "value": "sinister",
+        "paramnames": []
+      }
+    },
+    "type": {
+      "names": [
+        "string"
+      ]
+    },
+    "name": "vibe",
+    "longname": "module:cyberdyne~Machine#vibe",
+    "kind": "member",
+    "memberof": "module:cyberdyne~Machine",
+    "scope": "instance"
+  },
+  {
+    "comment": "/**\nrandom \n*/",
+    "meta": {
+      "range": [
+        477,
+        490
+      ],
+      "filename": "0-src.js",
+      "lineno": 37,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/commonjs/object-inner-class",
+      "code": {
+        "id": "astnode100000025",
+        "name": "something",
+        "type": "Literal",
+        "value": 1
+      }
+    },
+    "description": "random",
+    "name": "something",
+    "longname": "module:cyberdyne~something",
+    "kind": "member",
+    "scope": "inner",
+    "memberof": "module:cyberdyne"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/commonjs/object-inner-class/0-src.js"
+    ]
+  }
+]

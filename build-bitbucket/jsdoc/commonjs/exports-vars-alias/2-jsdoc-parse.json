@@ -1,0 +1,55 @@
+[
+  {
+    "id": "module:exports-vars",
+    "longname": "module:exports-vars",
+    "name": "exports-vars",
+    "kind": "module",
+    "description": "Alias the vars as exported",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/commonjs/exports-vars-alias"
+    },
+    "order": 0
+  },
+  {
+    "id": "module:exports-vars.one",
+    "longname": "module:exports-vars.one",
+    "name": "one",
+    "scope": "static",
+    "kind": "member",
+    "memberof": "module:exports-vars",
+    "alias": "module:exports-vars.one",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "meta": {
+      "lineno": 10,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/commonjs/exports-vars-alias"
+    },
+    "order": 1
+  },
+  {
+    "id": "module:exports-vars.two",
+    "longname": "module:exports-vars.two",
+    "name": "two",
+    "scope": "static",
+    "kind": "member",
+    "memberof": "module:exports-vars",
+    "alias": "module:exports-vars.two",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "meta": {
+      "lineno": 16,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/commonjs/exports-vars-alias"
+    },
+    "order": 2
+  }
+]

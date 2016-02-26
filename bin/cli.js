@@ -9,7 +9,8 @@ const fsIterable = require('../lib/iterator')
 
 const cli = commandLineArgs([
   { name: 'folders', type: String, multiple: true, defaultOption: true },
-  { name: 'v2', type: Boolean }
+  { name: 'v2', type: Boolean },
+  { name: 'bb', type: Boolean }
 ])
 
 const options = cli.parse()
@@ -19,9 +20,17 @@ function getFolderQueue () {
     return Promise.resolve(makeFolderQueue(options.folders))
   } else {
     const os = require('os')
-    const buildFolder = os.platform() === 'win32'
-      ? options.v2 ? './build-v2-win32' : './build-win32'
-      : options.v2 ? './build-v2' : './build'
+    let buildFolder = ''
+    const platform = os.platform()
+    if (platform === 'win32' && options.v2) {
+      buildFolder = './build-v2-win32'
+    } else if (platform === 'win32' && !options.v2) {
+      buildFolder = './build-win32'
+    } else if (platform !== 'win32' && options.v2) {
+      buildFolder = './build-v2'
+    } else if (platform !== 'win32' && !options.v2 && options.bb) {
+      buildFolder = './build-bitbucket'
+    }
     console.error('BUILD DIR: ' + buildFolder)
     return fsIterable.getDirTree(buildFolder)
       .then(folderList => makeFolderQueue(folderList))

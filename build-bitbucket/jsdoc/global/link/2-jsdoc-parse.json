@@ -1,0 +1,100 @@
+[
+  {
+    "id": "module:foo/bar",
+    "longname": "module:foo/bar",
+    "name": "foo/bar",
+    "kind": "module",
+    "description": "A module. Refer to it using {@link module:foo/bar}.",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/link"
+    },
+    "order": 0
+  },
+  {
+    "id": "module:foo/bar~LinkClass()",
+    "longname": "module:foo/bar~LinkClass",
+    "name": "LinkClass",
+    "kind": "constructor",
+    "description": "A class.",
+    "memberof": "module:foo/bar~LinkClass",
+    "params": [],
+    "order": 5
+  },
+  {
+    "id": "module:foo/bar~LinkClass#foo",
+    "longname": "module:foo/bar~LinkClass#foo",
+    "name": "foo",
+    "scope": "instance",
+    "kind": "member",
+    "description": "foo property",
+    "memberof": "module:foo/bar~LinkClass",
+    "meta": {
+      "lineno": 20,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/link"
+    },
+    "order": 6
+  },
+  {
+    "id": "module:foo/bar.event:MyEvent",
+    "longname": "module:foo/bar.event:MyEvent",
+    "name": "event:MyEvent",
+    "scope": "static",
+    "kind": "event",
+    "description": "An event. Refer to with {@link module:foo/bar.event:MyEvent}.",
+    "memberof": "module:foo/bar",
+    "meta": {
+      "lineno": 7,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/link"
+    },
+    "order": 2
+  },
+  {
+    "id": "module:foo/bar~LinkClass",
+    "longname": "module:foo/bar~LinkClass",
+    "name": "LinkClass",
+    "scope": "inner",
+    "kind": "class",
+    "memberof": "module:foo/bar",
+    "meta": {
+      "lineno": 18,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/link"
+    },
+    "order": 4
+  },
+  {
+    "id": "module:foo/bar~linkFunction",
+    "longname": "module:foo/bar~linkFunction",
+    "name": "linkFunction",
+    "scope": "inner",
+    "kind": "function",
+    "description": "See {@link LinkClass} and [LinkClass's foo property]{@link LinkClass#foo}.\nAlso check out {@link http://www.google.com|Google} and {@link http://github.com GitHub}.",
+    "memberof": "module:foo/bar",
+    "params": [],
+    "meta": {
+      "lineno": 14,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/link"
+    },
+    "order": 3
+  },
+  {
+    "id": "external:String",
+    "longname": "external:String",
+    "name": "String",
+    "scope": "inner",
+    "kind": "external",
+    "description": "The built in string object. Refer to it with {@link external:String}.",
+    "memberof": "module:foo/bar",
+    "meta": {
+      "lineno": 4,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/link"
+    },
+    "order": 1
+  }
+]

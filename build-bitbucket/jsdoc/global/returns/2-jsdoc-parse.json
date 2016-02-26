@@ -1,0 +1,60 @@
+[
+  {
+    "id": "globalFunction",
+    "longname": "globalFunction",
+    "name": "globalFunction",
+    "scope": "global",
+    "kind": "function",
+    "description": "a global function returning multiple stuff",
+    "params": [],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "if something you get a string back"
+      },
+      {
+        "type": {
+          "names": [
+            "object",
+            "function"
+          ]
+        },
+        "description": "or an object, or function"
+      }
+    ],
+    "meta": {
+      "lineno": 6,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/returns"
+    },
+    "order": 0
+  },
+  {
+    "id": "returnsSomething",
+    "longname": "returnsSomething",
+    "name": "returnsSomething",
+    "scope": "global",
+    "kind": "function",
+    "description": "returns has no desc",
+    "params": [],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "lineno": 12,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/returns"
+    },
+    "order": 1
+  }
+]

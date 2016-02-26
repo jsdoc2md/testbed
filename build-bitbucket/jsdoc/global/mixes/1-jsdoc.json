@@ -1,0 +1,36 @@
+[
+  {
+    "comment": "/**\n@class\n@classdesc a class which mixes in Eventful behaviour\n@mixes Eventful\n*/",
+    "meta": {
+      "range": [
+        83,
+        111
+      ],
+      "filename": "0-src.js",
+      "lineno": 6,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/mixes",
+      "code": {
+        "id": "astnode100000001",
+        "name": "EventfulClass",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "kind": "class",
+    "classdesc": "a class which mixes in Eventful behaviour",
+    "mixes": [
+      "Eventful"
+    ],
+    "name": "EventfulClass",
+    "longname": "EventfulClass",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/mixes/0-src.js"
+    ]
+  }
+]

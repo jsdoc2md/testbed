@@ -1,0 +1,30 @@
+[
+  {
+    "id": "Documents",
+    "longname": "Documents",
+    "name": "Documents",
+    "scope": "global",
+    "kind": "namespace",
+    "meta": {
+      "lineno": 2,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/private"
+    },
+    "order": 0
+  },
+  {
+    "id": "Documents.Newspaper",
+    "longname": "Documents.Newspaper",
+    "name": "Newspaper",
+    "scope": "static",
+    "kind": "member",
+    "description": "An ordinary newspaper.",
+    "memberof": "Documents",
+    "meta": {
+      "lineno": 6,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/private"
+    },
+    "order": 1
+  }
+]

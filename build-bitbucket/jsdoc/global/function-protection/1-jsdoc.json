@@ -1,0 +1,64 @@
+[
+  {
+    "comment": "/**\na quite wonderful function\n@param {object} - privacy gown\n@param {object} - security\n@returns {survival}\n*/",
+    "meta": {
+      "range": [
+        112,
+        150
+      ],
+      "filename": "0-src.js",
+      "lineno": 7,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/function-protection",
+      "code": {
+        "id": "astnode100000001",
+        "name": "protection",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "cloak",
+          "dagger"
+        ]
+      }
+    },
+    "description": "a quite wonderful function",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "privacy gown",
+        "name": "cloak"
+      },
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "security",
+        "name": "dagger"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "survival"
+          ]
+        }
+      }
+    ],
+    "name": "protection",
+    "longname": "protection",
+    "kind": "function",
+    "scope": "global"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/function-protection/0-src.js"
+    ]
+  }
+]

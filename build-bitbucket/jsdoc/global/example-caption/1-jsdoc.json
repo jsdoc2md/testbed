@@ -1,0 +1,35 @@
+[
+  {
+    "comment": "/**\n * @example <caption>This is how it's done.</caption>\n * const result = exampleCaption()\n */",
+    "meta": {
+      "range": [
+        97,
+        126
+      ],
+      "filename": "0-src.js",
+      "lineno": 5,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/example-caption",
+      "code": {
+        "id": "astnode100000001",
+        "name": "exampleCaption",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      }
+    },
+    "examples": [
+      "<caption>This is how it's done.</caption>\nconst result = exampleCaption()"
+    ],
+    "name": "exampleCaption",
+    "longname": "exampleCaption",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/example-caption/0-src.js"
+    ]
+  }
+]

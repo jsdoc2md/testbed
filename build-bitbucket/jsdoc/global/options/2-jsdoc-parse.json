@@ -1,0 +1,68 @@
+[
+  {
+    "id": "doSomething",
+    "longname": "doSomething",
+    "name": "doSomething",
+    "scope": "global",
+    "kind": "function",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "the function options",
+        "name": "options"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "first option",
+        "name": "options.one"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "second option",
+        "name": "options.two"
+      }
+    ],
+    "meta": {
+      "lineno": 6,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/options"
+    },
+    "order": 0
+  },
+  {
+    "id": "doAnother",
+    "longname": "doAnother",
+    "name": "doAnother",
+    "scope": "global",
+    "kind": "function",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "Object"
+          ]
+        },
+        "description": "the function options",
+        "name": "options"
+      }
+    ],
+    "meta": {
+      "lineno": 11,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/options"
+    },
+    "order": 1
+  }
+]

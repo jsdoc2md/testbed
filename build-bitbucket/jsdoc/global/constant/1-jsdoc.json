@@ -1,0 +1,66 @@
+[
+  {
+    "comment": "/**\n * the first important constant\n * @constant {number}\n */",
+    "meta": {
+      "range": [
+        66,
+        79
+      ],
+      "filename": "0-src.js",
+      "lineno": 5,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/constant",
+      "code": {
+        "id": "astnode100000002",
+        "name": "CONST_ONE",
+        "type": "Literal",
+        "value": 1
+      }
+    },
+    "description": "the first important constant",
+    "kind": "constant",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "name": "CONST_ONE",
+    "longname": "CONST_ONE",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n * include `@type` and `@default`\n * @constant\n * @type {number}\n * @default\n */",
+    "meta": {
+      "range": [
+        170,
+        183
+      ],
+      "filename": "0-src.js",
+      "lineno": 13,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/constant",
+      "code": {
+        "id": "astnode100000006",
+        "name": "CONST_TWO",
+        "type": "Literal",
+        "value": 2
+      }
+    },
+    "description": "include `@type` and `@default`",
+    "kind": "constant",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "defaultvalue": 2,
+    "name": "CONST_TWO",
+    "longname": "CONST_TWO",
+    "scope": "global"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/constant/0-src.js"
+    ]
+  }
+]

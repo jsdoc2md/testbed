@@ -1,0 +1,42 @@
+[
+  {
+    "id": "one",
+    "longname": "one",
+    "name": "one",
+    "scope": "global",
+    "kind": "function",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "name": "a"
+      },
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "name": "b"
+      },
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "variable": true,
+        "name": "variable"
+      }
+    ],
+    "meta": {
+      "lineno": 6,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/param-variable"
+    },
+    "order": 0
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "id": "customClass()",
+    "longname": "customClass",
+    "name": "customClass",
+    "kind": "constructor",
+    "description": "the constructor",
+    "memberof": "customClass",
+    "params": [],
+    "order": 2
+  },
+  {
+    "id": "customClass",
+    "longname": "customClass",
+    "name": "customClass",
+    "scope": "global",
+    "kind": "class",
+    "description": "a class that has custom tags",
+    "customTags": [
+      {
+        "tag": "sitcom",
+        "value": "Only Fools"
+      },
+      {
+        "tag": "character",
+        "value": "Rodney Trotter"
+      }
+    ],
+    "meta": {
+      "lineno": 15,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/custom-tags"
+    },
+    "order": 1
+  },
+  {
+    "id": "customTagged",
+    "longname": "customTagged",
+    "name": "customTagged",
+    "scope": "global",
+    "kind": "member",
+    "description": "a global var with custom tags",
+    "customTags": [
+      {
+        "tag": "sitcom",
+        "value": "The Office"
+      },
+      {
+        "tag": "character",
+        "value": "Oggmeister"
+      }
+    ],
+    "meta": {
+      "lineno": 6,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/custom-tags"
+    },
+    "order": 0
+  },
+  {
+    "id": "customFunction",
+    "longname": "customFunction",
+    "name": "customFunction",
+    "scope": "global",
+    "kind": "function",
+    "description": "a global function with custom tags",
+    "params": [],
+    "customTags": [
+      {
+        "tag": "sitcom",
+        "value": "Brass Eye"
+      },
+      {
+        "tag": "character",
+        "value": "Noel Edmonds"
+      }
+    ],
+    "meta": {
+      "lineno": 22,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/custom-tags"
+    },
+    "order": 3
+  }
+]

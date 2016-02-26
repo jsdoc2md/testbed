@@ -1,0 +1,132 @@
+[
+  {
+    "comment": "/** @namespace */",
+    "meta": {
+      "range": [
+        22,
+        144
+      ],
+      "filename": "0-src.js",
+      "lineno": 2,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/instance",
+      "code": {
+        "id": "astnode100000002",
+        "name": "SomeObject",
+        "type": "ObjectExpression",
+        "value": "{\"yeah\":null}"
+      }
+    },
+    "kind": "namespace",
+    "name": "SomeObject",
+    "longname": "SomeObject",
+    "scope": "global"
+  },
+  {
+    "comment": "/**\n   * yeah is now `SomeObject#yeah` rather than `SomeObject.yeah`.\n   * @instance\n   */",
+    "meta": {
+      "range": [
+        132,
+        142
+      ],
+      "filename": "0-src.js",
+      "lineno": 7,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/instance",
+      "code": {
+        "id": "astnode100000005",
+        "name": "yeah",
+        "type": "Literal",
+        "value": null
+      }
+    },
+    "description": "yeah is now `SomeObject#yeah` rather than `SomeObject.yeah`.",
+    "scope": "instance",
+    "name": "yeah",
+    "longname": "SomeObject#yeah",
+    "kind": "member",
+    "memberof": "SomeObject"
+  },
+  {
+    "comment": "/** Generates SomeObject instances. */",
+    "meta": {
+      "range": [
+        185,
+        297
+      ],
+      "filename": "0-src.js",
+      "lineno": 11,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/instance",
+      "code": {
+        "id": "astnode100000007",
+        "name": "yeahFactory",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "yeahValue"
+        ]
+      },
+      "vars": {
+        "props": "yeahFactory~props"
+      }
+    },
+    "description": "Generates SomeObject instances.",
+    "name": "yeahFactory",
+    "longname": "yeahFactory",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        226,
+        253
+      ],
+      "filename": "0-src.js",
+      "lineno": 12,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/instance",
+      "code": {
+        "id": "astnode100000012",
+        "name": "props",
+        "type": "ObjectExpression",
+        "value": "{\"yeah\":\"\"}"
+      }
+    },
+    "undocumented": true,
+    "name": "props",
+    "longname": "yeahFactory~props",
+    "kind": "member",
+    "memberof": "yeahFactory",
+    "scope": "inner"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        236,
+        251
+      ],
+      "filename": "0-src.js",
+      "lineno": 12,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/instance",
+      "code": {
+        "id": "astnode100000015",
+        "name": "yeah",
+        "type": "Identifier",
+        "value": "yeahValue"
+      }
+    },
+    "undocumented": true,
+    "name": "yeah",
+    "longname": "yeahFactory~props.yeah",
+    "kind": "member",
+    "memberof": "yeahFactory~props",
+    "scope": "static"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/instance/0-src.js"
+    ]
+  }
+]

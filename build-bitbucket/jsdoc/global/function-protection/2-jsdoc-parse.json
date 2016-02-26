@@ -1,0 +1,45 @@
+[
+  {
+    "id": "protection",
+    "longname": "protection",
+    "name": "protection",
+    "scope": "global",
+    "kind": "function",
+    "description": "a quite wonderful function",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "privacy gown",
+        "name": "cloak"
+      },
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "security",
+        "name": "dagger"
+      }
+    ],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "survival"
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "lineno": 7,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/global/function-protection"
+    },
+    "order": 0
+  }
+]

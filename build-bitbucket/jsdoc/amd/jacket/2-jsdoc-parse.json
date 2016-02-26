@@ -1,0 +1,45 @@
+[
+  {
+    "id": "module:jacket",
+    "longname": "module:jacket",
+    "name": "jacket",
+    "kind": "module",
+    "description": "A module representing a jacket.",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/amd/jacket"
+    },
+    "order": 0
+  },
+  {
+    "id": "module:jacket--Jacket",
+    "longname": "module:jacket",
+    "name": "Jacket",
+    "kind": "class",
+    "isExported": true,
+    "memberof": "module:jacket",
+    "alias": "module:jacket",
+    "meta": {
+      "lineno": 10,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/amd/jacket"
+    },
+    "order": 1
+  },
+  {
+    "id": "module:jacket--Jacket#zip",
+    "longname": "module:jacket#zip",
+    "name": "zip",
+    "scope": "instance",
+    "kind": "function",
+    "description": "Open and close your Jacket.",
+    "memberof": "module:jacket--Jacket",
+    "meta": {
+      "lineno": 13,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-bitbucket/jsdoc/amd/jacket"
+    },
+    "order": 2
+  }
+]
