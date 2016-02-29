@@ -1,0 +1,136 @@
+[
+  {
+    "id": "module:cyberdyne",
+    "longname": "module:cyberdyne",
+    "name": "cyberdyne",
+    "kind": "module",
+    "description": "exports an object.. has an inner class.",
+    "alias": "cyber",
+    "examples": [
+      "```js\nvar cyber = require(\"cyberdyne\")\n```"
+    ],
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inner-class"
+    },
+    "order": 0
+  },
+  {
+    "id": "module:cyberdyne.createMachine",
+    "parentId": "module:cyberdyne",
+    "longname": "module:cyberdyne.createMachine",
+    "name": "createMachine",
+    "kind": "function",
+    "scope": "static",
+    "memberof": "module:cyberdyne",
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "module:cyberdyne~Machine"
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "lineno": 14,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inner-class"
+    },
+    "order": 1
+  },
+  {
+    "id": "module:cyberdyne~Machine",
+    "parentId": "module:cyberdyne",
+    "longname": "module:cyberdyne~Machine",
+    "name": "Machine",
+    "kind": "class",
+    "scope": "inner",
+    "description": "The main class of machine",
+    "memberof": "module:cyberdyne",
+    "meta": {
+      "lineno": 22,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inner-class"
+    },
+    "order": 2
+  },
+  {
+    "id": "module:cyberdyne~Machine()",
+    "parentId": "module:cyberdyne~Machine",
+    "longname": "module:cyberdyne~Machine",
+    "name": "Machine",
+    "kind": "constructor",
+    "description": "the Machine constructor",
+    "memberof": "module:cyberdyne~Machine",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "description": "constructor options",
+        "name": "options"
+      }
+    ],
+    "order": 3
+  },
+  {
+    "id": "module:cyberdyne~Machine#eyes",
+    "parentId": "module:cyberdyne~Machine",
+    "longname": "module:cyberdyne~Machine#eyes",
+    "name": "eyes",
+    "kind": "member",
+    "scope": "instance",
+    "memberof": "module:cyberdyne~Machine",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "meta": {
+      "lineno": 26,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inner-class"
+    },
+    "order": 4
+  },
+  {
+    "id": "module:cyberdyne~Machine#vibe",
+    "parentId": "module:cyberdyne~Machine",
+    "longname": "module:cyberdyne~Machine#vibe",
+    "name": "vibe",
+    "kind": "member",
+    "scope": "instance",
+    "memberof": "module:cyberdyne~Machine",
+    "type": {
+      "names": [
+        "string"
+      ]
+    },
+    "meta": {
+      "lineno": 31,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inner-class"
+    },
+    "order": 5
+  },
+  {
+    "id": "module:cyberdyne~something",
+    "parentId": "module:cyberdyne",
+    "longname": "module:cyberdyne~something",
+    "name": "something",
+    "kind": "member",
+    "scope": "inner",
+    "description": "random",
+    "memberof": "module:cyberdyne",
+    "meta": {
+      "lineno": 37,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inner-class"
+    },
+    "order": 6
+  }
+]

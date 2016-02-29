@@ -1,0 +1,149 @@
+[
+  {
+    "id": "module:animal",
+    "longname": "module:animal",
+    "name": "animal",
+    "kind": "module",
+    "description": "Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).\n\n| yeah | desc |\n| ---- | ---- |\n| some | markdown |\n| in the | module |\n| description | |",
+    "examples": [
+      "var animal = require(\"animal\")"
+    ],
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-markdown"
+    },
+    "order": 0
+  },
+  {
+    "id": "module:animal~Animal",
+    "parentId": "module:animal",
+    "longname": "module:animal~Animal",
+    "name": "Animal",
+    "kind": "class",
+    "scope": "inner",
+    "memberof": "module:animal",
+    "meta": {
+      "lineno": 21,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-markdown"
+    },
+    "order": 1
+  },
+  {
+    "id": "module:animal~Animal()",
+    "parentId": "module:animal~Animal",
+    "longname": "module:animal~Animal",
+    "name": "Animal",
+    "kind": "constructor",
+    "memberof": "module:animal~Animal",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "array"
+          ]
+        },
+        "description": "an array of two parent {@link Animal} objects",
+        "name": "species"
+      },
+      {
+        "type": {
+          "names": [
+            "Species"
+          ]
+        },
+        "description": "the species",
+        "name": "parents"
+      }
+    ],
+    "order": 2
+  },
+  {
+    "id": "module:animal~Animal#age",
+    "parentId": "module:animal~Animal",
+    "longname": "module:animal~Animal#age",
+    "name": "age",
+    "kind": "member",
+    "scope": "instance",
+    "description": "the current age",
+    "memberof": "module:animal~Animal",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "defaultvalue": "0",
+    "meta": {
+      "lineno": 27,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-markdown"
+    },
+    "order": 3
+  },
+  {
+    "id": "module:animal~Animal#species",
+    "parentId": "module:animal~Animal",
+    "longname": "module:animal~Animal#species",
+    "name": "species",
+    "kind": "member",
+    "scope": "instance",
+    "memberof": "module:animal~Animal",
+    "type": {
+      "names": [
+        "Species"
+      ]
+    },
+    "meta": {
+      "lineno": 32,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-markdown"
+    },
+    "order": 4
+  },
+  {
+    "id": "module:animal~Animal.eMood",
+    "parentId": "module:animal~Animal",
+    "longname": "module:animal~Animal.eMood",
+    "name": "eMood",
+    "kind": "enum",
+    "scope": "static",
+    "description": "Animal moods",
+    "memberof": "module:animal~Animal",
+    "properties": [
+      {
+        "description": "chilling",
+        "name": "satisfied",
+        "longname": "module:animal~Animal.eMood.satisfied",
+        "kind": "member",
+        "memberof": "module:animal~Animal.eMood",
+        "scope": "static",
+        "defaultvalue": 0
+      },
+      {
+        "description": "pissed off",
+        "name": "angry",
+        "longname": "module:animal~Animal.eMood.angry",
+        "kind": "member",
+        "memberof": "module:animal~Animal.eMood",
+        "scope": "static",
+        "defaultvalue": 1
+      },
+      {
+        "description": "need to eat",
+        "name": "hungry",
+        "longname": "module:animal~Animal.eMood.hungry",
+        "kind": "member",
+        "memberof": "module:animal~Animal.eMood",
+        "scope": "static",
+        "defaultvalue": 2
+      }
+    ],
+    "meta": {
+      "lineno": 39,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/module-markdown"
+    },
+    "order": 5
+  }
+]

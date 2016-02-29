@@ -1,0 +1,56 @@
+[
+  {
+    "id": "seeableVar",
+    "longname": "seeableVar",
+    "name": "seeableVar",
+    "kind": "member",
+    "scope": "global",
+    "description": "a global var with a @see",
+    "see": [
+      "something or other"
+    ],
+    "meta": {
+      "lineno": 5,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/see"
+    },
+    "order": 0
+  },
+  {
+    "id": "seefoo",
+    "longname": "seefoo",
+    "name": "seefoo",
+    "kind": "function",
+    "scope": "global",
+    "description": "Both of these will link to the bar function.",
+    "params": [],
+    "see": [
+      "{@link seebar}",
+      "bar"
+    ],
+    "meta": {
+      "lineno": 12,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/see"
+    },
+    "order": 1
+  },
+  {
+    "id": "seebar",
+    "longname": "seebar",
+    "name": "seebar",
+    "kind": "function",
+    "scope": "global",
+    "params": [],
+    "see": [
+      "{@link seefoo} for further information.",
+      "{@link http://github.com|GitHub}"
+    ],
+    "meta": {
+      "lineno": 19,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/see"
+    },
+    "order": 2
+  }
+]

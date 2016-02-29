@@ -1,0 +1,46 @@
+[
+  {
+    "id": "Greeter",
+    "longname": "Greeter",
+    "name": "Greeter",
+    "kind": "class",
+    "scope": "global",
+    "meta": {
+      "lineno": 2,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/this"
+    },
+    "order": 0
+  },
+  {
+    "id": "setName",
+    "longname": "setName",
+    "name": "setName",
+    "kind": "function",
+    "scope": "global",
+    "params": [],
+    "thisvalue": "Greeter",
+    "meta": {
+      "lineno": 7,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/this"
+    },
+    "order": 1
+  },
+  {
+    "id": "Greeter#name",
+    "parentId": "Greeter",
+    "longname": "Greeter#name",
+    "name": "name",
+    "kind": "member",
+    "scope": "instance",
+    "description": "a great name",
+    "memberof": "Greeter",
+    "meta": {
+      "lineno": 9,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/this"
+    },
+    "order": 2
+  }
+]

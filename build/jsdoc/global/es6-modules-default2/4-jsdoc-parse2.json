@@ -1,0 +1,33 @@
+[
+  {
+    "id": "module:es6-modules-default2",
+    "longname": "module:es6-modules-default2",
+    "name": "es6-modules-default2",
+    "kind": "module",
+    "description": "exporting a function pointer.. requires an @alias else exportedFunction is documented as an inner.",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-default2"
+    },
+    "order": 0
+  },
+  {
+    "id": "module:es6-modules-default2--exportedFunction",
+    "parentId": "module:es6-modules-default2",
+    "longname": "module:es6-modules-default2",
+    "name": "exportedFunction",
+    "kind": "function",
+    "isExported": true,
+    "description": "exported function",
+    "memberof": "module:es6-modules-default2",
+    "alias": "module:es6-modules-default2",
+    "params": [],
+    "meta": {
+      "lineno": 12,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-default2"
+    },
+    "order": 1
+  }
+]

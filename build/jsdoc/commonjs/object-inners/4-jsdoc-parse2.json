@@ -1,0 +1,90 @@
+[
+  {
+    "id": "module:cattle",
+    "longname": "module:cattle",
+    "name": "cattle",
+    "kind": "module",
+    "description": "exported object, with-inner-members",
+    "meta": {
+      "lineno": 1,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inners"
+    },
+    "order": 0
+  },
+  {
+    "id": "module:cattle.createCow",
+    "parentId": "module:cattle",
+    "longname": "module:cattle.createCow",
+    "name": "createCow",
+    "kind": "function",
+    "scope": "static",
+    "memberof": "module:cattle",
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "boolean"
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "lineno": 9,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inners"
+    },
+    "order": 1
+  },
+  {
+    "id": "module:cattle~innerMember",
+    "parentId": "module:cattle",
+    "longname": "module:cattle~innerMember",
+    "name": "innerMember",
+    "kind": "member",
+    "scope": "inner",
+    "description": "the inner member",
+    "memberof": "module:cattle",
+    "meta": {
+      "lineno": 14,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inners"
+    },
+    "order": 2
+  },
+  {
+    "id": "module:cattle~innerFuction",
+    "parentId": "module:cattle",
+    "longname": "module:cattle~innerFuction",
+    "name": "innerFuction",
+    "kind": "function",
+    "scope": "inner",
+    "description": "the inner function",
+    "memberof": "module:cattle",
+    "params": [],
+    "meta": {
+      "lineno": 19,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inners"
+    },
+    "order": 3
+  },
+  {
+    "id": "module:cattle~anotherInnerFuction",
+    "parentId": "module:cattle",
+    "longname": "module:cattle~anotherInnerFuction",
+    "name": "anotherInnerFuction",
+    "kind": "function",
+    "scope": "inner",
+    "description": "another inner function",
+    "memberof": "module:cattle",
+    "params": [],
+    "deprecated": true,
+    "meta": {
+      "lineno": 25,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/object-inners"
+    },
+    "order": 4
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "Chainable",
+    "longname": "Chainable",
+    "name": "Chainable",
+    "kind": "class",
+    "scope": "global",
+    "description": "has a chainable method",
+    "meta": {
+      "lineno": 5,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/chainable"
+    },
+    "order": 0
+  },
+  {
+    "id": "Chainable#method",
+    "parentId": "Chainable",
+    "longname": "Chainable#method",
+    "name": "method",
+    "kind": "function",
+    "scope": "instance",
+    "description": "returns itself",
+    "memberof": "Chainable",
+    "chainable": true,
+    "meta": {
+      "lineno": 10,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/chainable"
+    },
+    "order": 1
+  }
+]

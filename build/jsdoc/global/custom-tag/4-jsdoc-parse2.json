@@ -1,0 +1,23 @@
+[
+  {
+    "id": "customTaggedFunction",
+    "longname": "customTaggedFunction",
+    "name": "customTaggedFunction",
+    "kind": "function",
+    "scope": "global",
+    "description": "this function has a wonderful custom tag",
+    "params": [],
+    "customTags": [
+      {
+        "tag": "createdin",
+        "value": "Nigeria"
+      }
+    ],
+    "meta": {
+      "lineno": 5,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/custom-tag"
+    },
+    "order": 0
+  }
+]

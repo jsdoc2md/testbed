@@ -1,0 +1,48 @@
+[
+  {
+    "id": "builder",
+    "longname": "builder",
+    "name": "builder",
+    "kind": "mixin",
+    "scope": "global",
+    "description": "Aside from humans, who are the most prolific and versatile builders, building behaviour is common in many mammals, birds, insects and arachnids. It is also seen in a few species of fish, reptiles, amphibians, molluscs, urochordates, crustaceans, annelids and some other arthropods. It is virtually absent from all the other animal phyla.",
+    "meta": {
+      "lineno": 5,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/mixin-builder"
+    },
+    "order": 0
+  },
+  {
+    "id": "builder.construct",
+    "parentId": "builder",
+    "longname": "builder.construct",
+    "name": "construct",
+    "kind": "function",
+    "scope": "static",
+    "description": "construct something",
+    "memberof": "builder",
+    "meta": {
+      "lineno": 9,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/mixin-builder"
+    },
+    "order": 1
+  },
+  {
+    "id": "builder.repair",
+    "parentId": "builder",
+    "longname": "builder.repair",
+    "name": "repair",
+    "kind": "function",
+    "scope": "static",
+    "description": "repair something",
+    "memberof": "builder",
+    "meta": {
+      "lineno": 13,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/mixin-builder"
+    },
+    "order": 2
+  }
+]

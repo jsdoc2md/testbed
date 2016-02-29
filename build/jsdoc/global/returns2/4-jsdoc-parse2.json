@@ -1,0 +1,49 @@
+[
+  {
+    "id": "returnsSomething",
+    "longname": "returnsSomething",
+    "name": "returnsSomething",
+    "kind": "function",
+    "scope": "global",
+    "params": [],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "lineno": 4,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/returns2"
+    },
+    "order": 0
+  },
+  {
+    "id": "returnsWithDesc",
+    "longname": "returnsWithDesc",
+    "name": "returnsWithDesc",
+    "kind": "function",
+    "scope": "global",
+    "params": [],
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "returns a string"
+      }
+    ],
+    "meta": {
+      "lineno": 9,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/returns2"
+    },
+    "order": 1
+  }
+]
