@@ -3,46 +3,44 @@
     "id": "Something",
     "longname": "Something",
     "name": "Something",
-    "kind": "class",
     "scope": "global",
+    "kind": "class",
     "description": "something",
     "meta": {
       "lineno": 6,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/global/scope-inner-es6"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/scope-inner-es6"
     },
     "order": 0
   },
   {
-    "id": "<anonymous>~three",
-    "parentId": "<anonymous>",
-    "longname": "<anonymous>~three",
-    "name": "three",
-    "kind": "constant",
-    "scope": "inner",
-    "description": "inner constant",
-    "memberof": "<anonymous>",
-    "meta": {
-      "lineno": 11,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/global/scope-inner-es6"
-    },
-    "order": 1
-  },
-  {
     "id": "<anonymous>~four",
-    "parentId": "<anonymous>",
     "longname": "<anonymous>~four",
     "name": "four",
-    "kind": "member",
     "scope": "inner",
+    "kind": "member",
     "description": "inner var",
     "memberof": "<anonymous>",
     "meta": {
       "lineno": 16,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc/global/scope-inner-es6"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/scope-inner-es6"
     },
     "order": 2
+  },
+  {
+    "id": "<anonymous>~three",
+    "longname": "<anonymous>~three",
+    "name": "three",
+    "scope": "inner",
+    "kind": "constant",
+    "description": "inner constant",
+    "memberof": "<anonymous>",
+    "meta": {
+      "lineno": 11,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/scope-inner-es6"
+    },
+    "order": 1
   }
 ]

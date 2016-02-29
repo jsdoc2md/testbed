@@ -1,157 +1,140 @@
-## member list
+## Classes
 
+<dl>
+<dt><a href="#Droid">Droid</a></dt>
+<dd></dd>
+</dl>
+
+## Mixins
+
+<dl>
+<dt><a href="#mixin">mixin</a></dt>
+<dd></dd>
+</dl>
+
+## Members
+
+<dl>
+<dt><a href="#another">another</a> : <code>number</code></dt>
+<dd></dd>
+</dl>
+
+## Objects
+
+<dl>
+<dt><a href="#object">object</a> : <code><a href="#object">object</a></code></dt>
+<dd></dd>
+</dl>
+
+## External
+
+<dl>
+<dt><a href="#external_ext">ext</a></dt>
+<dd><p>something external</p>
+</dd>
+</dl>
 
 <a name="another"></a>
-### another : `number`
-**Kind**: global variable
-
-
-## mixin list
-
-
+## another : <code>number</code>
+**Kind**: global variable  
 <a name="mixin"></a>
-### mixin
-**Kind**: global mixin
-
-
+## mixin
+**Kind**: global mixin  
 <a name="mixin.one"></a>
-#### mixin.one : `number`
-**Kind**: static property of [`mixin`](#mixin)
-
-
-## external list
-
-
+### mixin.one : <code>number</code>
+**Kind**: static property of <code>[mixin](#mixin)</code>  
 <a name="external_ext"></a>
-### ext
+## ext
 something external
 
-**Kind**: global external
-
-
-## namespace list
-
-
+**Kind**: global external  
 <a name="object"></a>
-### object : `object`
-**Kind**: global namespace
-
-
-## class list
-
-
+## object : <code>[object](#object)</code>
+**Kind**: global namespace  
 <a name="Droid"></a>
-### Droid
+## Droid
 **Kind**: global class  
 
 * [Droid](#Droid)
-    * _member_
-        * [.jobs](#Droid+jobs) : `number`
-        * [.battery](#Droid+battery) : `number`
-        * [.colour](#Droid+colour) : `string`
-        * [.age](#Droid+age) : `number`
-    * _constant_
-        * [~legs](#Droid..legs) : `number`
-        * [~arms](#Droid..arms) : `number`
-        * [~human](#Droid..human) : `boolean`
-    * _function_
-        * [.move(one)](#Droid+move) ⇒ `number`
-        * [.stop(one)](#Droid+stop) ⇒ `number`
-        * [.pray(one)](#Droid+pray) ⇒ `number`
-        * [.repair()](#Droid.repair) ⇒ `boolean`
-
-
-#### member list
-
+    * _instance_
+        * [.jobs](#Droid+jobs) : <code>number</code>
+        * [.battery](#Droid+battery) : <code>number</code>
+        * _standard_
+            * [.colour](#Droid+colour) : <code>string</code>
+            * [.age](#Droid+age) : <code>number</code>
+    * _inner_
+        * _inner-consts_
+            * [~legs](#Droid..legs) : <code>number</code>
+            * [~arms](#Droid..arms) : <code>number</code>
+        * _inner-consts-two_
+            * [~human](#Droid..human) : <code>boolean</code>
+    * _instance_
+        * _yeah-functions_
+            * [.move(one)](#Droid+move) ⇒ <code>number</code>
+            * [.stop(one)](#Droid+stop) ⇒ <code>number</code>
+        * _no-functions_
+            * [.pray(one)](#Droid+pray) ⇒ <code>number</code>
+    * _static_
+        * [.repair()](#Droid.repair) ⇒ <code>boolean</code>
 
 <a name="Droid+jobs"></a>
-##### droid.jobs : `number`
-**Kind**: instance property of [`Droid`](#Droid)
-
-
+### droid.jobs : <code>number</code>
+**Kind**: instance property of <code>[Droid](#Droid)</code>  
 <a name="Droid+battery"></a>
-##### droid.battery : `number`
-**Kind**: instance property of [`Droid`](#Droid)
-
-
+### droid.battery : <code>number</code>
+**Kind**: instance property of <code>[Droid](#Droid)</code>  
 <a name="Droid+colour"></a>
-##### droid.colour : `string`
-**Kind**: instance property of [`Droid`](#Droid)  
-**Category**: standard
-
-
+### droid.colour : <code>string</code>
+**Kind**: instance property of <code>[Droid](#Droid)</code>  
+**Category**: standard  
 <a name="Droid+age"></a>
-##### droid.age : `number`
-**Kind**: instance property of [`Droid`](#Droid)  
-**Category**: standard
-
-
-#### constant list
-
-
+### droid.age : <code>number</code>
+**Kind**: instance property of <code>[Droid](#Droid)</code>  
+**Category**: standard  
 <a name="Droid..legs"></a>
-##### Droid~legs : `number`
-**Kind**: inner constant of [`Droid`](#Droid)  
-**Category**: inner-consts
-
-
+### Droid~legs : <code>number</code>
+**Kind**: inner constant of <code>[Droid](#Droid)</code>  
+**Category**: inner-consts  
 <a name="Droid..arms"></a>
-##### Droid~arms : `number`
-**Kind**: inner constant of [`Droid`](#Droid)  
-**Category**: inner-consts
-
-
+### Droid~arms : <code>number</code>
+**Kind**: inner constant of <code>[Droid](#Droid)</code>  
+**Category**: inner-consts  
 <a name="Droid..human"></a>
-##### Droid~human : `boolean`
-**Kind**: inner constant of [`Droid`](#Droid)  
-**Category**: inner-consts-two
-
-
-#### function list
-
-
+### Droid~human : <code>boolean</code>
+**Kind**: inner constant of <code>[Droid](#Droid)</code>  
+**Category**: inner-consts-two  
 <a name="Droid+move"></a>
-##### droid.move(one) ⇒ `number`
-**Kind**: instance method of [`Droid`](#Droid)  
+### droid.move(one) ⇒ <code>number</code>
+**Kind**: instance method of <code>[Droid](#Droid)</code>  
+**Category**: yeah-functions  
 
-| Param | Type     |
-| ----- | -------- |
-| one   | `number` |
-
-
-**Category**: yeah-functions
-
+| Param | Type |
+| --- | --- |
+| one | <code>number</code> | 
 
 <a name="Droid+stop"></a>
-##### droid.stop(one) ⇒ `number`
-**Kind**: instance method of [`Droid`](#Droid)  
+### droid.stop(one) ⇒ <code>number</code>
+**Kind**: instance method of <code>[Droid](#Droid)</code>  
+**Category**: yeah-functions  
 
-| Param | Type     |
-| ----- | -------- |
-| one   | `number` |
-
-
-**Category**: yeah-functions
-
+| Param | Type |
+| --- | --- |
+| one | <code>number</code> | 
 
 <a name="Droid+pray"></a>
-##### droid.pray(one) ⇒ `number`
-**Kind**: instance method of [`Droid`](#Droid)  
+### droid.pray(one) ⇒ <code>number</code>
+**Kind**: instance method of <code>[Droid](#Droid)</code>  
+**Category**: no-functions  
 
-| Param | Type     |
-| ----- | -------- |
-| one   | `number` |
-
-
-**Category**: no-functions
-
+| Param | Type |
+| --- | --- |
+| one | <code>number</code> | 
 
 <a name="Droid.repair"></a>
-##### Droid.repair() ⇒ `boolean`
-**Kind**: static method of [`Droid`](#Droid)  
+### Droid.repair() ⇒ <code>boolean</code>
+**Kind**: static method of <code>[Droid](#Droid)</code>  
 
-| Type     |
-| -------- |
-| `number` |
-
+| Param | Type |
+| --- | --- |
+|  | <code>number</code> | 
 

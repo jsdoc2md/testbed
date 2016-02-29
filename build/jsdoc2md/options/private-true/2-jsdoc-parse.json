@@ -3,45 +3,43 @@
     "id": "Documents",
     "longname": "Documents",
     "name": "Documents",
-    "kind": "namespace",
     "scope": "global",
+    "kind": "namespace",
     "meta": {
       "lineno": 2,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/private-true"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/private-true"
     },
     "order": 0
   },
   {
     "id": "Documents.Newspaper",
-    "parentId": "Documents",
     "longname": "Documents.Newspaper",
     "name": "Newspaper",
-    "kind": "member",
     "scope": "static",
+    "kind": "member",
     "description": "An ordinary newspaper.",
     "memberof": "Documents",
     "meta": {
       "lineno": 6,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/private-true"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/private-true"
     },
     "order": 1
   },
   {
     "id": "Documents.Diary",
-    "parentId": "Documents",
     "longname": "Documents.Diary",
     "name": "Diary",
-    "kind": "member",
     "scope": "static",
+    "kind": "member",
     "description": "My diary.",
     "memberof": "Documents",
     "access": "private",
     "meta": {
       "lineno": 11,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/private-true"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/private-true"
     },
     "order": 2
   }

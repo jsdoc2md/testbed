@@ -1,3 +1,14 @@
+## Classes
+
+<dl>
+<dt><a href="#GlobalClass">GlobalClass</a></dt>
+<dd><p>a global class</p>
+</dd>
+<dt><a href="#GlobalChildClass">GlobalChildClass</a> ⇐ <code><a href="#GlobalClass">GlobalClass</a></code></dt>
+<dd><p>the child of global class</p>
+</dd>
+</dl>
+
 <a name="GlobalClass"></a>
 ## GlobalClass
 a global class
@@ -6,96 +17,83 @@ a global class
 
 * [GlobalClass](#GlobalClass)
     * [new GlobalClass(one, two)](#new_GlobalClass_new)
-    * [.propOne](#GlobalClass+propOne) : `number`
-    * [.shat()](#GlobalClass.shat)
-    * [.methodOne()](#GlobalClass+methodOne)
-    * [.methodTwo()](#GlobalClass+methodTwo)
-
+    * _instance_
+        * [.propOne](#GlobalClass+propOne) : <code>number</code>
+    * _static_
+        * [.shat()](#GlobalClass.shat)
+    * _instance_
+        * [.methodOne()](#GlobalClass+methodOne)
+        * [.methodTwo()](#GlobalClass+methodTwo)
 
 <a name="new_GlobalClass_new"></a>
 ### new GlobalClass(one, two)
 the global class constructor
 
-  
+**Throws**:
 
-| Param | Type     | Description  |
-| ----- | -------- | ------------ |
-| one   | `number` | first param  |
-| two   | `string` | second param |
+- <code>string</code> A serious error occurred.
 
 
-**Example**
+| Param | Type | Description |
+| --- | --- | --- |
+| one | <code>number</code> | first param |
+| two | <code>string</code> | second param |
+
+**Example**  
 ```js
 var one = 1
 ```
-
-
 <a name="GlobalClass+propOne"></a>
-### globalClass.propOne : `number`
+### globalClass.propOne : <code>number</code>
 an instance property
 
-**Kind**: instance property of [`GlobalClass`](#GlobalClass)
-
-
+**Kind**: instance property of <code>[GlobalClass](#GlobalClass)</code>  
 <a name="GlobalClass.shat"></a>
 ### GlobalClass.shat()
 a static method
 
-**Kind**: static method of [`GlobalClass`](#GlobalClass)
-
-
+**Kind**: static method of <code>[GlobalClass](#GlobalClass)</code>  
 <a name="GlobalClass+methodOne"></a>
 ### globalClass.methodOne()
 parent method one
 
-**Kind**: instance method of [`GlobalClass`](#GlobalClass)
-
-
+**Kind**: instance method of <code>[GlobalClass](#GlobalClass)</code>  
 <a name="GlobalClass+methodTwo"></a>
 ### globalClass.methodTwo()
 parent method two
 
-**Kind**: instance method of [`GlobalClass`](#GlobalClass)
-
-
+**Kind**: instance method of <code>[GlobalClass](#GlobalClass)</code>  
 <a name="GlobalChildClass"></a>
-## GlobalChildClass ⇐ GlobalClass
+## GlobalChildClass ⇐ <code>[GlobalClass](#GlobalClass)</code>
 the child of global class
 
 **Kind**: global class  
+**Extends:** <code>[GlobalClass](#GlobalClass)</code>  
 
-* [GlobalChildClass](#GlobalChildClass) ⇐ GlobalClass
+* [GlobalChildClass](#GlobalChildClass) ⇐ <code>[GlobalClass](#GlobalClass)</code>
     * [.propThree](#GlobalChildClass+propThree)
     * [.methodTwo()](#GlobalChildClass+methodTwo)
-    * [.propOne](#the anchor of the super class) : `number`
-    * [.methodOne()](#the anchor of the super class)
-
+    * [.propOne](#GlobalClass+propOne) : <code>number</code>
+    * [.methodOne()](#GlobalClass+methodOne)
 
 <a name="GlobalChildClass+propThree"></a>
 ### globalChildClass.propThree
 an instance property
 
-**Kind**: instance property of [`GlobalChildClass`](#GlobalChildClass)
-
-
+**Kind**: instance property of <code>[GlobalChildClass](#GlobalChildClass)</code>  
 <a name="GlobalChildClass+methodTwo"></a>
 ### globalChildClass.methodTwo()
 overridden child methodTwo
 
-**Kind**: instance method of [`GlobalChildClass`](#GlobalChildClass)
-
-
-<a name="the anchor of the super class"></a>
-### globalChildClass.propOne : `number`
+**Kind**: instance method of <code>[GlobalChildClass](#GlobalChildClass)</code>  
+**Overrides:** <code>[methodTwo](#GlobalClass+methodTwo)</code>  
+<a name="GlobalClass+propOne"></a>
+### globalChildClass.propOne : <code>number</code>
 an instance property
 
-**Kind**: instance property of [`GlobalChildClass`](#GlobalChildClass)
-
-
-<a name="the anchor of the super class"></a>
+**Kind**: instance property of <code>[GlobalChildClass](#GlobalChildClass)</code>  
+<a name="GlobalClass+methodOne"></a>
 ### globalChildClass.methodOne()
 parent method one
 
-**Kind**: instance method of [`GlobalChildClass`](#GlobalChildClass)
-
-
+**Kind**: instance method of <code>[GlobalChildClass](#GlobalChildClass)</code>  

@@ -5,9 +5,11 @@ const command = require('../lib/command')
 const Task = require('work').Task
 const fsIterable = require('../lib/iterator')
 const tool = require('command-line-tool')
+const arrayify = require('array-back')
 
 const options = tool.options([
   { name: 'folders', type: String, multiple: true, defaultOption: true },
+  { name: 'v1', type: Boolean },
   { name: 'v2', type: Boolean },
   { name: 'bb', type: Boolean },
   { name: 'jsdoc', type: Boolean },
@@ -46,30 +48,14 @@ function makeFolderQueue (folderList) {
   return folderQueue
 }
 
-function getQueue (folder) {
-  const queue = new Queue()
-  queue
-    .push(new command.Jsdoc(folder))
-    .push(new command.JsdocParse(folder))
-    .push(new command.Dmd(folder))
-    .push(new command.JsdocParse(folder))
-    .push(new command2.BuildTemplate(folder))
-  return queue
-}
-
-function getV2Queue (folder) {
-  const queue = new Queue()
-  queue
-    .push(new command2.Jsdoc(folder))
-    .push(new command2.JsdocParse(folder))
-    .push(new command2.BuildTemplate(folder))
-
-  return queue
-}
-
-function buildQueue (folderList, createTask) {
+function buildQueue (folderList, createTasks) {
+  createTasks = arrayify(createTasks)
   const queue = new Queue({ maxConcurrent: 10 })
-  folderList.forEach(dir => queue.push(createTask(dir)))
+  folderList.forEach(dir => {
+    createTasks.forEach(createTask => {
+      queue.push(createTask(dir))
+    })
+  })
   queue.on('shift', task => console.log(task.name))
   queue.on('error', err => {
     console.log('Queue Error: ', /do not exist/.test(err.message) ? err.message : err.stack)
@@ -95,6 +81,12 @@ getFolderList()
         plugin: 'dmd-bitbucket',
         outputFile: '6-dmd-bb.md'
       }))
+    } else if (options.v1) {
+      queue = buildQueue(folderList, [
+        dir => new command.Jsdoc(dir),
+        dir => new command.JsdocParse(dir),
+        dir => new command.Dmd(dir)
+      ])
     }
     if (queue) queue.process()
   })
