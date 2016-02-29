@@ -36,6 +36,7 @@
     ]
   },
   "dependencies": {
+    "command-line-tool": "file:///Users/lloyd/Documents/75lb/command-line-tool",
     "reduce-flatten": "^1.0.0"
   }
 }

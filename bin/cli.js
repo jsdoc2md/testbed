@@ -1,40 +1,39 @@
 #!/usr/bin/env node
 'use strict'
 const Queue = require('work').Queue
-const commandLineArgs = require('command-line-args')
 const command = require('../lib/command')
-const command2 = require('../lib/command-v2')
 const Task = require('work').Task
 const fsIterable = require('../lib/iterator')
+const tool = require('command-line-tool')
 
-const cli = commandLineArgs([
+const options = tool.options([
   { name: 'folders', type: String, multiple: true, defaultOption: true },
   { name: 'v2', type: Boolean },
-  { name: 'bb', type: Boolean }
+  { name: 'bb', type: Boolean },
+  { name: 'jsdoc', type: Boolean },
+  { name: 'parse', type: Boolean }
 ])
-
-const options = cli.parse()
 
 function getFolderQueue () {
   if (options.folders) {
     return Promise.resolve(makeFolderQueue(options.folders))
   } else {
-    const os = require('os')
-    let buildFolder = ''
-    const platform = os.platform()
-    if (platform === 'win32' && options.v2) {
-      buildFolder = './build-v2-win32'
-    } else if (platform === 'win32' && !options.v2) {
-      buildFolder = './build-win32'
-    } else if (platform !== 'win32' && options.v2) {
-      buildFolder = './build-v2'
-    } else if (platform !== 'win32' && !options.v2 && options.bb) {
-      buildFolder = './build-bitbucket'
-    }
-    console.error('BUILD DIR: ' + buildFolder)
-    return fsIterable.getDirTree(buildFolder)
+    // const os = require('os')
+    // let buildFolder = ''
+    // const platform = os.platform()
+    // if (platform === 'win32' && options.v2) {
+    //   buildFolder = './build-v2-win32'
+    // } else if (platform === 'win32' && !options.v2) {
+    //   buildFolder = './build-win32'
+    // } else if (platform !== 'win32' && options.v2) {
+    //   buildFolder = './build-v2'
+    // } else if (platform !== 'win32' && !options.v2 && options.bb) {
+    //   buildFolder = './build-bitbucket'
+    // }
+    // console.error('BUILD DIR: ' + buildFolder)
+    return fsIterable.getDirTree('./build')
       .then(folderList => makeFolderQueue(folderList))
-      .catch(err => console.error(err.stack))
+      .catch(tool.halt)
   }
 }
 
@@ -64,6 +63,8 @@ function getQueue (folder) {
     .push(new command.Jsdoc(folder))
     .push(new command.JsdocParse(folder))
     .push(new command.Dmd(folder))
+    .push(new command.JsdocParse(folder))
+    .push(new command2.BuildTemplate(folder))
   return queue
 }
 
@@ -73,15 +74,39 @@ function getV2Queue (folder) {
     .push(new command2.Jsdoc(folder))
     .push(new command2.JsdocParse(folder))
     .push(new command2.BuildTemplate(folder))
+
   return queue
 }
 
-getFolderQueue().then(queue => {
-  queue
-    .on('error', err => console.log('Queue Error: ', /do not exist/.test(err.message) ? err.message : err.stack))
-    .process()
-})
+function buildQueue (folderList, createTask) {
+  const queue = new Queue({ maxConcurrent: 10 })
+  folderList.forEach(dir => queue.push(createTask(dir)))
+  queue.on('shift', task => console.log(task.name))
+  queue.on('error', err => {
+    console.log('Queue Error: ', /do not exist/.test(err.message) ? err.message : err.stack)
+  })
+  return queue
+}
 
-// process.on('unhandledRejection', (err, p) => {
-//   console.error('UNHANDLED', err.stack || err)
-// })
+fsIterable.getDirTree('./build')
+  .then(folderList => {
+    if (options.jsdoc) {
+      const queue = buildQueue(folderList, dir => new command.Jsdoc(dir))
+      queue.process()
+    } else if (options.parse) {
+      const queue = buildQueue(folderList, dir => new command.JsdocParse(dir))
+      queue.process()
+    }
+  })
+  .catch(tool.halt)
+
+// return fsIterable.getDirTree('./src')
+//   .then(folderList => {
+//     const folderQueue = new Queue({ maxConcurrent: 10 })
+//     for (let folder of folderList) {
+//       const task = new command.Jsdoc(folder)
+//       folderQueue.push(task)
+//     }
+//     return folderQueue
+//   })
+//   .catch(err => console.error(err.stack))
