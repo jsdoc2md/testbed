@@ -11,7 +11,8 @@ const options = tool.options([
   { name: 'v2', type: Boolean },
   { name: 'bb', type: Boolean },
   { name: 'jsdoc', type: Boolean },
-  { name: 'parse', type: Boolean }
+  { name: 'parse', type: Boolean },
+  { name: 'dmd', type: Boolean }
 ])
 
 function getFolderQueue () {
@@ -90,13 +91,15 @@ function buildQueue (folderList, createTask) {
 
 fsIterable.getDirTree('./build')
   .then(folderList => {
+    let queue
     if (options.jsdoc) {
-      const queue = buildQueue(folderList, dir => new command.Jsdoc(dir))
-      queue.process()
+      queue = buildQueue(folderList, dir => new command.Jsdoc(dir))
     } else if (options.parse) {
-      const queue = buildQueue(folderList, dir => new command.JsdocParse(dir))
-      queue.process()
+      queue = buildQueue(folderList, dir => new command.JsdocParse(dir))
+    } else if (options.dmd) {
+      queue = buildQueue(folderList, dir => new command.Dmd(dir))
     }
+    if (queue) queue.process()
   })
   .catch(tool.halt)
 
