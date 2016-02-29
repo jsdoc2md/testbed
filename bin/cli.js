@@ -105,7 +105,10 @@ fsIterable.getDirTree('./build')
     } else if (options.dmd2) {
       queue = buildQueue(folderList, dir => new command.Dmd2(dir))
     } else if (options.bb) {
-      queue = buildQueue(folderList, dir => new command.Dmd2(dir))
+      queue = buildQueue(folderList, dir => new command.Dmd(dir, {
+        plugin: 'dmd-bitbucket',
+        outputFile: '6-dmd-bb.md'
+      }))
     }
     if (queue) queue.process()
   })
