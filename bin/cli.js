@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 'use strict'
 const Queue = require('work').Queue
+const Task = require('work').Task
 const command = require('../lib/command')
 const fsIterable = require('../lib/iterator')
 const tool = require('command-line-tool')
@@ -30,12 +31,27 @@ function getFolderList () {
 function buildQueue (folderList, createTasks) {
   createTasks = arrayify(createTasks)
   const queue = new Queue({ maxConcurrent: 10 })
-  folderList.forEach(dir => {
-    createTasks.forEach(createTask => {
-      queue.push(createTask(dir))
+  if (createTasks.length) {
+    folderList.forEach(dir => {
+      const taskQueue = new Queue()
+      createTasks.forEach(createTask => {
+        taskQueue.push(createTask(dir))
+      })
+      const task = new Task(function (resolve, reject) {
+        taskQueue
+          .on('shift', task => console.log(task.name))
+          .on('complete', resolve)
+          .on('error', reject)
+          .process()
+      })
+      queue.push(task)
     })
-  })
-  queue.on('shift', task => console.log(task.name))
+  } else {
+    folderList.forEach(dir => {
+      queue.push(createTasks[0](dir))
+    })
+  }
+  queue.on('shift', task => { if (task.name) console.log(task.name) })
   queue.on('error', err => {
     console.log('Queue Error: ', /do not exist/.test(err.message) ? err.message : err.stack)
   })
@@ -62,9 +78,14 @@ getFolderList()
       }))
     } else if (options.v1) {
       queue = buildQueue(folderList, [
-        dir => new command.Jsdoc(dir),
+        // dir => new command.Jsdoc(dir),
         dir => new command.JsdocParse(dir),
         dir => new command.Dmd(dir)
+      ])
+    } else if (options.v2) {
+      queue = buildQueue(folderList, [
+        dir => new command.JsdocParse2(dir),
+        dir => new command.Dmd2(dir)
       ])
     }
     if (queue) queue.process()
