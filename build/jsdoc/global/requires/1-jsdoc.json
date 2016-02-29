@@ -1,13 +1,49 @@
 [
   {
-    "comment": "/**\nensure you have some-module installed\n@requires some-module\n*/",
+    "comment": "/**\n * Module one\n * @module one\n */",
     "meta": {
       "range": [
-        67,
-        90
+        0,
+        36
       ],
       "filename": "0-src.js",
-      "lineno": 5,
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/requires",
+      "code": {}
+    },
+    "description": "Module one",
+    "kind": "module",
+    "name": "one",
+    "longname": "module:one"
+  },
+  {
+    "comment": "/**\n  * Module two\n  * @module two\n  */",
+    "meta": {
+      "range": [
+        39,
+        78
+      ],
+      "filename": "0-src.js",
+      "lineno": 6,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/requires",
+      "code": {}
+    },
+    "description": "Module two",
+    "kind": "module",
+    "name": "two",
+    "longname": "module:two",
+    "scope": "inner",
+    "memberof": "module:one"
+  },
+  {
+    "comment": "/**\n * ensure you have some-module installed\n * @requires module:one\n * @requires module:two\n * @requires module:three\n */",
+    "meta": {
+      "range": [
+        203,
+        226
+      ],
+      "filename": "0-src.js",
+      "lineno": 17,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/requires",
       "code": {
         "id": "astnode100000001",
@@ -18,12 +54,15 @@
     },
     "description": "ensure you have some-module installed",
     "requires": [
-      "module:some-module"
+      "module:one",
+      "module:two",
+      "module:three"
     ],
     "name": "requirer",
-    "longname": "requirer",
+    "longname": "module:two~requirer",
     "kind": "function",
-    "scope": "global",
+    "scope": "inner",
+    "memberof": "module:two",
     "params": []
   },
   {

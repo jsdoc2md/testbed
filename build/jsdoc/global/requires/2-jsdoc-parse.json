@@ -1,20 +1,49 @@
 [
   {
-    "id": "requirer",
-    "longname": "requirer",
-    "name": "requirer",
-    "scope": "global",
-    "kind": "function",
-    "description": "ensure you have some-module installed",
-    "params": [],
-    "requires": [
-      "module:some-module"
-    ],
+    "id": "module:one",
+    "longname": "module:one",
+    "name": "one",
+    "kind": "module",
+    "description": "Module one",
     "meta": {
-      "lineno": 5,
+      "lineno": 1,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/requires"
     },
     "order": 0
+  },
+  {
+    "id": "module:two",
+    "longname": "module:two",
+    "name": "two",
+    "kind": "module",
+    "description": "Module two",
+    "meta": {
+      "lineno": 6,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/requires"
+    },
+    "order": 1
+  },
+  {
+    "id": "module:two~requirer",
+    "longname": "module:two~requirer",
+    "name": "requirer",
+    "scope": "inner",
+    "kind": "function",
+    "description": "ensure you have some-module installed",
+    "memberof": "module:two",
+    "params": [],
+    "requires": [
+      "module:one",
+      "module:two",
+      "module:three"
+    ],
+    "meta": {
+      "lineno": 17,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/requires"
+    },
+    "order": 2
   }
 ]
