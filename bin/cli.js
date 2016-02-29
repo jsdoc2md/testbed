@@ -17,25 +17,11 @@ const options = tool.options([
   { name: 'dmd2', type: Boolean }
 ])
 
-function getFolderQueue () {
+function getFolderList () {
   if (options.folders) {
-    return Promise.resolve(makeFolderQueue(options.folders))
+    return Promise.resolve(options.folders)
   } else {
-    // const os = require('os')
-    // let buildFolder = ''
-    // const platform = os.platform()
-    // if (platform === 'win32' && options.v2) {
-    //   buildFolder = './build-v2-win32'
-    // } else if (platform === 'win32' && !options.v2) {
-    //   buildFolder = './build-win32'
-    // } else if (platform !== 'win32' && options.v2) {
-    //   buildFolder = './build-v2'
-    // } else if (platform !== 'win32' && !options.v2 && options.bb) {
-    //   buildFolder = './build-bitbucket'
-    // }
-    // console.error('BUILD DIR: ' + buildFolder)
     return fsIterable.getDirTree('./build')
-      .then(folderList => makeFolderQueue(folderList))
       .catch(tool.halt)
   }
 }
@@ -91,7 +77,7 @@ function buildQueue (folderList, createTask) {
   return queue
 }
 
-fsIterable.getDirTree('./build')
+getFolderList()
   .then(folderList => {
     let queue
     if (options.jsdoc) {
@@ -113,14 +99,3 @@ fsIterable.getDirTree('./build')
     if (queue) queue.process()
   })
   .catch(tool.halt)
-
-// return fsIterable.getDirTree('./src')
-//   .then(folderList => {
-//     const folderQueue = new Queue({ maxConcurrent: 10 })
-//     for (let folder of folderList) {
-//       const task = new command.Jsdoc(folder)
-//       folderQueue.push(task)
-//     }
-//     return folderQueue
-//   })
-//   .catch(err => console.error(err.stack))
