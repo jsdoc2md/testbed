@@ -2,7 +2,6 @@
 'use strict'
 const Queue = require('work').Queue
 const command = require('../lib/command')
-const Task = require('work').Task
 const fsIterable = require('../lib/iterator')
 const tool = require('command-line-tool')
 const arrayify = require('array-back')
@@ -26,26 +25,6 @@ function getFolderList () {
     return fsIterable.getDirTree('./build')
       .catch(tool.halt)
   }
-}
-
-/**
- * @param {string[]} - array of folder paths
- * @returns {Queue} - queue of 'process folder' commands
- */
-function makeFolderQueue (folderList) {
-  const folderQueue = new Queue({ maxConcurrent: 10 })
-  for (let folder of folderList) {
-    const task = new Task(function (resolve, reject) {
-      const queue = options.v2 ? getV2Queue(folder) : getQueue(folder)
-      queue
-        .on('shift', task => console.log(task.name))
-        .on('complete', resolve)
-        .on('error', reject)
-        .process()
-    })
-    folderQueue.push(task)
-  }
-  return folderQueue
 }
 
 function buildQueue (folderList, createTasks) {
