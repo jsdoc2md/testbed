@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {}
     },
     "description": "one",
@@ -32,7 +32,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 10,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
         "id": "astnode100000002",
         "name": "two",
@@ -55,7 +55,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 15,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
         "id": "astnode100000005",
         "name": "two_one",
@@ -87,7 +87,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 20,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
         "id": "astnode100000008",
         "name": "two_two",
@@ -116,7 +116,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 25,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
         "id": "astnode100000010",
         "name": "two_three",
@@ -140,7 +140,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 31,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
         "id": "astnode100000012",
         "name": "two_four",
@@ -169,7 +169,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 38,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
         "id": "astnode100000015",
         "name": "three",
@@ -193,7 +193,7 @@
           ],
           "filename": "0-src.js",
           "lineno": 39,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
           "code": {
             "id": "astnode100000018",
             "name": "THIS",
@@ -217,7 +217,7 @@
           ],
           "filename": "0-src.js",
           "lineno": 40,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
           "code": {
             "id": "astnode100000020",
             "name": "THAT",
@@ -243,7 +243,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 39,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
         "id": "astnode100000018",
         "name": "THIS",
@@ -267,7 +267,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 40,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
         "id": "astnode100000020",
         "name": "THAT",
@@ -291,7 +291,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 47,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
         "id": "astnode100000023",
         "name": "four",
@@ -322,7 +322,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 53,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
         "id": "astnode100000028",
         "name": "five",
@@ -350,7 +350,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 59,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
         "id": "astnode100000031",
         "name": "six",
@@ -379,7 +379,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 64,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
         "id": "astnode100000035",
         "name": "this.six_one",
@@ -409,7 +409,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 70,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
         "id": "astnode100000041",
         "name": "this.six_two",
@@ -442,7 +442,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 76,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
         "id": "astnode100000048",
         "name": "six.six_static_one",
@@ -467,7 +467,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 82,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
         "id": "astnode100000054",
         "name": "six.six_static_two",
@@ -492,7 +492,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 88,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
         "id": "astnode100000060",
         "name": "six.six_static_three",
@@ -522,7 +522,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 94,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
         "id": "astnode100000066",
         "name": "seven",
@@ -550,7 +550,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 100,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
         "id": "astnode100000070",
         "name": "eight",
@@ -573,7 +573,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 106,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
         "id": "astnode100000074",
         "name": "nine",
@@ -604,7 +604,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 108,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {}
     },
     "description": "ten",
@@ -622,7 +622,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 113,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {}
     },
     "description": "eleven",
@@ -640,7 +640,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 122,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
         "id": "astnode100000079",
         "name": "twelve",
@@ -671,7 +671,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 128,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none",
       "code": {
         "id": "astnode100000084",
         "name": "thirteen",
@@ -694,7 +694,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-none/0-src.js"
     ]
   }
 ]

@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.html",
       "lineno": 17,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/html/class-all",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/html/class-all",
       "code": {
         "id": "astnode100000001",
         "name": "All",
@@ -71,7 +71,7 @@
       ],
       "filename": "0-src.html",
       "lineno": 24,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/html/class-all",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/html/class-all",
       "code": {
         "id": "astnode100000007",
         "name": "this.topping",
@@ -103,7 +103,7 @@
       ],
       "filename": "0-src.html",
       "lineno": 28,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/html/class-all",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/html/class-all",
       "code": {
         "id": "astnode100000013",
         "name": "this.size",
@@ -128,7 +128,7 @@
       ],
       "filename": "0-src.html",
       "lineno": 43,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/html/class-all",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/html/class-all",
       "code": {
         "id": "astnode100000019",
         "name": "All.prototype.allThings",
@@ -197,7 +197,7 @@
       ],
       "filename": "0-src.html",
       "lineno": 47,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/html/class-all",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/html/class-all",
       "code": {
         "id": "astnode100000030",
         "name": "some",
@@ -216,7 +216,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/html/class-all/0-src.html"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/html/class-all/0-src.html"
     ]
   }
 ]
