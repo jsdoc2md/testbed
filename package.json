@@ -23,7 +23,7 @@
     "config-master": "^2.0.1",
     "dmd": "^1.3.4",
     "dmd-bitbucket": "^0.1.7",
-    "jsdoc-api": "^1.0.5",
+    "jsdoc-api": "file:///Users/lloyd/Documents/jsdoc2md/jsdoc-api",
     "jsdoc-parse": "^1.2.6",
     "jsdoc-parse2": "file:///Users/lloyd/Documents/jsdoc2md2/jsdoc-parse2",
     "jsdoc-to-markdown2": "file:///Users/lloyd/Documents/jsdoc2md2/jsdoc-to-markdown2",
@@ -32,7 +32,9 @@
   },
   "standard": {
     "ignore": [
-      "build", "build-win32", "buggy"
+      "build",
+      "build-win32",
+      "buggy"
     ]
   },
   "dependencies": {
