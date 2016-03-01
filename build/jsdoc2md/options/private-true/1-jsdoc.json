@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 2,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/private-true",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/private",
       "code": {
         "id": "astnode100000002",
         "name": "Documents",
@@ -30,7 +30,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/private-true",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/private",
       "code": {
         "id": "astnode100000005",
         "name": "Newspaper",
@@ -54,7 +54,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/private-true",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/private",
       "code": {
         "id": "astnode100000007",
         "name": "Diary",
@@ -74,7 +74,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/private-true/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/private/0-src.js"
     ]
   }
 ]
