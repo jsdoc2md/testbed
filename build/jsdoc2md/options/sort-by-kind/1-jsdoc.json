@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 6,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-name",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-kind",
       "code": {
         "id": "astnode100000004",
         "name": "another",
@@ -35,7 +35,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 11,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-name",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-kind",
       "code": {
         "id": "astnode100000008",
         "name": "mixin",
@@ -57,7 +57,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 15,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-name",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-kind",
       "code": {
         "id": "astnode100000011",
         "name": "one",
@@ -85,7 +85,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 18,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-name",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-kind",
       "code": {}
     },
     "description": "something external",
@@ -103,7 +103,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 26,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-name",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-kind",
       "code": {
         "id": "astnode100000014",
         "name": "object",
@@ -125,7 +125,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 31,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-name",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-kind",
       "code": {
         "id": "astnode100000017",
         "name": "Droid",
@@ -157,7 +157,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 35,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-name",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-kind",
       "code": {
         "id": "astnode100000021",
         "name": "this.jobs",
@@ -186,7 +186,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 40,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-name",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-kind",
       "code": {
         "id": "astnode100000027",
         "name": "this.battery",
@@ -215,7 +215,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 46,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-name",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-kind",
       "code": {
         "id": "astnode100000033",
         "name": "this.colour",
@@ -252,7 +252,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 52,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-name",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-kind",
       "code": {
         "id": "astnode100000039",
         "name": "this.age",
@@ -289,7 +289,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 59,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-name",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-kind",
       "code": {
         "id": "astnode100000045",
         "name": "legs",
@@ -325,7 +325,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 65,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-name",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-kind",
       "code": {
         "id": "astnode100000049",
         "name": "arms",
@@ -361,7 +361,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 71,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-name",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-kind",
       "code": {
         "id": "astnode100000053",
         "name": "human",
@@ -397,7 +397,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 79,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-name",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-kind",
       "code": {
         "id": "astnode100000057",
         "name": "Droid.prototype.move",
@@ -449,7 +449,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 86,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-name",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-kind",
       "code": {
         "id": "astnode100000067",
         "name": "Droid.prototype.stop",
@@ -501,7 +501,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 93,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-name",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-kind",
       "code": {
         "id": "astnode100000077",
         "name": "Droid.prototype.pray",
@@ -553,7 +553,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 99,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-name",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-kind",
       "code": {
         "id": "astnode100000087",
         "name": "Droid.repair",
@@ -590,7 +590,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-name/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/sort-by-kind/0-src.js"
     ]
   }
 ]
