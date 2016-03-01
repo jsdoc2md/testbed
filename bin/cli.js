@@ -67,18 +67,17 @@ getFolderList()
       queue = buildQueue(folderList, dir => new command.JsdocParse(dir))
     } else if (options.dmd) {
       queue = buildQueue(folderList, dir => new command.Dmd(dir))
+    } else if (options.bb) {
+      queue = buildQueue(folderList, dir => new command.Dmd(dir, {
+        plugin: 'dmd-bitbucket',
+        outputFile: '4-dmd-bb.md'
+      }))
     } else if (options.parse2) {
       queue = buildQueue(folderList, dir => new command.JsdocParse2(dir))
     } else if (options.dmd2) {
       queue = buildQueue(folderList, dir => new command.Dmd2(dir))
-    } else if (options.bb) {
-      queue = buildQueue(folderList, dir => new command.Dmd(dir, {
-        plugin: 'dmd-bitbucket',
-        outputFile: '6-dmd-bb.md'
-      }))
     } else if (options.v1) {
       queue = buildQueue(folderList, [
-        // dir => new command.Jsdoc(dir),
         dir => new command.JsdocParse(dir),
         dir => new command.Dmd(dir)
       ])

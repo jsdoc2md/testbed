@@ -44,7 +44,7 @@ This format is inspired by the [node docs](http://nodejs.org/api/).
 
 * [Species](#Species)
     * [species.name](#Species+name) : string
-    * [species.species](#Species+species) : Species
+    * [species.species](#Species+species) : [Species](#markdown-header-speciesspecies)
     * [Species.merge(one, two)](#Species.merge) ⇒ Species
 
 -
@@ -109,7 +109,7 @@ If an object has members within two of more distinct scopes (instance, static or
 * [Species](#markdown-header-species)
     * _instance_
         * [.name](#markdown-header-speciesname-string) : string
-        * [.species](#markdown-header-speciesspecies-species) : Species
+        * [.species](#markdown-header-speciesspecies-species) : [Species](#markdown-header-speciesspecies)
     * _static_
         * [.merge(one, two)](#markdown-header-speciesmergeone-two-species) ⇒ Species
 
