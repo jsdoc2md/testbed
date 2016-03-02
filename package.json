@@ -23,6 +23,7 @@
     "config-master": "^2.0.1",
     "dmd": "^1.3.4",
     "dmd-bitbucket": "^0.1.7",
+    "dmd-bitbucket2": "file:///Users/lloyd/Documents/jsdoc2md2/dmd-bitbucket2",
     "jsdoc-api": "file:///Users/lloyd/Documents/jsdoc2md/jsdoc-api",
     "jsdoc-parse": "^1.2.6",
     "jsdoc-parse2": "file:///Users/lloyd/Documents/jsdoc2md2/jsdoc-parse2",

@@ -12,6 +12,7 @@ const options = tool.options([
   { name: 'v1', type: Boolean },
   { name: 'v2', type: Boolean },
   { name: 'bb', type: Boolean },
+  { name: 'bb2', type: Boolean },
   { name: 'jsdoc', type: Boolean },
   { name: 'parse', type: Boolean },
   { name: 'parse2', type: Boolean },
@@ -76,6 +77,11 @@ getFolderList()
       queue = buildQueue(folderList, dir => new command.JsdocParse2(dir))
     } else if (options.dmd2) {
       queue = buildQueue(folderList, dir => new command.Dmd2(dir))
+    } else if (options.bb2) {
+      queue = buildQueue(folderList, dir => new command.Dmd2(dir, {
+        decorations: 'dmd-bitbucket2',
+        outputFile: '7-dmd2-bb2.md'
+      }))
     } else if (options.v1) {
       queue = buildQueue(folderList, [
         dir => new command.JsdocParse(dir),
