@@ -1,4 +1,3 @@
-<a name="module_module-exports-es6-class-var"></a>
 ## module-exports-es6-class-var
   
 
@@ -8,12 +7,10 @@
         * [.three](#module_module-exports-es6-class-var--Example.Example+three)
 
 
-<a name="exp_module_module-exports-es6-class-var--Example"></a>
 ### Example ⏏
 **Kind**: Exported class
 
 
-<a name="new_module_module-exports-es6-class-var--Example_new"></a>
 #### new Example(one, two)
   
 
@@ -23,7 +20,6 @@
 | two   | number |
 
 
-<a name="module_module-exports-es6-class-var--Example.Example+three"></a>
 #### example.three
 instance
 

@@ -1,4 +1,3 @@
-<a name="Pizza"></a>
 ## Pizza
 **Kind**: global class  
 
@@ -7,14 +6,12 @@
     * [.size](#Pizza+size)
 
 
-<a name="Pizza+topping"></a>
 ### pizza.topping : string
 the ingredients on top
 
 **Kind**: instance property of [Pizza](#Pizza)
 
 
-<a name="Pizza+size"></a>
 ### pizza.size
 the general size
 

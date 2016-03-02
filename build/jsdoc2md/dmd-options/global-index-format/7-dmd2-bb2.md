@@ -1,4 +1,3 @@
-<a name="Animal"></a>
 ## Animal
 Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).
 
@@ -15,7 +14,6 @@ Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also ca
     * [.eMood](#Animal.eMood) : `enum`
 
 
-<a name="new_Animal_new"></a>
 ### new Animal(species, parents)
   
 
@@ -25,19 +23,16 @@ Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also ca
 | parents | [Species](#Species) | the species                                   |
 
 
-<a name="Animal+age"></a>
 ### animal.age : number
 the current age
 
 **Kind**: instance property of [Animal](#Animal)
 
 
-<a name="Animal+species"></a>
 ### animal.species : [Species](#Species)
 **Kind**: instance property of [Animal](#Animal)
 
 
-<a name="Animal.eMood"></a>
 ### Animal.eMood : `enum`
 Animal moods
 
@@ -50,7 +45,6 @@ Animal moods
 | hungry    | `2`     | need to eat |
 
 
-<a name="FurQ"></a>
 ## FurQ ⇐ Rapper
 C\*ck, b!tch, c\*ck, b!tch, m\*therf!cker. You gotta kill people, to respect people.
 
@@ -72,7 +66,6 @@ C\*ck, b!tch, c\*ck, b!tch, m\*therf!cker. You gotta kill people, to respect peo
     * [.punch()](#BITBUCKET-FurQ#punch)
 
 
-<a name="new_FurQ_new"></a>
 ### new FurQ()
 She's an Uzi lover.
 
@@ -88,7 +81,6 @@ var uziLover = require("FurQ")
 ```
 
 
-<a name="BITBUCKET-FurQ#kill"></a>
 ### furQ.kill()
 kill
 
@@ -105,7 +97,6 @@ uziLover.kill()
 **Category**: standard
 
 
-<a name="BITBUCKET-FurQ#respect"></a>
 ### furQ.respect(done)
 respect
 
@@ -125,24 +116,20 @@ uziLover.respect(function(err, gain){
 **Category**: standard
 
 
-<a name="FurQ+LOVE"></a>
 ### furQ.LOVE : string
 **Kind**: instance constant of [FurQ](#FurQ)
 
 
-<a name="FurQ+wannaTryIt"></a>
 ### furQ.wannaTryIt : string
 **Kind**: instance property of [FurQ](#FurQ)
 
 
-<a name="BITBUCKET-FurQ#spit"></a>
 ### furQ.spit()
 override
 
 **Kind**: instance method of [FurQ](#FurQ)
 
 
-<a name="FurQ+event_pop"></a>
 ### "pop"
 fire weapon
 
@@ -153,14 +140,12 @@ fire weapon
 | zoop  | boolean | make 'zooping' sound as you fire |
 
 
-<a name="FurQ+event_slap"></a>
 ### "slap"
 slap man
 
 **Kind**: instance event of [FurQ](#FurQ)
 
 
-<a name="BITBUCKET-FurQ.peace"></a>
 ### FurQ.peace()
 check if at peace
 
@@ -171,7 +156,6 @@ var peace = FurQ.peace()
 ```
 
 
-<a name="FurQ.enemy"></a>
 ### FurQ.enemy : `enum`
 FUR-Q enemy types
 
@@ -184,7 +168,6 @@ FUR-Q enemy types
 | MUTHAFUCKA | number | `2`     |                     |
 
 
-<a name="FurQ..onRespect"></a>
 ### FurQ~onRespect
 Passed to {@link FurQ#respect}
 
@@ -196,28 +179,24 @@ Passed to {@link FurQ#respect}
 | gain  | *     | the respect percentage gained |
 
 
-<a name="BITBUCKET-FurQ#battle"></a>
 ### furQ.battle()
 battle
 
 **Kind**: instance method of [FurQ](#FurQ)
 
 
-<a name="BITBUCKET-FurQ#punch"></a>
 ### furQ.punch()
 to plant ones fist in a buster's mush
 
 **Kind**: instance method of [FurQ](#FurQ)
 
 
-<a name="BITBUCKET-plant"></a>
 ## plant()
 to plant ones fist in a buster's mush
 
 **Kind**: global function
 
 
-<a name="Rapper"></a>
 ## Rapper
 **Kind**: global class  
 
@@ -230,21 +209,18 @@ to plant ones fist in a buster's mush
             * [.bestStudent](#Rapper.train..School+bestStudent)
 
 
-<a name="BITBUCKET-Rapper#spit"></a>
 ### rapper.spit()
 spit
 
 **Kind**: instance method of [Rapper](#Rapper)
 
 
-<a name="BITBUCKET-Rapper#battle"></a>
 ### rapper.battle()
 battle
 
 **Kind**: instance method of [Rapper](#Rapper)
 
 
-<a name="BITBUCKET-Rapper.train"></a>
 ### Rapper.train()
 train new rappers
 
@@ -256,7 +232,6 @@ train new rappers
         * [.bestStudent](#Rapper.train..School+bestStudent)
 
 
-<a name="Rapper.train..School"></a>
 #### train~School
 **Kind**: inner class of [train](#BITBUCKET-Rapper.train)  
 
@@ -265,19 +240,16 @@ train new rappers
     * [.bestStudent](#Rapper.train..School+bestStudent)
 
 
-<a name="new_Rapper.train..School_new"></a>
 ##### new School()
 rap school
 
 
-<a name="Rapper.train..School+bestStudent"></a>
 ##### school.bestStudent
 best student
 
 **Kind**: instance property of [School](#Rapper.train..School)
 
 
-<a name="NewLines"></a>
 ## NewLines
 A multi-line
 class description
@@ -289,7 +261,6 @@ class description
     * [.numbers](#NewLines+numbers)
 
 
-<a name="BITBUCKET-NewLines#method"></a>
 ### newLines.method(input) ⇒ number
 **Kind**: instance method of [NewLines](#NewLines)  
 
@@ -300,7 +271,6 @@ class description
 |       |        |   or two.                                                |
 
 
-<a name="NewLines+numbers"></a>
 ### newLines.numbers
 **Kind**: instance property of [NewLines](#NewLines)  
 
@@ -311,7 +281,6 @@ class description
 |          |        |             |   a change                                 |
 
 
-<a name="Species"></a>
 ## Species
 In biology, a species (abbreviated sp., with the plural form species abbreviated spp.) is one of the basic units of biological classification and a taxonomic rank. A species is often defined as the largest group of organisms capable of interbreeding and producing fertile offspring. While in many cases this definition is adequate, the difficulty of defining species is known as the species problem. Differing measures are often used, such as similarity of DNA, morphology, or ecological niche. Presence of specific locally adapted traits may further subdivide species into "infraspecific taxa" such as subspecies (and in botany other taxa are used, such as varieties, subvarieties, and formae).
 
@@ -323,19 +292,16 @@ In biology, a species (abbreviated sp., with the plural form species abbreviated
     * [.merge(one, two)](#BITBUCKET-Species.merge) ⇒ [Species](#Species)
 
 
-<a name="Species+name"></a>
 ### species.name : string
 the species name
 
 **Kind**: instance property of [Species](#Species)
 
 
-<a name="Species+species"></a>
 ### species.species : [Species](#Species)
 **Kind**: instance property of [Species](#Species)
 
 
-<a name="BITBUCKET-Species.merge"></a>
 ### Species.merge(one, two) ⇒ [Species](#Species)
 merge two species into a new one
 

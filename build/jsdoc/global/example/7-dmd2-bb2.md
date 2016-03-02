@@ -1,4 +1,3 @@
-<a name="exampleVar"></a>
 ## exampleVar : string
 an example var
 

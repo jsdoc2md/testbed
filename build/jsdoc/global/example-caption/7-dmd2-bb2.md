@@ -1,4 +1,3 @@
-<a name="BITBUCKET-exampleCaption"></a>
 ## exampleCaption()
 **Kind**: global function  
 

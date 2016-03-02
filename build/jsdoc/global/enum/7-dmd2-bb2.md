@@ -1,4 +1,3 @@
-<a name="eFileType"></a>
 ## eFileType : `enum`
 Enum with a `type` value, no individual property descriptions.
 
@@ -11,7 +10,6 @@ Enum with a `type` value, no individual property descriptions.
 | DIR      | number | `2`     |
 
 
-<a name="eType"></a>
 ## eType : `enum`
 enum, no type, property descriptions.
 
@@ -23,21 +21,18 @@ enum, no type, property descriptions.
 | TWO      | `2`     | type two    |
 
 
-<a name="BITBUCKET-normalFunction"></a>
 ## normalFunction()
 normal function..
 
 **Kind**: global function
 
 
-<a name="eFunction"></a>
 ## eFunction : `enum`
 enum function! It has a kind of 'member' not 'function'.
 
 **Kind**: global enum
 
 
-<a name="eFunction"></a>
 ## eFunction : `enum`
 enum function, type, properties
 

@@ -1,4 +1,3 @@
-<a name="BITBUCKET-doSomething"></a>
 ## doSomething(options)
 **Kind**: global function  
 
@@ -9,7 +8,6 @@
 | options.two | string | second option        |
 
 
-<a name="BITBUCKET-doAnother"></a>
 ## doAnother(options)
 **Kind**: global function  
 

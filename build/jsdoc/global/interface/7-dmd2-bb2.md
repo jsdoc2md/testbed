@@ -1,4 +1,3 @@
-<a name="Speech"></a>
 ## Speech
 Interface for a Currah Speech Synth
 
@@ -7,7 +6,6 @@ Interface for a Currah Speech Synth
 **Kind**: global interface
 
 
-<a name="BITBUCKET-Speech#say"></a>
 ### speech.say(text)
 what to say
 

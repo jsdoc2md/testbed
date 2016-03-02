@@ -1,4 +1,3 @@
-<a name="FurQ"></a>
 ## FurQ ⇐ Rapper
 C\*ck, b!tch, c\*ck, b!tch, m\*therf!cker. You gotta kill people, to respect people.
 
@@ -20,7 +19,6 @@ C\*ck, b!tch, c\*ck, b!tch, m\*therf!cker. You gotta kill people, to respect peo
     * [.punch()](#BITBUCKET-FurQ#punch)
 
 
-<a name="new_FurQ_new"></a>
 ### new FurQ()
 She's an Uzi lover.
 
@@ -36,7 +34,6 @@ var uziLover = require("FurQ")
 ```
 
 
-<a name="BITBUCKET-FurQ#kill"></a>
 ### furQ.kill()
 kill
 
@@ -53,7 +50,6 @@ uziLover.kill()
 **Category**: standard
 
 
-<a name="BITBUCKET-FurQ#respect"></a>
 ### furQ.respect(done)
 respect
 
@@ -73,24 +69,20 @@ uziLover.respect(function(err, gain){
 **Category**: standard
 
 
-<a name="FurQ+LOVE"></a>
 ### furQ.LOVE : string
 **Kind**: instance constant of [FurQ](#FurQ)
 
 
-<a name="FurQ+wannaTryIt"></a>
 ### furQ.wannaTryIt : string
 **Kind**: instance property of [FurQ](#FurQ)
 
 
-<a name="BITBUCKET-FurQ#spit"></a>
 ### furQ.spit()
 override
 
 **Kind**: instance method of [FurQ](#FurQ)
 
 
-<a name="FurQ+event_pop"></a>
 ### "pop"
 fire weapon
 
@@ -101,14 +93,12 @@ fire weapon
 | zoop  | boolean | make 'zooping' sound as you fire |
 
 
-<a name="FurQ+event_slap"></a>
 ### "slap"
 slap man
 
 **Kind**: instance event of [FurQ](#FurQ)
 
 
-<a name="BITBUCKET-FurQ.peace"></a>
 ### FurQ.peace()
 check if at peace
 
@@ -119,7 +109,6 @@ var peace = FurQ.peace()
 ```
 
 
-<a name="FurQ.enemy"></a>
 ### FurQ.enemy : `enum`
 FUR-Q enemy types
 
@@ -132,7 +121,6 @@ FUR-Q enemy types
 | MUTHAFUCKA | number | `2`     |                     |
 
 
-<a name="FurQ..onRespect"></a>
 ### FurQ~onRespect
 Passed to {@link FurQ#respect}
 
@@ -144,28 +132,24 @@ Passed to {@link FurQ#respect}
 | gain  | *     | the respect percentage gained |
 
 
-<a name="BITBUCKET-FurQ#battle"></a>
 ### furQ.battle()
 battle
 
 **Kind**: instance method of [FurQ](#FurQ)
 
 
-<a name="BITBUCKET-FurQ#punch"></a>
 ### furQ.punch()
 to plant ones fist in a buster's mush
 
 **Kind**: instance method of [FurQ](#FurQ)
 
 
-<a name="BITBUCKET-plant"></a>
 ## plant()
 to plant ones fist in a buster's mush
 
 **Kind**: global function
 
 
-<a name="Rapper"></a>
 ## Rapper
 **Kind**: global class  
 
@@ -178,21 +162,18 @@ to plant ones fist in a buster's mush
             * [.bestStudent](#Rapper.train..School+bestStudent)
 
 
-<a name="BITBUCKET-Rapper#spit"></a>
 ### rapper.spit()
 spit
 
 **Kind**: instance method of [Rapper](#Rapper)
 
 
-<a name="BITBUCKET-Rapper#battle"></a>
 ### rapper.battle()
 battle
 
 **Kind**: instance method of [Rapper](#Rapper)
 
 
-<a name="BITBUCKET-Rapper.train"></a>
 ### Rapper.train()
 train new rappers
 
@@ -204,7 +185,6 @@ train new rappers
         * [.bestStudent](#Rapper.train..School+bestStudent)
 
 
-<a name="Rapper.train..School"></a>
 #### train~School
 **Kind**: inner class of [train](#BITBUCKET-Rapper.train)  
 
@@ -213,12 +193,10 @@ train new rappers
     * [.bestStudent](#Rapper.train..School+bestStudent)
 
 
-<a name="new_Rapper.train..School_new"></a>
 ##### new School()
 rap school
 
 
-<a name="Rapper.train..School+bestStudent"></a>
 ##### school.bestStudent
 best student
 

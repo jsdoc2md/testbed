@@ -1,4 +1,3 @@
-<a name="module_exports-values"></a>
 ## exports-values
 note the exports are documented directly
 
@@ -9,12 +8,10 @@ note the exports are documented directly
     * [.two](#module_exports-values.two) : number
 
 
-<a name="module_exports-values.one"></a>
 ### exports-values.one : number
 **Kind**: static property of [exports-values](#module_exports-values)
 
 
-<a name="module_exports-values.two"></a>
 ### exports-values.two : number
 **Kind**: static property of [exports-values](#module_exports-values)
 

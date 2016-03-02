@@ -1,4 +1,3 @@
-<a name="module_file-pet"></a>
 ## file-pet
 this module returns a pet of files
 
@@ -16,14 +15,12 @@ var cowFiles = FilePet("cow/*")
         * [.delete(paths)](#BITBUCKET-module:file-pet--FilePet#delete)
 
 
-<a name="exp_module_file-pet--FilePet"></a>
 ### FilePet ⏏
 this class returns a pet of files
 
 **Kind**: Exported class
 
 
-<a name="new_module_file-pet--FilePet_new"></a>
 #### new FilePet(num)
 this is the contructor
 
@@ -40,21 +37,18 @@ this is the contructor
   ```
 
 
-<a name="module_file-pet--FilePet+instie"></a>
 #### filePet.instie
 an instance ting
 
 **Kind**: instance property of [FilePet](#exp_module_file-pet--FilePet)
 
 
-<a name="module_file-pet--FilePet+files"></a>
 #### filePet.files : boolean
 the prototype instance property
 
 **Kind**: instance property of [FilePet](#exp_module_file-pet--FilePet)
 
 
-<a name="BITBUCKET-module:file-pet--FilePet#delete"></a>
 #### filePet.delete(paths)
 A prototype instance methy meth
 

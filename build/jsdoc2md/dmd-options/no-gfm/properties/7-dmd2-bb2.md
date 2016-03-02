@@ -1,4 +1,3 @@
-<a name="eType"></a>
 ## eType : `enum`
 **Kind**: global enum  
 

@@ -1,4 +1,3 @@
-<a name="Eventful"></a>
 ## Eventful
 This provides methods used for event handling. It's not meant to
 be used directly.
@@ -10,7 +9,6 @@ be used directly.
     * [.fire(eventName, eventData)](#BITBUCKET-Eventful.fire)
 
 
-<a name="BITBUCKET-Eventful.on"></a>
 ### Eventful.on(eventName, handler)
 Register a handler function to be called whenever this event is fired.
 
@@ -22,7 +20,6 @@ Register a handler function to be called whenever this event is fired.
 | handler   | function | The handler to call. |
 
 
-<a name="BITBUCKET-Eventful.fire"></a>
 ### Eventful.fire(eventName, eventData)
 Fire an event, causing all handlers for that event name to run.
 
@@ -34,7 +31,6 @@ Fire an event, causing all handlers for that event name to run.
 | eventData | Object | The data provided to each handler. |
 
 
-<a name="phantom"></a>
 ## phantom
 phantom mixin
 

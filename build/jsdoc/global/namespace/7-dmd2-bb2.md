@@ -1,4 +1,3 @@
-<a name="car"></a>
 ## car : `object`
 **Kind**: global namespace  
 
@@ -11,21 +10,18 @@
             * [.roads](#car.start+env.roads) : string
 
 
-<a name="car.wheels"></a>
 ### car.wheels
 the round things
 
 **Kind**: static property of [car](#car)
 
 
-<a name="car.sensors"></a>
 ### car.sensors
 the electronics that always go wrong
 
 **Kind**: static property of [car](#car)
 
 
-<a name="BITBUCKET-car.start"></a>
 ### car.start()
 start the car
 
@@ -44,7 +40,6 @@ start the car
         * [.roads](#car.start+env.roads) : string
 
 
-<a name="car.start+env"></a>
 #### start.env : `object`
 decribes the current conditions
 
@@ -55,14 +50,12 @@ decribes the current conditions
     * [.roads](#car.start+env.roads) : string
 
 
-<a name="car.start+env.weather"></a>
 ##### env.weather : string
 what kind of day is it
 
 **Kind**: static property of [env](#car.start+env)
 
 
-<a name="car.start+env.roads"></a>
 ##### env.roads : string
 road condition
 

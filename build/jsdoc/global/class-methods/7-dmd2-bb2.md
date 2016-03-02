@@ -1,4 +1,3 @@
-<a name="Something"></a>
 ## Something
 **Kind**: global class  
 
@@ -7,14 +6,12 @@
     * [.allTogether(one, two)](#BITBUCKET-Something#allTogether) ⇒ object | string
 
 
-<a name="BITBUCKET-Something#methodOne"></a>
 ### something.methodOne()
 method description
 
 **Kind**: instance method of [Something](#Something)
 
 
-<a name="BITBUCKET-Something#allTogether"></a>
 ### something.allTogether(one, two) ⇒ object | string
 This function has all tags set
 

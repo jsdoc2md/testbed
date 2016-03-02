@@ -1,4 +1,3 @@
-<a name="BITBUCKET-Something"></a>
 ## Something()
 Something
 

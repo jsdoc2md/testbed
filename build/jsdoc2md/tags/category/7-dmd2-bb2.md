@@ -1,4 +1,3 @@
-<a name="module_category"></a>
 ## category
   
 
@@ -9,7 +8,6 @@
     * [.four](#module_category.four)
 
 
-<a name="module_category.one"></a>
 ### category.one
 one
 
@@ -17,7 +15,6 @@ one
 **Category**: first
 
 
-<a name="module_category.two"></a>
 ### category.two
 two
 
@@ -25,7 +22,6 @@ two
 **Category**: first
 
 
-<a name="module_category.three"></a>
 ### category.three
 three
 
@@ -33,7 +29,6 @@ three
 **Category**: second
 
 
-<a name="module_category.four"></a>
 ### category.four
 four
 

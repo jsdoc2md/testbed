@@ -1,11 +1,9 @@
-<a name="NumberLike"></a>
 ## NumberLike
 A number, or a string containing a number.
 
 **Kind**: global typedef
 
 
-<a name="BITBUCKET-setMagicNumber"></a>
 ## setMagicNumber(x)
 Set the magic number.
 
@@ -16,7 +14,6 @@ Set the magic number.
 | x     | [NumberLike](#NumberLike) | The magic number. |
 
 
-<a name="someOptions"></a>
 ## someOptions
 Some options
 
@@ -28,7 +25,6 @@ Some options
 | some     | string  | `undefined` | text        |
 
 
-<a name="BITBUCKET-doSomething"></a>
 ## doSomething(option)
 **Kind**: global function  
 

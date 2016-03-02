@@ -1,4 +1,3 @@
-<a name="BITBUCKET-read"></a>
 ## read(filename, done)
 **Kind**: global function  
 
@@ -8,7 +7,6 @@
 | done     | [onComplete](#onComplete) | the callback |
 
 
-<a name="onComplete"></a>
 ## onComplete
 Called when an async operation completes
 

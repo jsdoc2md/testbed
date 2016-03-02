@@ -1,4 +1,3 @@
-<a name="module_sum-alias"></a>
 ## sum-alias
 This module exports a simple maths function
 
@@ -9,7 +8,6 @@ var sum = require("sum-alias")
 ```
 
 
-<a name="BITBUCKET-module:sum-alias--sum"></a>
 ### sum(a, b) ⇒ number ⏏
 Sums two numbers together
 

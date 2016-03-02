@@ -1,4 +1,3 @@
-<a name="BITBUCKET-globalGenerator"></a>
 ## globalGenerator(one)
 a global generator
 

@@ -1,4 +1,3 @@
-<a name="Hurl"></a>
 ## Hurl
 **Kind**: global class  
 
@@ -7,14 +6,12 @@
     * "snowball"
 
 
-<a name="BITBUCKET-Hurl#snowball"></a>
 ### hurl.snowball()
 Throw a snowball.
 
 **Kind**: instance method of [Hurl](#Hurl)
 
 
-<a name="Hurl+event_snowball"></a>
 ### "snowball"
 Snowball event.
 

@@ -1,4 +1,3 @@
-<a name="BITBUCKET-taze"></a>
 ## taze(victim, [options], [done])
 Pump an idiot full of volts
 
@@ -17,7 +16,6 @@ Pump an idiot full of volts
 |                        |                     | - an unusual aftertaste                                                   |
 
 
-<a name="BITBUCKET-noParams"></a>
 ## noParams()
 this func has no params
 

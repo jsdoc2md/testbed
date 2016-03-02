@@ -1,4 +1,3 @@
-<a name="BITBUCKET-globalFunction"></a>
 ## globalFunction(one) ⇒ number
 a global function
 

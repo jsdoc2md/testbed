@@ -1,4 +1,3 @@
-<a name="BITBUCKET-taze"></a>
 ## taze(victim, [options], [done])
 Pump an idiot full of volts
 

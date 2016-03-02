@@ -1,4 +1,3 @@
-<a name="globalVar"></a>
 ## globalVar : string
 a global var
 

@@ -1,4 +1,3 @@
-<a name="NewLines"></a>
 ## NewLines
 A multi-line
 class description
@@ -10,7 +9,6 @@ class description
     * [.numbers](#NewLines+numbers)
 
 
-<a name="BITBUCKET-NewLines#method"></a>
 ### newLines.method(input) ⇒ number
 **Kind**: instance method of [NewLines](#NewLines)  
 
@@ -21,7 +19,6 @@ class description
 |       |        |   or two.                                                |
 
 
-<a name="NewLines+numbers"></a>
 ### newLines.numbers
 **Kind**: instance property of [NewLines](#NewLines)  
 

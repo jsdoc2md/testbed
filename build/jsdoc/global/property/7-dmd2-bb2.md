@@ -1,4 +1,3 @@
-<a name="config"></a>
 ## config : `object`
 **Kind**: global namespace  
 

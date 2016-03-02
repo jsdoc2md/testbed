@@ -1,4 +1,3 @@
-<a name="BITBUCKET-protection"></a>
 ## protection(cloak, dagger) ⇒ survival
 a quite wonderful function
 

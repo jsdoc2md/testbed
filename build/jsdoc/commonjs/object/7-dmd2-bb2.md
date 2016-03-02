@@ -1,4 +1,3 @@
-<a name="module_cjs/object"></a>
 ## cjs/object
 a module exporting `exports` directly
 
@@ -9,14 +8,12 @@ a module exporting `exports` directly
     * [.two()](#BITBUCKET-module:cjs/object.two)
 
 
-<a name="module_cjs/object.one"></a>
 ### obj.one : number
 the first property
 
 **Kind**: static property of [obj](#module_cjs/object)
 
 
-<a name="BITBUCKET-module:cjs/object.two"></a>
 ### obj.two()
 the second property, a function
 

@@ -1,4 +1,3 @@
-<a name="module_cjs/function-alias"></a>
 ## cjs/function-alias
 exports a pointer to a function
 
@@ -9,7 +8,6 @@ exports a pointer to a function
         * [.sumthingStatic](#module_cjs/function-alias--sum.sumthingStatic)
 
 
-<a name="BITBUCKET-module:cjs/function-alias--sum"></a>
 ### sum(one, two) ⇒ number ⏏
 the function
 
@@ -21,7 +19,6 @@ the function
 | two   | number | the second number |
 
 
-<a name="module_cjs/function-alias--sum.sumthingStatic"></a>
 #### sum.sumthingStatic
 an additional static property
 

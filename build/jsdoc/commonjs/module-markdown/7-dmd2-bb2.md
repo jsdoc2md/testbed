@@ -1,4 +1,3 @@
-<a name="module_animal"></a>
 ## animal
 Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).
 
@@ -22,7 +21,6 @@ var animal = require("animal")
         * [.eMood](#module_animal..Animal.eMood) : `enum`
 
 
-<a name="module_animal..Animal"></a>
 ### animal~Animal
 **Kind**: inner class of [animal](#module_animal)  
 
@@ -33,7 +31,6 @@ var animal = require("animal")
     * [.eMood](#module_animal..Animal.eMood) : `enum`
 
 
-<a name="new_module_animal..Animal_new"></a>
 #### new Animal(species, parents)
   
 
@@ -43,19 +40,16 @@ var animal = require("animal")
 | parents | Species | the species                                   |
 
 
-<a name="module_animal..Animal+age"></a>
 #### animal.age : number
 the current age
 
 **Kind**: instance property of [Animal](#module_animal..Animal)
 
 
-<a name="module_animal..Animal+species"></a>
 #### animal.species : Species
 **Kind**: instance property of [Animal](#module_animal..Animal)
 
 
-<a name="module_animal..Animal.eMood"></a>
 #### Animal.eMood : `enum`
 Animal moods
 

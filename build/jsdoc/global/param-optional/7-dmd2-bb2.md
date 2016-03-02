@@ -1,4 +1,3 @@
-<a name="BITBUCKET-one"></a>
 ## one(a, b, [optional])
 **Kind**: global function  
 

@@ -1,8 +1,6 @@
-<a name="module_module-exports-func"></a>
 ## module-exports-func
 
 
-<a name="BITBUCKET-module:module-exports-func--module.exports"></a>
 ### module.exports(one, two) ⇒ number ⏏
 **Kind**: Exported function  
 

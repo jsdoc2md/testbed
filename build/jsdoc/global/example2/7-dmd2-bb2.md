@@ -1,4 +1,3 @@
-<a name="BITBUCKET-one"></a>
 ## one()
 A simple example written in the default `--example-lang` (javascript)
 
@@ -12,7 +11,6 @@ var result = one()
 ```
 
 
-<a name="BITBUCKET-two"></a>
 ## two()
 An example written in a different lang to the default (json)
 
@@ -28,7 +26,6 @@ An example written in a different lang to the default (json)
 ```
 
 
-<a name="BITBUCKET-three"></a>
 ## three()
 An example with no code, just text
 
@@ -44,7 +41,6 @@ distinguishing whether the example text is, or is not source code.
 ```
 
 
-<a name="BITBUCKET-four"></a>
 ## four()
 Another text example, using the `@lang off` sub-tag..
 
@@ -57,7 +53,6 @@ This example is plain text but it has not been formatted using the default
 `--example-lang` of javascript because the `@example @lang off` was used..
 
 
-<a name="BITBUCKET-five"></a>
 ## five()
 An example with text and code, with no fenced-code blocks
 
@@ -73,7 +68,6 @@ var result = five()
 ```
 
 
-<a name="BITBUCKET-six"></a>
 ## six()
 An example with text and code, with fenced-code block and no lang set
 
@@ -89,7 +83,6 @@ var result = six()
 ```
 
 
-<a name="BITBUCKET-seven"></a>
 ## seven()
 An example with text and code, with fenced-code block and `js` lang set
 
@@ -105,7 +98,6 @@ var result = seven()
 ```
 
 
-<a name="BITBUCKET-eight"></a>
 ## eight()
 An example with text and code, with fenced-code block and `json` lang set
 
