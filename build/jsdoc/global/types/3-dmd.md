@@ -10,8 +10,8 @@
 <a name="nonNullableNumber"></a>
 ## nonNullableNumber : <code>number</code>
 **Kind**: global variable  
-<a name="objectType"></a>
-## objectType : <code>Object</code>
+<a name="recordType"></a>
+## recordType : <code>Object</code>
 **Kind**: global variable  
 <a name="nullableArrayTypeParam"></a>
 ## nullableArrayTypeParam(one)

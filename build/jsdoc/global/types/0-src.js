@@ -1,29 +1,29 @@
 /**
-@type {module:cjs/human[]}
-*/
+ * @type {module:cjs/human[]}
+ */
 var returnsArrayOfType
 
 /**
-@type {?module:cjs/human[]}
-*/
+ * @type {?module:cjs/human[]}
+ */
 var returnsArrayOfType2
 
 /**
-@type {?number}
-*/
+ * @type {?number}
+ */
 var nullableNumber = null
 
 /**
-@type {!number}
-*/
+ * @type {!number}
+ */
 var nonNullableNumber = null
 
 /**
-@type {{ a: number, b: string, c}}
-*/
-var objectType = {}
+ * @type {{ a: number, b: string, c}}
+ */
+var recordType = {}
 
 /**
-@param {?module:cjs/human[]}
-*/
+ * @param {?module:cjs/human[]}
+ */
 function nullableArrayTypeParam (one) {}

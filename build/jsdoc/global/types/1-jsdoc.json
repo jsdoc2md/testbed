@@ -1,10 +1,10 @@
 [
   {
-    "comment": "/**\n@type {module:cjs/human[]}\n*/",
+    "comment": "/**\n * @type {module:cjs/human[]}\n */",
     "meta": {
       "range": [
-        38,
-        56
+        42,
+        60
       ],
       "filename": "0-src.js",
       "lineno": 4,
@@ -25,11 +25,11 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@type {?module:cjs/human[]}\n*/",
+    "comment": "/**\n * @type {?module:cjs/human[]}\n */",
     "meta": {
       "range": [
-        97,
-        116
+        105,
+        124
       ],
       "filename": "0-src.js",
       "lineno": 9,
@@ -51,11 +51,11 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@type {?number}\n*/",
+    "comment": "/**\n * @type {?number}\n */",
     "meta": {
       "range": [
-        145,
-        166
+        157,
+        178
       ],
       "filename": "0-src.js",
       "lineno": 14,
@@ -79,11 +79,11 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@type {!number}\n*/",
+    "comment": "/**\n * @type {!number}\n */",
     "meta": {
       "range": [
-        195,
-        219
+        211,
+        235
       ],
       "filename": "0-src.js",
       "lineno": 19,
@@ -107,11 +107,11 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@type {{ a: number, b: string, c}}\n*/",
+    "comment": "/**\n * @type {{ a: number, b: string, c}}\n */",
     "meta": {
       "range": [
-        267,
-        282
+        287,
+        302
       ],
       "filename": "0-src.js",
       "lineno": 24,
@@ -134,11 +134,11 @@
     "scope": "global"
   },
   {
-    "comment": "/**\n@param {?module:cjs/human[]}\n*/",
+    "comment": "/**\n * @param {?module:cjs/human[]}\n */",
     "meta": {
       "range": [
-        320,
-        360
+        344,
+        384
       ],
       "filename": "0-src.js",
       "lineno": 29,
