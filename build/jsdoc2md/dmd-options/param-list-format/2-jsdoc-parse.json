@@ -66,7 +66,7 @@
           ]
         },
         "optional": true,
-        "description": "the country of origin",
+        "description": "this param description is  \nmulti  \nline",
         "name": "options.origin.country"
       },
       {
@@ -76,13 +76,13 @@
           ]
         },
         "optional": true,
-        "description": "callback on slump, which has:\n- devestating power\n- an unusual aftertaste",
+        "description": "callback on slump, which has:\n- devastating power\n- an unusual aftertaste",
         "name": "done"
       }
     ],
     "deprecated": true,
     "meta": {
-      "lineno": 14,
+      "lineno": 16,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/param-list-format"
     },
@@ -97,7 +97,7 @@
     "description": "this func has no params",
     "params": [],
     "meta": {
-      "lineno": 19,
+      "lineno": 21,
       "filename": "0-src.js",
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/param-list-format"
     },

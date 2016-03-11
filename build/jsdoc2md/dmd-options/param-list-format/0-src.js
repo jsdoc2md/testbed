@@ -6,9 +6,11 @@
  * @param [options.strength=11] {number} - strength
  * @param [options.crazyHair=true] {number} - optional spikey hair effect
  * @param [options.origin] {object} - origin details
- * @param [options.origin.country] {string} - the country of origin
+ * @param [options.origin.country] {string} - this param description is  
+ * multi  
+ * line
  * @param [done] {function} - callback on slump, which has:
- * - devestating power
+ * - devastating power
  * - an unusual aftertaste
  */
 function taze (victim, options, done) {}

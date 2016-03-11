@@ -28,12 +28,12 @@ Pump an idiot full of volts
     <td>[options.origin]</td><td><code>object</code></td><td></td><td><p>origin details</p>
 </td>
     </tr><tr>
-    <td>[options.origin.country]</td><td><code>string</code></td><td></td><td><p>the country of origin</p>
+    <td>[options.origin.country]</td><td><code>string</code></td><td></td><td><p>this param description is<br>multi<br>line</p>
 </td>
     </tr><tr>
     <td>[done]</td><td><code>function</code></td><td></td><td><p>callback on slump, which has:</p>
 <ul>
-<li>devestating power</li>
+<li>devastating power</li>
 <li>an unusual aftertaste</li>
 </ul>
 </td>

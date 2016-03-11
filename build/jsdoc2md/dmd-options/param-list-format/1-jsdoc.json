@@ -1,13 +1,13 @@
 [
   {
-    "comment": "/**\n * Pump an idiot full of volts\n * @deprecated\n * @param {object | array} - the victim(s) to fry\n * @param [options] {object} - electricution options\n * @param [options.strength=11] {number} - strength\n * @param [options.crazyHair=true] {number} - optional spikey hair effect\n * @param [options.origin] {object} - origin details\n * @param [options.origin.country] {string} - the country of origin\n * @param [done] {function} - callback on slump, which has:\n * - devestating power\n * - an unusual aftertaste\n */",
+    "comment": "/**\n * Pump an idiot full of volts\n * @deprecated\n * @param {object | array} - the victim(s) to fry\n * @param [options] {object} - electricution options\n * @param [options.strength=11] {number} - strength\n * @param [options.crazyHair=true] {number} - optional spikey hair effect\n * @param [options.origin] {object} - origin details\n * @param [options.origin.country] {string} - this param description is  \n * multi  \n * line\n * @param [done] {function} - callback on slump, which has:\n * - devastating power\n * - an unusual aftertaste\n */",
     "meta": {
       "range": [
-        514,
-        554
+        539,
+        579
       ],
       "filename": "0-src.js",
-      "lineno": 14,
+      "lineno": 16,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/param-list-format",
       "code": {
         "id": "astnode100000001",
@@ -82,7 +82,7 @@
           ]
         },
         "optional": true,
-        "description": "the country of origin",
+        "description": "this param description is  \nmulti  \nline",
         "name": "options.origin.country"
       },
       {
@@ -92,7 +92,7 @@
           ]
         },
         "optional": true,
-        "description": "callback on slump, which has:\n- devestating power\n- an unusual aftertaste",
+        "description": "callback on slump, which has:\n- devastating power\n- an unusual aftertaste",
         "name": "done"
       }
     ],
@@ -105,11 +105,11 @@
     "comment": "/**\n * this func has no params\n */",
     "meta": {
       "range": [
-        591,
-        614
+        616,
+        639
       ],
       "filename": "0-src.js",
-      "lineno": 19,
+      "lineno": 21,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/param-list-format",
       "code": {
         "id": "astnode100000007",
