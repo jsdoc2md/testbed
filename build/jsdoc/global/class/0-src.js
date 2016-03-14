@@ -1,11 +1,11 @@
 /**
-the global class constructor
-@class
-@classdesc a global class
-@private
-@param {number} - first param
-@param {string} - second param
-*/
+ * the global class constructor
+ * @class
+ * @classdesc a global class
+ * @private
+ * @param {number} - first param
+ * @param {string} - second param
+ */
 function GlobalClass (one, two) {
   /** an instance property */
   this.propOne = 1
@@ -19,10 +19,10 @@ GlobalClass.prototype.methodOne = function () {}
 GlobalClass.prototype.methodTwo = function () {}
 
 /**
-@class
-@classdesc the child of global class
-@extends GlobalClass
-*/
+ * @class
+ * @classdesc the child of global class
+ * @extends GlobalClass
+ */
 function GlobalChildClass () {
   /**
   an instance property

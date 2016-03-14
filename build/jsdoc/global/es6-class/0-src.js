@@ -1,3 +1,4 @@
+'use strict'
 /**
  * a global class
  */
@@ -33,6 +34,7 @@ class GlobalClass {
  */
 class GlobalChildClass extends GlobalClass {
   constructor () {
+    super()
     /** an instance property */
     this.propThree = 1
   }
@@ -40,3 +42,6 @@ class GlobalChildClass extends GlobalClass {
   /** overridden child methodTwo */
   methodTwo () {}
 }
+
+const a = new GlobalClass(1, 2)
+const b = new GlobalChildClass(1, 2)

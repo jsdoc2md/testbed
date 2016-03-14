@@ -1,10 +1,10 @@
 [
   {
-    "comment": "/**\nthe global class constructor\n@class\n@classdesc a global class\n@private\n@param {number} - first param\n@param {string} - second param\n*/",
+    "comment": "/**\n * the global class constructor\n * @class\n * @classdesc a global class\n * @private\n * @param {number} - first param\n * @param {string} - second param\n */",
     "meta": {
       "range": [
-        139,
-        223
+        158,
+        242
       ],
       "filename": "0-src.js",
       "lineno": 9,
@@ -54,8 +54,8 @@
     "comment": "/** an instance property */",
     "meta": {
       "range": [
-        205,
-        221
+        224,
+        240
       ],
       "filename": "0-src.js",
       "lineno": 11,
@@ -79,8 +79,8 @@
     "comment": "/** a static property */",
     "meta": {
       "range": [
-        249,
-        272
+        268,
+        291
       ],
       "filename": "0-src.js",
       "lineno": 14,
@@ -104,8 +104,8 @@
     "comment": "/** parent method one */",
     "meta": {
       "range": [
-        299,
-        347
+        318,
+        366
       ],
       "filename": "0-src.js",
       "lineno": 17,
@@ -128,8 +128,8 @@
     "comment": "/** parent method two */",
     "meta": {
       "range": [
-        373,
-        421
+        392,
+        440
       ],
       "filename": "0-src.js",
       "lineno": 19,
@@ -149,11 +149,11 @@
     "scope": "instance"
   },
   {
-    "comment": "/**\n@class\n@classdesc the child of global class\n@extends GlobalClass\n*/",
+    "comment": "/**\n * @class\n * @classdesc the child of global class\n * @extends GlobalClass\n */",
     "meta": {
       "range": [
-        495,
-        582
+        524,
+        611
       ],
       "filename": "0-src.js",
       "lineno": 26,
@@ -182,8 +182,8 @@
     "comment": "/**\n  an instance property\n  */",
     "meta": {
       "range": [
-        562,
-        580
+        591,
+        609
       ],
       "filename": "0-src.js",
       "lineno": 30,
@@ -207,8 +207,8 @@
     "comment": "/** overridden child methodTwo */",
     "meta": {
       "range": [
-        617,
-        670
+        646,
+        699
       ],
       "filename": "0-src.js",
       "lineno": 33,
@@ -239,8 +239,8 @@
     "comment": "/** an instance property */",
     "meta": {
       "range": [
-        205,
-        221
+        224,
+        240
       ],
       "filename": "0-src.js",
       "lineno": 11,
@@ -266,8 +266,8 @@
     "comment": "/** parent method one */",
     "meta": {
       "range": [
-        299,
-        347
+        318,
+        366
       ],
       "filename": "0-src.js",
       "lineno": 17,
