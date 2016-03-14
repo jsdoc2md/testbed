@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 1,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-default",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/es2015/es6-modules-default",
       "code": {}
     },
     "description": "exporting a function directly",
@@ -25,7 +25,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-default",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/es2015/es6-modules-default",
       "code": {
         "id": "astnode100000001",
         "name": "module.exports",
@@ -47,7 +47,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 9,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-default",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/es2015/es6-modules-default",
       "code": {
         "id": "astnode100000002",
         "name": "exportedFunction",
@@ -67,7 +67,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-modules-default/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/es2015/es6-modules-default/0-src.js"
     ]
   }
 ]

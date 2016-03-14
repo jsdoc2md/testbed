@@ -8,7 +8,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 5,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended",
       "code": {
         "id": "astnode100000003",
         "name": "GlobalClass",
@@ -68,7 +68,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 14,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended",
       "code": {
         "id": "astnode100000006",
         "name": "GlobalClass",
@@ -131,7 +131,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended",
       "code": {
         "id": "astnode100000013",
         "name": "this.propOne",
@@ -161,7 +161,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 23,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended",
       "code": {
         "id": "astnode100000018",
         "name": "GlobalClass.shat",
@@ -189,7 +189,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 26,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended",
       "code": {
         "id": "astnode100000022",
         "name": "GlobalClass#methodOne",
@@ -217,7 +217,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 28,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended",
       "code": {
         "id": "astnode100000026",
         "name": "GlobalClass#methodTwo",
@@ -245,7 +245,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 35,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended",
       "code": {
         "id": "astnode100000030",
         "name": "GlobalChildClass",
@@ -272,7 +272,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 36,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended",
       "code": {
         "id": "astnode100000034",
         "name": "GlobalChildClass",
@@ -299,7 +299,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 39,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended",
       "code": {
         "id": "astnode100000042",
         "name": "this.propThree",
@@ -324,7 +324,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 43,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended",
       "code": {
         "id": "astnode100000047",
         "name": "GlobalChildClass#methodTwo",
@@ -353,7 +353,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 46,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended",
       "code": {
         "id": "astnode100000052",
         "name": "a",
@@ -376,7 +376,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 47,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended",
       "code": {
         "id": "astnode100000059",
         "name": "b",
@@ -394,7 +394,7 @@
     "kind": "package",
     "longname": "package:undefined",
     "files": [
-      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class/0-src.js"
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended/0-src.js"
     ]
   },
   {
@@ -406,7 +406,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 19,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended",
       "code": {
         "id": "astnode100000013",
         "name": "this.propOne",
@@ -438,7 +438,7 @@
       ],
       "filename": "0-src.js",
       "lineno": 26,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended",
       "code": {
         "id": "astnode100000022",
         "name": "GlobalClass#methodOne",
