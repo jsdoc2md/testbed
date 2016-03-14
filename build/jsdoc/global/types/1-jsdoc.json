@@ -118,7 +118,7 @@
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/types",
       "code": {
         "id": "astnode100000016",
-        "name": "objectType",
+        "name": "recordType",
         "type": "ObjectExpression",
         "value": "{}"
       }
@@ -128,8 +128,8 @@
         "Object"
       ]
     },
-    "name": "objectType",
-    "longname": "objectType",
+    "name": "recordType",
+    "longname": "recordType",
     "kind": "member",
     "scope": "global"
   },

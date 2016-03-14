@@ -1,0 +1,129 @@
+[
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        6,
+        13
+      ],
+      "filename": "0-src.js",
+      "lineno": 1,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/constant2",
+      "code": {
+        "id": "astnode100000002",
+        "name": "ONE",
+        "type": "Literal",
+        "value": 1
+      }
+    },
+    "undocumented": true,
+    "name": "ONE",
+    "longname": "ONE",
+    "kind": "constant",
+    "scope": "global"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        18,
+        25
+      ],
+      "filename": "0-src.js",
+      "lineno": 2,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/constant2",
+      "code": {
+        "id": "astnode100000006",
+        "name": "TWO",
+        "type": "Literal",
+        "value": 2
+      }
+    },
+    "undocumented": true,
+    "name": "TWO",
+    "longname": "TWO",
+    "kind": "member",
+    "scope": "global"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        37,
+        46
+      ],
+      "filename": "0-src.js",
+      "lineno": 5,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/constant2",
+      "code": {
+        "id": "astnode100000011",
+        "name": "THREE",
+        "type": "Literal",
+        "value": 3
+      }
+    },
+    "undocumented": true,
+    "name": "THREE",
+    "longname": "THREE",
+    "kind": "constant",
+    "scope": "global"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        50,
+        84
+      ],
+      "filename": "0-src.js",
+      "lineno": 8,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/constant2",
+      "code": {
+        "id": "astnode100000014",
+        "name": "f",
+        "type": "FunctionDeclaration",
+        "paramnames": []
+      },
+      "vars": {
+        "FOUR": "f~FOUR"
+      }
+    },
+    "undocumented": true,
+    "name": "f",
+    "longname": "f",
+    "kind": "function",
+    "scope": "global",
+    "params": []
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        74,
+        82
+      ],
+      "filename": "0-src.js",
+      "lineno": 9,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/constant2",
+      "code": {
+        "id": "astnode100000018",
+        "name": "FOUR",
+        "type": "Literal",
+        "value": 4
+      }
+    },
+    "undocumented": true,
+    "name": "FOUR",
+    "longname": "f~FOUR",
+    "kind": "constant",
+    "memberof": "f",
+    "scope": "inner"
+  },
+  {
+    "kind": "package",
+    "longname": "package:undefined",
+    "files": [
+      "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/constant2/0-src.js"
+    ]
+  }
+]
