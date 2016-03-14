@@ -1,4 +1,5 @@
 <a name="All"></a>
+
 ## ~~All ⇐ <code>Number</code>~~
 ***Deprecated***
 
@@ -17,6 +18,7 @@ a class with all of the things
         * [~some](#All+allThings..some)
 
 <a name="new_All_new"></a>
+
 ### new All(input, [options])
 the constructor description
 
@@ -31,6 +33,7 @@ the constructor description
 var yeah = new Everything(true)
 ```
 <a name="All+topping"></a>
+
 ### all.topping : <code>string</code>
 the ingredients on top
 
@@ -38,11 +41,13 @@ the ingredients on top
 **Default**: <code>&quot;mud, lettuce&quot;</code>  
 **Since**: v1.0.0  
 <a name="All+size"></a>
+
 ### all.size
 the general size
 
 **Kind**: instance property of <code>[All](#All)</code>  
 <a name="All+allThings"></a>
+
 ### ~~all.allThings(one, two) ⇒ <code>object</code> &#124; <code>string</code>~~
 ***Deprecated***
 
@@ -63,6 +68,7 @@ This function has all tags set
 all.allTogether(true)
 ```
 <a name="All+allThings..some"></a>
+
 #### allThings~some
 a rarseclart inner
 

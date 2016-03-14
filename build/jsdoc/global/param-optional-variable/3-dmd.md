@@ -1,4 +1,5 @@
 <a name="two"></a>
+
 ## two(a, b, [...optionalVariable])
 **Kind**: global function  
 

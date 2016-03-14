@@ -1,9 +1,11 @@
 <a name="globalFunc"></a>
+
 ## globalFunc()
 a global function
 
 **Kind**: global function  
 <a name="exampled"></a>
+
 ## exampled()
 a function with an example
 
@@ -13,6 +15,7 @@ a function with an example
 var result = exampled()
 ```
 <a name="multiExampled"></a>
+
 ## multiExampled()
 a function with multiple examples
 
@@ -26,23 +29,28 @@ var another = 100
 var next = "p"
 ```
 <a name="_protected"></a>
+
 ## _protected()
 **Kind**: global function  
 **Access:** protected  
 <a name="withAuthor"></a>
+
 ## withAuthor()
 **Kind**: global function  
 **Author:** Clive Jones <clive@jones.com>  
 <a name="oldFunction"></a>
+
 ## ~~oldFunction()~~
 ***Deprecated***
 
 **Kind**: global function  
 <a name="newFunction"></a>
+
 ## newFunction()
 **Kind**: global function  
 **Since**: v0.10.28  
 <a name="withParam"></a>
+
 ## withParam(one)
 **Kind**: global function  
 
@@ -51,6 +59,7 @@ var next = "p"
 | one | <code>string</code> | The input string |
 
 <a name="withParams"></a>
+
 ## withParams(one, two)
 **Kind**: global function  
 
@@ -60,6 +69,7 @@ var next = "p"
 | two | <code>object</code> |  |
 
 <a name="withOptional"></a>
+
 ## withOptional(one, [two])
 **Kind**: global function  
 
@@ -69,6 +79,7 @@ var next = "p"
 | [two] | <code>object</code> | this one is optional |
 
 <a name="withBullets"></a>
+
 ## withBullets(one, two)
 this description has 
 
@@ -85,17 +96,21 @@ and needs this line to separate the above list from the below
 | two | <code>object</code> | a second input |
 
 <a name="returnsSomething"></a>
+
 ## returnsSomething() ⇒ <code>string</code>
 **Kind**: global function  
 <a name="returnsSomethingDesc"></a>
+
 ## returnsSomethingDesc() ⇒ <code>object</code>
 **Kind**: global function  
 **Returns**: <code>object</code> - this return has a description  
 <a name="returnsSeveral"></a>
+
 ## returnsSeveral() ⇒ <code>object</code> &#124; <code>string</code>
 **Kind**: global function  
 **Returns**: <code>object</code> &#124; <code>string</code> - this return has several types  
 <a name="allTogether"></a>
+
 ## ~~allTogether(one, two) ⇒ <code>object</code> &#124; <code>string</code>~~
 ***Deprecated***
 

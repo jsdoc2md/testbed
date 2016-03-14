@@ -1,4 +1,5 @@
 <a name="Animal"></a>
+
 ## Animal
 Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also called Metazoa). Their body plan eventually becomes fixed as they develop, although some undergo a process of metamorphosis later on in their lives. Most animals are motile, meaning they can move spontaneously and independently. All animals must ingest other organisms or their products for sustenance (see Heterotroph).
 
@@ -21,6 +22,7 @@ Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also ca
 * * *
 
 <a name="new_Animal_new"></a>
+
 ### new Animal(species, parents)
 <table>
   <thead>
@@ -42,6 +44,7 @@ Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also ca
 * * *
 
 <a name="Animal+age"></a>
+
 ### animal.age : <code>number</code>
 the current age
 
@@ -51,12 +54,14 @@ the current age
 * * *
 
 <a name="Animal+species"></a>
+
 ### animal.species : <code>Species</code>
 **Kind**: instance property of <code>[Animal](#Animal)</code>  
 
 * * *
 
 <a name="Animal.eMood"></a>
+
 ### Animal.eMood
 Animal moods
 

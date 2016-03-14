@@ -1,4 +1,5 @@
 <a name="setMagicNumber"></a>
+
 ## setMagicNumber(x)
 Set the magic number.
 
@@ -9,6 +10,7 @@ Set the magic number.
 | x | <code>[NumberLike](#NumberLike)</code> | The magic number. |
 
 <a name="doSomething"></a>
+
 ## doSomething(option)
 **Kind**: global function  
 
@@ -17,11 +19,13 @@ Set the magic number.
 | option | <code>[someOptions](#someOptions)</code> | the input options |
 
 <a name="NumberLike"></a>
+
 ## NumberLike : <code>number</code> &#124; <code>string</code>
 A number, or a string containing a number.
 
 **Kind**: global typedef  
 <a name="someOptions"></a>
+
 ## someOptions : <code>object</code>
 Some options
 

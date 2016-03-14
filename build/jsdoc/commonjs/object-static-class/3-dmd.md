@@ -1,4 +1,5 @@
 <a name="module_heaven"></a>
+
 ## heaven
 factory module creating dodgy cloud. object-with-static-class.
 
@@ -19,14 +20,17 @@ factory module creating dodgy cloud. object-with-static-class.
         * [~FACT](#module_heaven..FACT) : <code>boolean</code>
 
 <a name="module_heaven.Cloud"></a>
+
 ### heaven.Cloud : <code>[Cloud](#module_heaven..Cloud)</code>
 access to the Cloud class
 
 **Kind**: static property of <code>[heaven](#module_heaven)</code>  
 <a name="module_heaven.createCloud"></a>
+
 ### heaven.createCloud() ⇒ <code>[Cloud](#module_heaven..Cloud)</code>
 **Kind**: static method of <code>[heaven](#module_heaven)</code>  
 <a name="module_heaven..Cloud"></a>
+
 ### heaven~Cloud
 The main class for a cloud
 
@@ -42,6 +46,7 @@ The main class for a cloud
         * [.classMethod()](#module_heaven..Cloud.classMethod)
 
 <a name="new_module_heaven..Cloud_new"></a>
+
 #### new Cloud(options)
 cloud constructor
 
@@ -51,24 +56,29 @@ cloud constructor
 | options | <code>object</code> | the options |
 
 <a name="module_heaven..Cloud+size"></a>
+
 #### cloud.size : <code>number</code>
 **Kind**: instance property of <code>[Cloud](#module_heaven..Cloud)</code>  
 **Default**: <code>4</code>  
 <a name="module_heaven..Cloud+rain"></a>
+
 #### cloud.rain : <code>boolean</code>
 **Kind**: instance property of <code>[Cloud](#module_heaven..Cloud)</code>  
 **Default**: <code>false</code>  
 <a name="module_heaven..Cloud.SPACES"></a>
+
 #### Cloud.SPACES : <code>number</code>
 a class constant
 
 **Kind**: static constant of <code>[Cloud](#module_heaven..Cloud)</code>  
 <a name="module_heaven..Cloud.classMethod"></a>
+
 #### Cloud.classMethod()
 a class method
 
 **Kind**: static method of <code>[Cloud](#module_heaven..Cloud)</code>  
 <a name="module_heaven..FACT"></a>
+
 ### heaven~FACT : <code>boolean</code>
 an inner constant
 

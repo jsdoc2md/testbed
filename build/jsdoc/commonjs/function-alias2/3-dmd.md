@@ -1,4 +1,5 @@
 <a name="module_sum-alias"></a>
+
 ## sum-alias
 This module exports a simple maths function
 
@@ -7,6 +8,7 @@ This module exports a simple maths function
 var sum = require("sum-alias")
 ```
 <a name="exp_module_sum-alias--sum"></a>
+
 ### sum(a, b) ⇒ <code>number</code> ⏏
 Sums two numbers together
 

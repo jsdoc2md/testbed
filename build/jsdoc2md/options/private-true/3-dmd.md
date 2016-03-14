@@ -1,4 +1,5 @@
 <a name="Documents"></a>
+
 ## Documents : <code>object</code>
 **Kind**: global namespace  
 
@@ -7,11 +8,13 @@
     * [.Diary](#Documents.Diary) ℗
 
 <a name="Documents.Newspaper"></a>
+
 ### Documents.Newspaper
 An ordinary newspaper.
 
 **Kind**: static property of <code>[Documents](#Documents)</code>  
 <a name="Documents.Diary"></a>
+
 ### Documents.Diary ℗
 My diary.
 

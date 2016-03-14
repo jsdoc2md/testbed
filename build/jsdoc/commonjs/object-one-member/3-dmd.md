@@ -1,8 +1,10 @@
 <a name="module_one-member"></a>
+
 ## one-member
 simple object, one member. It shouldn't have an index.
 
 <a name="module_one-member.three"></a>
+
 ### one-member.three(four, five) ⇒ <code>object</code> &#124; <code>string</code>
 a function
 

@@ -1,4 +1,5 @@
 <a name="Something"></a>
+
 ## Something
 **Kind**: global class  
 
@@ -7,11 +8,13 @@
     * ~~[.allTogether(one, two)](#Something+allTogether) ⇒ <code>object</code> &#124; <code>string</code>~~
 
 <a name="Something+methodOne"></a>
+
 ### something.methodOne()
 method description
 
 **Kind**: instance method of <code>[Something](#Something)</code>  
 <a name="Something+allTogether"></a>
+
 ### ~~something.allTogether(one, two) ⇒ <code>object</code> &#124; <code>string</code>~~
 ***Deprecated***
 

@@ -1,4 +1,5 @@
 <a name="module_color/mixer"></a>
+
 ## color/mixer
 
 * [color/mixer](#module_color/mixer)
@@ -8,16 +9,19 @@
     * [.toRgb(color)](#module_color/mixer.toRgb) ⇒ <code>Array</code>
 
 <a name="module_color/mixer.lastColor"></a>
+
 ### color/mixer.lastColor
 The most recent blended color.
 
 **Kind**: static property of <code>[color/mixer](#module_color/mixer)</code>  
 <a name="module_color/mixer.name"></a>
+
 ### color/mixer.name
 The name of the module.
 
 **Kind**: static constant of <code>[color/mixer](#module_color/mixer)</code>  
 <a name="module_color/mixer.blend"></a>
+
 ### color/mixer.blend(color1, color2) ⇒ <code>string</code>
 Blend two colors together.
 
@@ -30,6 +34,7 @@ Blend two colors together.
 | color2 | <code>string</code> | The second color, in hexidecimal format. |
 
 <a name="module_color/mixer.toRgb"></a>
+
 ### color/mixer.toRgb(color) ⇒ <code>Array</code>
 Get the red, green, and blue values of a color.
 

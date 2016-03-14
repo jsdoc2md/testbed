@@ -1,4 +1,5 @@
 <a name="eType"></a>
+
 ## eType
 **Kind**: global enum  
 **Properties**

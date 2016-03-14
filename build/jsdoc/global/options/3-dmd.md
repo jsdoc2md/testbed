@@ -1,4 +1,5 @@
 <a name="doSomething"></a>
+
 ## doSomething(options)
 **Kind**: global function  
 
@@ -9,6 +10,7 @@
 | options.two | <code>string</code> | second option |
 
 <a name="doAnother"></a>
+
 ## doAnother(options)
 **Kind**: global function  
 

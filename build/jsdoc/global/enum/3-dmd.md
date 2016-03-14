@@ -1,4 +1,5 @@
 <a name="eFileType"></a>
+
 ## eFileType : <code>enum</code>
 Enum with a `type` value, no individual property descriptions.
 
@@ -13,6 +14,7 @@ Enum with a `type` value, no individual property descriptions.
 | DIR | <code>number</code> | <code>2</code> | 
 
 <a name="eType"></a>
+
 ## eType
 enum, no type, property descriptions.
 
@@ -25,11 +27,13 @@ enum, no type, property descriptions.
 | TWO | <code>2</code> | type two |
 
 <a name="eFunction"></a>
+
 ## eFunction
 enum function! It has a kind of 'member' not 'function'.
 
 **Kind**: global enum  
 <a name="eFunction"></a>
+
 ## eFunction : <code>enum</code>
 enum function, type, properties
 
@@ -42,6 +46,7 @@ enum function, type, properties
 | TWO | <code>number</code> | second |
 
 <a name="normalFunction"></a>
+
 ## normalFunction()
 normal function..
 

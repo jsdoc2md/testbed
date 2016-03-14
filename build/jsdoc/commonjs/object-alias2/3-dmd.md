@@ -1,4 +1,5 @@
 <a name="module_0-src"></a>
+
 ## 0-src
 simple object export
 
@@ -9,16 +10,19 @@ simple object export
     * [.three()](#module_0-src.three)
 
 <a name="module_0-src.one"></a>
+
 ### 0-src.one
 first property
 
 **Kind**: static property of <code>[0-src](#module_0-src)</code>  
 <a name="module_0-src.two"></a>
+
 ### 0-src.two
 second property
 
 **Kind**: static property of <code>[0-src](#module_0-src)</code>  
 <a name="module_0-src.three"></a>
+
 ### 0-src.three()
 a function
 

@@ -21,19 +21,23 @@
 </dl>
 
 <a name="module_modules/one"></a>
+
 ## modules/one
 module one yeah
 
 <a name="module_modules/two"></a>
+
 ## modules/two
 two is this one
 
 <a name="something"></a>
+
 ## something : <code>string</code>
 this is for something
 
 **Kind**: global variable  
 <a name="another"></a>
+
 ## another : <code>string</code>
 this is for something else
 

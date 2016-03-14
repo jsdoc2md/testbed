@@ -1,4 +1,5 @@
 <a name="Eventful"></a>
+
 ## Eventful
 This provides methods used for event handling. It's not meant to
 be used directly.
@@ -10,6 +11,7 @@ be used directly.
     * [.fire(eventName, eventData)](#Eventful.fire)
 
 <a name="Eventful.on"></a>
+
 ### Eventful.on(eventName, handler)
 Register a handler function to be called whenever this event is fired.
 
@@ -21,6 +23,7 @@ Register a handler function to be called whenever this event is fired.
 | handler | <code>function</code> | The handler to call. |
 
 <a name="Eventful.fire"></a>
+
 ### Eventful.fire(eventName, eventData)
 Fire an event, causing all handlers for that event name to run.
 
@@ -32,6 +35,7 @@ Fire an event, causing all handlers for that event name to run.
 | eventData | <code>Object</code> | The data provided to each handler. |
 
 <a name="phantom"></a>
+
 ## phantom
 phantom mixin
 

@@ -1,4 +1,5 @@
 <a name="Pizza"></a>
+
 ## Pizza
 **Kind**: global class  
 
@@ -7,6 +8,7 @@
     * [.size](#Pizza+size)
 
 <a name="Pizza+topping"></a>
+
 ### pizza.topping : <code>string</code>
 the ingredients on top
 
@@ -14,6 +16,7 @@ the ingredients on top
 **Default**: <code>&quot;mud, lettuce&quot;</code>  
 **Since**: v1.0.0  
 <a name="Pizza+size"></a>
+
 ### pizza.size
 the general size
 

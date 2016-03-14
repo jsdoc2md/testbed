@@ -1,4 +1,5 @@
 <a name="FurQ"></a>
+
 ## FurQ ⇐ <code>[Rapper](#Rapper)</code>
 C\*ck, b!tch, c\*ck, b!tch, m\*therf!cker. You gotta kill people, to respect people.
 
@@ -29,6 +30,7 @@ C\*ck, b!tch, c\*ck, b!tch, m\*therf!cker. You gotta kill people, to respect peo
         * [~onRespect](#FurQ..onRespect) : <code>function</code>
 
 <a name="new_FurQ_new"></a>
+
 ### new FurQ()
 She's an Uzi lover.
 
@@ -39,6 +41,7 @@ She's an Uzi lover.
 var uziLover = require("FurQ")
 ```
 <a name="FurQ+wannaTryIt"></a>
+
 ### furQ.wannaTryIt : <code>string</code>
 **Kind**: instance property of <code>[FurQ](#FurQ)</code>  
 **Default**: <code>&quot;bitch&quot;</code>  
@@ -48,26 +51,31 @@ var uziLover = require("FurQ")
 - "Magazine like a big testicle gland."
 
 <a name="FurQ+LOVE"></a>
+
 ### furQ.LOVE : <code>string</code>
 **Kind**: instance constant of <code>[FurQ](#FurQ)</code>  
 **Default**: <code>&quot;UZI&quot;</code>  
 <a name="FurQ+spit"></a>
+
 ### furQ.spit()
 override
 
 **Kind**: instance method of <code>[FurQ](#FurQ)</code>  
 **Overrides:** <code>[spit](#Rapper+spit)</code>  
 <a name="Rapper+battle"></a>
+
 ### furQ.battle()
 battle
 
 **Kind**: instance method of <code>[FurQ](#FurQ)</code>  
 <a name="FurQ+punch"></a>
+
 ### furQ.punch()
 to plant ones fist in a buster's mush
 
 **Kind**: instance method of <code>[FurQ](#FurQ)</code>  
 <a name="FurQ+event_pop"></a>
+
 ### "pop" (zoop)
 fire weapon
 
@@ -78,11 +86,13 @@ fire weapon
 | zoop | <code>boolean</code> | make 'zooping' sound as you fire |
 
 <a name="FurQ+event_slap"></a>
+
 ### "slap"
 slap man
 
 **Kind**: event emitted by <code>[FurQ](#FurQ)</code>  
 <a name="FurQ+kill"></a>
+
 ### furQ.kill()
 kill
 
@@ -98,6 +108,7 @@ var kill = uziLover.kill()
 uziLover.kill()
 ```
 <a name="FurQ+respect"></a>
+
 ### furQ.respect(done)
 respect
 
@@ -115,6 +126,7 @@ uziLover.respect(function(err, gain){
 })
 ```
 <a name="FurQ.enemy"></a>
+
 ### FurQ.enemy : <code>enum</code>
 FUR-Q enemy types
 
@@ -129,6 +141,7 @@ FUR-Q enemy types
 | MUTHAFUCKA | <code>number</code> | <code>2</code> |  |
 
 <a name="FurQ.peace"></a>
+
 ### ~~FurQ.peace()~~
 ***Deprecated***
 
@@ -140,6 +153,7 @@ check if at peace
 var peace = FurQ.peace()
 ```
 <a name="FurQ..onRespect"></a>
+
 ### FurQ~onRespect : <code>function</code>
 Passed to [respect](#FurQ+respect)
 
@@ -151,6 +165,7 @@ Passed to [respect](#FurQ+respect)
 | gain | <code>\*</code> | the respect percentage gained |
 
 <a name="Rapper"></a>
+
 ## Rapper
 **Kind**: global class  
 
@@ -165,16 +180,19 @@ Passed to [respect](#FurQ+respect)
                 * [.bestStudent](#Rapper.train..School+bestStudent)
 
 <a name="Rapper+spit"></a>
+
 ### rapper.spit()
 spit
 
 **Kind**: instance method of <code>[Rapper](#Rapper)</code>  
 <a name="Rapper+battle"></a>
+
 ### rapper.battle()
 battle
 
 **Kind**: instance method of <code>[Rapper](#Rapper)</code>  
 <a name="Rapper.train"></a>
+
 ### Rapper.train()
 train new rappers
 
@@ -186,6 +204,7 @@ train new rappers
         * [.bestStudent](#Rapper.train..School+bestStudent)
 
 <a name="Rapper.train..School"></a>
+
 #### train~School
 **Kind**: inner class of <code>[train](#Rapper.train)</code>  
 
@@ -194,15 +213,18 @@ train new rappers
     * [.bestStudent](#Rapper.train..School+bestStudent)
 
 <a name="new_Rapper.train..School_new"></a>
+
 ##### new School()
 rap school
 
 <a name="Rapper.train..School+bestStudent"></a>
+
 ##### school.bestStudent
 best student
 
 **Kind**: instance property of <code>[School](#Rapper.train..School)</code>  
 <a name="plant"></a>
+
 ## plant()
 to plant ones fist in a buster's mush
 

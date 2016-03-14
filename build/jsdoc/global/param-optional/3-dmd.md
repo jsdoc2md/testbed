@@ -1,4 +1,5 @@
 <a name="one"></a>
+
 ## one(a, b, [optional])
 **Kind**: global function  
 

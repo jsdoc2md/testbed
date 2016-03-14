@@ -1,4 +1,5 @@
 <a name="config"></a>
+
 ## config : <code>object</code>
 **Kind**: global namespace  
 **Properties**

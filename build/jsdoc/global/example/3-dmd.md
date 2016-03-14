@@ -1,4 +1,5 @@
 <a name="exampleVar"></a>
+
 ## exampleVar : <code>string</code>
 an example var
 

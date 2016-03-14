@@ -1,4 +1,5 @@
 <a name="personality"></a>
+
 ## personality : <code>object</code>
 A personality object, documented using the more concise `@property` notation.
 

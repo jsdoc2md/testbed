@@ -1,4 +1,5 @@
 <a name="GlobalChildClass"></a>
+
 ## GlobalChildClass ⇐ <code>[GlobalClass](#new_GlobalClass_new)</code>
 the child of global class
 
@@ -12,22 +13,26 @@ the child of global class
     * [.methodOne()](#GlobalClass+methodOne)
 
 <a name="GlobalChildClass+propThree"></a>
+
 ### globalChildClass.propThree
 an instance property
 
 **Kind**: instance property of <code>[GlobalChildClass](#GlobalChildClass)</code>  
 <a name="GlobalClass+propOne"></a>
+
 ### globalChildClass.propOne
 an instance property
 
 **Kind**: instance property of <code>[GlobalChildClass](#GlobalChildClass)</code>  
 <a name="GlobalChildClass+methodTwo"></a>
+
 ### globalChildClass.methodTwo()
 overridden child methodTwo
 
 **Kind**: instance method of <code>[GlobalChildClass](#GlobalChildClass)</code>  
 **Overrides:** <code>[methodTwo](#GlobalClass+methodTwo)</code>  
 <a name="GlobalClass+methodOne"></a>
+
 ### globalChildClass.methodOne()
 parent method one
 

@@ -1,4 +1,5 @@
 <a name="paramDefaults"></a>
+
 ## paramDefaults([option])
 Lots of params with default values.
 

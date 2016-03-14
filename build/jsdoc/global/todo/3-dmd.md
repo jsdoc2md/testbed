@@ -1,4 +1,5 @@
 <a name="todoFunction1"></a>
+
 ## todoFunction1()
 **Kind**: global function  
 **Todo**
@@ -7,6 +8,7 @@
 - [ ] Implement this function.
 
 <a name="todoFunction2"></a>
+
 ## todoFunction2()
 **Kind**: global function  
 **Todo**
@@ -17,6 +19,7 @@
 - [x] finished
 
 <a name="todoFunction3"></a>
+
 ## todoFunction3()
 **Kind**: global function  
 **Todo**

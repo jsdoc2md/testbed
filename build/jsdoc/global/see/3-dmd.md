@@ -1,10 +1,12 @@
 <a name="seeableVar"></a>
+
 ## seeableVar
 a global var with a @see
 
 **Kind**: global variable  
 **See**: something or other  
 <a name="seefoo"></a>
+
 ## seefoo()
 Both of these will link to the bar function.
 
@@ -15,6 +17,7 @@ Both of these will link to the bar function.
 - bar
 
 <a name="seebar"></a>
+
 ## seebar()
 **Kind**: global function  
 **See**

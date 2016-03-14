@@ -1,4 +1,5 @@
 <a name="module_cattle"></a>
+
 ## cattle
 exported object, with-inner-members
 
@@ -12,19 +13,23 @@ exported object, with-inner-members
         * ~~[~anotherInnerFuction()](#module_cattle..anotherInnerFuction)~~
 
 <a name="module_cattle.createCow"></a>
+
 ### cattle.createCow() ⇒ <code>boolean</code>
 **Kind**: static method of <code>[cattle](#module_cattle)</code>  
 <a name="module_cattle..innerMember"></a>
+
 ### cattle~innerMember
 the inner member
 
 **Kind**: inner property of <code>[cattle](#module_cattle)</code>  
 <a name="module_cattle..innerFuction"></a>
+
 ### cattle~innerFuction()
 the inner function
 
 **Kind**: inner method of <code>[cattle](#module_cattle)</code>  
 <a name="module_cattle..anotherInnerFuction"></a>
+
 ### ~~cattle~anotherInnerFuction()~~
 ***Deprecated***
 

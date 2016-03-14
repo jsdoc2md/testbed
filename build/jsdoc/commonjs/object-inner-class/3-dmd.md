@@ -1,4 +1,5 @@
 <a name="module_cyberdyne"></a>
+
 ## cyberdyne
 exports an object.. has an inner class.
 
@@ -18,9 +19,11 @@ var cyber = require("cyberdyne")
         * [~something](#module_cyberdyne..something)
 
 <a name="module_cyberdyne.createMachine"></a>
+
 ### cyberdyne.createMachine() ⇒ <code>[Machine](#module_cyberdyne..Machine)</code>
 **Kind**: static method of <code>[cyberdyne](#module_cyberdyne)</code>  
 <a name="module_cyberdyne..Machine"></a>
+
 ### cyberdyne~Machine
 The main class of machine
 
@@ -32,6 +35,7 @@ The main class of machine
     * [.vibe](#module_cyberdyne..Machine+vibe) : <code>string</code>
 
 <a name="new_module_cyberdyne..Machine_new"></a>
+
 #### new Machine(options)
 the Machine constructor
 
@@ -41,12 +45,15 @@ the Machine constructor
 | options | <code>object</code> | constructor options |
 
 <a name="module_cyberdyne..Machine+eyes"></a>
+
 #### machine.eyes : <code>number</code>
 **Kind**: instance property of <code>[Machine](#module_cyberdyne..Machine)</code>  
 <a name="module_cyberdyne..Machine+vibe"></a>
+
 #### machine.vibe : <code>string</code>
 **Kind**: instance property of <code>[Machine](#module_cyberdyne..Machine)</code>  
 <a name="module_cyberdyne..something"></a>
+
 ### cyberdyne~something
 random
 

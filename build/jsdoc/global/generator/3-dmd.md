@@ -1,4 +1,5 @@
 <a name="globalGenerator"></a>
+
 ## globalGenerator(one)
 a global generator
 

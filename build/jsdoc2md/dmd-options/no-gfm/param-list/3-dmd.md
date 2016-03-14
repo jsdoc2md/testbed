@@ -1,4 +1,5 @@
 <a name="taze"></a>
+
 ## <del>taze(victim, [options], [done])</del>
 ***Deprecated***
 

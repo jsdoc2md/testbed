@@ -1,4 +1,5 @@
 <a name="protection"></a>
+
 ## protection(cloak, dagger) ⇒ <code>survival</code>
 a quite wonderful function
 

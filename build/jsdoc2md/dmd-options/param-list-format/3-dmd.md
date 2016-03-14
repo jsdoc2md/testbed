@@ -1,5 +1,6 @@
 ## `jsdoc2md --param-list-format list`
 <a name="taze"></a>
+
 ### ~~taze(victim, [options], [done])~~
 ***Deprecated***
 
@@ -26,6 +27,7 @@ line
 
 ## `jsdoc2md --param-list-format list` no params
 <a name="noParams"></a>
+
 ### noParams()
 this func has no params
 
@@ -36,6 +38,7 @@ this func has no params
 
 ## `jsdoc2md --param-list-format table`
 <a name="taze"></a>
+
 ### ~~taze(victim, [options], [done])~~
 ***Deprecated***
 

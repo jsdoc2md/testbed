@@ -1,4 +1,5 @@
 <a name="globalFunction"></a>
+
 ## globalFunction(one) ⇒ <code>number</code>
 a global function
 

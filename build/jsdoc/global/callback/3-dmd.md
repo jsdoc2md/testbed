@@ -1,4 +1,5 @@
 <a name="read"></a>
+
 ## read(filename, done)
 **Kind**: global function  
 
@@ -8,6 +9,7 @@
 | done | <code>[onComplete](#onComplete)</code> | the callback |
 
 <a name="onComplete"></a>
+
 ## onComplete : <code>function</code>
 Called when an async operation completes
 

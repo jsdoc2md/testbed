@@ -1,4 +1,5 @@
 <a name="module_cjs/object"></a>
+
 ## cjs/object
 a module exporting `exports` directly
 
@@ -8,11 +9,13 @@ a module exporting `exports` directly
     * [.two()](#module_cjs/object.two)
 
 <a name="module_cjs/object.one"></a>
+
 ### obj.one : <code>number</code>
 the first property
 
 **Kind**: static property of <code>[cjs/object](#module_cjs/object)</code>  
 <a name="module_cjs/object.two"></a>
+
 ### obj.two()
 the second property, a function
 
