@@ -1,33 +1,86 @@
 [
   {
-    "id": "eType",
-    "longname": "eType",
-    "name": "eType",
+    "id": "taze",
+    "longname": "taze",
+    "name": "taze",
     "scope": "global",
-    "kind": "member",
-    "isEnum": true,
+    "kind": "typedef",
+    "description": "Pump an idiot full of volts",
     "properties": [
       {
-        "description": "type one",
-        "name": "ONE",
-        "longname": "eType.ONE",
-        "kind": "member",
-        "memberof": "eType",
-        "scope": "static",
-        "defaultvalue": 1
+        "type": {
+          "names": [
+            "object",
+            "array"
+          ]
+        },
+        "description": "the victim(s) to fry"
       },
       {
-        "description": "type two",
-        "name": "TWO",
-        "longname": "eType.TWO",
-        "kind": "member",
-        "memberof": "eType",
-        "scope": "static",
-        "defaultvalue": 2
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "optional": true,
+        "description": "electricution options",
+        "name": "options"
+      },
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": 11,
+        "description": "strength",
+        "name": "options.strength"
+      },
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": true,
+        "description": "optional spikey hair effect",
+        "name": "options.crazyHair"
+      },
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "optional": true,
+        "description": "origin details",
+        "name": "options.origin"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "optional": true,
+        "description": "this param description is  \nmulti\nline",
+        "name": "options.origin.country"
+      },
+      {
+        "type": {
+          "names": [
+            "function"
+          ]
+        },
+        "optional": true,
+        "description": "callback on slump, which has:\n- devastating power\n- an unusual aftertaste",
+        "name": "done"
       }
     ],
     "meta": {
-      "lineno": 4,
+      "lineno": 1,
       "filename": "0-src.js",
       "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/properties"
     },
