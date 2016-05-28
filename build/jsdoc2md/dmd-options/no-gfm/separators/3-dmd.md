@@ -76,11 +76,14 @@ Animal moods
   </thead>
   <tbody>
 <tr>
-    <td>satisfied</td><td><code>0</code></td><td>chilling</td>
+    <td>satisfied</td><td><code>0</code></td><td><p>chilling</p>
+</td>
     </tr><tr>
-    <td>angry</td><td><code>1</code></td><td>pissed off</td>
+    <td>angry</td><td><code>1</code></td><td><p>pissed off</p>
+</td>
     </tr><tr>
-    <td>hungry</td><td><code>2</code></td><td>need to eat</td>
+    <td>hungry</td><td><code>2</code></td><td><p>need to eat</p>
+</td>
     </tr>  </tbody>
 </table>
 
