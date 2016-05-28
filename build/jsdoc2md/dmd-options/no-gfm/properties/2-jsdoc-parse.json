@@ -10,15 +10,6 @@
       {
         "type": {
           "names": [
-            "object",
-            "array"
-          ]
-        },
-        "description": "the victim(s) to fry"
-      },
-      {
-        "type": {
-          "names": [
             "object"
           ]
         },
@@ -65,7 +56,7 @@
           ]
         },
         "optional": true,
-        "description": "this param description is  \nmulti\nline",
+        "description": "this param description is\nmulti\nline",
         "name": "options.origin.country"
       },
       {
