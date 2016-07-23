@@ -4,10 +4,12 @@ const Queue = require('work').Queue
 const Task = require('work').Task
 const command = require('../lib/command')
 const fsIterable = require('../lib/iterator')
-const tool = require('command-line-tool')
+const Tool = require('command-line-tool')
 const arrayify = require('array-back')
 
-const options = tool.options([
+const tool = new Tool()
+const defs = [
+  { name: 'help', alias: 'h', type: Boolean },
   { name: 'folders', type: String, multiple: true, defaultOption: true },
   { name: 'v1', type: Boolean },
   { name: 'v2', type: Boolean },
@@ -18,7 +20,10 @@ const options = tool.options([
   { name: 'parse2', type: Boolean },
   { name: 'dmd', type: Boolean },
   { name: 'dmd2', type: Boolean }
-])
+]
+const { options, usage } = tool.getCli(defs, { header: 'Options', optionList: defs })
+
+if (options.help) tool.stop(usage)
 
 function getFolderList () {
   if (options.folders) {
