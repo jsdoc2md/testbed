@@ -1,128 +1,85 @@
 [
   {
-    "comment": "/**\n@enum\n*/",
+    "comment": "/**\n * Pump an idiot full of volts\n * @typedef taze\n * @property [options] {object} - electricution options\n * @property [options.strength=11] {number} - strength\n * @property [options.crazyHair=true] {number} - optional spikey hair effect\n * @property [options.origin] {object} - origin details\n * @property [options.origin.country] {string} - this param description is\n * multi\n * line\n * @property [done] {function} - callback on slump, which has:\n * - devastating power\n * - an unusual aftertaste\n */",
     "meta": {
       "range": [
-        17,
-        91
+        0,
+        504
       ],
       "filename": "0-src.js",
-      "lineno": 4,
+      "lineno": 1,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/properties",
-      "code": {
-        "id": "astnode100000002",
-        "name": "eType",
-        "type": "ObjectExpression",
-        "value": "{\"ONE\":1,\"TWO\":2}"
-      }
+      "code": {}
     },
-    "kind": "member",
-    "isEnum": true,
-    "name": "eType",
-    "longname": "eType",
-    "scope": "global",
+    "description": "Pump an idiot full of volts",
+    "kind": "typedef",
+    "name": "taze",
     "properties": [
       {
-        "comment": "/**\n  type one\n  */",
-        "meta": {
-          "range": [
-            51,
-            57
-          ],
-          "filename": "0-src.js",
-          "lineno": 8,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/properties",
-          "code": {
-            "id": "astnode100000005",
-            "name": "ONE",
-            "type": "Literal",
-            "value": 1
-          }
+        "type": {
+          "names": [
+            "object"
+          ]
         },
-        "description": "type one",
-        "name": "ONE",
-        "longname": "eType.ONE",
-        "kind": "member",
-        "memberof": "eType",
-        "scope": "static",
-        "defaultvalue": 1
+        "optional": true,
+        "description": "electricution options",
+        "name": "options"
       },
       {
-        "comment": "/**\n  type two\n  */",
-        "meta": {
-          "range": [
-            83,
-            89
-          ],
-          "filename": "0-src.js",
-          "lineno": 12,
-          "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/properties",
-          "code": {
-            "id": "astnode100000007",
-            "name": "TWO",
-            "type": "Literal",
-            "value": 2
-          }
+        "type": {
+          "names": [
+            "number"
+          ]
         },
-        "description": "type two",
-        "name": "TWO",
-        "longname": "eType.TWO",
-        "kind": "member",
-        "memberof": "eType",
-        "scope": "static",
-        "defaultvalue": 2
+        "optional": true,
+        "defaultvalue": 11,
+        "description": "strength",
+        "name": "options.strength"
+      },
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "optional": true,
+        "defaultvalue": true,
+        "description": "optional spikey hair effect",
+        "name": "options.crazyHair"
+      },
+      {
+        "type": {
+          "names": [
+            "object"
+          ]
+        },
+        "optional": true,
+        "description": "origin details",
+        "name": "options.origin"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "optional": true,
+        "description": "this param description is\nmulti\nline",
+        "name": "options.origin.country"
+      },
+      {
+        "type": {
+          "names": [
+            "function"
+          ]
+        },
+        "optional": true,
+        "description": "callback on slump, which has:\n- devastating power\n- an unusual aftertaste",
+        "name": "done"
       }
-    ]
-  },
-  {
-    "comment": "/**\n  type one\n  */",
-    "meta": {
-      "range": [
-        51,
-        57
-      ],
-      "filename": "0-src.js",
-      "lineno": 8,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/properties",
-      "code": {
-        "id": "astnode100000005",
-        "name": "ONE",
-        "type": "Literal",
-        "value": 1
-      }
-    },
-    "description": "type one",
-    "name": "ONE",
-    "longname": "eType.ONE",
-    "kind": "member",
-    "memberof": "eType",
-    "scope": "static",
-    "defaultvalue": 1
-  },
-  {
-    "comment": "/**\n  type two\n  */",
-    "meta": {
-      "range": [
-        83,
-        89
-      ],
-      "filename": "0-src.js",
-      "lineno": 12,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/no-gfm/properties",
-      "code": {
-        "id": "astnode100000007",
-        "name": "TWO",
-        "type": "Literal",
-        "value": 2
-      }
-    },
-    "description": "type two",
-    "name": "TWO",
-    "longname": "eType.TWO",
-    "kind": "member",
-    "memberof": "eType",
-    "scope": "static",
-    "defaultvalue": 2
+    ],
+    "longname": "taze",
+    "scope": "global"
   },
   {
     "kind": "package",
