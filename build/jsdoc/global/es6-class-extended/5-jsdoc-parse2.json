@@ -7,9 +7,9 @@
     "scope": "global",
     "description": "a global class",
     "meta": {
-      "lineno": 4,
+      "lineno": 5,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended"
     },
     "order": 0
   },
@@ -71,9 +71,9 @@
       ]
     },
     "meta": {
-      "lineno": 18,
+      "lineno": 19,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended"
     },
     "order": 2
   },
@@ -88,9 +88,9 @@
     "memberof": "GlobalClass",
     "params": [],
     "meta": {
-      "lineno": 22,
+      "lineno": 23,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended"
     },
     "order": 3
   },
@@ -105,9 +105,9 @@
     "memberof": "GlobalClass",
     "params": [],
     "meta": {
-      "lineno": 25,
+      "lineno": 26,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended"
     },
     "order": 4
   },
@@ -122,9 +122,9 @@
     "memberof": "GlobalClass",
     "params": [],
     "meta": {
-      "lineno": 27,
+      "lineno": 28,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended"
     },
     "order": 5
   },
@@ -139,9 +139,9 @@
     ],
     "description": "the child of global class",
     "meta": {
-      "lineno": 34,
+      "lineno": 35,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended"
     },
     "order": 6
   },
@@ -155,9 +155,9 @@
     "description": "an instance property",
     "memberof": "GlobalChildClass",
     "meta": {
-      "lineno": 37,
+      "lineno": 39,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended"
     },
     "order": 7
   },
@@ -173,9 +173,9 @@
     "memberof": "GlobalChildClass",
     "params": [],
     "meta": {
-      "lineno": 41,
+      "lineno": 43,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended"
     },
     "order": 8
   },
@@ -196,9 +196,9 @@
       ]
     },
     "meta": {
-      "lineno": 18,
+      "lineno": 19,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended"
     },
     "order": 9
   },
@@ -215,9 +215,9 @@
     "memberof": "GlobalChildClass",
     "params": [],
     "meta": {
-      "lineno": 25,
+      "lineno": 26,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/es6-class-extended"
     },
     "order": 10
   }

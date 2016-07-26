@@ -75,9 +75,9 @@
     "order": 3
   },
   {
-    "id": "objectType",
-    "longname": "objectType",
-    "name": "objectType",
+    "id": "recordType",
+    "longname": "recordType",
+    "name": "recordType",
     "kind": "member",
     "scope": "global",
     "type": {
