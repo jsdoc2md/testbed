@@ -14,7 +14,6 @@
   },
   {
     "id": "module:heaven.createCloud",
-    "parentId": "module:heaven",
     "longname": "module:heaven.createCloud",
     "name": "createCloud",
     "kind": "function",
@@ -38,7 +37,6 @@
   },
   {
     "id": "module:heaven.Cloud",
-    "parentId": "module:heaven",
     "longname": "module:heaven.Cloud",
     "name": "Cloud",
     "kind": "member",
@@ -59,7 +57,6 @@
   },
   {
     "id": "module:heaven~Cloud",
-    "parentId": "module:heaven",
     "longname": "module:heaven~Cloud",
     "name": "Cloud",
     "kind": "class",
@@ -75,7 +72,6 @@
   },
   {
     "id": "module:heaven~Cloud()",
-    "parentId": "module:heaven~Cloud",
     "longname": "module:heaven~Cloud",
     "name": "Cloud",
     "kind": "constructor",
@@ -96,7 +92,6 @@
   },
   {
     "id": "module:heaven~Cloud#size",
-    "parentId": "module:heaven~Cloud",
     "longname": "module:heaven~Cloud#size",
     "name": "size",
     "kind": "member",
@@ -117,7 +112,6 @@
   },
   {
     "id": "module:heaven~Cloud#rain",
-    "parentId": "module:heaven~Cloud",
     "longname": "module:heaven~Cloud#rain",
     "name": "rain",
     "kind": "member",
@@ -138,7 +132,6 @@
   },
   {
     "id": "module:heaven~Cloud.classMethod",
-    "parentId": "module:heaven~Cloud",
     "longname": "module:heaven~Cloud.classMethod",
     "name": "classMethod",
     "kind": "function",
@@ -154,7 +147,6 @@
   },
   {
     "id": "module:heaven~Cloud.SPACES",
-    "parentId": "module:heaven~Cloud",
     "longname": "module:heaven~Cloud.SPACES",
     "name": "SPACES",
     "kind": "constant",
@@ -175,7 +167,6 @@
   },
   {
     "id": "module:heaven~FACT",
-    "parentId": "module:heaven",
     "longname": "module:heaven~FACT",
     "name": "FACT",
     "kind": "constant",

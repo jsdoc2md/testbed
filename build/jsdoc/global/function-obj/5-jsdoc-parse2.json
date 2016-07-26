@@ -16,7 +16,6 @@
   },
   {
     "id": "functionObj.extra",
-    "parentId": "functionObj",
     "longname": "functionObj.extra",
     "name": "extra",
     "kind": "function",

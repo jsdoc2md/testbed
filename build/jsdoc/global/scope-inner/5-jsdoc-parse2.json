@@ -14,7 +14,6 @@
   },
   {
     "id": "Something()",
-    "parentId": "Something",
     "longname": "Something",
     "name": "Something",
     "kind": "constructor",
@@ -25,7 +24,6 @@
   },
   {
     "id": "Something~three",
-    "parentId": "Something",
     "longname": "Something~three",
     "name": "three",
     "kind": "constant",
@@ -41,7 +39,6 @@
   },
   {
     "id": "Something~four",
-    "parentId": "Something",
     "longname": "Something~four",
     "name": "four",
     "kind": "member",

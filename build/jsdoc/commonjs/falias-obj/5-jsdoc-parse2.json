@@ -14,7 +14,6 @@
   },
   {
     "id": "module:falias-obj--sum",
-    "parentId": "module:falias-obj",
     "longname": "module:falias-obj",
     "name": "sum",
     "kind": "function",
@@ -32,7 +31,6 @@
   },
   {
     "id": "module:falias-obj--sum.extra",
-    "parentId": "module:falias-obj--sum",
     "longname": "module:falias-obj.extra",
     "name": "extra",
     "kind": "function",

@@ -17,7 +17,6 @@
   },
   {
     "id": "module:animal~Animal",
-    "parentId": "module:animal",
     "longname": "module:animal~Animal",
     "name": "Animal",
     "kind": "class",
@@ -32,7 +31,6 @@
   },
   {
     "id": "module:animal~Animal()",
-    "parentId": "module:animal~Animal",
     "longname": "module:animal~Animal",
     "name": "Animal",
     "kind": "constructor",
@@ -61,7 +59,6 @@
   },
   {
     "id": "module:animal~Animal#age",
-    "parentId": "module:animal~Animal",
     "longname": "module:animal~Animal#age",
     "name": "age",
     "kind": "member",
@@ -83,7 +80,6 @@
   },
   {
     "id": "module:animal~Animal#species",
-    "parentId": "module:animal~Animal",
     "longname": "module:animal~Animal#species",
     "name": "species",
     "kind": "member",
@@ -103,7 +99,6 @@
   },
   {
     "id": "module:animal~Animal.eMood",
-    "parentId": "module:animal~Animal",
     "longname": "module:animal~Animal.eMood",
     "name": "eMood",
     "kind": "enum",

@@ -13,7 +13,6 @@
   },
   {
     "id": "module:module-exports-func--module.exports",
-    "parentId": "module:module-exports-func",
     "longname": "module:module-exports-func",
     "name": "module.exports",
     "kind": "function",

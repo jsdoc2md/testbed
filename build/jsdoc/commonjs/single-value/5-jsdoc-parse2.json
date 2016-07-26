@@ -14,7 +14,6 @@
   },
   {
     "id": "module:0-src--module.exports",
-    "parentId": "module:0-src",
     "longname": "module:0-src",
     "name": "module.exports",
     "kind": "member",

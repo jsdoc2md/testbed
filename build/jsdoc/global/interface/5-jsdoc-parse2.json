@@ -16,7 +16,6 @@
   },
   {
     "id": "Speech#say",
-    "parentId": "Speech",
     "longname": "Speech#say",
     "name": "say",
     "kind": "function",

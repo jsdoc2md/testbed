@@ -15,7 +15,6 @@
   },
   {
     "id": "module:0-src.one",
-    "parentId": "module:0-src",
     "longname": "module:0-src.one",
     "name": "one",
     "kind": "member",
@@ -31,7 +30,6 @@
   },
   {
     "id": "module:0-src.two",
-    "parentId": "module:0-src",
     "longname": "module:0-src.two",
     "name": "two",
     "kind": "member",
@@ -47,7 +45,6 @@
   },
   {
     "id": "module:0-src.three",
-    "parentId": "module:0-src",
     "longname": "module:0-src.three",
     "name": "three",
     "kind": "function",

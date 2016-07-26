@@ -29,7 +29,6 @@
   },
   {
     "id": "Greeter#name",
-    "parentId": "Greeter",
     "longname": "Greeter#name",
     "name": "name",
     "kind": "member",

@@ -14,7 +14,6 @@
   },
   {
     "id": "LendsClass.say",
-    "parentId": "LendsClass",
     "longname": "LendsClass.say",
     "name": "say",
     "kind": "function",
@@ -44,7 +43,6 @@
   },
   {
     "id": "LendsClass2#say",
-    "parentId": "LendsClass2",
     "longname": "LendsClass2#say",
     "name": "say",
     "kind": "function",

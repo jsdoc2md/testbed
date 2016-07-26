@@ -14,7 +14,6 @@
   },
   {
     "id": "external:Math",
-    "parentId": "module:linkMod",
     "longname": "external:Math",
     "name": "Math",
     "kind": "external",
@@ -33,7 +32,6 @@
   },
   {
     "id": "external:Date",
-    "parentId": "module:linkMod",
     "longname": "external:Date",
     "name": "Date",
     "kind": "external",
@@ -49,7 +47,6 @@
   },
   {
     "id": "module:linkMod.event:MyEvent",
-    "parentId": "module:linkMod",
     "longname": "module:linkMod.event:MyEvent",
     "name": "event:MyEvent",
     "kind": "event",
@@ -65,7 +62,6 @@
   },
   {
     "id": "module:linkMod~linksYeah",
-    "parentId": "module:linkMod",
     "longname": "module:linkMod~linksYeah",
     "name": "linksYeah",
     "kind": "class",
@@ -86,7 +82,6 @@
   },
   {
     "id": "module:linkMod~linksYeah()",
-    "parentId": "module:linkMod~linksYeah",
     "longname": "module:linkMod~linksYeah",
     "name": "linksYeah",
     "kind": "constructor",

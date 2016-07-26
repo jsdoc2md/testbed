@@ -13,7 +13,6 @@
   },
   {
     "id": "module:module-exports-func-var--func",
-    "parentId": "module:module-exports-func-var",
     "longname": "module:module-exports-func-var",
     "name": "func",
     "kind": "function",

@@ -14,7 +14,6 @@
   },
   {
     "id": "Hurl#snowball",
-    "parentId": "Hurl",
     "longname": "Hurl#snowball",
     "name": "snowball",
     "kind": "function",
@@ -33,7 +32,6 @@
   },
   {
     "id": "Hurl#event:snowball",
-    "parentId": "Hurl",
     "longname": "Hurl#event:snowball",
     "name": "snowball",
     "kind": "event",

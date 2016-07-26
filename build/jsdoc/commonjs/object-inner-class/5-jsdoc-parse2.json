@@ -18,7 +18,6 @@
   },
   {
     "id": "module:cyberdyne.createMachine",
-    "parentId": "module:cyberdyne",
     "longname": "module:cyberdyne.createMachine",
     "name": "createMachine",
     "kind": "function",
@@ -42,7 +41,6 @@
   },
   {
     "id": "module:cyberdyne~Machine",
-    "parentId": "module:cyberdyne",
     "longname": "module:cyberdyne~Machine",
     "name": "Machine",
     "kind": "class",
@@ -58,7 +56,6 @@
   },
   {
     "id": "module:cyberdyne~Machine()",
-    "parentId": "module:cyberdyne~Machine",
     "longname": "module:cyberdyne~Machine",
     "name": "Machine",
     "kind": "constructor",
@@ -79,7 +76,6 @@
   },
   {
     "id": "module:cyberdyne~Machine#eyes",
-    "parentId": "module:cyberdyne~Machine",
     "longname": "module:cyberdyne~Machine#eyes",
     "name": "eyes",
     "kind": "member",
@@ -99,7 +95,6 @@
   },
   {
     "id": "module:cyberdyne~Machine#vibe",
-    "parentId": "module:cyberdyne~Machine",
     "longname": "module:cyberdyne~Machine#vibe",
     "name": "vibe",
     "kind": "member",
@@ -119,7 +114,6 @@
   },
   {
     "id": "module:cyberdyne~something",
-    "parentId": "module:cyberdyne",
     "longname": "module:cyberdyne~something",
     "name": "something",
     "kind": "member",

@@ -18,7 +18,6 @@
   },
   {
     "id": "Synth#demo",
-    "parentId": "Synth",
     "longname": "Synth#demo",
     "name": "demo",
     "kind": "function",

@@ -15,7 +15,6 @@
   },
   {
     "id": "module:amd/export-object.sayHello",
-    "parentId": "module:amd/export-object",
     "longname": "module:amd/export-object.sayHello",
     "name": "sayHello",
     "kind": "function",

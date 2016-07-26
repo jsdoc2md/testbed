@@ -15,7 +15,6 @@
   },
   {
     "id": "<anonymous>~three",
-    "parentId": "<anonymous>",
     "longname": "<anonymous>~three",
     "name": "three",
     "kind": "constant",
@@ -31,7 +30,6 @@
   },
   {
     "id": "<anonymous>~four",
-    "parentId": "<anonymous>",
     "longname": "<anonymous>~four",
     "name": "four",
     "kind": "member",

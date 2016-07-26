@@ -15,7 +15,6 @@
   },
   {
     "id": "module:cjs/object.one",
-    "parentId": "module:cjs/object",
     "longname": "module:cjs/object.one",
     "name": "one",
     "kind": "member",
@@ -36,7 +35,6 @@
   },
   {
     "id": "module:cjs/object.two",
-    "parentId": "module:cjs/object",
     "longname": "module:cjs/object.two",
     "name": "two",
     "kind": "function",

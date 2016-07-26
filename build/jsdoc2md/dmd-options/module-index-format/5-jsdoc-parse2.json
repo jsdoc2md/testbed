@@ -17,7 +17,6 @@
   },
   {
     "id": "module:animal~Animal",
-    "parentId": "module:animal",
     "longname": "module:animal~Animal",
     "name": "Animal",
     "kind": "class",
@@ -32,7 +31,6 @@
   },
   {
     "id": "module:animal~Animal()",
-    "parentId": "module:animal~Animal",
     "longname": "module:animal~Animal",
     "name": "Animal",
     "kind": "constructor",
@@ -61,7 +59,6 @@
   },
   {
     "id": "module:animal~Animal#age",
-    "parentId": "module:animal~Animal",
     "longname": "module:animal~Animal#age",
     "name": "age",
     "kind": "member",
@@ -83,7 +80,6 @@
   },
   {
     "id": "module:animal~Animal#species",
-    "parentId": "module:animal~Animal",
     "longname": "module:animal~Animal#species",
     "name": "species",
     "kind": "member",
@@ -103,7 +99,6 @@
   },
   {
     "id": "module:animal~Animal.eMood",
-    "parentId": "module:animal~Animal",
     "longname": "module:animal~Animal.eMood",
     "name": "eMood",
     "kind": "enum",
@@ -161,7 +156,6 @@
   },
   {
     "id": "module:builder~builder",
-    "parentId": "module:builder",
     "longname": "module:builder~builder",
     "name": "builder",
     "kind": "mixin",
@@ -176,7 +170,6 @@
   },
   {
     "id": "module:builder~builder.construct",
-    "parentId": "module:builder~builder",
     "longname": "module:builder~builder.construct",
     "name": "construct",
     "kind": "function",
@@ -192,7 +185,6 @@
   },
   {
     "id": "module:builder~builder.repair",
-    "parentId": "module:builder~builder",
     "longname": "module:builder~builder.repair",
     "name": "repair",
     "kind": "function",
@@ -221,7 +213,6 @@
   },
   {
     "id": "module:species~Species",
-    "parentId": "module:species",
     "longname": "module:species~Species",
     "name": "Species",
     "kind": "class",
@@ -236,7 +227,6 @@
   },
   {
     "id": "module:species~Species#name",
-    "parentId": "module:species~Species",
     "longname": "module:species~Species#name",
     "name": "name",
     "kind": "member",
@@ -257,7 +247,6 @@
   },
   {
     "id": "module:species~Species#species",
-    "parentId": "module:species~Species",
     "longname": "module:species~Species#species",
     "name": "species",
     "kind": "member",
@@ -277,7 +266,6 @@
   },
   {
     "id": "module:species~Species.merge",
-    "parentId": "module:species~Species",
     "longname": "module:species~Species.merge",
     "name": "merge",
     "kind": "function",

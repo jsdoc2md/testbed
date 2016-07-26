@@ -16,7 +16,6 @@
   },
   {
     "id": "Animal()",
-    "parentId": "Animal",
     "longname": "Animal",
     "name": "Animal",
     "kind": "constructor",
@@ -45,7 +44,6 @@
   },
   {
     "id": "Animal#age",
-    "parentId": "Animal",
     "longname": "Animal#age",
     "name": "age",
     "kind": "member",
@@ -67,7 +65,6 @@
   },
   {
     "id": "Animal#species",
-    "parentId": "Animal",
     "longname": "Animal#species",
     "name": "species",
     "kind": "member",
@@ -87,7 +84,6 @@
   },
   {
     "id": "Animal.eMood",
-    "parentId": "Animal",
     "longname": "Animal.eMood",
     "name": "eMood",
     "kind": "enum",

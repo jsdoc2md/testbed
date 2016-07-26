@@ -14,7 +14,6 @@
   },
   {
     "id": "car.wheels",
-    "parentId": "car",
     "longname": "car.wheels",
     "name": "wheels",
     "kind": "member",
@@ -30,7 +29,6 @@
   },
   {
     "id": "car.sensors",
-    "parentId": "car",
     "longname": "car.sensors",
     "name": "sensors",
     "kind": "member",
@@ -46,7 +44,6 @@
   },
   {
     "id": "car.start",
-    "parentId": "car",
     "longname": "car.start",
     "name": "start",
     "kind": "function",
@@ -78,7 +75,6 @@
   },
   {
     "id": "car.start#env",
-    "parentId": "car.start",
     "longname": "car.start#env",
     "name": "env",
     "kind": "namespace",
@@ -94,7 +90,6 @@
   },
   {
     "id": "car.start#env.weather",
-    "parentId": "car.start#env",
     "longname": "car.start#env.weather",
     "name": "weather",
     "kind": "member",
@@ -116,7 +111,6 @@
   },
   {
     "id": "car.start#env.roads",
-    "parentId": "car.start#env",
     "longname": "car.start#env.roads",
     "name": "roads",
     "kind": "member",

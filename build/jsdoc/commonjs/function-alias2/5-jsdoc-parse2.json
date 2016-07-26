@@ -17,7 +17,6 @@
   },
   {
     "id": "module:sum-alias--sum",
-    "parentId": "module:sum-alias",
     "longname": "module:sum-alias",
     "name": "sum",
     "kind": "function",

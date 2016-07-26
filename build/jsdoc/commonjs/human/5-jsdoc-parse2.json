@@ -15,7 +15,6 @@
   },
   {
     "id": "module:cjs/human--Human",
-    "parentId": "module:cjs/human",
     "longname": "module:cjs/human",
     "name": "Human",
     "kind": "class",
@@ -32,7 +31,6 @@
   },
   {
     "id": "module:cjs/human--Human()",
-    "parentId": "module:cjs/human--Human",
     "longname": "module:cjs/human",
     "name": "Human",
     "kind": "constructor",
@@ -43,7 +41,6 @@
   },
   {
     "id": "module:cjs/human--Human~Organ",
-    "parentId": "module:cjs/human--Human",
     "longname": "module:cjs/human~Organ",
     "name": "Organ",
     "kind": "class",
@@ -59,7 +56,6 @@
   },
   {
     "id": "module:cjs/human--Human~Organ~Cell",
-    "parentId": "module:cjs/human--Human~Organ",
     "longname": "module:cjs/human~Organ~Cell",
     "name": "Cell",
     "kind": "class",
@@ -75,7 +71,6 @@
   },
   {
     "id": "module:cjs/human--Human~Organ#redCell",
-    "parentId": "module:cjs/human--Human~Organ",
     "longname": "module:cjs/human~Organ#redCell",
     "name": "redCell",
     "kind": "member",
@@ -96,7 +91,6 @@
   },
   {
     "id": "module:cjs/human--Human#liver",
-    "parentId": "module:cjs/human--Human",
     "longname": "module:cjs/human#liver",
     "name": "liver",
     "kind": "member",

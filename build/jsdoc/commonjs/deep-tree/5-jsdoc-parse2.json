@@ -14,7 +14,6 @@
   },
   {
     "id": "module:farm.size",
-    "parentId": "module:farm",
     "longname": "module:farm.size",
     "name": "size",
     "kind": "member",
@@ -30,7 +29,6 @@
   },
   {
     "id": "module:farm.equipment",
-    "parentId": "module:farm",
     "longname": "module:farm.equipment",
     "name": "equipment",
     "kind": "member",
@@ -46,7 +44,6 @@
   },
   {
     "id": "module:farm.equipment.tractor",
-    "parentId": "module:farm.equipment",
     "longname": "module:farm.equipment.tractor",
     "name": "tractor",
     "kind": "member",
@@ -62,7 +59,6 @@
   },
   {
     "id": "module:farm.equipment.tractor.engine",
-    "parentId": "module:farm.equipment.tractor",
     "longname": "module:farm.equipment.tractor.engine",
     "name": "engine",
     "kind": "member",
@@ -78,7 +74,6 @@
   },
   {
     "id": "module:farm.equipment.tractor.engine.manufacturer",
-    "parentId": "module:farm.equipment.tractor.engine",
     "longname": "module:farm.equipment.tractor.engine.manufacturer",
     "name": "manufacturer",
     "kind": "member",
@@ -94,7 +89,6 @@
   },
   {
     "id": "module:farm.equipment.tractor.engine.size",
-    "parentId": "module:farm.equipment.tractor.engine",
     "longname": "module:farm.equipment.tractor.engine.size",
     "name": "size",
     "kind": "member",

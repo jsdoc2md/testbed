@@ -49,7 +49,6 @@
   },
   {
     "id": "customClass()",
-    "parentId": "customClass",
     "longname": "customClass",
     "name": "customClass",
     "kind": "constructor",

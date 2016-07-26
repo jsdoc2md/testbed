@@ -15,7 +15,6 @@
   },
   {
     "id": "module:0-src.visible",
-    "parentId": "module:0-src",
     "longname": "module:0-src.visible",
     "name": "visible",
     "kind": "member",

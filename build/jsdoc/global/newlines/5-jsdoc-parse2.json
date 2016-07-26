@@ -15,7 +15,6 @@
   },
   {
     "id": "NewLines#method",
-    "parentId": "NewLines",
     "longname": "NewLines#method",
     "name": "method",
     "kind": "function",
@@ -51,7 +50,6 @@
   },
   {
     "id": "NewLines#numbers",
-    "parentId": "NewLines",
     "longname": "NewLines#numbers",
     "name": "numbers",
     "kind": "member",

@@ -14,7 +14,6 @@
   },
   {
     "id": "module:es6-class--ExportedClass",
-    "parentId": "module:es6-class",
     "longname": "module:es6-class",
     "name": "ExportedClass",
     "kind": "class",
@@ -31,7 +30,6 @@
   },
   {
     "id": "module:es6-class--ExportedClass()",
-    "parentId": "module:es6-class--ExportedClass",
     "longname": "module:es6-class",
     "name": "ExportedClass",
     "kind": "constructor",
@@ -74,7 +72,6 @@
   },
   {
     "id": "module:es6-class--ExportedClass.ExportedClass#propOne",
-    "parentId": "module:es6-class--ExportedClass",
     "longname": "module:es6-class.ExportedClass#propOne",
     "name": "propOne",
     "kind": "member",
@@ -95,7 +92,6 @@
   },
   {
     "id": "module:es6-class--ExportedClass.shat",
-    "parentId": "module:es6-class--ExportedClass",
     "longname": "module:es6-class.shat",
     "name": "shat",
     "kind": "function",
@@ -112,7 +108,6 @@
   },
   {
     "id": "module:es6-class--ExportedClass#methodOne",
-    "parentId": "module:es6-class--ExportedClass",
     "longname": "module:es6-class#methodOne",
     "name": "methodOne",
     "kind": "function",
@@ -129,7 +124,6 @@
   },
   {
     "id": "module:es6-class--ExportedClass#methodTwo",
-    "parentId": "module:es6-class--ExportedClass",
     "longname": "module:es6-class#methodTwo",
     "name": "methodTwo",
     "kind": "function",
@@ -146,7 +140,6 @@
   },
   {
     "id": "module:es6-class--ExportedClass~ChildClass",
-    "parentId": "module:es6-class--ExportedClass",
     "longname": "module:es6-class~ChildClass",
     "name": "ChildClass",
     "kind": "class",
@@ -165,7 +158,6 @@
   },
   {
     "id": "module:es6-class--ExportedClass~ChildClass.ChildClass#propThree",
-    "parentId": "module:es6-class--ExportedClass~ChildClass",
     "longname": "module:es6-class~ChildClass.ChildClass#propThree",
     "name": "propThree",
     "kind": "member",

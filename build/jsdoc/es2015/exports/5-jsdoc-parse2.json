@@ -13,7 +13,6 @@
   },
   {
     "id": "module:color/mixer.name",
-    "parentId": "module:color/mixer",
     "longname": "module:color/mixer.name",
     "name": "name",
     "kind": "constant",
@@ -29,7 +28,6 @@
   },
   {
     "id": "module:color/mixer.lastColor",
-    "parentId": "module:color/mixer",
     "longname": "module:color/mixer.lastColor",
     "name": "lastColor",
     "kind": "member",
@@ -45,7 +43,6 @@
   },
   {
     "id": "module:color/mixer.blend",
-    "parentId": "module:color/mixer",
     "longname": "module:color/mixer.blend",
     "name": "blend",
     "kind": "function",
@@ -91,7 +88,6 @@
   },
   {
     "id": "module:color/mixer.toRgb",
-    "parentId": "module:color/mixer",
     "longname": "module:color/mixer.toRgb",
     "name": "toRgb",
     "kind": "function",

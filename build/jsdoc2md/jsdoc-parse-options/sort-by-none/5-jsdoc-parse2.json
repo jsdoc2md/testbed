@@ -35,7 +35,6 @@
   },
   {
     "id": "two.two_one",
-    "parentId": "two",
     "longname": "two.two_one",
     "name": "two_one",
     "kind": "function",
@@ -60,7 +59,6 @@
   },
   {
     "id": "two.two_two",
-    "parentId": "two",
     "longname": "two.two_two",
     "name": "two_two",
     "kind": "member",
@@ -81,7 +79,6 @@
   },
   {
     "id": "two.two_three",
-    "parentId": "two",
     "longname": "two.two_three",
     "name": "two_three",
     "kind": "namespace",
@@ -97,7 +94,6 @@
   },
   {
     "id": "two.two_four",
-    "parentId": "two",
     "longname": "two.two_four",
     "name": "two_four",
     "kind": "constant",
@@ -205,7 +201,6 @@
   },
   {
     "id": "six()",
-    "parentId": "six",
     "longname": "six",
     "name": "six",
     "kind": "constructor",
@@ -216,7 +211,6 @@
   },
   {
     "id": "six#six_one",
-    "parentId": "six",
     "longname": "six#six_one",
     "name": "six_one",
     "kind": "constant",
@@ -237,7 +231,6 @@
   },
   {
     "id": "six#six_two",
-    "parentId": "six",
     "longname": "six#six_two",
     "name": "six_two",
     "kind": "function",
@@ -262,7 +255,6 @@
   },
   {
     "id": "six.six_static_one",
-    "parentId": "six",
     "longname": "six.six_static_one",
     "name": "six_static_one",
     "kind": "namespace",
@@ -278,7 +270,6 @@
   },
   {
     "id": "six.six_static_two",
-    "parentId": "six",
     "longname": "six.six_static_two",
     "name": "six_static_two",
     "kind": "mixin",
@@ -294,7 +285,6 @@
   },
   {
     "id": "six.six_static_three",
-    "parentId": "six",
     "longname": "six.six_static_three",
     "name": "six_static_three",
     "kind": "member",

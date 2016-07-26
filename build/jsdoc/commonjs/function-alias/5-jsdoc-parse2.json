@@ -14,7 +14,6 @@
   },
   {
     "id": "module:cjs/function-alias--sum",
-    "parentId": "module:cjs/function-alias",
     "longname": "module:cjs/function-alias",
     "name": "sum",
     "kind": "function",
@@ -61,7 +60,6 @@
   },
   {
     "id": "module:cjs/function-alias--sum.sumthingStatic",
-    "parentId": "module:cjs/function-alias--sum",
     "longname": "module:cjs/function-alias.sumthingStatic",
     "name": "sumthingStatic",
     "kind": "member",

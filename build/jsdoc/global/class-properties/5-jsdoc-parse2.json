@@ -14,7 +14,6 @@
   },
   {
     "id": "Pizza#topping",
-    "parentId": "Pizza",
     "longname": "Pizza#topping",
     "name": "topping",
     "kind": "member",
@@ -37,7 +36,6 @@
   },
   {
     "id": "Pizza#size",
-    "parentId": "Pizza",
     "longname": "Pizza#size",
     "name": "size",
     "kind": "member",

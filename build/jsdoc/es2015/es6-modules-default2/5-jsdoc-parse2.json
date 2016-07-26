@@ -14,7 +14,6 @@
   },
   {
     "id": "module:es6-modules-default2--exportedFunction",
-    "parentId": "module:es6-modules-default2",
     "longname": "module:es6-modules-default2",
     "name": "exportedFunction",
     "kind": "function",

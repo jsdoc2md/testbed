@@ -14,7 +14,6 @@
   },
   {
     "id": "Documents.Newspaper",
-    "parentId": "Documents",
     "longname": "Documents.Newspaper",
     "name": "Newspaper",
     "kind": "member",

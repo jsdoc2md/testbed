@@ -23,7 +23,6 @@
   },
   {
     "id": "All()",
-    "parentId": "All",
     "longname": "All",
     "name": "All",
     "kind": "constructor",
@@ -57,7 +56,6 @@
   },
   {
     "id": "All#topping",
-    "parentId": "All",
     "longname": "All#topping",
     "name": "topping",
     "kind": "member",
@@ -80,7 +78,6 @@
   },
   {
     "id": "All#size",
-    "parentId": "All",
     "longname": "All#size",
     "name": "size",
     "kind": "member",
@@ -96,7 +93,6 @@
   },
   {
     "id": "All#allThings",
-    "parentId": "All",
     "longname": "All#allThings",
     "name": "allThings",
     "kind": "function",
@@ -151,7 +147,6 @@
   },
   {
     "id": "All#allThings~some",
-    "parentId": "All#allThings",
     "longname": "All#allThings~some",
     "name": "some",
     "kind": "member",

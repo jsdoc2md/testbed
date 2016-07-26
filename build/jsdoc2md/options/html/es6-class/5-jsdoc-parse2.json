@@ -15,7 +15,6 @@
   },
   {
     "id": "GlobalClass()",
-    "parentId": "GlobalClass",
     "longname": "GlobalClass",
     "name": "GlobalClass",
     "kind": "constructor",
@@ -58,7 +57,6 @@
   },
   {
     "id": "GlobalClass#propOne",
-    "parentId": "GlobalClass",
     "longname": "GlobalClass#propOne",
     "name": "propOne",
     "kind": "member",
@@ -79,7 +77,6 @@
   },
   {
     "id": "GlobalClass.shat",
-    "parentId": "GlobalClass",
     "longname": "GlobalClass.shat",
     "name": "shat",
     "kind": "function",
@@ -96,7 +93,6 @@
   },
   {
     "id": "GlobalClass#methodOne",
-    "parentId": "GlobalClass",
     "longname": "GlobalClass#methodOne",
     "name": "methodOne",
     "kind": "function",
@@ -113,7 +109,6 @@
   },
   {
     "id": "GlobalClass#methodTwo",
-    "parentId": "GlobalClass",
     "longname": "GlobalClass#methodTwo",
     "name": "methodTwo",
     "kind": "function",
@@ -147,7 +142,6 @@
   },
   {
     "id": "GlobalChildClass#propThree",
-    "parentId": "GlobalChildClass",
     "longname": "GlobalChildClass#propThree",
     "name": "propThree",
     "kind": "member",
@@ -163,7 +157,6 @@
   },
   {
     "id": "GlobalChildClass#methodTwo",
-    "parentId": "GlobalChildClass",
     "longname": "GlobalChildClass#methodTwo",
     "name": "methodTwo",
     "kind": "function",
@@ -181,7 +174,6 @@
   },
   {
     "id": "GlobalChildClass#propOne",
-    "parentId": "GlobalChildClass",
     "longname": "GlobalChildClass#propOne",
     "name": "propOne",
     "kind": "member",
@@ -204,7 +196,6 @@
   },
   {
     "id": "GlobalChildClass#methodOne",
-    "parentId": "GlobalChildClass",
     "longname": "GlobalChildClass#methodOne",
     "name": "methodOne",
     "kind": "function",

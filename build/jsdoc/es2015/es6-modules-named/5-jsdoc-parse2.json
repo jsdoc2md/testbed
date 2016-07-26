@@ -14,7 +14,6 @@
   },
   {
     "id": "module:es6-modules-named.one",
-    "parentId": "module:es6-modules-named",
     "longname": "module:es6-modules-named.one",
     "name": "one",
     "kind": "constant",
@@ -30,7 +29,6 @@
   },
   {
     "id": "module:es6-modules-named.two",
-    "parentId": "module:es6-modules-named",
     "longname": "module:es6-modules-named.two",
     "name": "two",
     "kind": "function",

@@ -14,7 +14,6 @@
   },
   {
     "id": "module:0-src~Species",
-    "parentId": "module:0-src",
     "longname": "module:0-src~Species",
     "name": "Species",
     "kind": "class",
@@ -29,7 +28,6 @@
   },
   {
     "id": "module:0-src~Species#name",
-    "parentId": "module:0-src~Species",
     "longname": "module:0-src~Species#name",
     "name": "name",
     "kind": "member",
@@ -50,7 +48,6 @@
   },
   {
     "id": "module:0-src~Species#species",
-    "parentId": "module:0-src~Species",
     "longname": "module:0-src~Species#species",
     "name": "species",
     "kind": "member",
@@ -70,7 +67,6 @@
   },
   {
     "id": "module:0-src~Species.merge",
-    "parentId": "module:0-src~Species",
     "longname": "module:0-src~Species.merge",
     "name": "merge",
     "kind": "function",

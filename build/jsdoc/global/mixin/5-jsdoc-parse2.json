@@ -15,7 +15,6 @@
   },
   {
     "id": "Eventful.on",
-    "parentId": "Eventful",
     "longname": "Eventful.on",
     "name": "on",
     "kind": "function",
@@ -51,7 +50,6 @@
   },
   {
     "id": "Eventful.fire",
-    "parentId": "Eventful",
     "longname": "Eventful.fire",
     "name": "fire",
     "kind": "function",

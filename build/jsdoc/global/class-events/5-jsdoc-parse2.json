@@ -14,7 +14,6 @@
   },
   {
     "id": "Rice#event:cooked",
-    "parentId": "Rice",
     "longname": "Rice#event:cooked",
     "name": "cooked",
     "kind": "event",
@@ -30,7 +29,6 @@
   },
   {
     "id": "Rice#event:cooking",
-    "parentId": "Rice",
     "longname": "Rice#event:cooking",
     "name": "cooking",
     "kind": "event",

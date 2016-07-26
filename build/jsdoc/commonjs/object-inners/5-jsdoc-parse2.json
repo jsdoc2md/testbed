@@ -14,7 +14,6 @@
   },
   {
     "id": "module:cattle.createCow",
-    "parentId": "module:cattle",
     "longname": "module:cattle.createCow",
     "name": "createCow",
     "kind": "function",
@@ -38,7 +37,6 @@
   },
   {
     "id": "module:cattle~innerMember",
-    "parentId": "module:cattle",
     "longname": "module:cattle~innerMember",
     "name": "innerMember",
     "kind": "member",
@@ -54,7 +52,6 @@
   },
   {
     "id": "module:cattle~innerFuction",
-    "parentId": "module:cattle",
     "longname": "module:cattle~innerFuction",
     "name": "innerFuction",
     "kind": "function",
@@ -71,7 +68,6 @@
   },
   {
     "id": "module:cattle~anotherInnerFuction",
-    "parentId": "module:cattle",
     "longname": "module:cattle~anotherInnerFuction",
     "name": "anotherInnerFuction",
     "kind": "function",

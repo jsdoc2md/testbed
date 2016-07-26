@@ -13,7 +13,6 @@
   },
   {
     "id": "module:module-exports-class-var--Class",
-    "parentId": "module:module-exports-class-var",
     "longname": "module:module-exports-class-var",
     "name": "Class",
     "kind": "class",
@@ -29,7 +28,6 @@
   },
   {
     "id": "module:module-exports-class-var--Class()",
-    "parentId": "module:module-exports-class-var--Class",
     "longname": "module:module-exports-class-var",
     "name": "Class",
     "kind": "constructor",

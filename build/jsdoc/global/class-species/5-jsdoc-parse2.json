@@ -15,7 +15,6 @@
   },
   {
     "id": "Species#name",
-    "parentId": "Species",
     "longname": "Species#name",
     "name": "name",
     "kind": "member",
@@ -36,7 +35,6 @@
   },
   {
     "id": "Species#species",
-    "parentId": "Species",
     "longname": "Species#species",
     "name": "species",
     "kind": "member",
@@ -56,7 +54,6 @@
   },
   {
     "id": "Species.merge",
-    "parentId": "Species",
     "longname": "Species.merge",
     "name": "merge",
     "kind": "function",

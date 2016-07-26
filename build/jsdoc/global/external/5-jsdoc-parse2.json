@@ -33,7 +33,6 @@
   },
   {
     "id": "external:String#rot13",
-    "parentId": "external:String",
     "longname": "external:String#rot13",
     "name": "rot13",
     "kind": "function",
@@ -69,7 +68,6 @@
   },
   {
     "id": "external:jQuery.fn.starfairy",
-    "parentId": "external:jQuery.fn",
     "longname": "external:jQuery.fn.starfairy",
     "name": "starfairy",
     "kind": "function",
@@ -118,7 +116,6 @@
   },
   {
     "id": "EncryptedRequest()",
-    "parentId": "EncryptedRequest",
     "longname": "EncryptedRequest",
     "name": "EncryptedRequest",
     "kind": "constructor",

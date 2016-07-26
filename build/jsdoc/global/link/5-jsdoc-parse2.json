@@ -14,7 +14,6 @@
   },
   {
     "id": "external:String",
-    "parentId": "module:foo/bar",
     "longname": "external:String",
     "name": "String",
     "kind": "external",
@@ -30,7 +29,6 @@
   },
   {
     "id": "module:foo/bar.event:MyEvent",
-    "parentId": "module:foo/bar",
     "longname": "module:foo/bar.event:MyEvent",
     "name": "event:MyEvent",
     "kind": "event",
@@ -46,7 +44,6 @@
   },
   {
     "id": "module:foo/bar~linkFunction",
-    "parentId": "module:foo/bar",
     "longname": "module:foo/bar~linkFunction",
     "name": "linkFunction",
     "kind": "function",
@@ -63,7 +60,6 @@
   },
   {
     "id": "module:foo/bar~LinkClass",
-    "parentId": "module:foo/bar",
     "longname": "module:foo/bar~LinkClass",
     "name": "LinkClass",
     "kind": "class",
@@ -78,7 +74,6 @@
   },
   {
     "id": "module:foo/bar~LinkClass()",
-    "parentId": "module:foo/bar~LinkClass",
     "longname": "module:foo/bar~LinkClass",
     "name": "LinkClass",
     "kind": "constructor",
@@ -89,7 +84,6 @@
   },
   {
     "id": "module:foo/bar~LinkClass#foo",
-    "parentId": "module:foo/bar~LinkClass",
     "longname": "module:foo/bar~LinkClass#foo",
     "name": "foo",
     "kind": "member",

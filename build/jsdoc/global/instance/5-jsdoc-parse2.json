@@ -14,7 +14,6 @@
   },
   {
     "id": "SomeObject#yeah",
-    "parentId": "SomeObject",
     "longname": "SomeObject#yeah",
     "name": "yeah",
     "kind": "member",

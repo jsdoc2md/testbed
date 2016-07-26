@@ -14,7 +14,6 @@
   },
   {
     "id": "module:exports-vars.one",
-    "parentId": "module:exports-vars",
     "longname": "module:exports-vars.one",
     "name": "one",
     "kind": "member",
@@ -35,7 +34,6 @@
   },
   {
     "id": "module:exports-vars.two",
-    "parentId": "module:exports-vars",
     "longname": "module:exports-vars.two",
     "name": "two",
     "kind": "member",

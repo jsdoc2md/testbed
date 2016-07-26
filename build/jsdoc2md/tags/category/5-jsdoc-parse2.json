@@ -13,7 +13,6 @@
   },
   {
     "id": "module:category.one",
-    "parentId": "module:category",
     "longname": "module:category.one",
     "name": "one",
     "kind": "member",
@@ -30,7 +29,6 @@
   },
   {
     "id": "module:category.two",
-    "parentId": "module:category",
     "longname": "module:category.two",
     "name": "two",
     "kind": "member",
@@ -47,7 +45,6 @@
   },
   {
     "id": "module:category.three",
-    "parentId": "module:category",
     "longname": "module:category.three",
     "name": "three",
     "kind": "member",
@@ -64,7 +61,6 @@
   },
   {
     "id": "module:category.four",
-    "parentId": "module:category",
     "longname": "module:category.four",
     "name": "four",
     "kind": "member",

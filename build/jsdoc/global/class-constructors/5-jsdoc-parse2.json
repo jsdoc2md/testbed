@@ -18,7 +18,6 @@
   },
   {
     "id": "Person()",
-    "parentId": "Person",
     "longname": "Person",
     "name": "Person",
     "kind": "constructor",
@@ -42,7 +41,6 @@
   },
   {
     "id": "Car()",
-    "parentId": "Car",
     "longname": "Car",
     "name": "Car",
     "kind": "constructor",
@@ -103,7 +101,6 @@
   },
   {
     "id": "Everything()",
-    "parentId": "Everything",
     "longname": "Everything",
     "name": "Everything",
     "kind": "constructor",

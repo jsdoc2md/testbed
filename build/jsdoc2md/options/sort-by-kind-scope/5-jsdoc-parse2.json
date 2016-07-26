@@ -32,7 +32,6 @@
   },
   {
     "id": "mixin.one",
-    "parentId": "mixin",
     "longname": "mixin.one",
     "name": "one",
     "kind": "member",
@@ -92,7 +91,6 @@
   },
   {
     "id": "Droid#jobs",
-    "parentId": "Droid",
     "longname": "Droid#jobs",
     "name": "jobs",
     "kind": "member",
@@ -112,7 +110,6 @@
   },
   {
     "id": "Droid#battery",
-    "parentId": "Droid",
     "longname": "Droid#battery",
     "name": "battery",
     "kind": "member",
@@ -132,7 +129,6 @@
   },
   {
     "id": "Droid#colour",
-    "parentId": "Droid",
     "longname": "Droid#colour",
     "name": "colour",
     "kind": "member",
@@ -153,7 +149,6 @@
   },
   {
     "id": "Droid#age",
-    "parentId": "Droid",
     "longname": "Droid#age",
     "name": "age",
     "kind": "member",
@@ -174,7 +169,6 @@
   },
   {
     "id": "Droid~legs",
-    "parentId": "Droid",
     "longname": "Droid~legs",
     "name": "legs",
     "kind": "constant",
@@ -195,7 +189,6 @@
   },
   {
     "id": "Droid~arms",
-    "parentId": "Droid",
     "longname": "Droid~arms",
     "name": "arms",
     "kind": "constant",
@@ -216,7 +209,6 @@
   },
   {
     "id": "Droid~human",
-    "parentId": "Droid",
     "longname": "Droid~human",
     "name": "human",
     "kind": "constant",
@@ -237,7 +229,6 @@
   },
   {
     "id": "Droid#move",
-    "parentId": "Droid",
     "longname": "Droid#move",
     "name": "move",
     "kind": "function",
@@ -272,7 +263,6 @@
   },
   {
     "id": "Droid#stop",
-    "parentId": "Droid",
     "longname": "Droid#stop",
     "name": "stop",
     "kind": "function",
@@ -307,7 +297,6 @@
   },
   {
     "id": "Droid#pray",
-    "parentId": "Droid",
     "longname": "Droid#pray",
     "name": "pray",
     "kind": "function",
@@ -342,7 +331,6 @@
   },
   {
     "id": "Droid.repair",
-    "parentId": "Droid",
     "longname": "Droid.repair",
     "name": "repair",
     "kind": "function",

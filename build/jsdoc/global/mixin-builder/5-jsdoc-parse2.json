@@ -15,7 +15,6 @@
   },
   {
     "id": "builder.construct",
-    "parentId": "builder",
     "longname": "builder.construct",
     "name": "construct",
     "kind": "function",
@@ -31,7 +30,6 @@
   },
   {
     "id": "builder.repair",
-    "parentId": "builder",
     "longname": "builder.repair",
     "name": "repair",
     "kind": "function",

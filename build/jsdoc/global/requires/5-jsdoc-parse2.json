@@ -27,7 +27,6 @@
   },
   {
     "id": "module:two~requirer",
-    "parentId": "module:two",
     "longname": "module:two~requirer",
     "name": "requirer",
     "kind": "function",

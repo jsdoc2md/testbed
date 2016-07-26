@@ -15,7 +15,6 @@
   },
   {
     "id": "Chainable#method",
-    "parentId": "Chainable",
     "longname": "Chainable#method",
     "name": "method",
     "kind": "function",
