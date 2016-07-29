@@ -19,11 +19,11 @@
   },
   "devDependencies": {
     "array-back": "^1.0.3",
-    "config-master": "^2.0.2",
-    "dmd": "^1.4.0",
+    "config-master": "^2.0.3",
+    "dmd": "^1.4.2",
     "dmd-bitbucket": "~0.1.9",
     "dmd-bitbucket2": "jsdoc2md/dmd-bitbucket#next",
-    "jsdoc-api": "jsdoc2md/jsdoc-api",
+    "jsdoc-api": "jsdoc2md/jsdoc-api#next",
     "jsdoc-parse": "^1.2.7",
     "jsdoc-parse2": "jsdoc2md/jsdoc-parse#next",
     "jsdoc-to-markdown2": "jsdoc2md/jsdoc-to-markdown#next",
@@ -38,7 +38,7 @@
     ]
   },
   "dependencies": {
-    "command-line-tool": "~0.5.0",
-    "reduce-flatten": "^1.0.0"
+    "command-line-tool": "~0.5.2",
+    "reduce-flatten": "^1.0.1"
   }
 }
