@@ -13,8 +13,8 @@
     "id": "customClass",
     "longname": "customClass",
     "name": "customClass",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "description": "a class that has custom tags",
     "customTags": [
       {
@@ -37,8 +37,8 @@
     "id": "customTagged",
     "longname": "customTagged",
     "name": "customTagged",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "description": "a global var with custom tags",
     "customTags": [
       {
@@ -61,8 +61,8 @@
     "id": "customFunction",
     "longname": "customFunction",
     "name": "customFunction",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "a global function with custom tags",
     "params": [],
     "customTags": [

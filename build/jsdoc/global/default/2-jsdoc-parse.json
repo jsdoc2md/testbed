@@ -3,8 +3,8 @@
     "id": "defaultedOne",
     "longname": "defaultedOne",
     "name": "defaultedOne",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "type": {
       "names": [
         "object"
@@ -22,8 +22,8 @@
     "id": "defaultedTwo",
     "longname": "defaultedTwo",
     "name": "defaultedTwo",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "type": {
       "names": [
         "function"

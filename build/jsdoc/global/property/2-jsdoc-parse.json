@@ -3,8 +3,8 @@
     "id": "config",
     "longname": "config",
     "name": "config",
-    "scope": "global",
     "kind": "namespace",
+    "scope": "global",
     "properties": [
       {
         "type": {

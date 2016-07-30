@@ -1,21 +1,6 @@
 [
   {
-    "id": "GlobalClass",
-    "longname": "GlobalClass",
-    "name": "GlobalClass",
-    "kind": "class",
-    "scope": "global",
-    "description": "a global class",
-    "meta": {
-      "lineno": 4,
-      "filename": "0-src.html",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/html/es6-class"
-    },
-    "order": 0
-  },
-  {
     "id": "GlobalClass()",
-    "parentId": "GlobalClass",
     "longname": "GlobalClass",
     "name": "GlobalClass",
     "kind": "constructor",
@@ -57,76 +42,18 @@
     "order": 1
   },
   {
-    "id": "GlobalClass#propOne",
-    "parentId": "GlobalClass",
-    "longname": "GlobalClass#propOne",
-    "name": "propOne",
-    "kind": "member",
-    "scope": "instance",
-    "description": "an instance property",
-    "memberof": "GlobalClass",
-    "type": {
-      "names": [
-        "number"
-      ]
-    },
+    "id": "GlobalClass",
+    "longname": "GlobalClass",
+    "name": "GlobalClass",
+    "kind": "class",
+    "scope": "global",
+    "description": "a global class",
     "meta": {
-      "lineno": 18,
+      "lineno": 4,
       "filename": "0-src.html",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/html/es6-class"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/options/html/es6-class"
     },
-    "order": 2
-  },
-  {
-    "id": "GlobalClass.shat",
-    "parentId": "GlobalClass",
-    "longname": "GlobalClass.shat",
-    "name": "shat",
-    "kind": "function",
-    "scope": "static",
-    "description": "a static method",
-    "memberof": "GlobalClass",
-    "params": [],
-    "meta": {
-      "lineno": 21,
-      "filename": "0-src.html",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/html/es6-class"
-    },
-    "order": 3
-  },
-  {
-    "id": "GlobalClass#methodOne",
-    "parentId": "GlobalClass",
-    "longname": "GlobalClass#methodOne",
-    "name": "methodOne",
-    "kind": "function",
-    "scope": "instance",
-    "description": "parent method one",
-    "memberof": "GlobalClass",
-    "params": [],
-    "meta": {
-      "lineno": 23,
-      "filename": "0-src.html",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/html/es6-class"
-    },
-    "order": 4
-  },
-  {
-    "id": "GlobalClass#methodTwo",
-    "parentId": "GlobalClass",
-    "longname": "GlobalClass#methodTwo",
-    "name": "methodTwo",
-    "kind": "function",
-    "scope": "instance",
-    "description": "parent method two",
-    "memberof": "GlobalClass",
-    "params": [],
-    "meta": {
-      "lineno": 25,
-      "filename": "0-src.html",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/html/es6-class"
-    },
-    "order": 5
+    "order": 0
   },
   {
     "id": "GlobalChildClass",
@@ -141,13 +68,32 @@
     "meta": {
       "lineno": 32,
       "filename": "0-src.html",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/html/es6-class"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/options/html/es6-class"
     },
     "order": 6
   },
   {
+    "id": "GlobalClass#propOne",
+    "longname": "GlobalClass#propOne",
+    "name": "propOne",
+    "kind": "member",
+    "scope": "instance",
+    "description": "an instance property",
+    "memberof": "GlobalClass",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "meta": {
+      "lineno": 18,
+      "filename": "0-src.html",
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/options/html/es6-class"
+    },
+    "order": 2
+  },
+  {
     "id": "GlobalChildClass#propThree",
-    "parentId": "GlobalChildClass",
     "longname": "GlobalChildClass#propThree",
     "name": "propThree",
     "kind": "member",
@@ -157,31 +103,12 @@
     "meta": {
       "lineno": 35,
       "filename": "0-src.html",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/html/es6-class"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/options/html/es6-class"
     },
     "order": 7
   },
   {
-    "id": "GlobalChildClass#methodTwo",
-    "parentId": "GlobalChildClass",
-    "longname": "GlobalChildClass#methodTwo",
-    "name": "methodTwo",
-    "kind": "function",
-    "scope": "instance",
-    "overrides": "GlobalClass#methodTwo",
-    "description": "overridden child methodTwo",
-    "memberof": "GlobalChildClass",
-    "params": [],
-    "meta": {
-      "lineno": 38,
-      "filename": "0-src.html",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/html/es6-class"
-    },
-    "order": 8
-  },
-  {
     "id": "GlobalChildClass#propOne",
-    "parentId": "GlobalChildClass",
     "longname": "GlobalChildClass#propOne",
     "name": "propOne",
     "kind": "member",
@@ -198,13 +125,61 @@
     "meta": {
       "lineno": 18,
       "filename": "0-src.html",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/html/es6-class"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/options/html/es6-class"
     },
     "order": 9
   },
   {
+    "id": "GlobalClass#methodOne",
+    "longname": "GlobalClass#methodOne",
+    "name": "methodOne",
+    "kind": "function",
+    "scope": "instance",
+    "description": "parent method one",
+    "memberof": "GlobalClass",
+    "params": [],
+    "meta": {
+      "lineno": 23,
+      "filename": "0-src.html",
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/options/html/es6-class"
+    },
+    "order": 4
+  },
+  {
+    "id": "GlobalClass#methodTwo",
+    "longname": "GlobalClass#methodTwo",
+    "name": "methodTwo",
+    "kind": "function",
+    "scope": "instance",
+    "description": "parent method two",
+    "memberof": "GlobalClass",
+    "params": [],
+    "meta": {
+      "lineno": 25,
+      "filename": "0-src.html",
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/options/html/es6-class"
+    },
+    "order": 5
+  },
+  {
+    "id": "GlobalChildClass#methodTwo",
+    "longname": "GlobalChildClass#methodTwo",
+    "name": "methodTwo",
+    "kind": "function",
+    "scope": "instance",
+    "overrides": "GlobalClass#methodTwo",
+    "description": "overridden child methodTwo",
+    "memberof": "GlobalChildClass",
+    "params": [],
+    "meta": {
+      "lineno": 38,
+      "filename": "0-src.html",
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/options/html/es6-class"
+    },
+    "order": 8
+  },
+  {
     "id": "GlobalChildClass#methodOne",
-    "parentId": "GlobalChildClass",
     "longname": "GlobalChildClass#methodOne",
     "name": "methodOne",
     "kind": "function",
@@ -217,8 +192,24 @@
     "meta": {
       "lineno": 23,
       "filename": "0-src.html",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/html/es6-class"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/options/html/es6-class"
     },
     "order": 10
+  },
+  {
+    "id": "GlobalClass.shat",
+    "longname": "GlobalClass.shat",
+    "name": "shat",
+    "kind": "function",
+    "scope": "static",
+    "description": "a static method",
+    "memberof": "GlobalClass",
+    "params": [],
+    "meta": {
+      "lineno": 21,
+      "filename": "0-src.html",
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/options/html/es6-class"
+    },
+    "order": 3
   }
 ]

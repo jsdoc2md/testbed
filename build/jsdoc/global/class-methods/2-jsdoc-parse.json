@@ -3,8 +3,8 @@
     "id": "Something",
     "longname": "Something",
     "name": "Something",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "meta": {
       "lineno": 4,
       "filename": "0-src.js",
@@ -16,8 +16,8 @@
     "id": "Something#methodOne",
     "longname": "Something#methodOne",
     "name": "methodOne",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "description": "method description",
     "memberof": "Something",
     "meta": {
@@ -31,8 +31,8 @@
     "id": "Something#allTogether",
     "longname": "Something#allTogether",
     "name": "allTogether",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "description": "This function has all tags set",
     "memberof": "Something",
     "params": [

@@ -3,8 +3,8 @@
     "id": "Rice",
     "longname": "Rice",
     "name": "Rice",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "meta": {
       "lineno": 4,
       "filename": "0-src.js",
@@ -16,8 +16,8 @@
     "id": "Rice#event:cooked",
     "longname": "Rice#event:cooked",
     "name": "cooked",
-    "scope": "instance",
     "kind": "event",
+    "scope": "instance",
     "description": "Fired when rice is ready",
     "memberof": "Rice",
     "meta": {
@@ -31,8 +31,8 @@
     "id": "Rice#event:cooking",
     "longname": "Rice#event:cooking",
     "name": "cooking",
-    "scope": "instance",
     "kind": "event",
+    "scope": "instance",
     "description": "Fired when rice is cooking",
     "memberof": "Rice",
     "meta": {

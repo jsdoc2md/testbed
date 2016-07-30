@@ -3,8 +3,8 @@
     "id": "variable",
     "longname": "variable",
     "name": "variable",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "description": "a global variable",
     "meta": {
       "lineno": 4,
@@ -17,8 +17,8 @@
     "id": "typed",
     "longname": "typed",
     "name": "typed",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "type": {
       "names": [
         "string"
@@ -35,8 +35,8 @@
     "id": "types",
     "longname": "types",
     "name": "types",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "type": {
       "names": [
         "string",
@@ -54,8 +54,8 @@
     "id": "exampled",
     "longname": "exampled",
     "name": "exampled",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "description": "a var with an example",
     "examples": [
       "```js\nvar another = 100\n```"
@@ -71,8 +71,8 @@
     "id": "examples",
     "longname": "examples",
     "name": "examples",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "description": "a var with multiple examples",
     "examples": [
       "```js\nvar another = 100\n```",
@@ -89,8 +89,8 @@
     "id": "_protected",
     "longname": "_protected",
     "name": "_protected",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "access": "protected",
     "meta": {
       "lineno": 41,
@@ -103,8 +103,8 @@
     "id": "withAuthor",
     "longname": "withAuthor",
     "name": "withAuthor",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "author": [
       "Clive Jones <clive@jones.com>"
     ],
@@ -119,8 +119,8 @@
     "id": "hasDefault",
     "longname": "hasDefault",
     "name": "hasDefault",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "defaultvalue": 23,
     "meta": {
       "lineno": 56,
@@ -133,8 +133,8 @@
     "id": "hasDefaultObject",
     "longname": "hasDefaultObject",
     "name": "hasDefaultObject",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "defaultvaluetype": "object",
     "defaultvalue": "{\"one\":1,\"two\":2}",
     "meta": {
@@ -148,8 +148,8 @@
     "id": "deprecated",
     "longname": "deprecated",
     "name": "deprecated",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "deprecated": true,
     "meta": {
       "lineno": 69,
@@ -162,8 +162,8 @@
     "id": "readOnly",
     "longname": "readOnly",
     "name": "readOnly",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "readonly": true,
     "meta": {
       "lineno": 74,
@@ -176,8 +176,8 @@
     "id": "hasSince",
     "longname": "hasSince",
     "name": "hasSince",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "since": "v0.10.28",
     "meta": {
       "lineno": 79,

@@ -3,8 +3,8 @@
     "id": "todoFunction1",
     "longname": "todoFunction1",
     "name": "todoFunction1",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [],
     "todoList": [
       {
@@ -27,8 +27,8 @@
     "id": "todoFunction2",
     "longname": "todoFunction2",
     "name": "todoFunction2",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [],
     "todoList": [
       {
@@ -59,8 +59,8 @@
     "id": "todoFunction3",
     "longname": "todoFunction3",
     "name": "todoFunction3",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [],
     "todoList": [
       {

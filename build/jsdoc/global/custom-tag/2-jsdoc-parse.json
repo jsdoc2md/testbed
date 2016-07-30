@@ -3,8 +3,8 @@
     "id": "customTaggedFunction",
     "longname": "customTaggedFunction",
     "name": "customTaggedFunction",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "this function has a wonderful custom tag",
     "params": [],
     "customTags": [

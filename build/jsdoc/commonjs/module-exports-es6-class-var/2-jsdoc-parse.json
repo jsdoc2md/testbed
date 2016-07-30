@@ -56,8 +56,8 @@
     "id": "module:module-exports-es6-class-var--Example.Example#three",
     "longname": "module:module-exports-es6-class-var.Example#three",
     "name": "three",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "description": "instance",
     "memberof": "module:module-exports-es6-class-var--Example",
     "meta": {

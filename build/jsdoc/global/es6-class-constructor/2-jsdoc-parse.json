@@ -13,8 +13,8 @@
     "id": "GlobalClass",
     "longname": "GlobalClass",
     "name": "GlobalClass",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "meta": {
       "lineno": 5,
       "filename": "0-src.js",

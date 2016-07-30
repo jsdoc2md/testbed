@@ -3,8 +3,8 @@
     "id": "Greeter",
     "longname": "Greeter",
     "name": "Greeter",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "meta": {
       "lineno": 2,
       "filename": "0-src.js",
@@ -16,8 +16,8 @@
     "id": "setName",
     "longname": "setName",
     "name": "setName",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [],
     "thisvalue": "Greeter",
     "meta": {
@@ -31,8 +31,8 @@
     "id": "Greeter#name",
     "longname": "Greeter#name",
     "name": "name",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "description": "a great name",
     "memberof": "Greeter",
     "meta": {

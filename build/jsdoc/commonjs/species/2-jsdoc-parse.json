@@ -16,8 +16,8 @@
     "id": "module:0-src~Species#name",
     "longname": "module:0-src~Species#name",
     "name": "name",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "description": "the species name",
     "memberof": "module:0-src~Species",
     "type": {
@@ -36,8 +36,8 @@
     "id": "module:0-src~Species#species",
     "longname": "module:0-src~Species#species",
     "name": "species",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "memberof": "module:0-src~Species",
     "type": {
       "names": [
@@ -55,8 +55,8 @@
     "id": "module:0-src~Species.merge",
     "longname": "module:0-src~Species.merge",
     "name": "merge",
-    "scope": "static",
     "kind": "function",
+    "scope": "static",
     "description": "merge two species into a new one",
     "memberof": "module:0-src~Species",
     "params": [
@@ -99,8 +99,8 @@
     "id": "module:0-src~Species",
     "longname": "module:0-src~Species",
     "name": "Species",
-    "scope": "inner",
     "kind": "class",
+    "scope": "inner",
     "memberof": "module:0-src",
     "meta": {
       "lineno": 11,

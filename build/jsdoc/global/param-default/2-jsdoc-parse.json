@@ -3,8 +3,8 @@
     "id": "paramDefaults",
     "longname": "paramDefaults",
     "name": "paramDefaults",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "Lots of params with default values.",
     "params": [
       {

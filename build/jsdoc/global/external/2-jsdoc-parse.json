@@ -12,8 +12,8 @@
     "id": "EncryptedRequest",
     "longname": "EncryptedRequest",
     "name": "EncryptedRequest",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "augments": [
       "external:XMLHttpRequest"
     ],
@@ -28,8 +28,8 @@
     "id": "cliveExternal",
     "longname": "cliveExternal",
     "name": "cliveExternal",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "type": {
       "names": [
         "external:Clive"
@@ -46,8 +46,8 @@
     "id": "stringExternal",
     "longname": "stringExternal",
     "name": "stringExternal",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "type": {
       "names": [
         "external:String"
@@ -64,8 +64,8 @@
     "id": "external:String",
     "longname": "external:String",
     "name": "String",
-    "scope": "global",
     "kind": "external",
+    "scope": "global",
     "see": [
       "{@link https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/String String}"
     ],
@@ -80,8 +80,8 @@
     "id": "external:Clive",
     "longname": "external:Clive",
     "name": "Clive",
-    "scope": "global",
     "kind": "external",
+    "scope": "global",
     "see": [
       "https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/String"
     ],
@@ -96,8 +96,8 @@
     "id": "external:jQuery.fn",
     "longname": "external:jQuery.fn",
     "name": "jQuery.fn",
-    "scope": "global",
     "kind": "external",
+    "scope": "global",
     "description": "The jQuery plugin namespace.",
     "see": [
       "{@link http://docs.jquery.com/Plugins/Authoring The jQuery Plugin Guide}"
@@ -113,8 +113,8 @@
     "id": "external:XMLHttpRequest",
     "longname": "external:XMLHttpRequest",
     "name": "XMLHttpRequest",
-    "scope": "global",
     "kind": "external",
+    "scope": "global",
     "description": "Namespace provided by the browser.",
     "see": [
       "https://developer.mozilla.org/en/xmlhttprequest"
@@ -130,8 +130,8 @@
     "id": "external:String#rot13",
     "longname": "external:String#rot13",
     "name": "rot13",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "description": "Adds a new method to the built-in string.",
     "memberof": "external:String",
     "examples": [
@@ -148,8 +148,8 @@
     "id": "external:jQuery.fn.starfairy",
     "longname": "external:jQuery.fn.starfairy",
     "name": "starfairy",
-    "scope": "static",
     "kind": "function",
+    "scope": "static",
     "description": "A jQuery plugin to make stars fly around your home page.",
     "memberof": "external:jQuery.fn",
     "meta": {

@@ -3,8 +3,8 @@
     "id": "Pizza",
     "longname": "Pizza",
     "name": "Pizza",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "meta": {
       "lineno": 4,
       "filename": "0-src.js",
@@ -16,8 +16,8 @@
     "id": "Pizza#topping",
     "longname": "Pizza#topping",
     "name": "topping",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "description": "the ingredients on top",
     "memberof": "Pizza",
     "type": {
@@ -38,8 +38,8 @@
     "id": "Pizza#size",
     "longname": "Pizza#size",
     "name": "size",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "description": "the general size",
     "memberof": "Pizza",
     "meta": {

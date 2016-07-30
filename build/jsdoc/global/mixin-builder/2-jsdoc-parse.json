@@ -3,8 +3,8 @@
     "id": "builder",
     "longname": "builder",
     "name": "builder",
-    "scope": "global",
     "kind": "mixin",
+    "scope": "global",
     "description": "Aside from humans, who are the most prolific and versatile builders, building behaviour is common in many mammals, birds, insects and arachnids. It is also seen in a few species of fish, reptiles, amphibians, molluscs, urochordates, crustaceans, annelids and some other arthropods. It is virtually absent from all the other animal phyla.",
     "meta": {
       "lineno": 5,
@@ -17,8 +17,8 @@
     "id": "builder.construct",
     "longname": "builder.construct",
     "name": "construct",
-    "scope": "static",
     "kind": "function",
+    "scope": "static",
     "description": "construct something",
     "memberof": "builder",
     "meta": {
@@ -32,8 +32,8 @@
     "id": "builder.repair",
     "longname": "builder.repair",
     "name": "repair",
-    "scope": "static",
     "kind": "function",
+    "scope": "static",
     "description": "repair something",
     "memberof": "builder",
     "meta": {

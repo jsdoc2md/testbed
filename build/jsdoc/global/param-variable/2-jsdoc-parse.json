@@ -3,8 +3,8 @@
     "id": "one",
     "longname": "one",
     "name": "one",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [
       {
         "type": {

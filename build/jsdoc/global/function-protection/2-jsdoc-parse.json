@@ -3,8 +3,8 @@
     "id": "protection",
     "longname": "protection",
     "name": "protection",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "a quite wonderful function",
     "params": [
       {

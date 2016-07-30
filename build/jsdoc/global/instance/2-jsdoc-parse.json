@@ -3,8 +3,8 @@
     "id": "SomeObject",
     "longname": "SomeObject",
     "name": "SomeObject",
-    "scope": "global",
     "kind": "namespace",
+    "scope": "global",
     "meta": {
       "lineno": 2,
       "filename": "0-src.js",
@@ -16,8 +16,8 @@
     "id": "yeahFactory",
     "longname": "yeahFactory",
     "name": "yeahFactory",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "Generates SomeObject instances.",
     "params": [],
     "meta": {
@@ -31,8 +31,8 @@
     "id": "SomeObject#yeah",
     "longname": "SomeObject#yeah",
     "name": "yeah",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "description": "yeah is now `SomeObject#yeah` rather than `SomeObject.yeah`.",
     "memberof": "SomeObject",
     "meta": {

@@ -3,8 +3,8 @@
     "id": "paramMarkdown",
     "longname": "paramMarkdown",
     "name": "paramMarkdown",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [
       {
         "type": {

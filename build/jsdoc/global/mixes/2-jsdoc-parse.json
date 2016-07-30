@@ -3,8 +3,8 @@
     "id": "EventfulClass",
     "longname": "EventfulClass",
     "name": "EventfulClass",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "mixes": [
       "Eventful"
     ],

@@ -3,8 +3,8 @@
     "id": "Eventful",
     "longname": "Eventful",
     "name": "Eventful",
-    "scope": "global",
     "kind": "mixin",
+    "scope": "global",
     "description": "This provides methods used for event handling. It's not meant to\nbe used directly.",
     "meta": {
       "lineno": 6,
@@ -17,8 +17,8 @@
     "id": "phantom",
     "longname": "phantom",
     "name": "phantom",
-    "scope": "global",
     "kind": "mixin",
+    "scope": "global",
     "description": "phantom mixin",
     "meta": {
       "lineno": 22,
@@ -31,8 +31,8 @@
     "id": "Eventful.on",
     "longname": "Eventful.on",
     "name": "on",
-    "scope": "static",
     "kind": "function",
+    "scope": "static",
     "description": "Register a handler function to be called whenever this event is fired.",
     "memberof": "Eventful",
     "params": [
@@ -66,8 +66,8 @@
     "id": "Eventful.fire",
     "longname": "Eventful.fire",
     "name": "fire",
-    "scope": "static",
     "kind": "function",
+    "scope": "static",
     "description": "Fire an event, causing all handlers for that event name to run.",
     "memberof": "Eventful",
     "params": [

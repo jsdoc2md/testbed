@@ -3,8 +3,8 @@
     "id": "doSomething",
     "longname": "doSomething",
     "name": "doSomething",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [
       {
         "type": {
@@ -45,8 +45,8 @@
     "id": "doAnother",
     "longname": "doAnother",
     "name": "doAnother",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [
       {
         "type": {

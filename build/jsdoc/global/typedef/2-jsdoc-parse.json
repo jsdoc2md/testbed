@@ -3,8 +3,8 @@
     "id": "setMagicNumber",
     "longname": "setMagicNumber",
     "name": "setMagicNumber",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "Set the magic number.",
     "params": [
       {
@@ -28,8 +28,8 @@
     "id": "doSomething",
     "longname": "doSomething",
     "name": "doSomething",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [
       {
         "type": {
@@ -52,8 +52,8 @@
     "id": "NumberLike",
     "longname": "NumberLike",
     "name": "NumberLike",
-    "scope": "global",
     "kind": "typedef",
+    "scope": "global",
     "description": "A number, or a string containing a number.",
     "type": {
       "names": [
@@ -72,8 +72,8 @@
     "id": "someOptions",
     "longname": "someOptions",
     "name": "someOptions",
-    "scope": "global",
     "kind": "typedef",
+    "scope": "global",
     "description": "Some options",
     "type": {
       "names": [

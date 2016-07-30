@@ -3,8 +3,8 @@
     "id": "globalFunction",
     "longname": "globalFunction",
     "name": "globalFunction",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "a global function",
     "params": [
       {

@@ -3,8 +3,8 @@
     "id": "NewLines",
     "longname": "NewLines",
     "name": "NewLines",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "description": "A multi-line\nclass description",
     "meta": {
       "lineno": 6,
@@ -17,8 +17,8 @@
     "id": "NewLines#numbers",
     "longname": "NewLines#numbers",
     "name": "numbers",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "memberof": "NewLines",
     "properties": [
       {
@@ -42,8 +42,8 @@
     "id": "NewLines#method",
     "longname": "NewLines#method",
     "name": "method",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "memberof": "NewLines",
     "params": [
       {

@@ -16,8 +16,8 @@
     "id": "module:farm.size",
     "longname": "module:farm.size",
     "name": "size",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "size of farm",
     "memberof": "module:farm",
     "meta": {
@@ -31,8 +31,8 @@
     "id": "module:farm.equipment",
     "longname": "module:farm.equipment",
     "name": "equipment",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "machinary",
     "memberof": "module:farm",
     "meta": {
@@ -46,8 +46,8 @@
     "id": "module:farm.equipment.tractor",
     "longname": "module:farm.equipment.tractor",
     "name": "tractor",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "tractor details",
     "memberof": "module:farm.equipment",
     "meta": {
@@ -61,8 +61,8 @@
     "id": "module:farm.equipment.tractor.engine",
     "longname": "module:farm.equipment.tractor.engine",
     "name": "engine",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "engine details",
     "memberof": "module:farm.equipment.tractor",
     "meta": {
@@ -76,8 +76,8 @@
     "id": "module:farm.equipment.tractor.engine.manufacturer",
     "longname": "module:farm.equipment.tractor.engine.manufacturer",
     "name": "manufacturer",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "who made it",
     "memberof": "module:farm.equipment.tractor.engine",
     "meta": {
@@ -91,8 +91,8 @@
     "id": "module:farm.equipment.tractor.engine.size",
     "longname": "module:farm.equipment.tractor.engine.size",
     "name": "size",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "size of it",
     "memberof": "module:farm.equipment.tractor.engine",
     "meta": {

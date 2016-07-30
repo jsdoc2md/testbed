@@ -26,8 +26,8 @@
     "id": "module:linkMod.event:MyEvent",
     "longname": "module:linkMod.event:MyEvent",
     "name": "event:MyEvent",
-    "scope": "static",
     "kind": "event",
+    "scope": "static",
     "description": "An event. Refer to with {@link module:linkMod.event:MyEvent this link}.",
     "memberof": "module:linkMod",
     "meta": {
@@ -41,8 +41,8 @@
     "id": "module:linkMod~linksYeah",
     "longname": "module:linkMod~linksYeah",
     "name": "linksYeah",
-    "scope": "inner",
     "kind": "class",
+    "scope": "inner",
     "augments": [
       "external:Math"
     ],
@@ -61,8 +61,8 @@
     "id": "external:Math",
     "longname": "external:Math",
     "name": "Math",
-    "scope": "inner",
     "kind": "external",
+    "scope": "inner",
     "description": "The built in Math object. Refer to it with {@link external:Math}.",
     "memberof": "module:linkMod",
     "see": [
@@ -79,8 +79,8 @@
     "id": "external:Date",
     "longname": "external:Date",
     "name": "Date",
-    "scope": "inner",
     "kind": "external",
+    "scope": "inner",
     "description": "The built in Date object, it has no see tag. Refer to it with {@link external:Date}.",
     "memberof": "module:linkMod",
     "meta": {

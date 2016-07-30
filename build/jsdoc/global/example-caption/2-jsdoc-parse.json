@@ -3,8 +3,8 @@
     "id": "exampleCaption",
     "longname": "exampleCaption",
     "name": "exampleCaption",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [],
     "examples": [
       "<caption>This is how it's done.</caption>\nconst result = exampleCaption()"

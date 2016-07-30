@@ -3,8 +3,8 @@
     "id": "exampleVar",
     "longname": "exampleVar",
     "name": "exampleVar",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "description": "an example var",
     "examples": [
       "var thisVar = funtion(){\n    return \"a value\"\n}"

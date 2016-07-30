@@ -3,8 +3,8 @@
     "id": "functionObj",
     "longname": "functionObj",
     "name": "functionObj",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "the function",
     "params": [],
     "meta": {
@@ -18,8 +18,8 @@
     "id": "functionObj.extra",
     "longname": "functionObj.extra",
     "name": "extra",
-    "scope": "static",
     "kind": "function",
+    "scope": "static",
     "description": "a static method on the function",
     "memberof": "functionObj",
     "meta": {

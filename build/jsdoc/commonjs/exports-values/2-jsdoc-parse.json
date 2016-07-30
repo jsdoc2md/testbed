@@ -16,8 +16,8 @@
     "id": "module:exports-values.one",
     "longname": "module:exports-values.one",
     "name": "one",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "memberof": "module:exports-values",
     "type": {
       "names": [
@@ -35,8 +35,8 @@
     "id": "module:exports-values.two",
     "longname": "module:exports-values.two",
     "name": "two",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "memberof": "module:exports-values",
     "type": {
       "names": [

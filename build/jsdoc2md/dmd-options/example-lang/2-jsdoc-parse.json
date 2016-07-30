@@ -3,8 +3,8 @@
     "id": "one",
     "longname": "one",
     "name": "one",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "A simple example with some code.. it will format using the language specified by `--example-lang`",
     "params": [],
     "examples": [
@@ -21,8 +21,8 @@
     "id": "two",
     "longname": "two",
     "name": "two",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "An example that already contains a fenced-code block (language `json`)",
     "params": [],
     "examples": [
@@ -39,8 +39,8 @@
     "id": "three",
     "longname": "three",
     "name": "three",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "An example with no code, just text",
     "params": [],
     "examples": [
@@ -57,8 +57,8 @@
     "id": "four",
     "longname": "four",
     "name": "four",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "Another text example, using the `@lang off` sub-tag..",
     "params": [],
     "examples": [
@@ -75,8 +75,8 @@
     "id": "five",
     "longname": "five",
     "name": "five",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "A simple example using `@example @lang hbs` to specify handlebars as the language",
     "params": [],
     "examples": [

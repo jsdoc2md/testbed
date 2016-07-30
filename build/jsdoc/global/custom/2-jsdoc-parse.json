@@ -3,8 +3,8 @@
     "id": "Tree",
     "longname": "Tree",
     "name": "Tree",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "meta": {
       "lineno": 11,
       "filename": "0-src.js",
@@ -16,8 +16,8 @@
     "id": "promiseSomething",
     "longname": "promiseSomething",
     "name": "promiseSomething",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [],
     "returns": [
       {
@@ -49,8 +49,8 @@
     "id": "Comedy",
     "longname": "Comedy",
     "name": "Comedy",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [],
     "customTags": [
       {

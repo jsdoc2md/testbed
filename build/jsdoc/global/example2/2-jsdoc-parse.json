@@ -3,8 +3,8 @@
     "id": "one",
     "longname": "one",
     "name": "one",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "A simple example written in the default `--example-lang` (javascript)",
     "params": [],
     "examples": [
@@ -21,8 +21,8 @@
     "id": "two",
     "longname": "two",
     "name": "two",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "An example written in a different lang to the default (json)",
     "params": [],
     "examples": [
@@ -39,8 +39,8 @@
     "id": "three",
     "longname": "three",
     "name": "three",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "An example with no code, just text",
     "params": [],
     "examples": [
@@ -57,8 +57,8 @@
     "id": "four",
     "longname": "four",
     "name": "four",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "Another text example, using the `@lang off` sub-tag..",
     "params": [],
     "examples": [
@@ -75,8 +75,8 @@
     "id": "five",
     "longname": "five",
     "name": "five",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "An example with text and code, with no fenced-code blocks",
     "params": [],
     "examples": [
@@ -93,8 +93,8 @@
     "id": "six",
     "longname": "six",
     "name": "six",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "An example with text and code, with fenced-code block and no lang set",
     "params": [],
     "examples": [
@@ -111,8 +111,8 @@
     "id": "seven",
     "longname": "seven",
     "name": "seven",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "An example with text and code, with fenced-code block and `js` lang set",
     "params": [],
     "examples": [
@@ -129,8 +129,8 @@
     "id": "eight",
     "longname": "eight",
     "name": "eight",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "An example with text and code, with fenced-code block and `json` lang set",
     "params": [],
     "examples": [

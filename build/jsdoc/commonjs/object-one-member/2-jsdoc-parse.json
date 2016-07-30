@@ -17,8 +17,8 @@
     "id": "module:one-member.three",
     "longname": "module:one-member.three",
     "name": "three",
-    "scope": "static",
     "kind": "function",
+    "scope": "static",
     "description": "a function",
     "memberof": "module:one-member",
     "params": [

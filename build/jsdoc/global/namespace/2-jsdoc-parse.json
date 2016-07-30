@@ -3,8 +3,8 @@
     "id": "car",
     "longname": "car",
     "name": "car",
-    "scope": "global",
     "kind": "namespace",
+    "scope": "global",
     "meta": {
       "lineno": 4,
       "filename": "0-src.js",
@@ -16,8 +16,8 @@
     "id": "car.start#env",
     "longname": "car.start#env",
     "name": "env",
-    "scope": "instance",
     "kind": "namespace",
+    "scope": "instance",
     "description": "decribes the current conditions",
     "memberof": "car.start",
     "meta": {
@@ -31,8 +31,8 @@
     "id": "car.wheels",
     "longname": "car.wheels",
     "name": "wheels",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "the round things",
     "memberof": "car",
     "meta": {
@@ -46,8 +46,8 @@
     "id": "car.sensors",
     "longname": "car.sensors",
     "name": "sensors",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "the electronics that always go wrong",
     "memberof": "car",
     "meta": {
@@ -61,8 +61,8 @@
     "id": "car.start#env.weather",
     "longname": "car.start#env.weather",
     "name": "weather",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "what kind of day is it",
     "memberof": "car.start#env",
     "type": {
@@ -82,8 +82,8 @@
     "id": "car.start#env.roads",
     "longname": "car.start#env.roads",
     "name": "roads",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "road condition",
     "memberof": "car.start#env",
     "type": {
@@ -103,8 +103,8 @@
     "id": "car.start",
     "longname": "car.start",
     "name": "start",
-    "scope": "static",
     "kind": "function",
+    "scope": "static",
     "description": "start the car",
     "memberof": "car",
     "params": [

@@ -1,29 +1,6 @@
 [
   {
-    "id": "All",
-    "longname": "All",
-    "name": "All",
-    "kind": "class",
-    "scope": "global",
-    "augments": [
-      "Number"
-    ],
-    "description": "a class with all of the things",
-    "author": [
-      "75lb <75pound@gmail.com>"
-    ],
-    "deprecated": true,
-    "since": "v0.10.28",
-    "meta": {
-      "lineno": 17,
-      "filename": "0-src.html",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/html/class-all"
-    },
-    "order": 0
-  },
-  {
     "id": "All()",
-    "parentId": "All",
     "longname": "All",
     "name": "All",
     "kind": "constructor",
@@ -56,8 +33,29 @@
     "order": 1
   },
   {
+    "id": "All",
+    "longname": "All",
+    "name": "All",
+    "kind": "class",
+    "scope": "global",
+    "augments": [
+      "Number"
+    ],
+    "description": "a class with all of the things",
+    "author": [
+      "75lb <75pound@gmail.com>"
+    ],
+    "deprecated": true,
+    "since": "v0.10.28",
+    "meta": {
+      "lineno": 17,
+      "filename": "0-src.html",
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/options/html/class-all"
+    },
+    "order": 0
+  },
+  {
     "id": "All#topping",
-    "parentId": "All",
     "longname": "All#topping",
     "name": "topping",
     "kind": "member",
@@ -74,13 +72,12 @@
     "meta": {
       "lineno": 24,
       "filename": "0-src.html",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/html/class-all"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/options/html/class-all"
     },
     "order": 2
   },
   {
     "id": "All#size",
-    "parentId": "All",
     "longname": "All#size",
     "name": "size",
     "kind": "member",
@@ -90,13 +87,12 @@
     "meta": {
       "lineno": 28,
       "filename": "0-src.html",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/html/class-all"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/options/html/class-all"
     },
     "order": 3
   },
   {
     "id": "All#allThings",
-    "parentId": "All",
     "longname": "All#allThings",
     "name": "allThings",
     "kind": "function",
@@ -145,13 +141,12 @@
     "meta": {
       "lineno": 43,
       "filename": "0-src.html",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/html/class-all"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/options/html/class-all"
     },
     "order": 4
   },
   {
     "id": "All#allThings~some",
-    "parentId": "All#allThings",
     "longname": "All#allThings~some",
     "name": "some",
     "kind": "member",
@@ -161,7 +156,7 @@
     "meta": {
       "lineno": 47,
       "filename": "0-src.html",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build-v2/jsdoc2md/options/html/class-all"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/options/html/class-all"
     },
     "order": 5
   }

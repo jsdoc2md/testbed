@@ -40,8 +40,8 @@
     "id": "module:cyberdyne~Machine#eyes",
     "longname": "module:cyberdyne~Machine#eyes",
     "name": "eyes",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "memberof": "module:cyberdyne~Machine",
     "type": {
       "names": [
@@ -59,8 +59,8 @@
     "id": "module:cyberdyne~Machine#vibe",
     "longname": "module:cyberdyne~Machine#vibe",
     "name": "vibe",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "memberof": "module:cyberdyne~Machine",
     "type": {
       "names": [
@@ -78,8 +78,8 @@
     "id": "module:cyberdyne.createMachine",
     "longname": "module:cyberdyne.createMachine",
     "name": "createMachine",
-    "scope": "static",
     "kind": "function",
+    "scope": "static",
     "memberof": "module:cyberdyne",
     "returns": [
       {
@@ -101,8 +101,8 @@
     "id": "module:cyberdyne~Machine",
     "longname": "module:cyberdyne~Machine",
     "name": "Machine",
-    "scope": "inner",
     "kind": "class",
+    "scope": "inner",
     "description": "The main class of machine",
     "memberof": "module:cyberdyne",
     "meta": {
@@ -116,8 +116,8 @@
     "id": "module:cyberdyne~something",
     "longname": "module:cyberdyne~something",
     "name": "something",
-    "scope": "inner",
     "kind": "member",
+    "scope": "inner",
     "description": "random",
     "memberof": "module:cyberdyne",
     "meta": {

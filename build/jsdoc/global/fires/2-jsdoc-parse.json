@@ -3,8 +3,8 @@
     "id": "firesError",
     "longname": "firesError",
     "name": "firesError",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [],
     "fires": [
       "event:error"
@@ -20,8 +20,8 @@
     "id": "firesMany",
     "longname": "firesMany",
     "name": "firesMany",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [],
     "fires": [
       "event:error",
@@ -39,8 +39,8 @@
     "id": "firesDefinedEvent",
     "longname": "firesDefinedEvent",
     "name": "firesDefinedEvent",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [],
     "fires": [
       "event:docletEvent"

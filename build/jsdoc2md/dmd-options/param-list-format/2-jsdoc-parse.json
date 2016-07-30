@@ -3,8 +3,8 @@
     "id": "taze",
     "longname": "taze",
     "name": "taze",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "Pump an idiot full of volts",
     "params": [
       {
@@ -92,8 +92,8 @@
     "id": "noParams",
     "longname": "noParams",
     "name": "noParams",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "this func has no params",
     "params": [],
     "meta": {

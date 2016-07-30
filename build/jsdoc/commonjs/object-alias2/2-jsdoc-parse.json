@@ -17,8 +17,8 @@
     "id": "module:0-src.one",
     "longname": "module:0-src.one",
     "name": "one",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "first property",
     "memberof": "module:0-src",
     "meta": {
@@ -32,8 +32,8 @@
     "id": "module:0-src.two",
     "longname": "module:0-src.two",
     "name": "two",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "second property",
     "memberof": "module:0-src",
     "meta": {
@@ -47,8 +47,8 @@
     "id": "module:0-src.three",
     "longname": "module:0-src.three",
     "name": "three",
-    "scope": "static",
     "kind": "function",
+    "scope": "static",
     "description": "a function",
     "memberof": "module:0-src",
     "meta": {

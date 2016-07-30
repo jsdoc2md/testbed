@@ -3,8 +3,8 @@
     "id": "CONST_ONE",
     "longname": "CONST_ONE",
     "name": "CONST_ONE",
-    "scope": "global",
     "kind": "constant",
+    "scope": "global",
     "description": "the first important constant",
     "type": {
       "names": [
@@ -22,8 +22,8 @@
     "id": "CONST_TWO",
     "longname": "CONST_TWO",
     "name": "CONST_TWO",
-    "scope": "global",
     "kind": "constant",
+    "scope": "global",
     "description": "include `@type` and `@default`",
     "type": {
       "names": [

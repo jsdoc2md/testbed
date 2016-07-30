@@ -43,8 +43,8 @@
     "id": "module:cjs/human--Human~Organ#redCell",
     "longname": "module:cjs/human~Organ#redCell",
     "name": "redCell",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "description": "an instance of Cell",
     "memberof": "module:cjs/human--Human~Organ",
     "type": {
@@ -63,8 +63,8 @@
     "id": "module:cjs/human--Human#liver",
     "longname": "module:cjs/human#liver",
     "name": "liver",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "description": "an instance of Organ",
     "memberof": "module:cjs/human--Human",
     "type": {
@@ -83,8 +83,8 @@
     "id": "module:cjs/human--Human~Organ",
     "longname": "module:cjs/human~Organ",
     "name": "Organ",
-    "scope": "inner",
     "kind": "class",
+    "scope": "inner",
     "description": "a class inside a class",
     "memberof": "module:cjs/human--Human",
     "meta": {
@@ -98,8 +98,8 @@
     "id": "module:cjs/human--Human~Organ~Cell",
     "longname": "module:cjs/human~Organ~Cell",
     "name": "Cell",
-    "scope": "inner",
     "kind": "class",
+    "scope": "inner",
     "description": "a class inside a class inside a class",
     "memberof": "module:cjs/human--Human~Organ",
     "meta": {

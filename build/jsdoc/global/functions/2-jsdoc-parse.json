@@ -3,8 +3,8 @@
     "id": "globalFunc",
     "longname": "globalFunc",
     "name": "globalFunc",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "a global function",
     "params": [],
     "meta": {
@@ -18,8 +18,8 @@
     "id": "exampled",
     "longname": "exampled",
     "name": "exampled",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "a function with an example",
     "params": [],
     "examples": [
@@ -36,8 +36,8 @@
     "id": "multiExampled",
     "longname": "multiExampled",
     "name": "multiExampled",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "a function with multiple examples",
     "params": [],
     "examples": [
@@ -55,8 +55,8 @@
     "id": "_protected",
     "longname": "_protected",
     "name": "_protected",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "access": "protected",
     "meta": {
       "lineno": 31,
@@ -69,8 +69,8 @@
     "id": "withAuthor",
     "longname": "withAuthor",
     "name": "withAuthor",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [],
     "author": [
       "Clive Jones <clive@jones.com>"
@@ -86,8 +86,8 @@
     "id": "oldFunction",
     "longname": "oldFunction",
     "name": "oldFunction",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [],
     "deprecated": true,
     "meta": {
@@ -101,8 +101,8 @@
     "id": "newFunction",
     "longname": "newFunction",
     "name": "newFunction",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [],
     "since": "v0.10.28",
     "meta": {
@@ -116,8 +116,8 @@
     "id": "withParam",
     "longname": "withParam",
     "name": "withParam",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [
       {
         "type": {
@@ -140,8 +140,8 @@
     "id": "withParams",
     "longname": "withParams",
     "name": "withParams",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [
       {
         "type": {
@@ -172,8 +172,8 @@
     "id": "withOptional",
     "longname": "withOptional",
     "name": "withOptional",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [
       {
         "type": {
@@ -206,8 +206,8 @@
     "id": "withBullets",
     "longname": "withBullets",
     "name": "withBullets",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "this description has \n\n- bullet\n- points\n\nand needs this line to separate the above list from the below",
     "params": [
       {
@@ -240,8 +240,8 @@
     "id": "returnsSomething",
     "longname": "returnsSomething",
     "name": "returnsSomething",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [],
     "returns": [
       {
@@ -263,8 +263,8 @@
     "id": "returnsSomethingDesc",
     "longname": "returnsSomethingDesc",
     "name": "returnsSomethingDesc",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [],
     "returns": [
       {
@@ -287,8 +287,8 @@
     "id": "returnsSeveral",
     "longname": "returnsSeveral",
     "name": "returnsSeveral",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [],
     "returns": [
       {
@@ -312,8 +312,8 @@
     "id": "allTogether",
     "longname": "allTogether",
     "name": "allTogether",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "This function has all tags set",
     "params": [
       {

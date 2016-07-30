@@ -3,8 +3,8 @@
     "id": "returnsArrayOfType",
     "longname": "returnsArrayOfType",
     "name": "returnsArrayOfType",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "type": {
       "names": [
         "Array.<module:cjs/human>"
@@ -21,8 +21,8 @@
     "id": "returnsArrayOfType2",
     "longname": "returnsArrayOfType2",
     "name": "returnsArrayOfType2",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "type": {
       "names": [
         "Array.<module:cjs/human>"
@@ -40,8 +40,8 @@
     "id": "nullableNumber",
     "longname": "nullableNumber",
     "name": "nullableNumber",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "type": {
       "names": [
         "number"
@@ -59,8 +59,8 @@
     "id": "nonNullableNumber",
     "longname": "nonNullableNumber",
     "name": "nonNullableNumber",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "type": {
       "names": [
         "number"
@@ -78,8 +78,8 @@
     "id": "recordType",
     "longname": "recordType",
     "name": "recordType",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "type": {
       "names": [
         "Object"
@@ -96,8 +96,8 @@
     "id": "nullableArrayTypeParam",
     "longname": "nullableArrayTypeParam",
     "name": "nullableArrayTypeParam",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [
       {
         "type": {

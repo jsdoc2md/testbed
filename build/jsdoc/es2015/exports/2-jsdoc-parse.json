@@ -15,8 +15,8 @@
     "id": "module:color/mixer.lastColor",
     "longname": "module:color/mixer.lastColor",
     "name": "lastColor",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "The most recent blended color.",
     "memberof": "module:color/mixer",
     "meta": {
@@ -30,8 +30,8 @@
     "id": "module:color/mixer.name",
     "longname": "module:color/mixer.name",
     "name": "name",
-    "scope": "static",
     "kind": "constant",
+    "scope": "static",
     "description": "The name of the module.",
     "memberof": "module:color/mixer",
     "meta": {
@@ -45,8 +45,8 @@
     "id": "module:color/mixer.blend",
     "longname": "module:color/mixer.blend",
     "name": "blend",
-    "scope": "static",
     "kind": "function",
+    "scope": "static",
     "description": "Blend two colors together.",
     "memberof": "module:color/mixer",
     "params": [
@@ -90,8 +90,8 @@
     "id": "module:color/mixer.toRgb",
     "longname": "module:color/mixer.toRgb",
     "name": "toRgb",
-    "scope": "static",
     "kind": "function",
+    "scope": "static",
     "description": "Get the red, green, and blue values of a color.",
     "memberof": "module:color/mixer",
     "params": [

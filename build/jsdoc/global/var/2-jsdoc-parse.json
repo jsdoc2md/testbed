@@ -3,8 +3,8 @@
     "id": "globalVar",
     "longname": "globalVar",
     "name": "globalVar",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "description": "a global var",
     "type": {
       "names": [

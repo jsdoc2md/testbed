@@ -29,8 +29,8 @@
     "id": "something",
     "longname": "something",
     "name": "something",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "description": "this is for something",
     "type": {
       "names": [
@@ -48,8 +48,8 @@
     "id": "another",
     "longname": "another",
     "name": "another",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "description": "this is for something else",
     "type": {
       "names": [

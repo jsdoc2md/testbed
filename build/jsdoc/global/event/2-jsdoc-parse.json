@@ -3,8 +3,8 @@
     "id": "Hurl",
     "longname": "Hurl",
     "name": "Hurl",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "meta": {
       "lineno": 4,
       "filename": "0-src.js",
@@ -16,8 +16,8 @@
     "id": "Hurl#snowball",
     "longname": "Hurl#snowball",
     "name": "snowball",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "description": "Throw a snowball.",
     "memberof": "Hurl",
     "fires": [
@@ -34,8 +34,8 @@
     "id": "Hurl#event:snowball",
     "longname": "Hurl#event:snowball",
     "name": "snowball",
-    "scope": "instance",
     "kind": "event",
+    "scope": "instance",
     "description": "Snowball event.",
     "memberof": "Hurl",
     "type": {

@@ -3,8 +3,8 @@
     "id": "globalGenerator",
     "longname": "globalGenerator",
     "name": "globalGenerator",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "a global generator",
     "params": [
       {

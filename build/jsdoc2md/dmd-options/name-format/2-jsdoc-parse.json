@@ -26,8 +26,8 @@
     "id": "FurQ",
     "longname": "FurQ",
     "name": "FurQ",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "augments": [
       "Rapper"
     ],
@@ -46,7 +46,7 @@
     "meta": {
       "lineno": 22,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/global/class-furq"
     },
     "order": 0
   },
@@ -54,12 +54,12 @@
     "id": "Rapper",
     "longname": "Rapper",
     "name": "Rapper",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "meta": {
       "lineno": 109,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/global/class-furq"
     },
     "order": 13
   },
@@ -67,14 +67,14 @@
     "id": "plant",
     "longname": "plant",
     "name": "plant",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "to plant ones fist in a buster's mush",
     "params": [],
     "meta": {
       "lineno": 97,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/global/class-furq"
     },
     "order": 11
   },
@@ -82,8 +82,8 @@
     "id": "FurQ#wannaTryIt",
     "longname": "FurQ#wannaTryIt",
     "name": "wannaTryIt",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "memberof": "FurQ",
     "type": {
       "names": [
@@ -98,7 +98,7 @@
     "meta": {
       "lineno": 55,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/global/class-furq"
     },
     "order": 5
   },
@@ -106,14 +106,14 @@
     "id": "Rapper.train~School#bestStudent",
     "longname": "Rapper.train~School#bestStudent",
     "name": "bestStudent",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "description": "best student",
     "memberof": "Rapper.train~School",
     "meta": {
       "lineno": 131,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/global/class-furq"
     },
     "order": 19
   },
@@ -121,8 +121,8 @@
     "id": "FurQ#LOVE",
     "longname": "FurQ#LOVE",
     "name": "LOVE",
-    "scope": "instance",
     "kind": "constant",
+    "scope": "instance",
     "memberof": "FurQ",
     "type": {
       "names": [
@@ -133,7 +133,7 @@
     "meta": {
       "lineno": 47,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/global/class-furq"
     },
     "order": 4
   },
@@ -141,15 +141,15 @@
     "id": "FurQ#spit",
     "longname": "FurQ#spit",
     "name": "spit",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "overrides": "Rapper#spit",
     "description": "override",
     "memberof": "FurQ",
     "meta": {
       "lineno": 60,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/global/class-furq"
     },
     "order": 6
   },
@@ -157,14 +157,14 @@
     "id": "Rapper#spit",
     "longname": "Rapper#spit",
     "name": "spit",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "description": "spit",
     "memberof": "Rapper",
     "meta": {
       "lineno": 113,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/global/class-furq"
     },
     "order": 14
   },
@@ -172,14 +172,14 @@
     "id": "Rapper#battle",
     "longname": "Rapper#battle",
     "name": "battle",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "description": "battle",
     "memberof": "Rapper",
     "meta": {
       "lineno": 117,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/global/class-furq"
     },
     "order": 15
   },
@@ -187,8 +187,8 @@
     "id": "FurQ#battle",
     "longname": "FurQ#battle",
     "name": "battle",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "inherits": "Rapper#battle",
     "inherited": true,
     "description": "battle",
@@ -196,7 +196,7 @@
     "meta": {
       "lineno": 117,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/global/class-furq"
     },
     "order": 20
   },
@@ -204,15 +204,15 @@
     "id": "FurQ#punch",
     "longname": "FurQ#punch",
     "name": "punch",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "description": "to plant ones fist in a buster's mush",
     "memberof": "FurQ",
     "params": [],
     "meta": {
       "lineno": 97,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/global/class-furq"
     },
     "order": 21
   },
@@ -220,8 +220,8 @@
     "id": "FurQ#event:pop",
     "longname": "FurQ#event:pop",
     "name": "pop",
-    "scope": "instance",
     "kind": "event",
+    "scope": "instance",
     "description": "fire weapon",
     "memberof": "FurQ",
     "params": [
@@ -238,7 +238,7 @@
     "meta": {
       "lineno": 62,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/global/class-furq"
     },
     "order": 7
   },
@@ -246,14 +246,14 @@
     "id": "FurQ#event:slap",
     "longname": "FurQ#event:slap",
     "name": "slap",
-    "scope": "instance",
     "kind": "event",
+    "scope": "instance",
     "description": "slap man",
     "memberof": "FurQ",
     "meta": {
       "lineno": 67,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/global/class-furq"
     },
     "order": 8
   },
@@ -261,8 +261,8 @@
     "id": "FurQ#kill",
     "longname": "FurQ#kill",
     "name": "kill",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "description": "kill",
     "memberof": "FurQ",
     "examples": [
@@ -273,7 +273,7 @@
     "meta": {
       "lineno": 29,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/global/class-furq"
     },
     "order": 2
   },
@@ -281,8 +281,8 @@
     "id": "FurQ#respect",
     "longname": "FurQ#respect",
     "name": "respect",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "description": "respect",
     "memberof": "FurQ",
     "params": [
@@ -303,7 +303,7 @@
     "meta": {
       "lineno": 39,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/global/class-furq"
     },
     "order": 3
   },
@@ -311,8 +311,8 @@
     "id": "FurQ.enemy",
     "longname": "FurQ.enemy",
     "name": "enemy",
+    "kind": "enum",
     "scope": "static",
-    "kind": "member",
     "description": "FUR-Q enemy types",
     "memberof": "FurQ",
     "type": {
@@ -321,7 +321,6 @@
       ]
     },
     "readonly": true,
-    "isEnum": true,
     "properties": [
       {
         "description": "an awful individual",
@@ -367,7 +366,7 @@
     "meta": {
       "lineno": 85,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/global/class-furq"
     },
     "order": 10
   },
@@ -375,8 +374,8 @@
     "id": "FurQ.peace",
     "longname": "FurQ.peace",
     "name": "peace",
-    "scope": "static",
     "kind": "function",
+    "scope": "static",
     "description": "check if at peace",
     "memberof": "FurQ",
     "examples": [
@@ -386,7 +385,7 @@
     "meta": {
       "lineno": 78,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/global/class-furq"
     },
     "order": 9
   },
@@ -394,14 +393,14 @@
     "id": "Rapper.train",
     "longname": "Rapper.train",
     "name": "train",
-    "scope": "static",
     "kind": "function",
+    "scope": "static",
     "description": "train new rappers",
     "memberof": "Rapper",
     "meta": {
       "lineno": 122,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/global/class-furq"
     },
     "order": 16
   },
@@ -409,13 +408,13 @@
     "id": "Rapper.train~School",
     "longname": "Rapper.train~School",
     "name": "School",
-    "scope": "inner",
     "kind": "class",
+    "scope": "inner",
     "memberof": "Rapper.train",
     "meta": {
       "lineno": 127,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/global/class-furq"
     },
     "order": 17
   },
@@ -423,8 +422,8 @@
     "id": "FurQ~onRespect",
     "longname": "FurQ~onRespect",
     "name": "onRespect",
-    "scope": "inner",
     "kind": "typedef",
+    "scope": "inner",
     "description": "Passed to {@link FurQ#respect}",
     "memberof": "FurQ",
     "params": [
@@ -455,7 +454,7 @@
     "meta": {
       "lineno": 99,
       "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/global/class-furq"
+      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/global/class-furq"
     },
     "order": 12
   }

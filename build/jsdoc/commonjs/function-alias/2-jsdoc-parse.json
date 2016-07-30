@@ -62,8 +62,8 @@
     "id": "module:cjs/function-alias--sum.sumthingStatic",
     "longname": "module:cjs/function-alias.sumthingStatic",
     "name": "sumthingStatic",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "an additional static property",
     "memberof": "module:cjs/function-alias--sum",
     "meta": {

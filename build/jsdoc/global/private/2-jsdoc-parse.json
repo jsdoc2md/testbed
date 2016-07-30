@@ -3,8 +3,8 @@
     "id": "Documents",
     "longname": "Documents",
     "name": "Documents",
-    "scope": "global",
     "kind": "namespace",
+    "scope": "global",
     "meta": {
       "lineno": 2,
       "filename": "0-src.js",
@@ -16,8 +16,8 @@
     "id": "Documents.Newspaper",
     "longname": "Documents.Newspaper",
     "name": "Newspaper",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "An ordinary newspaper.",
     "memberof": "Documents",
     "meta": {

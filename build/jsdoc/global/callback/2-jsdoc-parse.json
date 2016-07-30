@@ -3,8 +3,8 @@
     "id": "read",
     "longname": "read",
     "name": "read",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [
       {
         "type": {
@@ -36,8 +36,8 @@
     "id": "onComplete",
     "longname": "onComplete",
     "name": "onComplete",
-    "scope": "global",
     "kind": "typedef",
+    "scope": "global",
     "description": "Called when an async operation completes",
     "params": [
       {

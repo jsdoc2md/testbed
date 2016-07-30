@@ -3,8 +3,8 @@
     "id": "personality",
     "longname": "personality",
     "name": "personality",
-    "scope": "global",
     "kind": "namespace",
+    "scope": "global",
     "description": "A personality object, documented using the more concise `@property` notation.",
     "properties": [
       {

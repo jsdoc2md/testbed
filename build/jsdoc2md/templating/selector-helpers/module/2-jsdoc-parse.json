@@ -47,8 +47,8 @@
     "id": "module:animal~Animal#age",
     "longname": "module:animal~Animal#age",
     "name": "age",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "description": "the current age",
     "memberof": "module:animal~Animal",
     "type": {
@@ -68,8 +68,8 @@
     "id": "module:animal~Animal#species",
     "longname": "module:animal~Animal#species",
     "name": "species",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "memberof": "module:animal~Animal",
     "type": {
       "names": [
@@ -87,11 +87,10 @@
     "id": "module:animal~Animal.eMood",
     "longname": "module:animal~Animal.eMood",
     "name": "eMood",
+    "kind": "enum",
     "scope": "static",
-    "kind": "member",
     "description": "Animal moods",
     "memberof": "module:animal~Animal",
-    "isEnum": true,
     "properties": [
       {
         "description": "chilling",
@@ -132,8 +131,8 @@
     "id": "module:animal~Animal",
     "longname": "module:animal~Animal",
     "name": "Animal",
-    "scope": "inner",
     "kind": "class",
+    "scope": "inner",
     "memberof": "module:animal",
     "meta": {
       "lineno": 21,

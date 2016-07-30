@@ -3,8 +3,8 @@
     "id": "visible",
     "longname": "visible",
     "name": "visible",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "description": "a visible global",
     "meta": {
       "lineno": 4,

@@ -3,8 +3,8 @@
     "id": "globalFunction",
     "longname": "globalFunction",
     "name": "globalFunction",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "a global function returning multiple stuff",
     "params": [],
     "returns": [
@@ -37,8 +37,8 @@
     "id": "returnsSomething",
     "longname": "returnsSomething",
     "name": "returnsSomething",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "returns has no desc",
     "params": [],
     "returns": [

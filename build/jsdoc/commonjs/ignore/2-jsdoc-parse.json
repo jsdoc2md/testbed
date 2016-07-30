@@ -17,8 +17,8 @@
     "id": "module:0-src.visible",
     "longname": "module:0-src.visible",
     "name": "visible",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "visible property",
     "memberof": "module:0-src",
     "meta": {

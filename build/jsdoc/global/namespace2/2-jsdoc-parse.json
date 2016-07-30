@@ -3,8 +3,8 @@
     "id": "missle",
     "longname": "missle",
     "name": "missle",
-    "scope": "global",
     "kind": "namespace",
+    "scope": "global",
     "description": "A missle object, with separate docs for each property.",
     "meta": {
       "lineno": 1,
@@ -17,8 +17,8 @@
     "id": "missle.range",
     "longname": "missle.range",
     "name": "range",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "missile range",
     "memberof": "missle",
     "type": {
@@ -38,8 +38,8 @@
     "id": "missle.ballistic",
     "longname": "missle.ballistic",
     "name": "ballistic",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "ballistic",
     "memberof": "missle",
     "type": {
@@ -59,8 +59,8 @@
     "id": "missle.hydrogen",
     "longname": "missle.hydrogen",
     "name": "hydrogen",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "hydrogen bomb?",
     "memberof": "missle",
     "meta": {
@@ -74,8 +74,8 @@
     "id": "missle.megaton",
     "longname": "missle.megaton",
     "name": "megaton",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "number of megatons",
     "memberof": "missle",
     "type": {

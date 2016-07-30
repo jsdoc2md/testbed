@@ -31,8 +31,8 @@
     "id": "module:jacket--Jacket#zip",
     "longname": "module:jacket#zip",
     "name": "zip",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "description": "Open and close your Jacket.",
     "memberof": "module:jacket--Jacket",
     "meta": {

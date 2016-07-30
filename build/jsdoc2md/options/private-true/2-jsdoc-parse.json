@@ -3,8 +3,8 @@
     "id": "Documents",
     "longname": "Documents",
     "name": "Documents",
-    "scope": "global",
     "kind": "namespace",
+    "scope": "global",
     "meta": {
       "lineno": 2,
       "filename": "0-src.js",
@@ -16,8 +16,8 @@
     "id": "Documents.Newspaper",
     "longname": "Documents.Newspaper",
     "name": "Newspaper",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "An ordinary newspaper.",
     "memberof": "Documents",
     "meta": {
@@ -26,21 +26,5 @@
       "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/options/private-true"
     },
     "order": 1
-  },
-  {
-    "id": "Documents.Diary",
-    "longname": "Documents.Diary",
-    "name": "Diary",
-    "scope": "static",
-    "kind": "member",
-    "description": "My diary.",
-    "memberof": "Documents",
-    "access": "private",
-    "meta": {
-      "lineno": 11,
-      "filename": "0-src.js",
-      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/options/private-true"
-    },
-    "order": 2
   }
 ]

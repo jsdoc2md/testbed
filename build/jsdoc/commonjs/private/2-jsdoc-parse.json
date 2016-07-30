@@ -16,8 +16,8 @@
     "id": "module:private.notprivate",
     "longname": "module:private.notprivate",
     "name": "notprivate",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "visible property",
     "memberof": "module:private",
     "meta": {

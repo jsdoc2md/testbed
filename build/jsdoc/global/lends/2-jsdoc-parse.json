@@ -3,8 +3,8 @@
     "id": "LendsClass",
     "longname": "LendsClass",
     "name": "LendsClass",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "meta": {
       "lineno": 2,
       "filename": "0-src.js",
@@ -16,8 +16,8 @@
     "id": "LendsClass2",
     "longname": "LendsClass2",
     "name": "LendsClass2",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "alias": "LendsClass2",
     "meta": {
       "lineno": 19,
@@ -30,8 +30,8 @@
     "id": "LendsClass2#say",
     "longname": "LendsClass2#say",
     "name": "say",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "description": "say something",
     "memberof": "LendsClass2",
     "meta": {
@@ -45,8 +45,8 @@
     "id": "LendsClass.say",
     "longname": "LendsClass.say",
     "name": "say",
-    "scope": "static",
     "kind": "function",
+    "scope": "static",
     "description": "say something",
     "memberof": "LendsClass",
     "meta": {

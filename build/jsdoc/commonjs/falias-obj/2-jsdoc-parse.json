@@ -33,8 +33,8 @@
     "id": "module:falias-obj--sum.extra",
     "longname": "module:falias-obj.extra",
     "name": "extra",
-    "scope": "static",
     "kind": "function",
+    "scope": "static",
     "description": "a static method on the exported function",
     "memberof": "module:falias-obj--sum",
     "meta": {

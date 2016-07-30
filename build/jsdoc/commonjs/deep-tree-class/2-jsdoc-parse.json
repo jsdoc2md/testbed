@@ -42,8 +42,8 @@
     "id": "module:farm--Farm.Farm#equipment",
     "longname": "module:farm.Farm#equipment",
     "name": "equipment",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "description": "farm equipment",
     "memberof": "module:farm--Farm",
     "type": {
@@ -62,8 +62,8 @@
     "id": "module:farm--Farm~Equipment.Equipment#tractor",
     "longname": "module:farm~Equipment.Equipment#tractor",
     "name": "tractor",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "description": "the tractor",
     "memberof": "module:farm--Farm~Equipment",
     "type": {
@@ -82,8 +82,8 @@
     "id": "module:farm--Farm~Tractor.Tractor#engine",
     "longname": "module:farm~Tractor.Tractor#engine",
     "name": "engine",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "description": "engine details",
     "memberof": "module:farm--Farm~Tractor",
     "meta": {
@@ -97,8 +97,8 @@
     "id": "module:farm--Farm~Tractor.Tractor#engine.manufacturer",
     "longname": "module:farm~Tractor.Tractor#engine.manufacturer",
     "name": "manufacturer",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "who built",
     "memberof": "module:farm--Farm~Tractor.Tractor#engine",
     "meta": {
@@ -112,8 +112,8 @@
     "id": "module:farm--Farm~Tractor.Tractor#engine.size",
     "longname": "module:farm~Tractor.Tractor#engine.size",
     "name": "size",
-    "scope": "static",
     "kind": "member",
+    "scope": "static",
     "description": "the size",
     "memberof": "module:farm--Farm~Tractor.Tractor#engine",
     "meta": {
@@ -127,8 +127,8 @@
     "id": "module:farm--Farm~Equipment",
     "longname": "module:farm~Equipment",
     "name": "Equipment",
-    "scope": "inner",
     "kind": "class",
+    "scope": "inner",
     "description": "Equipment class",
     "memberof": "module:farm--Farm",
     "meta": {
@@ -142,8 +142,8 @@
     "id": "module:farm--Farm~Tractor",
     "longname": "module:farm~Tractor",
     "name": "Tractor",
-    "scope": "inner",
     "kind": "class",
+    "scope": "inner",
     "description": "Tractor class",
     "memberof": "module:farm--Farm",
     "meta": {

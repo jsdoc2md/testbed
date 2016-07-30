@@ -16,8 +16,8 @@
     "id": "module:exports-vars~one",
     "longname": "module:exports-vars~one",
     "name": "one",
-    "scope": "inner",
     "kind": "member",
+    "scope": "inner",
     "memberof": "module:exports-vars",
     "type": {
       "names": [
@@ -35,8 +35,8 @@
     "id": "module:exports-vars~two",
     "longname": "module:exports-vars~two",
     "name": "two",
-    "scope": "inner",
     "kind": "member",
+    "scope": "inner",
     "memberof": "module:exports-vars",
     "type": {
       "names": [

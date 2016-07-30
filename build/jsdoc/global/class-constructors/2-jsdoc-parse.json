@@ -67,8 +67,8 @@
     "id": "Person",
     "longname": "Person",
     "name": "Person",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "augments": [
       "Object"
     ],
@@ -84,8 +84,8 @@
     "id": "Car",
     "longname": "Car",
     "name": "Car",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "meta": {
       "lineno": 15,
       "filename": "0-src.js",
@@ -97,8 +97,8 @@
     "id": "Pipe",
     "longname": "Pipe",
     "name": "Pipe",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "augments": [
       "Pipe"
     ],
@@ -114,8 +114,8 @@
     "id": "Everything",
     "longname": "Everything",
     "name": "Everything",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "augments": [
       "Pipe"
     ],

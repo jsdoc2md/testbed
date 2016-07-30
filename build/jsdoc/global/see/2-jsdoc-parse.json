@@ -3,8 +3,8 @@
     "id": "seeableVar",
     "longname": "seeableVar",
     "name": "seeableVar",
-    "scope": "global",
     "kind": "member",
+    "scope": "global",
     "description": "a global var with a @see",
     "see": [
       "something or other"
@@ -20,8 +20,8 @@
     "id": "seefoo",
     "longname": "seefoo",
     "name": "seefoo",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "Both of these will link to the bar function.",
     "params": [],
     "see": [
@@ -39,8 +39,8 @@
     "id": "seebar",
     "longname": "seebar",
     "name": "seebar",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "params": [],
     "see": [
       "{@link seefoo} for further information.",

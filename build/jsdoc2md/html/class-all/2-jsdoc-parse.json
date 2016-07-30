@@ -36,8 +36,8 @@
     "id": "All",
     "longname": "All",
     "name": "All",
-    "scope": "global",
     "kind": "class",
+    "scope": "global",
     "augments": [
       "Number"
     ],
@@ -58,8 +58,8 @@
     "id": "All#topping",
     "longname": "All#topping",
     "name": "topping",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "description": "the ingredients on top",
     "memberof": "All",
     "type": {
@@ -80,8 +80,8 @@
     "id": "All#size",
     "longname": "All#size",
     "name": "size",
-    "scope": "instance",
     "kind": "member",
+    "scope": "instance",
     "description": "the general size",
     "memberof": "All",
     "meta": {
@@ -95,8 +95,8 @@
     "id": "All#allThings",
     "longname": "All#allThings",
     "name": "allThings",
-    "scope": "instance",
     "kind": "function",
+    "scope": "instance",
     "description": "This function has all tags set",
     "memberof": "All",
     "params": [
@@ -149,8 +149,8 @@
     "id": "All#allThings~some",
     "longname": "All#allThings~some",
     "name": "some",
-    "scope": "inner",
     "kind": "member",
+    "scope": "inner",
     "description": "a rarseclart inner",
     "memberof": "All#allThings",
     "meta": {
