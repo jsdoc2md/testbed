@@ -8,7 +8,7 @@
     "meta": {
       "lineno": 2,
       "filename": "0-src.js",
-      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/options/private-true"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/private-true"
     },
     "order": 0
   },
@@ -23,8 +23,24 @@
     "meta": {
       "lineno": 6,
       "filename": "0-src.js",
-      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/options/private-true"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/private-true"
     },
     "order": 1
+  },
+  {
+    "id": "Documents.Diary",
+    "longname": "Documents.Diary",
+    "name": "Diary",
+    "kind": "member",
+    "scope": "static",
+    "description": "My diary.",
+    "memberof": "Documents",
+    "access": "private",
+    "meta": {
+      "lineno": 11,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/options/private-true"
+    },
+    "order": 2
   }
 ]
