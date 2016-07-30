@@ -4,10 +4,9 @@ const Queue = require('work').Queue
 const Task = require('work').Task
 const command = require('../lib/command')
 const fsIterable = require('../lib/iterator')
-const Tool = require('command-line-tool')
+const tool = require('command-line-tool')
 const arrayify = require('array-back')
 
-const tool = new Tool()
 const defs = [
   { name: 'help', alias: 'h', type: Boolean },
   { name: 'folders', type: String, multiple: true, defaultOption: true },

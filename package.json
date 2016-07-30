@@ -5,28 +5,16 @@
   "description": "testbed",
   "repository": "https://github.com/jsdoc2md/testbed.git",
   "license": "MIT",
-  "keywords": [],
-  "engines": {
-    "node": ">=0.10.0"
-  },
-  "bin": {
-    "testbed": "bin/cli.js"
-  },
+  "bin": "bin/cli.js",
   "scripts": {
-    "test": "tape test/*.js",
-    "docs": "jsdoc2md -t jsdoc2md/README.hbs lib/*.js > README.md; echo",
-    "build": "node bin/cli.js"
   },
   "devDependencies": {
     "array-back": "^1.0.3",
     "config-master": "^2.0.3",
-    "dmd": "^1.4.2",
+    "dmd": "jsdoc2md/dmd#sync",
     "dmd-bitbucket": "~0.1.9",
-    "dmd-bitbucket2": "jsdoc2md/dmd-bitbucket#next",
     "jsdoc-api": "jsdoc2md/jsdoc-api#next",
-    "jsdoc-parse": "^1.2.7",
-    "jsdoc-parse2": "jsdoc2md/jsdoc-parse#next",
-    "jsdoc-to-markdown2": "jsdoc2md/jsdoc-to-markdown#next",
+    "jsdoc-parse": "jsdoc2md/jsdoc-parse#next",
     "then-fs": "^2.0.0",
     "work": "~0.3.1"
   },
@@ -38,7 +26,7 @@
     ]
   },
   "dependencies": {
-    "command-line-tool": "~0.5.2",
+    "command-line-tool": "~0.6.0",
     "reduce-flatten": "^1.0.1"
   }
 }
