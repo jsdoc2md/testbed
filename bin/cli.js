@@ -16,7 +16,6 @@ const defs = [
   { name: 'bb2', type: Boolean },
   { name: 'jsdoc', type: Boolean },
   { name: 'parse', type: Boolean },
-  { name: 'parse2', type: Boolean },
   { name: 'dmd', type: Boolean },
   { name: 'dmd2', type: Boolean }
 ]
@@ -77,8 +76,6 @@ getFolderList()
         plugin: 'dmd-bitbucket',
         outputFile: '4-dmd-bb.md'
       }))
-    } else if (options.parse2) {
-      queue = buildQueue(folderList, dir => new command.JsdocParse2(dir))
     } else if (options.dmd2) {
       queue = buildQueue(folderList, dir => new command.Dmd2(dir))
     } else if (options.bb2) {
