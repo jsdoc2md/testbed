@@ -14,7 +14,7 @@
     "dmd": "jsdoc2md/dmd#sync",
     "dmd-bitbucket": "~0.1.9",
     "jsdoc-api": "jsdoc2md/jsdoc-api#next",
-    "jsdoc-parse": "jsdoc2md/jsdoc-parse#next",
+    "jsdoc-parse": "^2.0.3",
     "then-fs": "^2.0.0",
     "work": "~0.3.1"
   },
