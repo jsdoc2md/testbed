@@ -65,7 +65,7 @@ the current age
 ### Animal.eMood
 Animal moods
 
-**Kind**: static enum property of <code>[Animal](#Animal)</code>  
+**Kind**: static enum of <code>[Animal](#Animal)</code>  
 **Properties**
 
 <table>

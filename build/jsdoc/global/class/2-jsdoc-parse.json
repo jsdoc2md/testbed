@@ -1,5 +1,49 @@
 [
   {
+    "id": "GlobalClass()",
+    "longname": "GlobalClass",
+    "name": "GlobalClass",
+    "kind": "constructor",
+    "description": "the global class constructor",
+    "memberof": "GlobalClass",
+    "params": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        },
+        "description": "first param",
+        "name": "one"
+      },
+      {
+        "type": {
+          "names": [
+            "string"
+          ]
+        },
+        "description": "second param",
+        "name": "two"
+      }
+    ],
+    "order": 1
+  },
+  {
+    "id": "GlobalClass",
+    "longname": "GlobalClass",
+    "name": "GlobalClass",
+    "kind": "class",
+    "scope": "global",
+    "description": "a global class",
+    "access": "private",
+    "meta": {
+      "lineno": 9,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class"
+    },
+    "order": 0
+  },
+  {
     "id": "GlobalChildClass",
     "longname": "GlobalChildClass",
     "name": "GlobalChildClass",
@@ -15,6 +59,21 @@
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class"
     },
     "order": 6
+  },
+  {
+    "id": "GlobalClass#propOne",
+    "longname": "GlobalClass#propOne",
+    "name": "propOne",
+    "kind": "member",
+    "scope": "instance",
+    "description": "an instance property",
+    "memberof": "GlobalClass",
+    "meta": {
+      "lineno": 11,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class"
+    },
+    "order": 2
   },
   {
     "id": "GlobalChildClass#propThree",
@@ -49,6 +108,36 @@
     "order": 9
   },
   {
+    "id": "GlobalClass#methodOne",
+    "longname": "GlobalClass#methodOne",
+    "name": "methodOne",
+    "kind": "function",
+    "scope": "instance",
+    "description": "parent method one",
+    "memberof": "GlobalClass",
+    "meta": {
+      "lineno": 17,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class"
+    },
+    "order": 4
+  },
+  {
+    "id": "GlobalClass#methodTwo",
+    "longname": "GlobalClass#methodTwo",
+    "name": "methodTwo",
+    "kind": "function",
+    "scope": "instance",
+    "description": "parent method two",
+    "memberof": "GlobalClass",
+    "meta": {
+      "lineno": 19,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class"
+    },
+    "order": 5
+  },
+  {
     "id": "GlobalChildClass#methodTwo",
     "longname": "GlobalChildClass#methodTwo",
     "name": "methodTwo",
@@ -80,5 +169,20 @@
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class"
     },
     "order": 10
+  },
+  {
+    "id": "GlobalClass.propTwo",
+    "longname": "GlobalClass.propTwo",
+    "name": "propTwo",
+    "kind": "member",
+    "scope": "static",
+    "description": "a static property",
+    "memberof": "GlobalClass",
+    "meta": {
+      "lineno": 14,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/class"
+    },
+    "order": 3
   }
 ]

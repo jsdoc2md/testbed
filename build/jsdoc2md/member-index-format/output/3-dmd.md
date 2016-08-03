@@ -76,7 +76,7 @@ the current age
 ### Animal.eMood
 Animal moods
 
-**Kind**: static enum property of <code>[Animal](#Animal)</code>  
+**Kind**: static enum of <code>[Animal](#Animal)</code>  
 **Properties**
 
 | Name | Default | Description |
@@ -217,7 +217,7 @@ uziLover.respect(function(err, gain){
 ### FurQ.enemy : <code>enum</code>
 FUR-Q enemy types
 
-**Kind**: static enum property of <code>[FurQ](#FurQ)</code>  
+**Kind**: static enum of <code>[FurQ](#FurQ)</code>  
 **Read only**: true  
 **Properties**
 

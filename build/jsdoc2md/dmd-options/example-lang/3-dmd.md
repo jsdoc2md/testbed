@@ -7,8 +7,8 @@
     "id": "one",
     "longname": "one",
     "name": "one",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "A simple example with some code.. it will format using the language specified by `--example-lang`",
     "params": [],
     "examples": [
@@ -17,7 +17,7 @@
     "meta": {
       "lineno": 6,
       "filename": "0-src.js",
-      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/example-lang"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/example-lang"
     },
     "order": 0
   },
@@ -25,8 +25,8 @@
     "id": "two",
     "longname": "two",
     "name": "two",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "An example that already contains a fenced-code block (language `json`)",
     "params": [],
     "examples": [
@@ -35,7 +35,7 @@
     "meta": {
       "lineno": 18,
       "filename": "0-src.js",
-      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/example-lang"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/example-lang"
     },
     "order": 1
   },
@@ -43,8 +43,8 @@
     "id": "three",
     "longname": "three",
     "name": "three",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "An example with no code, just text",
     "params": [],
     "examples": [
@@ -53,7 +53,7 @@
     "meta": {
       "lineno": 25,
       "filename": "0-src.js",
-      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/example-lang"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/example-lang"
     },
     "order": 2
   },
@@ -61,8 +61,8 @@
     "id": "four",
     "longname": "four",
     "name": "four",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "Another text example, using the `@lang off` sub-tag..",
     "params": [],
     "examples": [
@@ -71,7 +71,7 @@
     "meta": {
       "lineno": 32,
       "filename": "0-src.js",
-      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/example-lang"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/example-lang"
     },
     "order": 3
   },
@@ -79,8 +79,8 @@
     "id": "five",
     "longname": "five",
     "name": "five",
-    "scope": "global",
     "kind": "function",
+    "scope": "global",
     "description": "A simple example using `@example @lang hbs` to specify handlebars as the language",
     "params": [],
     "examples": [
@@ -89,7 +89,7 @@
     "meta": {
       "lineno": 39,
       "filename": "0-src.js",
-      "path": "/Users/lloydb/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/example-lang"
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/dmd-options/example-lang"
     },
     "order": 4
   }

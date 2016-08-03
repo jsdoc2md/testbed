@@ -26,5 +26,21 @@
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/private"
     },
     "order": 1
+  },
+  {
+    "id": "module:private.isprivate",
+    "longname": "module:private.isprivate",
+    "name": "isprivate",
+    "kind": "member",
+    "scope": "static",
+    "description": "isprivate property",
+    "memberof": "module:private",
+    "access": "private",
+    "meta": {
+      "lineno": 15,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/commonjs/private"
+    },
+    "order": 2
   }
 ]

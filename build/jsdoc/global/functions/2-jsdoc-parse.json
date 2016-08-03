@@ -66,6 +66,20 @@
     "order": 3
   },
   {
+    "id": "_private",
+    "longname": "_private",
+    "name": "_private",
+    "kind": "function",
+    "scope": "global",
+    "access": "private",
+    "meta": {
+      "lineno": 36,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/functions"
+    },
+    "order": 4
+  },
+  {
     "id": "withAuthor",
     "longname": "withAuthor",
     "name": "withAuthor",

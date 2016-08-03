@@ -100,6 +100,20 @@
     "order": 5
   },
   {
+    "id": "_private",
+    "longname": "_private",
+    "name": "_private",
+    "kind": "member",
+    "scope": "global",
+    "access": "private",
+    "meta": {
+      "lineno": 46,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/members"
+    },
+    "order": 6
+  },
+  {
     "id": "withAuthor",
     "longname": "withAuthor",
     "name": "withAuthor",
@@ -185,5 +199,35 @@
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/members"
     },
     "order": 12
+  },
+  {
+    "id": "allTogether",
+    "longname": "allTogether",
+    "name": "allTogether",
+    "kind": "member",
+    "scope": "global",
+    "description": "This variable has all tags set",
+    "examples": [
+      "```js\nvar allTogether = true\n```"
+    ],
+    "type": {
+      "names": [
+        "boolean"
+      ]
+    },
+    "defaultvalue": false,
+    "readonly": true,
+    "author": [
+      "75lb <75pound@gmail.com>"
+    ],
+    "deprecated": true,
+    "access": "private",
+    "since": "v0.10.28",
+    "meta": {
+      "lineno": 95,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/members"
+    },
+    "order": 13
   }
 ]

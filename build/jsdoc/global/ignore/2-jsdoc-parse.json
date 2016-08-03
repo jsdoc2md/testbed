@@ -12,5 +12,20 @@
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/ignore"
     },
     "order": 0
+  },
+  {
+    "id": "invisible",
+    "longname": "invisible",
+    "name": "invisible",
+    "kind": "member",
+    "scope": "global",
+    "description": "an ignored global",
+    "ignore": true,
+    "meta": {
+      "lineno": 10,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/ignore"
+    },
+    "order": 1
   }
 ]

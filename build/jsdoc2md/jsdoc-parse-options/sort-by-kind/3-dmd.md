@@ -20,7 +20,6 @@
 
 ## Members
 
-* [three](#three)
 * [seven](#seven) : <code>number</code>
 * [thirteen](#thirteen) : <code>number</code>
 
@@ -137,19 +136,6 @@ two_four
 two_one
 
 **Kind**: static method of <code>[two](#two)</code>  
-<a name="three"></a>
-
-## three
-three
-
-**Kind**: global enum  
-**Properties**
-
-| Name | Default |
-| --- | --- |
-| THIS | <code>0</code> | 
-| THAT | <code>1</code> | 
-
 <a name="seven"></a>
 
 ## seven : <code>number</code>
@@ -168,6 +154,19 @@ thirteen
 eight
 
 **Kind**: global namespace  
+<a name="three"></a>
+
+## three
+three
+
+**Kind**: global enum  
+**Properties**
+
+| Name | Default |
+| --- | --- |
+| THIS | <code>0</code> | 
+| THAT | <code>1</code> | 
+
 <a name="five"></a>
 
 ## five : <code>number</code>

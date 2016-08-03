@@ -26,5 +26,21 @@
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/private"
     },
     "order": 1
+  },
+  {
+    "id": "Documents.Diary",
+    "longname": "Documents.Diary",
+    "name": "Diary",
+    "kind": "member",
+    "scope": "static",
+    "description": "My diary.",
+    "memberof": "Documents",
+    "access": "private",
+    "meta": {
+      "lineno": 11,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc/global/private"
+    },
+    "order": 2
   }
 ]
