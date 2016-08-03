@@ -10,14 +10,11 @@ const arrayify = require('array-back')
 const defs = [
   { name: 'help', alias: 'h', type: Boolean },
   { name: 'folders', type: String, multiple: true, defaultOption: true },
-  { name: 'v1', type: Boolean },
-  { name: 'v2', type: Boolean },
-  { name: 'bb', type: Boolean },
-  { name: 'bb2', type: Boolean },
   { name: 'jsdoc', type: Boolean },
   { name: 'parse', type: Boolean },
   { name: 'dmd', type: Boolean },
-  { name: 'dmd2', type: Boolean }
+  { name: 'v1', type: Boolean },
+  { name: 'bb', type: Boolean }
 ]
 const { options, usage } = tool.getCli(defs, { header: 'Options', optionList: defs })
 
@@ -76,22 +73,11 @@ getFolderList()
         plugin: 'dmd-bitbucket',
         outputFile: '4-dmd-bb.md'
       }))
-    } else if (options.dmd2) {
-      queue = buildQueue(folderList, dir => new command.Dmd2(dir))
-    } else if (options.bb2) {
-      queue = buildQueue(folderList, dir => new command.Dmd2(dir, {
-        decorations: 'dmd-bitbucket2',
-        outputFile: '7-dmd2-bb2.md'
-      }))
     } else if (options.v1) {
       queue = buildQueue(folderList, [
+        dir => new command.Jsdoc(dir),
         dir => new command.JsdocParse(dir),
         dir => new command.Dmd(dir)
-      ])
-    } else if (options.v2) {
-      queue = buildQueue(folderList, [
-        dir => new command.JsdocParse2(dir),
-        dir => new command.Dmd2(dir)
       ])
     }
     if (queue) queue.process()
