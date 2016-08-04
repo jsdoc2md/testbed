@@ -46,18 +46,14 @@ Pump an idiot full of volts
 
 **Kind**: global function  
 
-| Param                  | Type                | Default | Description                                                               |
-| ---------------------- | ------------------- | ------- | ------------------------------------------------------------------------- |
-| victim                 | object &amp;#124; array |         | the victim(s) to fry                                                      |
-| options                | object              |         | electricution options                                                     |
-| options.strength       | number              | 11      | strength                                                                  |
-| options.crazyHair      | number              | true    | optional spikey hair effect                                               |
-| options.origin         | object              |         | origin details                                                            |
-| options.origin.country | string              |         | this param description is                                                 |
-|                        |                     |         | multi                                                                     |
-|                        |                     |         | line                                                                      |
-| done                   | function            |         | callback on slump, which has:                                             |
-|                        |                     |         | - devastating power                                                       |
-|                        |                     |         | - an unusual aftertaste                                                   |
+| Param | Type | Default | Description |
+| --- | --- | --- | --- |
+| victim | <code>object</code> &#124; <code>array</code> |  | the victim(s) to fry |
+| [options] | <code>object</code> |  | electricution options |
+| [options.strength] | <code>number</code> | <code>11</code> | strength |
+| [options.crazyHair] | <code>number</code> | <code>true</code> | optional spikey hair effect |
+| [options.origin] | <code>object</code> |  | origin details |
+| [options.origin.country] | <code>string</code> |  | this param description is   multi   line |
+| [done] | <code>function</code> |  | callback on slump, which has: - devastating power - an unusual aftertaste |
 
 
