@@ -2,13 +2,13 @@
 
 * [six](#six)
     * [new six()](#new_six_new)
+    * _instance_
+        * [.six_one](#six+six_one) : <code>number</code>
+        * [.six_two()](#six+six_two) ⇒ <code>number</code>
     * _static_
         * [.six_static_two](#six.six_static_two)
         * [.six_static_three](#six.six_static_three) : <code>number</code>
         * [.six_static_one](#six.six_static_one) : <code>object</code>
-    * _instance_
-        * [.six_one](#six+six_one) : <code>number</code>
-        * [.six_two()](#six+six_two) ⇒ <code>number</code>
 
 ## Mixins
 
@@ -56,19 +56,31 @@
 
 * [six](#six)
     * [new six()](#new_six_new)
+    * _instance_
+        * [.six_one](#six+six_one) : <code>number</code>
+        * [.six_two()](#six+six_two) ⇒ <code>number</code>
     * _static_
         * [.six_static_two](#six.six_static_two)
         * [.six_static_three](#six.six_static_three) : <code>number</code>
         * [.six_static_one](#six.six_static_one) : <code>object</code>
-    * _instance_
-        * [.six_one](#six+six_one) : <code>number</code>
-        * [.six_two()](#six+six_two) ⇒ <code>number</code>
 
 <a name="new_six_new"></a>
 
 ### new six()
 six
 
+<a name="six+six_one"></a>
+
+### six.six_one : <code>number</code>
+six_one
+
+**Kind**: instance constant of <code>[six](#six)</code>  
+<a name="six+six_two"></a>
+
+### six.six_two() ⇒ <code>number</code>
+six_two
+
+**Kind**: instance method of <code>[six](#six)</code>  
 <a name="six.six_static_two"></a>
 
 ### six.six_static_two
@@ -87,18 +99,6 @@ six_static_three
 six_static_one
 
 **Kind**: static namespace of <code>[six](#six)</code>  
-<a name="six+six_one"></a>
-
-### six.six_one : <code>number</code>
-six_one
-
-**Kind**: instance constant of <code>[six](#six)</code>  
-<a name="six+six_two"></a>
-
-### six.six_two() ⇒ <code>number</code>
-six_two
-
-**Kind**: instance method of <code>[six](#six)</code>  
 <a name="two"></a>
 
 ## two

@@ -1,5 +1,15 @@
 [
   {
+    "id": "six()",
+    "longname": "six",
+    "name": "six",
+    "kind": "constructor",
+    "description": "six",
+    "memberof": "six",
+    "params": [],
+    "order": 10
+  },
+  {
     "id": "six",
     "longname": "six",
     "name": "six",
@@ -11,16 +21,6 @@
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
     },
     "order": 9
-  },
-  {
-    "id": "six()",
-    "longname": "six",
-    "name": "six",
-    "kind": "constructor",
-    "description": "six",
-    "memberof": "six",
-    "params": [],
-    "order": 10
   },
   {
     "id": "two",
@@ -35,21 +35,6 @@
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
     },
     "order": 1
-  },
-  {
-    "id": "six.six_static_two",
-    "longname": "six.six_static_two",
-    "name": "six_static_two",
-    "kind": "mixin",
-    "scope": "static",
-    "description": "six_static_two",
-    "memberof": "six",
-    "meta": {
-      "lineno": 82,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
-    },
-    "order": 14
   },
   {
     "id": "seven",
@@ -69,46 +54,6 @@
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
     },
     "order": 16
-  },
-  {
-    "id": "two.two_two",
-    "longname": "two.two_two",
-    "name": "two_two",
-    "kind": "member",
-    "scope": "static",
-    "description": "two_two",
-    "memberof": "two",
-    "type": {
-      "names": [
-        "number"
-      ]
-    },
-    "meta": {
-      "lineno": 20,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
-    },
-    "order": 3
-  },
-  {
-    "id": "six.six_static_three",
-    "longname": "six.six_static_three",
-    "name": "six_static_three",
-    "kind": "member",
-    "scope": "static",
-    "description": "six_static_three",
-    "memberof": "six",
-    "type": {
-      "names": [
-        "number"
-      ]
-    },
-    "meta": {
-      "lineno": 88,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
-    },
-    "order": 15
   },
   {
     "id": "thirteen",
@@ -144,36 +89,6 @@
     "order": 17
   },
   {
-    "id": "two.two_three",
-    "longname": "two.two_three",
-    "name": "two_three",
-    "kind": "namespace",
-    "scope": "static",
-    "description": "two_three",
-    "memberof": "two",
-    "meta": {
-      "lineno": 25,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
-    },
-    "order": 4
-  },
-  {
-    "id": "six.six_static_one",
-    "longname": "six.six_static_one",
-    "name": "six_static_one",
-    "kind": "namespace",
-    "scope": "static",
-    "description": "six_static_one",
-    "memberof": "six",
-    "meta": {
-      "lineno": 76,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
-    },
-    "order": 13
-  },
-  {
     "id": "three",
     "longname": "three",
     "name": "three",
@@ -206,46 +121,6 @@
     "order": 6
   },
   {
-    "id": "six#six_one",
-    "longname": "six#six_one",
-    "name": "six_one",
-    "kind": "constant",
-    "scope": "instance",
-    "description": "six_one",
-    "memberof": "six",
-    "type": {
-      "names": [
-        "number"
-      ]
-    },
-    "meta": {
-      "lineno": 64,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
-    },
-    "order": 11
-  },
-  {
-    "id": "two.two_four",
-    "longname": "two.two_four",
-    "name": "two_four",
-    "kind": "constant",
-    "scope": "static",
-    "description": "two_four",
-    "memberof": "two",
-    "type": {
-      "names": [
-        "number"
-      ]
-    },
-    "meta": {
-      "lineno": 31,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
-    },
-    "order": 5
-  },
-  {
     "id": "five",
     "longname": "five",
     "name": "five",
@@ -263,30 +138,6 @@
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
     },
     "order": 8
-  },
-  {
-    "id": "six#six_two",
-    "longname": "six#six_two",
-    "name": "six_two",
-    "kind": "function",
-    "scope": "instance",
-    "description": "six_two",
-    "memberof": "six",
-    "returns": [
-      {
-        "type": {
-          "names": [
-            "number"
-          ]
-        }
-      }
-    ],
-    "meta": {
-      "lineno": 70,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
-    },
-    "order": 12
   },
   {
     "id": "four",
@@ -310,30 +161,6 @@
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
     },
     "order": 7
-  },
-  {
-    "id": "two.two_one",
-    "longname": "two.two_one",
-    "name": "two_one",
-    "kind": "function",
-    "scope": "static",
-    "description": "two_one",
-    "memberof": "two",
-    "returns": [
-      {
-        "type": {
-          "names": [
-            "number"
-          ]
-        }
-      }
-    ],
-    "meta": {
-      "lineno": 15,
-      "filename": "0-src.js",
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
-    },
-    "order": 2
   },
   {
     "id": "nine",
@@ -428,5 +255,178 @@
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
     },
     "order": 20
+  },
+  {
+    "id": "six#six_one",
+    "longname": "six#six_one",
+    "name": "six_one",
+    "kind": "constant",
+    "scope": "instance",
+    "description": "six_one",
+    "memberof": "six",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "meta": {
+      "lineno": 64,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+    },
+    "order": 11
+  },
+  {
+    "id": "six#six_two",
+    "longname": "six#six_two",
+    "name": "six_two",
+    "kind": "function",
+    "scope": "instance",
+    "description": "six_two",
+    "memberof": "six",
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "lineno": 70,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+    },
+    "order": 12
+  },
+  {
+    "id": "six.six_static_two",
+    "longname": "six.six_static_two",
+    "name": "six_static_two",
+    "kind": "mixin",
+    "scope": "static",
+    "description": "six_static_two",
+    "memberof": "six",
+    "meta": {
+      "lineno": 82,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+    },
+    "order": 14
+  },
+  {
+    "id": "two.two_two",
+    "longname": "two.two_two",
+    "name": "two_two",
+    "kind": "member",
+    "scope": "static",
+    "description": "two_two",
+    "memberof": "two",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "meta": {
+      "lineno": 20,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+    },
+    "order": 3
+  },
+  {
+    "id": "six.six_static_three",
+    "longname": "six.six_static_three",
+    "name": "six_static_three",
+    "kind": "member",
+    "scope": "static",
+    "description": "six_static_three",
+    "memberof": "six",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "meta": {
+      "lineno": 88,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+    },
+    "order": 15
+  },
+  {
+    "id": "two.two_three",
+    "longname": "two.two_three",
+    "name": "two_three",
+    "kind": "namespace",
+    "scope": "static",
+    "description": "two_three",
+    "memberof": "two",
+    "meta": {
+      "lineno": 25,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+    },
+    "order": 4
+  },
+  {
+    "id": "six.six_static_one",
+    "longname": "six.six_static_one",
+    "name": "six_static_one",
+    "kind": "namespace",
+    "scope": "static",
+    "description": "six_static_one",
+    "memberof": "six",
+    "meta": {
+      "lineno": 76,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+    },
+    "order": 13
+  },
+  {
+    "id": "two.two_four",
+    "longname": "two.two_four",
+    "name": "two_four",
+    "kind": "constant",
+    "scope": "static",
+    "description": "two_four",
+    "memberof": "two",
+    "type": {
+      "names": [
+        "number"
+      ]
+    },
+    "meta": {
+      "lineno": 31,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+    },
+    "order": 5
+  },
+  {
+    "id": "two.two_one",
+    "longname": "two.two_one",
+    "name": "two_one",
+    "kind": "function",
+    "scope": "static",
+    "description": "two_one",
+    "memberof": "two",
+    "returns": [
+      {
+        "type": {
+          "names": [
+            "number"
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "lineno": 15,
+      "filename": "0-src.js",
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-parse-options/sort-by-kind"
+    },
+    "order": 2
   }
 ]

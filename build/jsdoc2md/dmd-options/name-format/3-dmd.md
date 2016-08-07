@@ -151,7 +151,7 @@ uziLover.respect(function(err, gain){
 ### `FurQ.enemy` : <code>enum</code>
 FUR-Q enemy types
 
-**Kind**: static enum property of <code>[FurQ](#FurQ)</code>  
+**Kind**: static enum of <code>[FurQ](#FurQ)</code>  
 **Read only**: true  
 **Properties**
 
