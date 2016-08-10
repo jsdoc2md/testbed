@@ -1,394 +1,311 @@
 [
   {
-    "comment": "/**\n * a global class\n */",
+    "comment": "/**\n * A function to print something\n */",
     "meta": {
       "range": [
-        41,
-        510
+        60,
+        807
       ],
       "filename": "0-src.js",
       "lineno": 6,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-options/conf",
       "code": {
-        "id": "astnode100000003",
-        "name": "GlobalClass",
-        "type": "ClassDeclaration",
-        "paramnames": [
-          "one",
-          "two"
-        ]
+        "id": "astnode100000004",
+        "name": "printSomething",
+        "type": "CallExpression",
+        "value": ""
       }
     },
-    "classdesc": "a global class",
-    "name": "GlobalClass",
-    "longname": "GlobalClass",
-    "kind": "class",
-    "scope": "global",
-    "description": "the global class constructor",
-    "params": [
-      {
-        "type": {
-          "names": [
-            "number"
-          ]
-        },
-        "description": "first param",
-        "name": "one"
-      },
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "second param",
-        "name": "two"
-      }
-    ],
-    "exceptions": [
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "A serious error occurred."
-      }
-    ],
-    "examples": [
-      "var one = 1"
-    ]
-  },
-  {
-    "comment": "/**\n   * the global class constructor\n   * @param {number} - first param\n   * @param {string} - second param\n   * @throws {string} A serious error occurred.\n   * @example\n   * var one = 1\n   */",
-    "meta": {
-      "range": [
-        259,
-        374
-      ],
-      "filename": "0-src.js",
-      "lineno": 15,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-options/conf",
-      "code": {
-        "id": "astnode100000006",
-        "name": "GlobalClass",
-        "type": "MethodDefinition",
-        "paramnames": [
-          "one",
-          "two"
-        ]
-      },
-      "vars": {
-        "": null
-      }
-    },
-    "description": "the global class constructor",
-    "params": [
-      {
-        "type": {
-          "names": [
-            "number"
-          ]
-        },
-        "description": "first param",
-        "name": "one"
-      },
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "second param",
-        "name": "two"
-      }
-    ],
-    "exceptions": [
-      {
-        "type": {
-          "names": [
-            "string"
-          ]
-        },
-        "description": "A serious error occurred."
-      }
-    ],
-    "examples": [
-      "var one = 1"
-    ],
-    "name": "GlobalClass",
-    "longname": "GlobalClass",
-    "kind": "class",
-    "scope": "global",
-    "undocumented": true
-  },
-  {
-    "comment": "/**\n     * an instance property\n     * @type {number}\n     */",
-    "meta": {
-      "range": [
-        353,
-        369
-      ],
-      "filename": "0-src.js",
-      "lineno": 20,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-options/conf",
-      "code": {
-        "id": "astnode100000013",
-        "name": "this.propOne",
-        "type": "Literal",
-        "value": 1,
-        "paramnames": []
-      }
-    },
-    "description": "an instance property",
-    "type": {
-      "names": [
-        "number"
-      ]
-    },
-    "name": "propOne",
-    "longname": "GlobalClass#propOne",
+    "description": "A function to print something",
+    "name": "printSomething",
+    "longname": "printSomething",
     "kind": "member",
-    "memberof": "GlobalClass",
-    "scope": "instance"
-  },
-  {
-    "comment": "/** a static method */",
-    "meta": {
-      "range": [
-        403,
-        419
-      ],
-      "filename": "0-src.js",
-      "lineno": 24,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-options/conf",
-      "code": {
-        "id": "astnode100000018",
-        "name": "GlobalClass.shat",
-        "type": "MethodDefinition",
-        "paramnames": []
-      },
-      "vars": {
-        "": null
-      }
-    },
-    "description": "a static method",
-    "name": "shat",
-    "longname": "GlobalClass.shat",
-    "kind": "function",
-    "memberof": "GlobalClass",
-    "scope": "static",
-    "params": []
-  },
-  {
-    "comment": "/** parent method one */",
-    "meta": {
-      "range": [
-        450,
-        464
-      ],
-      "filename": "0-src.js",
-      "lineno": 27,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-options/conf",
-      "code": {
-        "id": "astnode100000022",
-        "name": "GlobalClass#methodOne",
-        "type": "MethodDefinition",
-        "paramnames": []
-      },
-      "vars": {
-        "": null
-      }
-    },
-    "description": "parent method one",
-    "name": "methodOne",
-    "longname": "GlobalClass#methodOne",
-    "kind": "function",
-    "memberof": "GlobalClass",
-    "scope": "instance",
-    "params": []
-  },
-  {
-    "comment": "/** parent method two */",
-    "meta": {
-      "range": [
-        494,
-        508
-      ],
-      "filename": "0-src.js",
-      "lineno": 29,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-options/conf",
-      "code": {
-        "id": "astnode100000026",
-        "name": "GlobalClass#methodTwo",
-        "type": "MethodDefinition",
-        "paramnames": []
-      },
-      "vars": {
-        "": null
-      }
-    },
-    "description": "parent method two",
-    "name": "methodTwo",
-    "longname": "GlobalClass#methodTwo",
-    "kind": "function",
-    "memberof": "GlobalClass",
-    "scope": "instance",
-    "params": []
-  },
-  {
-    "comment": "/**\n * the child of global class\n * @extends GlobalClass\n */",
-    "meta": {
-      "range": [
-        573,
-        764
-      ],
-      "filename": "0-src.js",
-      "lineno": 36,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-options/conf",
-      "code": {
-        "id": "astnode100000030",
-        "name": "GlobalChildClass",
-        "type": "ClassDeclaration",
-        "paramnames": []
-      }
-    },
-    "classdesc": "the child of global class",
-    "augments": [
-      "GlobalClass"
-    ],
-    "name": "GlobalChildClass",
-    "longname": "GlobalChildClass",
-    "kind": "class",
-    "scope": "global",
-    "params": []
+    "scope": "global"
   },
   {
     "comment": "",
     "meta": {
       "range": [
-        620,
-        708
+        97,
+        719
+      ],
+      "filename": "0-src.js",
+      "lineno": 7,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-options/conf",
+      "code": {
+        "id": "astnode100000010",
+        "name": "_ref",
+        "type": "CallExpression",
+        "value": ""
+      }
+    },
+    "undocumented": true,
+    "name": "_ref",
+    "longname": "<anonymous>~_ref",
+    "kind": "member",
+    "memberof": "<anonymous>",
+    "scope": "inner"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        266,
+        295
+      ],
+      "filename": "0-src.js",
+      "lineno": 10,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-options/conf",
+      "code": {
+        "id": "astnode100000034",
+        "name": "_context.prev",
+        "type": "MemberExpression",
+        "value": "_context.next",
+        "paramnames": []
+      }
+    },
+    "undocumented": true,
+    "name": "prev",
+    "longname": "_context.prev",
+    "kind": "member",
+    "memberof": "_context",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        357,
+        378
+      ],
+      "filename": "0-src.js",
+      "lineno": 13,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-options/conf",
+      "code": {
+        "id": "astnode100000050",
+        "name": "_context.t0",
+        "type": "Identifier",
+        "value": "console",
+        "paramnames": []
+      }
+    },
+    "undocumented": true,
+    "name": "t0",
+    "longname": "_context.t0",
+    "kind": "member",
+    "memberof": "_context",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        392,
+        409
+      ],
+      "filename": "0-src.js",
+      "lineno": 14,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-options/conf",
+      "code": {
+        "id": "astnode100000056",
+        "name": "_context.next",
+        "type": "Literal",
+        "value": 4,
+        "paramnames": []
+      }
+    },
+    "undocumented": true,
+    "name": "next",
+    "longname": "_context.next",
+    "kind": "member",
+    "memberof": "_context",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        477,
+        504
+      ],
+      "filename": "0-src.js",
+      "lineno": 18,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-options/conf",
+      "code": {
+        "id": "astnode100000067",
+        "name": "_context.t1",
+        "type": "MemberExpression",
+        "value": "_context.sent",
+        "paramnames": []
+      }
+    },
+    "undocumented": true,
+    "name": "t1",
+    "longname": "_context.t1",
+    "kind": "member",
+    "memberof": "_context",
+    "scope": "static"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        810,
+        1282
       ],
       "filename": "0-src.js",
       "lineno": 37,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-options/conf",
       "code": {
-        "id": "astnode100000034",
-        "name": "GlobalChildClass",
-        "type": "MethodDefinition",
-        "paramnames": []
+        "id": "astnode100000117",
+        "name": "_asyncToGenerator",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "fn"
+        ]
       },
       "vars": {
         "": null
       }
     },
     "undocumented": true,
-    "name": "GlobalChildClass",
-    "longname": "GlobalChildClass",
-    "kind": "class",
+    "name": "_asyncToGenerator",
+    "longname": "_asyncToGenerator",
+    "kind": "function",
     "scope": "global",
     "params": []
   },
   {
-    "comment": "/** an instance property */",
+    "comment": "",
     "meta": {
       "range": [
-        685,
-        703
+        868,
+        899
       ],
       "filename": "0-src.js",
-      "lineno": 40,
+      "lineno": 37,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-options/conf",
       "code": {
-        "id": "astnode100000042",
-        "name": "this.propThree",
-        "type": "Literal",
-        "value": 1,
-        "paramnames": []
+        "id": "astnode100000125",
+        "name": "gen",
+        "type": "CallExpression",
+        "value": ""
       }
     },
-    "description": "an instance property",
-    "name": "propThree",
-    "longname": "GlobalChildClass#propThree",
+    "undocumented": true,
+    "name": "gen",
+    "longname": "<anonymous>~gen",
     "kind": "member",
-    "memberof": "GlobalChildClass",
-    "scope": "instance"
+    "memberof": "<anonymous>",
+    "scope": "inner"
   },
   {
-    "comment": "/** overridden child methodTwo */",
+    "comment": "",
     "meta": {
       "range": [
-        748,
-        762
+        949,
+        1252
       ],
       "filename": "0-src.js",
-      "lineno": 44,
+      "lineno": 37,
       "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-options/conf",
       "code": {
-        "id": "astnode100000047",
-        "name": "GlobalChildClass#methodTwo",
-        "type": "MethodDefinition",
+        "id": "astnode100000140",
+        "name": "step",
+        "type": "FunctionDeclaration",
+        "paramnames": [
+          "key",
+          "arg"
+        ]
+      },
+      "vars": {
+        "info": "<anonymous>~step~info",
+        "value": "<anonymous>~step~value",
+        "": null
+      }
+    },
+    "undocumented": true,
+    "name": "step",
+    "longname": "<anonymous>~step",
+    "kind": "function",
+    "memberof": "<anonymous>",
+    "scope": "inner",
+    "params": []
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        985,
+        1005
+      ],
+      "filename": "0-src.js",
+      "lineno": 37,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-options/conf",
+      "code": {
+        "id": "astnode100000148",
+        "name": "info",
+        "type": "CallExpression",
+        "value": ""
+      }
+    },
+    "undocumented": true,
+    "name": "info",
+    "longname": "<anonymous>~step~info",
+    "kind": "member",
+    "memberof": "<anonymous>~step",
+    "scope": "inner"
+  },
+  {
+    "comment": "",
+    "meta": {
+      "range": [
+        1011,
+        1029
+      ],
+      "filename": "0-src.js",
+      "lineno": 37,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-options/conf",
+      "code": {
+        "id": "astnode100000156",
+        "name": "value",
+        "type": "MemberExpression",
+        "value": "info.value"
+      }
+    },
+    "undocumented": true,
+    "name": "value",
+    "longname": "<anonymous>~step~value",
+    "kind": "member",
+    "memberof": "<anonymous>~step",
+    "scope": "inner"
+  },
+  {
+    "comment": "/**\n * A function to return something\n */",
+    "meta": {
+      "range": [
+        1326,
+        1477
+      ],
+      "filename": "0-src.js",
+      "lineno": 42,
+      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-options/conf",
+      "code": {
+        "id": "astnode100000206",
+        "name": "getSomething",
+        "type": "FunctionDeclaration",
         "paramnames": []
       },
       "vars": {
         "": null
       }
     },
-    "description": "overridden child methodTwo",
-    "name": "methodTwo",
-    "longname": "GlobalChildClass#methodTwo",
+    "description": "A function to return something",
+    "name": "getSomething",
+    "longname": "getSomething",
     "kind": "function",
-    "memberof": "GlobalChildClass",
-    "scope": "instance",
-    "params": [],
-    "overrides": "GlobalClass#methodTwo"
-  },
-  {
-    "comment": "",
-    "meta": {
-      "range": [
-        772,
-        797
-      ],
-      "filename": "0-src.js",
-      "lineno": 47,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-options/conf",
-      "code": {
-        "id": "astnode100000052",
-        "name": "a",
-        "type": "NewExpression",
-        "value": ""
-      }
-    },
-    "undocumented": true,
-    "name": "a",
-    "longname": "a",
-    "kind": "constant",
-    "scope": "global"
-  },
-  {
-    "comment": "",
-    "meta": {
-      "range": [
-        805,
-        835
-      ],
-      "filename": "0-src.js",
-      "lineno": 48,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-options/conf",
-      "code": {
-        "id": "astnode100000059",
-        "name": "b",
-        "type": "NewExpression",
-        "value": ""
-      }
-    },
-    "undocumented": true,
-    "name": "b",
-    "longname": "b",
-    "kind": "constant",
-    "scope": "global"
+    "scope": "global",
+    "params": []
   },
   {
     "kind": "package",
@@ -396,67 +313,5 @@
     "files": [
       "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-options/conf/0-src.js"
     ]
-  },
-  {
-    "comment": "/**\n     * an instance property\n     * @type {number}\n     */",
-    "meta": {
-      "range": [
-        353,
-        369
-      ],
-      "filename": "0-src.js",
-      "lineno": 20,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-options/conf",
-      "code": {
-        "id": "astnode100000013",
-        "name": "this.propOne",
-        "type": "Literal",
-        "value": 1,
-        "paramnames": []
-      }
-    },
-    "description": "an instance property",
-    "type": {
-      "names": [
-        "number"
-      ]
-    },
-    "name": "propOne",
-    "longname": "GlobalChildClass#propOne",
-    "kind": "member",
-    "memberof": "GlobalChildClass",
-    "scope": "instance",
-    "inherits": "GlobalClass#propOne",
-    "inherited": true
-  },
-  {
-    "comment": "/** parent method one */",
-    "meta": {
-      "range": [
-        450,
-        464
-      ],
-      "filename": "0-src.js",
-      "lineno": 27,
-      "path": "/Users/lloyd/Documents/jsdoc2md/testbed/build/jsdoc2md/jsdoc-options/conf",
-      "code": {
-        "id": "astnode100000022",
-        "name": "GlobalClass#methodOne",
-        "type": "MethodDefinition",
-        "paramnames": []
-      },
-      "vars": {
-        "": null
-      }
-    },
-    "description": "parent method one",
-    "name": "methodOne",
-    "longname": "GlobalChildClass#methodOne",
-    "kind": "function",
-    "memberof": "GlobalChildClass",
-    "scope": "instance",
-    "params": [],
-    "inherits": "GlobalClass#methodOne",
-    "inherited": true
   }
 ]

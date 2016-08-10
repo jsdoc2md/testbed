@@ -74,11 +74,7 @@ getFolderList()
         outputFile: '4-dmd-bb.md'
       }))
     } else if (options.v1) {
-      queue = buildQueue(folderList, [
-        dir => new command.Jsdoc(dir),
-        dir => new command.JsdocParse(dir),
-        dir => new command.Dmd(dir)
-      ])
+      queue = buildQueue(folderList, dir => new command.Jsdoc2md(dir))
     }
     if (queue) queue.process()
   })
