@@ -4,11 +4,11 @@ const fs = require('fs')
 const path = require('path')
 
 /* input and output paths */
-const inputFiles = path.resolve(__dirname, 'src/*.js')
+const inputFile = path.resolve(__dirname, 'src/example.js')
 const outputDir = __dirname
 
 /* get template data */
-const templateData = jsdoc2md.getTemplateDataSync({ files: inputFiles })
+const templateData = jsdoc2md.getTemplateDataSync({ files: inputFile })
 
 /* reduce to an array of class names */
 const classNames = templateData.reduce((classNames, identifier) => {
