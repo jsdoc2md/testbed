@@ -1,18 +1,18 @@
-<a name="module_exports-vars"></a>
+<a name="module_example"></a>
 
-## exports-vars
-note the vars are documented, not the exports.
+## example
 
+* [example](#module_example)
+    * [~one](#module_example..one) : <code>number</code>
+    * [~two()](#module_example..two)
 
-* [exports-vars](#module_exports-vars)
-    * [~one](#module_exports-vars..one) : <code>number</code>
-    * [~two](#module_exports-vars..two) : <code>number</code>
+<a name="module_example..one"></a>
 
-<a name="module_exports-vars..one"></a>
+### example~one : <code>number</code>
+**Kind**: inner property of <code>[example](#module_example)</code>  
+<a name="module_example..two"></a>
 
-### exports-vars~one : <code>number</code>
-**Kind**: inner property of <code>[exports-vars](#module_exports-vars)</code>  
-<a name="module_exports-vars..two"></a>
+### example~two()
+A method
 
-### exports-vars~two : <code>number</code>
-**Kind**: inner property of <code>[exports-vars](#module_exports-vars)</code>  
+**Kind**: inner method of <code>[example](#module_example)</code>  
