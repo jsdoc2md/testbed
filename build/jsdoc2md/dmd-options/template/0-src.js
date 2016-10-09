@@ -5,7 +5,10 @@
 
 /**
  * Add two values.
+ * @alias module:add-two-values
  */
-export default function add (a, b) {
+function add (a, b) {
   return a + b
 }
+
+module.exports = add

@@ -3,9 +3,9 @@
 ## add-two-values
 A module for adding two values.
 
-<a name="exp_module_add-two-values--module.exports"></a>
+<a name="exp_module_add-two-values--add"></a>
 
-### module.exports() ⏏
+### add() ⏏
 Add two values.
 
 **Kind**: Exported function  
