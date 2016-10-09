@@ -1,17 +1,16 @@
 /**
- * Alias the vars as exported
- * @module exports-vars
+ * @module example
  */
 
 /**
 * @type {number}
-* @alias module:exports-vars.one
+* @alias module:example.one
 */
 var one = 1
 
 /**
  * @type {number}
- * @alias module:exports-vars.two
+ * @alias module:example.two
  */
 var two = 2
 

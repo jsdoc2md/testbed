@@ -4,13 +4,15 @@
 
 /**
 * @type {number}
+* @static
 */
 var one = 1
 
 /**
- * A method
+ * @type {number}
+ * @static
  */
-function two () {}
+var two = 2
 
 exports.one = one
 exports.two = two
