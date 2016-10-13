@@ -1,14 +1,22 @@
 /**
- * @module es6-modules-named
- * @typicalname named
+ * @module maths
  */
 
 /**
  * exported number
  */
-export const one = 1
+export const pi = 3.14
 
 /**
- * exported function
+ * Add two values.
  */
-export function two () {}
+export function add (a, b) {
+  return a + b
+}
+
+/**
+ * Subtraction.
+ */
+export function subtract (a, b) {
+  return a - b
+}

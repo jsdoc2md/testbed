@@ -1,20 +1,27 @@
-<a name="module_es6-modules-named"></a>
+<a name="module_maths"></a>
 
-## es6-modules-named
+## maths
 
-* [es6-modules-named](#module_es6-modules-named)
-    * [.one](#module_es6-modules-named.one)
-    * [.two()](#module_es6-modules-named.two)
+* [maths](#module_maths)
+    * [.pi](#module_maths.pi)
+    * [.add()](#module_maths.add)
+    * [.subtract()](#module_maths.subtract)
 
-<a name="module_es6-modules-named.one"></a>
+<a name="module_maths.pi"></a>
 
-### named.one
+### maths.pi
 exported number
 
-**Kind**: static constant of <code>[es6-modules-named](#module_es6-modules-named)</code>  
-<a name="module_es6-modules-named.two"></a>
+**Kind**: static constant of <code>[maths](#module_maths)</code>  
+<a name="module_maths.add"></a>
 
-### named.two()
-exported function
+### maths.add()
+Add two values.
 
-**Kind**: static method of <code>[es6-modules-named](#module_es6-modules-named)</code>  
+**Kind**: static method of <code>[maths](#module_maths)</code>  
+<a name="module_maths.subtract"></a>
+
+### maths.subtract()
+Subtraction.
+
+**Kind**: static method of <code>[maths](#module_maths)</code>  
