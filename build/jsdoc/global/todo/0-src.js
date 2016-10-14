@@ -2,7 +2,7 @@
  * @todo Write the documentation.
  * @todo Implement this function.
  */
-function todoFunction1 () {}
+function add () {}
 
 /**
  * @todo Write the documentation.
@@ -10,10 +10,10 @@ function todoFunction1 () {}
  * @done this one is done
  * @done finished
  */
-function todoFunction2 () {}
+function subtract () {}
 
 /**
  * @done this one is done
  * @done finished
  */
-function todoFunction3 () {}
+function multiply () {}
