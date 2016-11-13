@@ -1,11 +1,14 @@
 # Functions
-The names of all functions with params:
 
-{{#functions -params=undefined}}* {{name}}
+## Simple
+
+{{#functions}}
+* {{name}} - {{description}}
 {{/functions}}
 
-# Template
-```hbs
-\{{#functions -params=undefined}}* \{{name}}
-\{{/functions}}
-```
+## All functions with params:
+
+{{#functions -params=undefined}}
+* {{name}}
+{{/functions}}
+
