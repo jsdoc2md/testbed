@@ -9,6 +9,11 @@ class Runner extends TextRunner {
 }
 
 /**
+ * @returns {external:TestRunner}
+ */
+function returnsExternal () {}
+
+/**
  * @external TestRunner
  * @see https://github.com/75lb/test-runner
  */
