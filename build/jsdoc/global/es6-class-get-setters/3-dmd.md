@@ -1,35 +1,35 @@
-<a name="GlobalClass"></a>
+<a name="Something"></a>
 
-## GlobalClass
+## Something
 A class.
 
 **Kind**: global class  
 
-* [GlobalClass](#GlobalClass)
-    * [.size](#GlobalClass+size) ⇒ <code>string</code>
-    * [.size](#GlobalClass+size)
-    * [.size2](#GlobalClass+size2) : <code>string</code>
+* [Something](#Something)
+    * [.size](#Something+size) ⇒ <code>string</code>
+    * [.size](#Something+size)
+    * [.size2](#Something+size2) : <code>string</code>
 
-<a name="GlobalClass+size"></a>
+<a name="Something+size"></a>
 
-### globalClass.size ⇒ <code>string</code>
+### something.size ⇒ <code>string</code>
 Gets the size
 
-**Kind**: instance property of <code>[GlobalClass](#GlobalClass)</code>  
-<a name="GlobalClass+size"></a>
+**Kind**: instance property of <code>[Something](#Something)</code>  
+<a name="Something+size"></a>
 
-### globalClass.size
+### something.size
 Sets the size
 
-**Kind**: instance property of <code>[GlobalClass](#GlobalClass)</code>  
+**Kind**: instance property of <code>[Something](#Something)</code>  
 
 | Param | Type |
 | --- | --- |
 | val | <code>string</code> | 
 
-<a name="GlobalClass+size2"></a>
+<a name="Something+size2"></a>
 
-### globalClass.size2 : <code>string</code>
+### something.size2 : <code>string</code>
 The size
 
-**Kind**: instance property of <code>[GlobalClass](#GlobalClass)</code>  
+**Kind**: instance property of <code>[Something](#Something)</code>  
