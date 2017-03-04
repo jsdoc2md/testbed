@@ -72,7 +72,7 @@ a static method
 the child of exported class
 
 **Kind**: inner class of <code>[ExportedClass](#exp_module_es6-class--ExportedClass)</code>  
-**Extends:** <code>ExportedClass</code>  
+**Extends**: <code>ExportedClass</code>  
 <a name="module_es6-class--ExportedClass..ChildClass.ChildClass+propThree"></a>
 
 ##### childClass.propThree

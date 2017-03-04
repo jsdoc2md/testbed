@@ -23,7 +23,7 @@ An event. Refer to with [this link](#module_linkMod.event_MyEvent).
 
 ### linkMod~linksYeah ⇐ <code>[Math](#external_Math)</code>
 **Kind**: inner class of <code>[linkMod](#module_linkMod)</code>  
-**Extends:** <code>[Math](#external_Math)</code>  
+**Extends**: <code>[Math](#external_Math)</code>  
 **Emits**: <code>[event:MyEvent](#module_linkMod.event_MyEvent)</code>  
 <a name="new_module_linkMod..linksYeah_new"></a>
 

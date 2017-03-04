@@ -11,7 +11,7 @@ a function
 **Kind**: static method of <code>[one-member](#module_one-member)</code>  
 **Returns**: <code>object</code> &#124; <code>string</code> - this return has several types  
 **Since**: v0.10.28  
-**Author:** Lloyd <75pound@gmail.com>  
+**Author**: Lloyd <75pound@gmail.com>  
 
 | Param | Type | Description |
 | --- | --- | --- |

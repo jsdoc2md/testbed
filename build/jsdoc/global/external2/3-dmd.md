@@ -2,7 +2,7 @@
 
 ## Runner ⇐ <code>[TestRunner](https://github.com/75lb/test-runner)</code>
 **Kind**: global class  
-**Extends:** <code>[TestRunner](https://github.com/75lb/test-runner)</code>  
+**Extends**: <code>[TestRunner](https://github.com/75lb/test-runner)</code>  
 <a name="Runner+test"></a>
 
 ### runner.test()

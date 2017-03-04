@@ -4,7 +4,7 @@
 This is the module description
 
 **Since**: v0.10.28  
-**Author:** Lloyd <75pound@gmail.com>  
+**Author**: Lloyd <75pound@gmail.com>  
 <a name="exp_module_0-src--module.exports"></a>
 
 ### module.exports(one, two) ⇒ <code>object</code> &#124; <code>string</code> ⏏

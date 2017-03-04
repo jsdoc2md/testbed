@@ -63,7 +63,7 @@ a static method
 the child of global class
 
 **Kind**: global class  
-**Extends:** <code>[GlobalClass](#GlobalClass)</code>  
+**Extends**: <code>[GlobalClass](#GlobalClass)</code>  
 
 * [GlobalChildClass](#GlobalChildClass) ⇐ <code>[GlobalClass](#GlobalClass)</code>
     * [.propThree](#GlobalChildClass+propThree)
@@ -89,7 +89,7 @@ an instance property
 overridden child methodTwo
 
 **Kind**: instance method of <code>[GlobalChildClass](#GlobalChildClass)</code>  
-**Overrides:** <code>[methodTwo](#GlobalClass+methodTwo)</code>  
+**Overrides**: <code>[methodTwo](#GlobalClass+methodTwo)</code>  
 <a name="GlobalClass+methodOne"></a>
 
 ### globalChildClass.methodOne()

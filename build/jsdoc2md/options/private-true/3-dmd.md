@@ -19,4 +19,4 @@ An ordinary newspaper.
 My diary.
 
 **Kind**: static property of <code>[Documents](#Documents)</code>  
-**Access:** private  
+**Access**: private  

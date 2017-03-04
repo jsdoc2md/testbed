@@ -4,11 +4,11 @@
 C\*ck, b!tch, c\*ck, b!tch, m\*therf!cker. You gotta kill people, to respect people.
 
 **Kind**: global class  
-**Extends:** <code>[Rapper](#Rapper)</code>  
+**Extends**: <code>[Rapper](#Rapper)</code>  
 **Emits**: <code>[pop](#FurQ+event_pop)</code>, <code>[slap](#FurQ+event_slap)</code>  
-**Access:** public  
+**Access**: public  
 **See**: https://www.youtube.com/watch?v=1sxZ4tsp8gc  
-**Author:** Chris Morris  
+**Author**: Chris Morris  
 
 * [FurQ](#FurQ) ⇐ <code>[Rapper](#Rapper)</code>
     * [new FurQ()](#new_FurQ_new)
@@ -61,7 +61,7 @@ var uziLover = require("FurQ")
 override
 
 **Kind**: instance method of <code>[FurQ](#FurQ)</code>  
-**Overrides:** <code>[spit](#Rapper+spit)</code>  
+**Overrides**: <code>[spit](#Rapper+spit)</code>  
 <a name="Rapper+battle"></a>
 
 ### furQ.battle()

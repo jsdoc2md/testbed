@@ -40,12 +40,12 @@ var next = "p"
 
 ## _protected
 **Kind**: global variable  
-**Access:** protected  
+**Access**: protected  
 <a name="withAuthor"></a>
 
 ## withAuthor
 **Kind**: global variable  
-**Author:** Clive Jones <clive@jones.com>  
+**Author**: Clive Jones <clive@jones.com>  
 <a name="hasDefault"></a>
 
 ## hasDefault

@@ -32,12 +32,12 @@ var next = "p"
 
 ## _protected()
 **Kind**: global function  
-**Access:** protected  
+**Access**: protected  
 <a name="withAuthor"></a>
 
 ## withAuthor()
 **Kind**: global function  
-**Author:** Clive Jones <clive@jones.com>  
+**Author**: Clive Jones <clive@jones.com>  
 <a name="oldFunction"></a>
 
 ## ~~oldFunction()~~
@@ -119,7 +119,7 @@ This function has all tags set
 **Kind**: global function  
 **Returns**: <code>object</code> &#124; <code>string</code> - this return has several types  
 **Since**: v0.10.28  
-**Author:** Lloyd <75pound@gmail.com>  
+**Author**: Lloyd <75pound@gmail.com>  
 
 | Param | Type | Description |
 | --- | --- | --- |

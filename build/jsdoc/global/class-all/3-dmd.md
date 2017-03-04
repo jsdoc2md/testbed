@@ -6,9 +6,9 @@
 a class with all of the things
 
 **Kind**: global class  
-**Extends:** <code>Number</code>  
+**Extends**: <code>Number</code>  
 **Since**: v0.10.28  
-**Author:** 75lb <75pound@gmail.com>  
+**Author**: 75lb <75pound@gmail.com>  
 
 * ~~[All](#All) ⇐ <code>Number</code>~~
     * [new All(input, [options])](#new_All_new)
@@ -56,7 +56,7 @@ This function has all tags set
 **Kind**: instance method of <code>[All](#All)</code>  
 **Returns**: <code>object</code> &#124; <code>string</code> - this return has several types  
 **Since**: v0.10.28  
-**Author:** Lloyd <75pound@gmail.com>  
+**Author**: Lloyd <75pound@gmail.com>  
 
 | Param | Type | Description |
 | --- | --- | --- |

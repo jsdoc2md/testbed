@@ -4,7 +4,7 @@
 a synth, that also implements speech
 
 **Kind**: global class  
-**Implements:** <code>Speech</code>  
+**Implements**: <code>Speech</code>  
 <a name="Synth+demo"></a>
 
 ### synth.demo()

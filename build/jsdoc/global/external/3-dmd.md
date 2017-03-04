@@ -2,7 +2,7 @@
 
 ## EncryptedRequest ⇐ <code>[XMLHttpRequest](#external_XMLHttpRequest)</code>
 **Kind**: global class  
-**Extends:** <code>[XMLHttpRequest](#external_XMLHttpRequest)</code>  
+**Extends**: <code>[XMLHttpRequest](#external_XMLHttpRequest)</code>  
 <a name="new_EncryptedRequest_new"></a>
 
 ### new EncryptedRequest()

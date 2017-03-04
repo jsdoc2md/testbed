@@ -4,7 +4,7 @@
 simple class description
 
 **Kind**: global class  
-**Extends:** <code>Object</code>  
+**Extends**: <code>Object</code>  
 <a name="new_Person_new"></a>
 
 ### new Person()
@@ -30,7 +30,7 @@ a constructor with args
 a class which extends
 
 **Kind**: global class  
-**Extends:** <code>[Pipe](#Pipe)</code>  
+**Extends**: <code>[Pipe](#Pipe)</code>  
 <a name="Everything"></a>
 
 ## ~~Everything ⇐ <code>[Pipe](#Pipe)</code>~~
@@ -39,9 +39,9 @@ a class which extends
 a class with all trimmings
 
 **Kind**: global class  
-**Extends:** <code>[Pipe](#Pipe)</code>  
+**Extends**: <code>[Pipe](#Pipe)</code>  
 **Since**: v0.10.28  
-**Author:** 75lb <75pound@gmail.com>  
+**Author**: 75lb <75pound@gmail.com>  
 <a name="new_Everything_new"></a>
 
 ### new Everything(input, [options])
