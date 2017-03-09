@@ -7,13 +7,13 @@ something
 
 * [Something](#Something)
     * _instance_
-        * [.instanceClas](#Something+instanceClas)
+        * [.instanceClass](#Something+instanceClass)
     * _static_
         * [.staticClass](#Something.staticClass)
 
-<a name="Something+instanceClas"></a>
+<a name="Something+instanceClass"></a>
 
-### something.instanceClas
+### something.instanceClass
 Instance class
 
 **Kind**: instance class of <code>[Something](#Something)</code>  
