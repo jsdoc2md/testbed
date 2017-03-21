@@ -11,10 +11,10 @@
   "scripts": {},
   "devDependencies": {
     "array-back": "^1.0.4",
-    "babel-core": "^6.23.1",
+    "babel-core": "^6.24.0",
     "babel-plugin-transform-async-to-generator": "^6.22.0",
-    "babel-preset-es2015": "^6.22.0",
-    "config-master": "^3.0.0",
+    "babel-preset-es2015": "^6.24.0",
+    "config-master": "^3.1.0",
     "dmd-bitbucket": "~0.1.10",
     "jsdoc-babel": "~0.3.0",
     "jsdoc-to-markdown": "^3.0.0",

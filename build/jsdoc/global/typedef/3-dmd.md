@@ -20,7 +20,7 @@ Set the magic number.
 
 <a name="NumberLike"></a>
 
-## NumberLike : <code>number</code> &#124; <code>string</code>
+## NumberLike : <code>number</code> \| <code>string</code>
 A number, or a string containing a number.
 
 **Kind**: global typedef  

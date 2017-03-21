@@ -5,7 +5,7 @@
 
 * [Something](#Something)
     * [.methodOne()](#Something+methodOne)
-    * ~~[.allTogether(one, two)](#Something+allTogether) ⇒ <code>object</code> &#124; <code>string</code>~~
+    * ~~[.allTogether(one, two)](#Something+allTogether) ⇒ <code>object</code> \| <code>string</code>~~
 
 <a name="Something+methodOne"></a>
 
@@ -15,13 +15,13 @@ method description
 **Kind**: instance method of <code>[Something](#Something)</code>  
 <a name="Something+allTogether"></a>
 
-### ~~something.allTogether(one, two) ⇒ <code>object</code> &#124; <code>string</code>~~
+### ~~something.allTogether(one, two) ⇒ <code>object</code> \| <code>string</code>~~
 ***Deprecated***
 
 This function has all tags set
 
 **Kind**: instance method of <code>[Something](#Something)</code>  
-**Returns**: <code>object</code> &#124; <code>string</code> - this return has several types  
+**Returns**: <code>object</code> \| <code>string</code> - this return has several types  
 **Since**: v0.10.28  
 **Author**: Lloyd <75pound@gmail.com>  
 

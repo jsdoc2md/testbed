@@ -106,18 +106,18 @@ and needs this line to separate the above list from the below
 **Returns**: <code>object</code> - this return has a description  
 <a name="returnsSeveral"></a>
 
-## returnsSeveral() ⇒ <code>object</code> &#124; <code>string</code>
+## returnsSeveral() ⇒ <code>object</code> \| <code>string</code>
 **Kind**: global function  
-**Returns**: <code>object</code> &#124; <code>string</code> - this return has several types  
+**Returns**: <code>object</code> \| <code>string</code> - this return has several types  
 <a name="allTogether"></a>
 
-## ~~allTogether(one, two) ⇒ <code>object</code> &#124; <code>string</code>~~
+## ~~allTogether(one, two) ⇒ <code>object</code> \| <code>string</code>~~
 ***Deprecated***
 
 This function has all tags set
 
 **Kind**: global function  
-**Returns**: <code>object</code> &#124; <code>string</code> - this return has several types  
+**Returns**: <code>object</code> \| <code>string</code> - this return has several types  
 **Since**: v0.10.28  
 **Author**: Lloyd <75pound@gmail.com>  
 

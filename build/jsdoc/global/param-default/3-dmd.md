@@ -14,12 +14,12 @@ Lots of params with default values.
 | [option.flag] | <code>boolean</code> | <code>true</code> | [option.flag=true] |
 | [option.func] |  | <code>function()</code> | {function} - [option.func=function(){}] |
 | [option.func] | <code>function</code> | <code>function(){}</code> | [option.func=function(){}] |
-| [option.func] | <code>function</code> &#124; <code>string</code> | <code>function(){}</code> | [option.func=function(){}] |
-| [option.func] | <code>string</code> &#124; <code>function</code> | <code>&quot;function(){}&quot;</code> | [option.func=function(){}] |
+| [option.func] | <code>function</code> \| <code>string</code> | <code>function(){}</code> | [option.func=function(){}] |
+| [option.func] | <code>string</code> \| <code>function</code> | <code>&quot;function(){}&quot;</code> | [option.func=function(){}] |
 | [option.one] | <code>RegExp</code> | <code>/regex/</code> | [option.one=/regex/] |
 | [option.arr] | <code>Array</code> | <code>[ 1, 2, 3 ]</code> | [option.arr=[ 1, 2, 3 ]] |
-| [option.arr] | <code>string</code> &#124; <code>Array</code> | <code>&quot;[ 1, 2, 3 ]&quot;</code> | [option.arr=[ 1, 2, 3 ]] |
-| [option.arr] | <code>Array</code> &#124; <code>string</code> | <code>[ 1, 2, 3 ]</code> | [option.arr=[ 1, 2, 3 ]] |
+| [option.arr] | <code>string</code> \| <code>Array</code> | <code>&quot;[ 1, 2, 3 ]&quot;</code> | [option.arr=[ 1, 2, 3 ]] |
+| [option.arr] | <code>Array</code> \| <code>string</code> | <code>[ 1, 2, 3 ]</code> | [option.arr=[ 1, 2, 3 ]] |
 | [option.generator] | <code>generator</code> | <code>*function(){}</code> | [option.generator=*function(){}] |
 | [option.binary] | <code>binary</code> | <code>0b11</code> | [option.binary=0b11] |
 | [option.octal] | <code>octal</code> | <code>0o440</code> | [option.octal=0o440] |

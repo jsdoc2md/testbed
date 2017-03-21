@@ -14,7 +14,7 @@ a class with all of the things
     * [new All(input, [options])](#new_All_new)
     * [.topping](#All+topping) : <code>string</code>
     * [.size](#All+size)
-    * ~~[.allThings(one, two)](#All+allThings) ⇒ <code>object</code> &#124; <code>string</code>~~
+    * ~~[.allThings(one, two)](#All+allThings) ⇒ <code>object</code> \| <code>string</code>~~
         * [~some](#All+allThings..some)
 
 <a name="new_All_new"></a>
@@ -48,13 +48,13 @@ the general size
 **Kind**: instance property of <code>[All](#All)</code>  
 <a name="All+allThings"></a>
 
-### ~~all.allThings(one, two) ⇒ <code>object</code> &#124; <code>string</code>~~
+### ~~all.allThings(one, two) ⇒ <code>object</code> \| <code>string</code>~~
 ***Deprecated***
 
 This function has all tags set
 
 **Kind**: instance method of <code>[All](#All)</code>  
-**Returns**: <code>object</code> &#124; <code>string</code> - this return has several types  
+**Returns**: <code>object</code> \| <code>string</code> - this return has several types  
 **Since**: v0.10.28  
 **Author**: Lloyd <75pound@gmail.com>  
 

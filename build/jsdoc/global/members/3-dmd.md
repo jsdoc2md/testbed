@@ -10,7 +10,7 @@ a global variable
 **Kind**: global variable  
 <a name="types"></a>
 
-## types : <code>string</code> &#124; <code>number</code>
+## types : <code>string</code> \| <code>number</code>
 **Kind**: global variable  
 <a name="exampled"></a>
 
