@@ -4,4 +4,16 @@
 
 # testbed
 
-jsdoc2md example output and test fixtures.
+A collection of jsdoc2md test fixtures.
+
+1. Hack on your dmd fork.
+1. Checkout https://github.com/jsdoc2md/testbed
+1. In the testbed project folder run `npm install`
+1. Run `npm link /path/to/your/dmd/fork`
+1. Run `node bin/cli.js --v1`. This runs jsdoc2md against all the test fixtures in the `build` directory.
+1. Run `git status`.
+  1. git status shows no changes
+    1. Well done, you didn't break the jsdoc2md output!
+  1. git status shows changes
+    1. You broke something. If that was not intentional, fix the issue in your dmd fork and return to step 5.
+
