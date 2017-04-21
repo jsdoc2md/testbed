@@ -12,8 +12,8 @@ A collection of jsdoc2md test fixtures.
 1. Run `npm link /path/to/your/dmd/fork`
 1. Run `node bin/cli.js --v1`. This runs jsdoc2md against all the test fixtures in the `build` directory.
 1. Run `git status`.
-  1. git status shows no changes
-    1. Well done, you didn't break the jsdoc2md output!
-  1. git status shows changes
-    1. You broke something. If that was not intentional, fix the issue in your dmd fork and return to step 5.
+    1. git status shows no changes
+        1. Well done, you didn't break the jsdoc2md output!
+    1. git status shows changes
+        1. You broke something. If that was not intentional, fix the issue in your dmd fork and return to step 5.
 
