@@ -11,7 +11,7 @@ Interface for a Currah Speech Synth
 ### speech.say(text)
 what to say
 
-**Kind**: instance method of <code>[Speech](#Speech)</code>  
+**Kind**: instance method of [<code>Speech</code>](#Speech)  
 
 | Param | Type | Description |
 | --- | --- | --- |

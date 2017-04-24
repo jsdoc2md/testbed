@@ -19,11 +19,11 @@ A module. Refer to it using [foo/bar](#module_foo/bar).
 ### "event:MyEvent"
 An event. Refer to with [event:MyEvent](#module_foo/bar.event_MyEvent).
 
-**Kind**: event emitted by <code>[foo/bar](#module_foo/bar)</code>  
+**Kind**: event emitted by [<code>foo/bar</code>](#module_foo/bar)  
 <a name="module_foo/bar..LinkClass"></a>
 
 ### foo/bar~LinkClass
-**Kind**: inner class of <code>[foo/bar](#module_foo/bar)</code>  
+**Kind**: inner class of [<code>foo/bar</code>](#module_foo/bar)  
 
 * [~LinkClass](#module_foo/bar..LinkClass)
     * [new LinkClass()](#new_module_foo/bar..LinkClass_new)
@@ -39,17 +39,17 @@ A class.
 #### linkClass.foo
 foo property
 
-**Kind**: instance property of <code>[LinkClass](#module_foo/bar..LinkClass)</code>  
+**Kind**: instance property of [<code>LinkClass</code>](#module_foo/bar..LinkClass)  
 <a name="module_foo/bar..linkFunction"></a>
 
 ### foo/bar~linkFunction()
 See [LinkClass](LinkClass) and [LinkClass's foo property](LinkClass#foo).
 Also check out [Google](http://www.google.com) and [GitHub](http://github.com).
 
-**Kind**: inner method of <code>[foo/bar](#module_foo/bar)</code>  
+**Kind**: inner method of [<code>foo/bar</code>](#module_foo/bar)  
 <a name="external_String"></a>
 
 ### foo/bar~String
 The built in string object. Refer to it with [String](#external_String).
 
-**Kind**: inner external of <code>[foo/bar](#module_foo/bar)</code>  
+**Kind**: inner external of [<code>foo/bar</code>](#module_foo/bar)  

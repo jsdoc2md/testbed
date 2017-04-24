@@ -9,5 +9,5 @@ has a chainable method
 ### chainable.method() ↩︎
 returns itself
 
-**Kind**: instance method of <code>[Chainable](#Chainable)</code>  
+**Kind**: instance method of [<code>Chainable</code>](#Chainable)  
 **Chainable**  

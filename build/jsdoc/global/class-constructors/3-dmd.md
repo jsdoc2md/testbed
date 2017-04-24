@@ -26,20 +26,20 @@ a constructor with args
 
 <a name="Pipe"></a>
 
-## Pipe ⇐ <code>[Pipe](#Pipe)</code>
+## Pipe ⇐ [<code>Pipe</code>](#Pipe)
 a class which extends
 
 **Kind**: global class  
-**Extends**: <code>[Pipe](#Pipe)</code>  
+**Extends**: [<code>Pipe</code>](#Pipe)  
 <a name="Everything"></a>
 
-## ~~Everything ⇐ <code>[Pipe](#Pipe)</code>~~
+## ~~Everything ⇐ [<code>Pipe</code>](#Pipe)~~
 ***Deprecated***
 
 a class with all trimmings
 
 **Kind**: global class  
-**Extends**: <code>[Pipe](#Pipe)</code>  
+**Extends**: [<code>Pipe</code>](#Pipe)  
 **Since**: v0.10.28  
 **Author**: 75lb <75pound@gmail.com>  
 <a name="new_Everything_new"></a>

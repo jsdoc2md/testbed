@@ -10,4 +10,4 @@ a synth, that also implements speech
 ### synth.demo()
 play a demo piece, Beethoven or something..
 
-**Kind**: instance method of <code>[Synth](#Synth)</code>  
+**Kind**: instance method of [<code>Synth</code>](#Synth)  

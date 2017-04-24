@@ -13,13 +13,13 @@ a module exporting `exports` directly
 ### obj.one : <code>number</code>
 the first property
 
-**Kind**: static property of <code>[cjs/object](#module_cjs/object)</code>  
+**Kind**: static property of [<code>cjs/object</code>](#module_cjs/object)  
 <a name="module_cjs/object.two"></a>
 
 ### obj.two()
 the second property, a function
 
-**Kind**: static method of <code>[cjs/object](#module_cjs/object)</code>  
+**Kind**: static method of [<code>cjs/object</code>](#module_cjs/object)  
 **Example**  
 ```js
 this is the example

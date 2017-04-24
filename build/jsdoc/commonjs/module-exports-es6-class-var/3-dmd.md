@@ -25,4 +25,4 @@
 #### example.three
 instance
 
-**Kind**: instance property of <code>[Example](#exp_module_module-exports-es6-class-var--Example)</code>  
+**Kind**: instance property of [<code>Example</code>](#exp_module_module-exports-es6-class-var--Example)  

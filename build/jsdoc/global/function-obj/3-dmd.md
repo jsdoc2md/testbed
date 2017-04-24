@@ -9,4 +9,4 @@ the function
 ### functionObj.extra()
 a static method on the function
 
-**Kind**: static method of <code>[functionObj](#functionObj)</code>  
+**Kind**: static method of [<code>functionObj</code>](#functionObj)  

@@ -15,7 +15,7 @@ be used directly.
 ### Eventful.on(eventName, handler)
 Register a handler function to be called whenever this event is fired.
 
-**Kind**: static method of <code>[Eventful](#Eventful)</code>  
+**Kind**: static method of [<code>Eventful</code>](#Eventful)  
 
 | Param | Type | Description |
 | --- | --- | --- |
@@ -27,7 +27,7 @@ Register a handler function to be called whenever this event is fired.
 ### Eventful.fire(eventName, eventData)
 Fire an event, causing all handlers for that event name to run.
 
-**Kind**: static method of <code>[Eventful](#Eventful)</code>  
+**Kind**: static method of [<code>Eventful</code>](#Eventful)  
 
 | Param | Type | Description |
 | --- | --- | --- |

@@ -37,7 +37,7 @@ var yeah = new Everything(true)
 ### all.topping : <code>string</code>
 the ingredients on top
 
-**Kind**: instance property of <code>[All](#All)</code>  
+**Kind**: instance property of [<code>All</code>](#All)  
 **Default**: <code>&quot;mud, lettuce&quot;</code>  
 **Since**: v1.0.0  
 <a name="All+size"></a>
@@ -45,7 +45,7 @@ the ingredients on top
 ### all.size
 the general size
 
-**Kind**: instance property of <code>[All](#All)</code>  
+**Kind**: instance property of [<code>All</code>](#All)  
 <a name="All+allThings"></a>
 
 ### ~~all.allThings(one, two) ⇒ <code>object</code> \| <code>string</code>~~
@@ -53,7 +53,7 @@ the general size
 
 This function has all tags set
 
-**Kind**: instance method of <code>[All](#All)</code>  
+**Kind**: instance method of [<code>All</code>](#All)  
 **Returns**: <code>object</code> \| <code>string</code> - this return has several types  
 **Since**: v0.10.28  
 **Author**: Lloyd <75pound@gmail.com>  
@@ -72,4 +72,4 @@ all.allTogether(true)
 #### allThings~some
 a rarseclart inner
 
-**Kind**: inner property of <code>[allThings](#All+allThings)</code>  
+**Kind**: inner property of [<code>allThings</code>](#All+allThings)  

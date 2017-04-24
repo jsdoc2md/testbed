@@ -9,8 +9,8 @@
 <a name="module_example.one"></a>
 
 ### example.one : <code>number</code>
-**Kind**: static property of <code>[example](#module_example)</code>  
+**Kind**: static property of [<code>example</code>](#module_example)  
 <a name="module_example.two"></a>
 
 ### example.two : <code>number</code>
-**Kind**: static property of <code>[example](#module_example)</code>  
+**Kind**: static property of [<code>example</code>](#module_example)  

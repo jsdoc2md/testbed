@@ -9,10 +9,10 @@
 <a name="module_example..one"></a>
 
 ### example~one : <code>number</code>
-**Kind**: inner property of <code>[example](#module_example)</code>  
+**Kind**: inner property of [<code>example</code>](#module_example)  
 <a name="module_example..two"></a>
 
 ### example~two()
 A method
 
-**Kind**: inner method of <code>[example](#module_example)</code>  
+**Kind**: inner method of [<code>example</code>](#module_example)  

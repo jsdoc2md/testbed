@@ -11,8 +11,8 @@ note the exports are documented directly
 <a name="module_exports-values.one"></a>
 
 ### exports-values.one : <code>number</code>
-**Kind**: static property of <code>[exports-values](#module_exports-values)</code>  
+**Kind**: static property of [<code>exports-values</code>](#module_exports-values)  
 <a name="module_exports-values.two"></a>
 
 ### exports-values.two : <code>number</code>
-**Kind**: static property of <code>[exports-values](#module_exports-values)</code>  
+**Kind**: static property of [<code>exports-values</code>](#module_exports-values)  

@@ -7,7 +7,7 @@ Set the magic number.
 
 | Param | Type | Description |
 | --- | --- | --- |
-| x | <code>[NumberLike](#NumberLike)</code> | The magic number. |
+| x | [<code>NumberLike</code>](#NumberLike) | The magic number. |
 
 <a name="doSomething"></a>
 
@@ -16,7 +16,7 @@ Set the magic number.
 
 | Param | Type | Description |
 | --- | --- | --- |
-| option | <code>[someOptions](#someOptions)</code> | the input options |
+| option | [<code>someOptions</code>](#someOptions) | the input options |
 
 <a name="NumberLike"></a>
 

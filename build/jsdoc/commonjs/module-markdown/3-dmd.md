@@ -26,7 +26,7 @@ var animal = require("animal")
 <a name="module_animal..Animal"></a>
 
 ### animal~Animal
-**Kind**: inner class of <code>[animal](#module_animal)</code>  
+**Kind**: inner class of [<code>animal</code>](#module_animal)  
 
 * [~Animal](#module_animal..Animal)
     * [new Animal(species, parents)](#new_module_animal..Animal_new)
@@ -50,18 +50,18 @@ var animal = require("animal")
 #### animal.age : <code>number</code>
 the current age
 
-**Kind**: instance property of <code>[Animal](#module_animal..Animal)</code>  
+**Kind**: instance property of [<code>Animal</code>](#module_animal..Animal)  
 **Default**: <code>0</code>  
 <a name="module_animal..Animal+species"></a>
 
 #### animal.species : <code>Species</code>
-**Kind**: instance property of <code>[Animal](#module_animal..Animal)</code>  
+**Kind**: instance property of [<code>Animal</code>](#module_animal..Animal)  
 <a name="module_animal..Animal.eMood"></a>
 
 #### Animal.eMood
 Animal moods
 
-**Kind**: static enum of <code>[Animal](#module_animal..Animal)</code>  
+**Kind**: static enum of [<code>Animal</code>](#module_animal..Animal)  
 **Properties**
 
 | Name | Default | Description |

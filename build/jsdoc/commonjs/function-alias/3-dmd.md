@@ -26,4 +26,4 @@ the function
 #### sum.sumthingStatic
 an additional static property
 
-**Kind**: static property of <code>[sum](#exp_module_cjs/function-alias--sum)</code>  
+**Kind**: static property of [<code>sum</code>](#exp_module_cjs/function-alias--sum)  

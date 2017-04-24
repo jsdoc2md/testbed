@@ -7,9 +7,9 @@
 ### greeter.name
 a great name
 
-**Kind**: instance property of <code>[Greeter](#Greeter)</code>  
+**Kind**: instance property of [<code>Greeter</code>](#Greeter)  
 <a name="setName"></a>
 
 ## setName()
 **Kind**: global function  
-**this**: <code>[Greeter](#Greeter)</code>  
+**this**: [<code>Greeter</code>](#Greeter)  

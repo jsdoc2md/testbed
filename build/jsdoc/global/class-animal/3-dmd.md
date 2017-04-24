@@ -32,18 +32,18 @@ Animals are multicellular, eukaryotic organisms of the kingdom Animalia (also ca
 ### animal.age : <code>number</code>
 the current age
 
-**Kind**: instance property of <code>[Animal](#Animal)</code>  
+**Kind**: instance property of [<code>Animal</code>](#Animal)  
 **Default**: <code>0</code>  
 <a name="Animal+species"></a>
 
 ### animal.species : <code>Species</code>
-**Kind**: instance property of <code>[Animal](#Animal)</code>  
+**Kind**: instance property of [<code>Animal</code>](#Animal)  
 <a name="Animal.eMood"></a>
 
 ### Animal.eMood
 Animal moods
 
-**Kind**: static enum of <code>[Animal](#Animal)</code>  
+**Kind**: static enum of [<code>Animal</code>](#Animal)  
 **Properties**
 
 | Name | Default | Description |

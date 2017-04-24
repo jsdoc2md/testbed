@@ -7,7 +7,7 @@
 ### LendsClass.say()
 say something
 
-**Kind**: static method of <code>[LendsClass](#LendsClass)</code>  
+**Kind**: static method of [<code>LendsClass</code>](#LendsClass)  
 <a name="LendsClass2"></a>
 
 ## LendsClass2
@@ -17,4 +17,4 @@ say something
 ### lendsClass2.say()
 say something
 
-**Kind**: instance method of <code>[LendsClass2](#LendsClass2)</code>  
+**Kind**: instance method of [<code>LendsClass2</code>](#LendsClass2)  

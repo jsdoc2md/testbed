@@ -12,10 +12,10 @@
 ### "cooked"
 Fired when rice is ready
 
-**Kind**: event emitted by <code>[Rice](#Rice)</code>  
+**Kind**: event emitted by [<code>Rice</code>](#Rice)  
 <a name="Rice+event_cooking"></a>
 
 ### "cooking"
 Fired when rice is cooking
 
-**Kind**: event emitted by <code>[Rice](#Rice)</code>  
+**Kind**: event emitted by [<code>Rice</code>](#Rice)  

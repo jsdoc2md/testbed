@@ -12,7 +12,7 @@
 ### pizza.topping : <code>string</code>
 the ingredients on top
 
-**Kind**: instance property of <code>[Pizza](#Pizza)</code>  
+**Kind**: instance property of [<code>Pizza</code>](#Pizza)  
 **Default**: <code>&quot;mud, lettuce&quot;</code>  
 **Since**: v1.0.0  
 <a name="Pizza+size"></a>
@@ -20,4 +20,4 @@ the ingredients on top
 ### pizza.size
 the general size
 
-**Kind**: instance property of <code>[Pizza](#Pizza)</code>  
+**Kind**: instance property of [<code>Pizza</code>](#Pizza)  

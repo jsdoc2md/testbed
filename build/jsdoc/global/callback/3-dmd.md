@@ -6,7 +6,7 @@
 | Param | Type | Description |
 | --- | --- | --- |
 | filename | <code>string</code> | the filename |
-| done | <code>[onComplete](#onComplete)</code> | the callback |
+| done | [<code>onComplete</code>](#onComplete) | the callback |
 
 <a name="onComplete"></a>
 

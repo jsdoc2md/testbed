@@ -1,8 +1,8 @@
 <a name="EncryptedRequest"></a>
 
-## EncryptedRequest ⇐ <code>[XMLHttpRequest](#external_XMLHttpRequest)</code>
+## EncryptedRequest ⇐ [<code>XMLHttpRequest</code>](#external_XMLHttpRequest)
 **Kind**: global class  
-**Extends**: <code>[XMLHttpRequest](#external_XMLHttpRequest)</code>  
+**Extends**: [<code>XMLHttpRequest</code>](#external_XMLHttpRequest)  
 <a name="new_EncryptedRequest_new"></a>
 
 ### new EncryptedRequest()
@@ -10,11 +10,11 @@ Extends the built in XMLHttpRequest to send data encoded with a secret key.
 
 <a name="cliveExternal"></a>
 
-## cliveExternal : <code>[Clive](https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/String)</code>
+## cliveExternal : [<code>Clive</code>](https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/String)
 **Kind**: global variable  
 <a name="stringExternal"></a>
 
-## stringExternal : <code>[String](https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/String)</code>
+## stringExternal : [<code>String</code>](https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/String)
 **Kind**: global variable  
 <a name="external_jQuery.fn"></a>
 
@@ -28,7 +28,7 @@ The jQuery plugin namespace.
 ### jQuery.fn.starfairy()
 A jQuery plugin to make stars fly around your home page.
 
-**Kind**: static method of <code>[jQuery.fn](#external_jQuery.fn)</code>  
+**Kind**: static method of [<code>jQuery.fn</code>](#external_jQuery.fn)  
 <a name="external_XMLHttpRequest"></a>
 
 ## XMLHttpRequest

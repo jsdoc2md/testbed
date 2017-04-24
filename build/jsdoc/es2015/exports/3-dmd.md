@@ -13,19 +13,19 @@
 ### color/mixer.lastColor
 The most recent blended color.
 
-**Kind**: static property of <code>[color/mixer](#module_color/mixer)</code>  
+**Kind**: static property of [<code>color/mixer</code>](#module_color/mixer)  
 <a name="module_color/mixer.name"></a>
 
 ### color/mixer.name
 The name of the module.
 
-**Kind**: static constant of <code>[color/mixer](#module_color/mixer)</code>  
+**Kind**: static constant of [<code>color/mixer</code>](#module_color/mixer)  
 <a name="module_color/mixer.blend"></a>
 
 ### color/mixer.blend(color1, color2) ⇒ <code>string</code>
 Blend two colors together.
 
-**Kind**: static method of <code>[color/mixer](#module_color/mixer)</code>  
+**Kind**: static method of [<code>color/mixer</code>](#module_color/mixer)  
 **Returns**: <code>string</code> - The blended color.  
 
 | Param | Type | Description |
@@ -38,7 +38,7 @@ Blend two colors together.
 ### color/mixer.toRgb(color) ⇒ <code>Array</code>
 Get the red, green, and blue values of a color.
 
-**Kind**: static method of <code>[color/mixer](#module_color/mixer)</code>  
+**Kind**: static method of [<code>color/mixer</code>](#module_color/mixer)  
 **Returns**: <code>Array</code> - An array of the red, green, and blue values,
 each ranging from 0 to 255.  
 

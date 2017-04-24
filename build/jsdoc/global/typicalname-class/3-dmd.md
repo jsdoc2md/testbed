@@ -23,13 +23,13 @@
 ### typical.propOne
 an instance property
 
-**Kind**: instance property of <code>[TypicalNameConstructor](#TypicalNameConstructor)</code>  
+**Kind**: instance property of [<code>TypicalNameConstructor</code>](#TypicalNameConstructor)  
 <a name="TypicalNameConstructor.propTwo"></a>
 
 ### TypicalNameConstructor.propTwo
 a static property
 
-**Kind**: static property of <code>[TypicalNameConstructor](#TypicalNameConstructor)</code>  
+**Kind**: static property of [<code>TypicalNameConstructor</code>](#TypicalNameConstructor)  
 <a name="TypicalNameClass"></a>
 
 ## TypicalNameClass
@@ -46,10 +46,10 @@ a static property
 ### typical.propOne
 an instance property
 
-**Kind**: instance property of <code>[TypicalNameClass](#TypicalNameClass)</code>  
+**Kind**: instance property of [<code>TypicalNameClass</code>](#TypicalNameClass)  
 <a name="TypicalNameClass.propTwo"></a>
 
 ### TypicalNameClass.propTwo
 a static property
 
-**Kind**: static property of <code>[TypicalNameClass](#TypicalNameClass)</code>  
+**Kind**: static property of [<code>TypicalNameClass</code>](#TypicalNameClass)  

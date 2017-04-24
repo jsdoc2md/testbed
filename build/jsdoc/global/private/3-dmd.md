@@ -7,4 +7,4 @@
 ### Documents.Newspaper
 An ordinary newspaper.
 
-**Kind**: static property of <code>[Documents](#Documents)</code>  
+**Kind**: static property of [<code>Documents</code>](#Documents)  

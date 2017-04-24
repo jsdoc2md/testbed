@@ -8,7 +8,7 @@ simple object, one member. It shouldn't have an index.
 ### one-member.three(four, five) ⇒ <code>object</code> \| <code>string</code>
 a function
 
-**Kind**: static method of <code>[one-member](#module_one-member)</code>  
+**Kind**: static method of [<code>one-member</code>](#module_one-member)  
 **Returns**: <code>object</code> \| <code>string</code> - this return has several types  
 **Since**: v0.10.28  
 **Author**: Lloyd <75pound@gmail.com>  

@@ -12,7 +12,7 @@
 ### something.methodOne()
 method description
 
-**Kind**: instance method of <code>[Something](#Something)</code>  
+**Kind**: instance method of [<code>Something</code>](#Something)  
 <a name="Something+allTogether"></a>
 
 ### ~~something.allTogether(one, two) ⇒ <code>object</code> \| <code>string</code>~~
@@ -20,7 +20,7 @@ method description
 
 This function has all tags set
 
-**Kind**: instance method of <code>[Something](#Something)</code>  
+**Kind**: instance method of [<code>Something</code>](#Something)  
 **Returns**: <code>object</code> \| <code>string</code> - this return has several types  
 **Since**: v0.10.28  
 **Author**: Lloyd <75pound@gmail.com>  

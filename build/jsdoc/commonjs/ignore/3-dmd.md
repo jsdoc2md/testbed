@@ -8,4 +8,4 @@ module with ignored shiz
 ### 0-src.visible
 visible property
 
-**Kind**: static property of <code>[0-src](#module_0-src)</code>  
+**Kind**: static property of [<code>0-src</code>](#module_0-src)  

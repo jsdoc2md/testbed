@@ -7,7 +7,7 @@
 ### someObject.yeah
 yeah is now `SomeObject#yeah` rather than `SomeObject.yeah`.
 
-**Kind**: instance property of <code>[SomeObject](#SomeObject)</code>  
+**Kind**: instance property of [<code>SomeObject</code>](#SomeObject)  
 <a name="yeahFactory"></a>
 
 ## yeahFactory()

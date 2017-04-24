@@ -15,7 +15,7 @@ In biology, a species (abbreviated sp., with the plural form species abbreviated
 <a name="module_0-src..Species"></a>
 
 ### 0-src~Species
-**Kind**: inner class of <code>[0-src](#module_0-src)</code>  
+**Kind**: inner class of [<code>0-src</code>](#module_0-src)  
 
 * [~Species](#module_0-src..Species)
     * _instance_
@@ -29,17 +29,17 @@ In biology, a species (abbreviated sp., with the plural form species abbreviated
 #### species.name : <code>string</code>
 the species name
 
-**Kind**: instance property of <code>[Species](#module_0-src..Species)</code>  
+**Kind**: instance property of [<code>Species</code>](#module_0-src..Species)  
 <a name="module_0-src..Species+species"></a>
 
 #### species.species : <code>Species</code>
-**Kind**: instance property of <code>[Species](#module_0-src..Species)</code>  
+**Kind**: instance property of [<code>Species</code>](#module_0-src..Species)  
 <a name="module_0-src..Species.merge"></a>
 
 #### Species.merge(one, two) ⇒ <code>Species</code>
 merge two species into a new one
 
-**Kind**: static method of <code>[Species](#module_0-src..Species)</code>  
+**Kind**: static method of [<code>Species</code>](#module_0-src..Species)  
 
 | Param | Type | Description |
 | --- | --- | --- |

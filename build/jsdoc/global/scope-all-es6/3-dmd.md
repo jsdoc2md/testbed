@@ -16,10 +16,10 @@ something
 ### something.instanceClass
 Instance class
 
-**Kind**: instance class of <code>[Something](#Something)</code>  
+**Kind**: instance class of [<code>Something</code>](#Something)  
 <a name="Something.staticClass"></a>
 
 ### Something.staticClass
 Static class
 
-**Kind**: static class of <code>[Something](#Something)</code>  
+**Kind**: static class of [<code>Something</code>](#Something)  

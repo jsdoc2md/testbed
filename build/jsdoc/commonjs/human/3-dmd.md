@@ -8,11 +8,11 @@ exports a class
     * [Human](#exp_module_cjs/human--Human) ⏏
         * [new Human()](#new_module_cjs/human--Human_new)
         * _instance_
-            * [.liver](#module_cjs/human--Human+liver) : <code>[Organ](#module_cjs/human--Human..Organ)</code>
+            * [.liver](#module_cjs/human--Human+liver) : [<code>Organ</code>](#module_cjs/human--Human..Organ)
         * _inner_
             * [~Organ](#module_cjs/human--Human..Organ)
                 * _instance_
-                    * [.redCell](#module_cjs/human--Human..Organ+redCell) : <code>[Cell](#module_cjs/human--Human..Organ..Cell)</code>
+                    * [.redCell](#module_cjs/human--Human..Organ+redCell) : [<code>Cell</code>](#module_cjs/human--Human..Organ..Cell)
                 * _inner_
                     * [~Cell](#module_cjs/human--Human..Organ..Cell)
 
@@ -29,32 +29,32 @@ the exported contructor
 
 <a name="module_cjs/human--Human+liver"></a>
 
-#### human.liver : <code>[Organ](#module_cjs/human--Human..Organ)</code>
+#### human.liver : [<code>Organ</code>](#module_cjs/human--Human..Organ)
 an instance of Organ
 
-**Kind**: instance property of <code>[Human](#exp_module_cjs/human--Human)</code>  
+**Kind**: instance property of [<code>Human</code>](#exp_module_cjs/human--Human)  
 <a name="module_cjs/human--Human..Organ"></a>
 
 #### Human~Organ
 a class inside a class
 
-**Kind**: inner class of <code>[Human](#exp_module_cjs/human--Human)</code>  
+**Kind**: inner class of [<code>Human</code>](#exp_module_cjs/human--Human)  
 
 * [~Organ](#module_cjs/human--Human..Organ)
     * _instance_
-        * [.redCell](#module_cjs/human--Human..Organ+redCell) : <code>[Cell](#module_cjs/human--Human..Organ..Cell)</code>
+        * [.redCell](#module_cjs/human--Human..Organ+redCell) : [<code>Cell</code>](#module_cjs/human--Human..Organ..Cell)
     * _inner_
         * [~Cell](#module_cjs/human--Human..Organ..Cell)
 
 <a name="module_cjs/human--Human..Organ+redCell"></a>
 
-##### organ.redCell : <code>[Cell](#module_cjs/human--Human..Organ..Cell)</code>
+##### organ.redCell : [<code>Cell</code>](#module_cjs/human--Human..Organ..Cell)
 an instance of Cell
 
-**Kind**: instance property of <code>[Organ](#module_cjs/human--Human..Organ)</code>  
+**Kind**: instance property of [<code>Organ</code>](#module_cjs/human--Human..Organ)  
 <a name="module_cjs/human--Human..Organ..Cell"></a>
 
 ##### Organ~Cell
 a class inside a class inside a class
 
-**Kind**: inner class of <code>[Organ](#module_cjs/human--Human..Organ)</code>  
+**Kind**: inner class of [<code>Organ</code>](#module_cjs/human--Human..Organ)  

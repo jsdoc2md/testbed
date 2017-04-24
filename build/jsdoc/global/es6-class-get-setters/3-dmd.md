@@ -15,13 +15,13 @@ A class.
 ### something.size ⇒ <code>string</code>
 Gets the size
 
-**Kind**: instance property of <code>[Something](#Something)</code>  
+**Kind**: instance property of [<code>Something</code>](#Something)  
 <a name="Something+size"></a>
 
 ### something.size
 Sets the size
 
-**Kind**: instance property of <code>[Something](#Something)</code>  
+**Kind**: instance property of [<code>Something</code>](#Something)  
 
 | Param | Type |
 | --- | --- |
@@ -32,4 +32,4 @@ Sets the size
 ### something.size2 : <code>string</code>
 The size
 
-**Kind**: instance property of <code>[Something](#Something)</code>  
+**Kind**: instance property of [<code>Something</code>](#Something)  

@@ -8,4 +8,4 @@ A module that says hello!
 ### amd/export-object.sayHello()
 Say hello.
 
-**Kind**: static method of <code>[amd/export-object](#module_amd/export-object)</code>  
+**Kind**: static method of [<code>amd/export-object</code>](#module_amd/export-object)  

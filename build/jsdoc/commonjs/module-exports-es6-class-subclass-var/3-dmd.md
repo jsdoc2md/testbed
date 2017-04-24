@@ -47,35 +47,35 @@ var one = 1
 #### exportedClass.propOne : <code>number</code>
 an instance property
 
-**Kind**: instance property of <code>[ExportedClass](#exp_module_es6-class--ExportedClass)</code>  
+**Kind**: instance property of [<code>ExportedClass</code>](#exp_module_es6-class--ExportedClass)  
 <a name="module_es6-class--ExportedClass+methodOne"></a>
 
 #### exportedClass.methodOne()
 parent method one
 
-**Kind**: instance method of <code>[ExportedClass](#exp_module_es6-class--ExportedClass)</code>  
+**Kind**: instance method of [<code>ExportedClass</code>](#exp_module_es6-class--ExportedClass)  
 <a name="module_es6-class--ExportedClass+methodTwo"></a>
 
 #### exportedClass.methodTwo()
 parent method two
 
-**Kind**: instance method of <code>[ExportedClass](#exp_module_es6-class--ExportedClass)</code>  
+**Kind**: instance method of [<code>ExportedClass</code>](#exp_module_es6-class--ExportedClass)  
 <a name="module_es6-class--ExportedClass.shat"></a>
 
 #### ExportedClass.shat()
 a static method
 
-**Kind**: static method of <code>[ExportedClass](#exp_module_es6-class--ExportedClass)</code>  
+**Kind**: static method of [<code>ExportedClass</code>](#exp_module_es6-class--ExportedClass)  
 <a name="module_es6-class--ExportedClass..ChildClass"></a>
 
 #### ExportedClass~ChildClass ⇐ <code>ExportedClass</code>
 the child of exported class
 
-**Kind**: inner class of <code>[ExportedClass](#exp_module_es6-class--ExportedClass)</code>  
+**Kind**: inner class of [<code>ExportedClass</code>](#exp_module_es6-class--ExportedClass)  
 **Extends**: <code>ExportedClass</code>  
 <a name="module_es6-class--ExportedClass..ChildClass.ChildClass+propThree"></a>
 
 ##### childClass.propThree
 an instance property
 
-**Kind**: instance property of <code>[ChildClass](#module_es6-class--ExportedClass..ChildClass)</code>  
+**Kind**: instance property of [<code>ChildClass</code>](#module_es6-class--ExportedClass..ChildClass)  

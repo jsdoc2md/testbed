@@ -14,10 +14,10 @@ Aside from humans, who are the most prolific and versatile builders, building be
 ### builder.construct()
 construct something
 
-**Kind**: static method of <code>[builder](#builder)</code>  
+**Kind**: static method of [<code>builder</code>](#builder)  
 <a name="builder.repair"></a>
 
 ### builder.repair()
 repair something
 
-**Kind**: static method of <code>[builder](#builder)</code>  
+**Kind**: static method of [<code>builder</code>](#builder)  

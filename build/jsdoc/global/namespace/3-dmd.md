@@ -16,19 +16,19 @@
 ### car.wheels
 the round things
 
-**Kind**: static property of <code>[car](#car)</code>  
+**Kind**: static property of [<code>car</code>](#car)  
 <a name="car.sensors"></a>
 
 ### car.sensors
 the electronics that always go wrong
 
-**Kind**: static property of <code>[car](#car)</code>  
+**Kind**: static property of [<code>car</code>](#car)  
 <a name="car.start"></a>
 
 ### car.start()
 start the car
 
-**Kind**: static method of <code>[car](#car)</code>  
+**Kind**: static method of [<code>car</code>](#car)  
 
 | Type |
 | --- |
@@ -46,7 +46,7 @@ start the car
 #### start.env : <code>object</code>
 decribes the current conditions
 
-**Kind**: instance namespace of <code>[start](#car.start)</code>  
+**Kind**: instance namespace of [<code>start</code>](#car.start)  
 
 * [.env](#car.start+env) : <code>object</code>
     * [.weather](#car.start+env.weather) : <code>string</code>
@@ -57,12 +57,12 @@ decribes the current conditions
 ##### env.weather : <code>string</code>
 what kind of day is it
 
-**Kind**: static property of <code>[env](#car.start+env)</code>  
+**Kind**: static property of [<code>env</code>](#car.start+env)  
 **Default**: <code>&quot;choppy&quot;</code>  
 <a name="car.start+env.roads"></a>
 
 ##### env.roads : <code>string</code>
 road condition
 
-**Kind**: static property of <code>[env](#car.start+env)</code>  
+**Kind**: static property of [<code>env</code>](#car.start+env)  
 **Default**: <code>&quot;wet&quot;</code>  

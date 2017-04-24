@@ -7,4 +7,4 @@
 ### pizza.size
 the general size
 
-**Kind**: instance property of <code>[Pizza](#Pizza)</code>  
+**Kind**: instance property of [<code>Pizza</code>](#Pizza)  

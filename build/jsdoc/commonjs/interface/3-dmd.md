@@ -13,13 +13,13 @@ Interface for a Currah Speech Synth
 
 ![currah](http://ecx.images-amazon.com/images/I/41NReuJn%2BGL._SX300_.jpg)
 
-**Kind**: inner interface of <code>[interface](#module_interface)</code>  
+**Kind**: inner interface of [<code>interface</code>](#module_interface)  
 <a name="module_interface..Speech+say"></a>
 
 #### speech.say(text)
 what to say
 
-**Kind**: instance method of <code>[Speech](#module_interface..Speech)</code>  
+**Kind**: instance method of [<code>Speech</code>](#module_interface..Speech)  
 
 | Param | Type | Description |
 | --- | --- | --- |

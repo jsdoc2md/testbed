@@ -8,4 +8,4 @@ module with private shiz
 ### private.notprivate
 visible property
 
-**Kind**: static property of <code>[private](#module_private)</code>  
+**Kind**: static property of [<code>private</code>](#module_private)  

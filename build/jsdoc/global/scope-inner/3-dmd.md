@@ -18,10 +18,10 @@ something
 ### Something~four
 inner var
 
-**Kind**: inner property of <code>[Something](#Something)</code>  
+**Kind**: inner property of [<code>Something</code>](#Something)  
 <a name="Something..three"></a>
 
 ### Something~three
 inner constant
 
-**Kind**: inner constant of <code>[Something](#Something)</code>  
+**Kind**: inner constant of [<code>Something</code>](#Something)  

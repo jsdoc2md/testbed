@@ -8,10 +8,10 @@ test to check deep trees render ok
     * [Farm](#exp_module_farm--Farm) ⏏
         * [new Farm()](#new_module_farm--Farm_new)
         * _instance_
-            * [.equipment](#module_farm--Farm.Farm+equipment) : <code>[Equipment](#module_farm--Farm..Equipment)</code>
+            * [.equipment](#module_farm--Farm.Farm+equipment) : [<code>Equipment</code>](#module_farm--Farm..Equipment)
         * _inner_
             * [~Equipment](#module_farm--Farm..Equipment)
-                * [.tractor](#module_farm--Farm..Equipment.Equipment+tractor) : <code>[Tractor](#module_farm--Farm..Tractor)</code>
+                * [.tractor](#module_farm--Farm..Equipment.Equipment+tractor) : [<code>Tractor</code>](#module_farm--Farm..Tractor)
             * [~Tractor](#module_farm--Farm..Tractor)
                 * [.engine](#module_farm--Farm..Tractor.Tractor+engine)
                     * [.manufacturer](#module_farm--Farm..Tractor.Tractor+engine.manufacturer)
@@ -30,28 +30,28 @@ the constructor
 
 <a name="module_farm--Farm.Farm+equipment"></a>
 
-#### farm.equipment : <code>[Equipment](#module_farm--Farm..Equipment)</code>
+#### farm.equipment : [<code>Equipment</code>](#module_farm--Farm..Equipment)
 farm equipment
 
-**Kind**: instance property of <code>[Farm](#exp_module_farm--Farm)</code>  
+**Kind**: instance property of [<code>Farm</code>](#exp_module_farm--Farm)  
 <a name="module_farm--Farm..Equipment"></a>
 
 #### Farm~Equipment
 Equipment class
 
-**Kind**: inner class of <code>[Farm](#exp_module_farm--Farm)</code>  
+**Kind**: inner class of [<code>Farm</code>](#exp_module_farm--Farm)  
 <a name="module_farm--Farm..Equipment.Equipment+tractor"></a>
 
-##### equipment.tractor : <code>[Tractor](#module_farm--Farm..Tractor)</code>
+##### equipment.tractor : [<code>Tractor</code>](#module_farm--Farm..Tractor)
 the tractor
 
-**Kind**: instance property of <code>[Equipment](#module_farm--Farm..Equipment)</code>  
+**Kind**: instance property of [<code>Equipment</code>](#module_farm--Farm..Equipment)  
 <a name="module_farm--Farm..Tractor"></a>
 
 #### Farm~Tractor
 Tractor class
 
-**Kind**: inner class of <code>[Farm](#exp_module_farm--Farm)</code>  
+**Kind**: inner class of [<code>Farm</code>](#exp_module_farm--Farm)  
 
 * [~Tractor](#module_farm--Farm..Tractor)
     * [.engine](#module_farm--Farm..Tractor.Tractor+engine)
@@ -63,7 +63,7 @@ Tractor class
 ##### tractor.engine
 engine details
 
-**Kind**: instance property of <code>[Tractor](#module_farm--Farm..Tractor)</code>  
+**Kind**: instance property of [<code>Tractor</code>](#module_farm--Farm..Tractor)  
 
 * [.engine](#module_farm--Farm..Tractor.Tractor+engine)
     * [.manufacturer](#module_farm--Farm..Tractor.Tractor+engine.manufacturer)
@@ -74,10 +74,10 @@ engine details
 ###### engine.manufacturer
 who built
 
-**Kind**: static property of <code>[engine](#module_farm--Farm..Tractor.Tractor+engine)</code>  
+**Kind**: static property of [<code>engine</code>](#module_farm--Farm..Tractor.Tractor+engine)  
 <a name="module_farm--Farm..Tractor.Tractor+engine.size"></a>
 
 ###### engine.size
 the size
 
-**Kind**: static property of <code>[engine](#module_farm--Farm..Tractor.Tractor+engine)</code>  
+**Kind**: static property of [<code>engine</code>](#module_farm--Farm..Tractor.Tractor+engine)  

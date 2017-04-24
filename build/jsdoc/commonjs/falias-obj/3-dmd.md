@@ -19,4 +19,4 @@ the function
 #### sum.extra()
 a static method on the exported function
 
-**Kind**: static method of <code>[sum](#exp_module_falias-obj--sum)</code>  
+**Kind**: static method of [<code>sum</code>](#exp_module_falias-obj--sum)  

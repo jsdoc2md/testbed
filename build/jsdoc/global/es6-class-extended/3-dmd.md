@@ -38,34 +38,34 @@ var one = 1
 ### globalClass.propOne : <code>number</code>
 an instance property
 
-**Kind**: instance property of <code>[GlobalClass](#GlobalClass)</code>  
+**Kind**: instance property of [<code>GlobalClass</code>](#GlobalClass)  
 <a name="GlobalClass+methodOne"></a>
 
 ### globalClass.methodOne()
 parent method one
 
-**Kind**: instance method of <code>[GlobalClass](#GlobalClass)</code>  
+**Kind**: instance method of [<code>GlobalClass</code>](#GlobalClass)  
 <a name="GlobalClass+methodTwo"></a>
 
 ### globalClass.methodTwo()
 parent method two
 
-**Kind**: instance method of <code>[GlobalClass](#GlobalClass)</code>  
+**Kind**: instance method of [<code>GlobalClass</code>](#GlobalClass)  
 <a name="GlobalClass.shat"></a>
 
 ### GlobalClass.shat()
 a static method
 
-**Kind**: static method of <code>[GlobalClass](#GlobalClass)</code>  
+**Kind**: static method of [<code>GlobalClass</code>](#GlobalClass)  
 <a name="GlobalChildClass"></a>
 
-## GlobalChildClass ⇐ <code>[GlobalClass](#GlobalClass)</code>
+## GlobalChildClass ⇐ [<code>GlobalClass</code>](#GlobalClass)
 the child of global class
 
 **Kind**: global class  
-**Extends**: <code>[GlobalClass](#GlobalClass)</code>  
+**Extends**: [<code>GlobalClass</code>](#GlobalClass)  
 
-* [GlobalChildClass](#GlobalChildClass) ⇐ <code>[GlobalClass](#GlobalClass)</code>
+* [GlobalChildClass](#GlobalChildClass) ⇐ [<code>GlobalClass</code>](#GlobalClass)
     * [.propThree](#GlobalChildClass+propThree)
     * [.propOne](#GlobalClass+propOne) : <code>number</code>
     * [.methodTwo()](#GlobalChildClass+methodTwo)
@@ -76,23 +76,23 @@ the child of global class
 ### globalChildClass.propThree
 an instance property
 
-**Kind**: instance property of <code>[GlobalChildClass](#GlobalChildClass)</code>  
+**Kind**: instance property of [<code>GlobalChildClass</code>](#GlobalChildClass)  
 <a name="GlobalClass+propOne"></a>
 
 ### globalChildClass.propOne : <code>number</code>
 an instance property
 
-**Kind**: instance property of <code>[GlobalChildClass](#GlobalChildClass)</code>  
+**Kind**: instance property of [<code>GlobalChildClass</code>](#GlobalChildClass)  
 <a name="GlobalChildClass+methodTwo"></a>
 
 ### globalChildClass.methodTwo()
 overridden child methodTwo
 
-**Kind**: instance method of <code>[GlobalChildClass](#GlobalChildClass)</code>  
-**Overrides**: <code>[methodTwo](#GlobalClass+methodTwo)</code>  
+**Kind**: instance method of [<code>GlobalChildClass</code>](#GlobalChildClass)  
+**Overrides**: [<code>methodTwo</code>](#GlobalClass+methodTwo)  
 <a name="GlobalClass+methodOne"></a>
 
 ### globalChildClass.methodOne()
 parent method one
 
-**Kind**: instance method of <code>[GlobalChildClass](#GlobalChildClass)</code>  
+**Kind**: instance method of [<code>GlobalChildClass</code>](#GlobalChildClass)  

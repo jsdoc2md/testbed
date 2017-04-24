@@ -63,15 +63,15 @@
 <a name="Droid+jobs"></a>
 
 ### droid.jobs : <code>number</code>
-**Kind**: instance property of <code>[Droid](#Droid)</code>  
+**Kind**: instance property of [<code>Droid</code>](#Droid)  
 <a name="Droid+battery"></a>
 
 ### droid.battery : <code>number</code>
-**Kind**: instance property of <code>[Droid](#Droid)</code>  
+**Kind**: instance property of [<code>Droid</code>](#Droid)  
 <a name="Droid+pray"></a>
 
 ### droid.pray(one) ⇒ <code>number</code>
-**Kind**: instance method of <code>[Droid](#Droid)</code>  
+**Kind**: instance method of [<code>Droid</code>](#Droid)  
 **Category**: no-functions  
 
 | Param | Type |
@@ -81,17 +81,17 @@
 <a name="Droid+colour"></a>
 
 ### droid.colour : <code>string</code>
-**Kind**: instance property of <code>[Droid](#Droid)</code>  
+**Kind**: instance property of [<code>Droid</code>](#Droid)  
 **Category**: standard  
 <a name="Droid+age"></a>
 
 ### droid.age : <code>number</code>
-**Kind**: instance property of <code>[Droid](#Droid)</code>  
+**Kind**: instance property of [<code>Droid</code>](#Droid)  
 **Category**: standard  
 <a name="Droid+move"></a>
 
 ### droid.move(one) ⇒ <code>number</code>
-**Kind**: instance method of <code>[Droid](#Droid)</code>  
+**Kind**: instance method of [<code>Droid</code>](#Droid)  
 **Category**: yeah-functions  
 
 | Param | Type |
@@ -101,7 +101,7 @@
 <a name="Droid+stop"></a>
 
 ### droid.stop(one) ⇒ <code>number</code>
-**Kind**: instance method of <code>[Droid](#Droid)</code>  
+**Kind**: instance method of [<code>Droid</code>](#Droid)  
 **Category**: yeah-functions  
 
 | Param | Type |
@@ -111,7 +111,7 @@
 <a name="Droid.repair"></a>
 
 ### Droid.repair() ⇒ <code>boolean</code>
-**Kind**: static method of <code>[Droid](#Droid)</code>  
+**Kind**: static method of [<code>Droid</code>](#Droid)  
 
 | Param | Type |
 | --- | --- |
@@ -120,17 +120,17 @@
 <a name="Droid..legs"></a>
 
 ### Droid~legs : <code>number</code>
-**Kind**: inner constant of <code>[Droid](#Droid)</code>  
+**Kind**: inner constant of [<code>Droid</code>](#Droid)  
 **Category**: inner-consts  
 <a name="Droid..arms"></a>
 
 ### Droid~arms : <code>number</code>
-**Kind**: inner constant of <code>[Droid](#Droid)</code>  
+**Kind**: inner constant of [<code>Droid</code>](#Droid)  
 **Category**: inner-consts  
 <a name="Droid..human"></a>
 
 ### Droid~human : <code>boolean</code>
-**Kind**: inner constant of <code>[Droid](#Droid)</code>  
+**Kind**: inner constant of [<code>Droid</code>](#Droid)  
 **Category**: inner-consts-two  
 <a name="mixin"></a>
 
@@ -139,14 +139,14 @@
 <a name="mixin.one"></a>
 
 ### mixin.one : <code>number</code>
-**Kind**: static property of <code>[mixin](#mixin)</code>  
+**Kind**: static property of [<code>mixin</code>](#mixin)  
 <a name="another"></a>
 
 ## another : <code>number</code>
 **Kind**: global variable  
 <a name="object"></a>
 
-## object : <code>[object](#object)</code>
+## object : [<code>object</code>](#object)
 **Kind**: global namespace  
 <a name="external_ext"></a>
 

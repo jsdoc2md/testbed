@@ -12,16 +12,16 @@
 ### maths.pi
 exported number
 
-**Kind**: static constant of <code>[maths](#module_maths)</code>  
+**Kind**: static constant of [<code>maths</code>](#module_maths)  
 <a name="module_maths.add"></a>
 
 ### maths.add()
 Add two values.
 
-**Kind**: static method of <code>[maths](#module_maths)</code>  
+**Kind**: static method of [<code>maths</code>](#module_maths)  
 <a name="module_maths.subtract"></a>
 
 ### maths.subtract()
 Subtraction.
 
-**Kind**: static method of <code>[maths](#module_maths)</code>  
+**Kind**: static method of [<code>maths</code>](#module_maths)  

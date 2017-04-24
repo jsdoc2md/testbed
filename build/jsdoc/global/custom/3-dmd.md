@@ -6,7 +6,7 @@
 
 ## promiseSomething() ⇒ <code>Promise</code>
 **Kind**: global function  
-**Fulfil**: <code>[Tree](#Tree)</code> - Fulfils with a damn tree  
+**Fulfil**: [<code>Tree</code>](#Tree) - Fulfils with a damn tree  
 **Reject**: <code>Error</code> This is an error which is passed back  
 <a name="Comedy"></a>
 

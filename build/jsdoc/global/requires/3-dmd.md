@@ -13,5 +13,5 @@ Module two
 ### two~requirer()
 ensure you have some-module installed
 
-**Kind**: inner method of <code>[two](#module_two)</code>  
-**Requires**: <code>[one](#module_one)</code>, <code>[two](#module_two)</code>, <code>module:three</code>  
+**Kind**: inner method of [<code>two</code>](#module_two)  
+**Requires**: [<code>one</code>](#module_one), [<code>two</code>](#module_two), <code>module:three</code>  

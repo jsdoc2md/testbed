@@ -11,10 +11,10 @@
 ### _.findWhere()
 Find something where.
 
-**Kind**: static method of <code>[underscore](#module_underscore)</code>  
+**Kind**: static method of [<code>underscore</code>](#module_underscore)  
 <a name="module_underscore.flatten"></a>
 
 ### _.flatten()
 Flatten an array.
 
-**Kind**: static method of <code>[underscore](#module_underscore)</code>  
+**Kind**: static method of [<code>underscore</code>](#module_underscore)  

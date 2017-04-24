@@ -17,4 +17,4 @@ A module representing a jacket.
 #### jacket.zip()
 Open and close your Jacket.
 
-**Kind**: instance method of <code>[Jacket](#exp_module_jacket--Jacket)</code>  
+**Kind**: instance method of [<code>Jacket</code>](#exp_module_jacket--Jacket)  

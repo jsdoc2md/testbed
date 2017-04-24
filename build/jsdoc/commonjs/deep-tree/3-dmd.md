@@ -17,13 +17,13 @@ test to check deep member-indexes render ok
 ### farm.size
 size of farm
 
-**Kind**: static property of <code>[farm](#module_farm)</code>  
+**Kind**: static property of [<code>farm</code>](#module_farm)  
 <a name="module_farm.equipment"></a>
 
 ### farm.equipment
 machinary
 
-**Kind**: static property of <code>[farm](#module_farm)</code>  
+**Kind**: static property of [<code>farm</code>](#module_farm)  
 
 * [.equipment](#module_farm.equipment)
     * [.tractor](#module_farm.equipment.tractor)
@@ -36,7 +36,7 @@ machinary
 #### equipment.tractor
 tractor details
 
-**Kind**: static property of <code>[equipment](#module_farm.equipment)</code>  
+**Kind**: static property of [<code>equipment</code>](#module_farm.equipment)  
 
 * [.tractor](#module_farm.equipment.tractor)
     * [.engine](#module_farm.equipment.tractor.engine)
@@ -48,7 +48,7 @@ tractor details
 ##### tractor.engine
 engine details
 
-**Kind**: static property of <code>[tractor](#module_farm.equipment.tractor)</code>  
+**Kind**: static property of [<code>tractor</code>](#module_farm.equipment.tractor)  
 
 * [.engine](#module_farm.equipment.tractor.engine)
     * [.manufacturer](#module_farm.equipment.tractor.engine.manufacturer)
@@ -59,10 +59,10 @@ engine details
 ###### engine.manufacturer
 who made it
 
-**Kind**: static property of <code>[engine](#module_farm.equipment.tractor.engine)</code>  
+**Kind**: static property of [<code>engine</code>](#module_farm.equipment.tractor.engine)  
 <a name="module_farm.equipment.tractor.engine.size"></a>
 
 ###### engine.size
 size of it
 
-**Kind**: static property of <code>[engine](#module_farm.equipment.tractor.engine)</code>  
+**Kind**: static property of [<code>engine</code>](#module_farm.equipment.tractor.engine)  

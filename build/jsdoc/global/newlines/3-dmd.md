@@ -13,7 +13,7 @@ class description
 <a name="NewLines+numbers"></a>
 
 ### newLines.numbers
-**Kind**: instance property of <code>[NewLines](#NewLines)</code>  
+**Kind**: instance property of [<code>NewLines</code>](#NewLines)  
 **Properties**
 
 | Name | Type | Description |
@@ -23,7 +23,7 @@ class description
 <a name="NewLines+method"></a>
 
 ### newLines.method(input) ⇒ <code>number</code>
-**Kind**: instance method of <code>[NewLines](#NewLines)</code>  
+**Kind**: instance method of [<code>NewLines</code>](#NewLines)  
 **Returns**: <code>number</code> - the returns
   description also 
   has newlines  

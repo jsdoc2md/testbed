@@ -10,7 +10,7 @@ var cyber = require("cyberdyne")
 
 * [cyberdyne](#module_cyberdyne)
     * _static_
-        * [.createMachine()](#module_cyberdyne.createMachine) ⇒ <code>[Machine](#module_cyberdyne..Machine)</code>
+        * [.createMachine()](#module_cyberdyne.createMachine) ⇒ [<code>Machine</code>](#module_cyberdyne..Machine)
     * _inner_
         * [~Machine](#module_cyberdyne..Machine)
             * [new Machine(options)](#new_module_cyberdyne..Machine_new)
@@ -20,14 +20,14 @@ var cyber = require("cyberdyne")
 
 <a name="module_cyberdyne.createMachine"></a>
 
-### cyberdyne.createMachine() ⇒ <code>[Machine](#module_cyberdyne..Machine)</code>
-**Kind**: static method of <code>[cyberdyne](#module_cyberdyne)</code>  
+### cyberdyne.createMachine() ⇒ [<code>Machine</code>](#module_cyberdyne..Machine)
+**Kind**: static method of [<code>cyberdyne</code>](#module_cyberdyne)  
 <a name="module_cyberdyne..Machine"></a>
 
 ### cyberdyne~Machine
 The main class of machine
 
-**Kind**: inner class of <code>[cyberdyne](#module_cyberdyne)</code>  
+**Kind**: inner class of [<code>cyberdyne</code>](#module_cyberdyne)  
 
 * [~Machine](#module_cyberdyne..Machine)
     * [new Machine(options)](#new_module_cyberdyne..Machine_new)
@@ -47,14 +47,14 @@ the Machine constructor
 <a name="module_cyberdyne..Machine+eyes"></a>
 
 #### machine.eyes : <code>number</code>
-**Kind**: instance property of <code>[Machine](#module_cyberdyne..Machine)</code>  
+**Kind**: instance property of [<code>Machine</code>](#module_cyberdyne..Machine)  
 <a name="module_cyberdyne..Machine+vibe"></a>
 
 #### machine.vibe : <code>string</code>
-**Kind**: instance property of <code>[Machine](#module_cyberdyne..Machine)</code>  
+**Kind**: instance property of [<code>Machine</code>](#module_cyberdyne..Machine)  
 <a name="module_cyberdyne..something"></a>
 
 ### cyberdyne~something
 random
 
-**Kind**: inner property of <code>[cyberdyne](#module_cyberdyne)</code>  
+**Kind**: inner property of [<code>cyberdyne</code>](#module_cyberdyne)  

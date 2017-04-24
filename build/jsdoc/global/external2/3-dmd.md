@@ -1,15 +1,15 @@
 <a name="Runner"></a>
 
-## Runner ⇐ <code>[TestRunner](https://github.com/75lb/test-runner)</code>
+## Runner ⇐ [<code>TestRunner</code>](https://github.com/75lb/test-runner)
 **Kind**: global class  
-**Extends**: <code>[TestRunner](https://github.com/75lb/test-runner)</code>  
+**Extends**: [<code>TestRunner</code>](https://github.com/75lb/test-runner)  
 <a name="Runner+test"></a>
 
 ### runner.test()
 My opinion of how tests should be done.
 
-**Kind**: instance method of <code>[Runner](#Runner)</code>  
+**Kind**: instance method of [<code>Runner</code>](#Runner)  
 <a name="returnsExternal"></a>
 
-## returnsExternal() ⇒ <code>[TestRunner](https://github.com/75lb/test-runner)</code>
+## returnsExternal() ⇒ [<code>TestRunner</code>](https://github.com/75lb/test-runner)
 **Kind**: global function  

@@ -41,20 +41,20 @@ this is the contructor
 #### filePet.instie
 an instance ting
 
-**Kind**: instance property of <code>[FilePet](#exp_module_file-pet--FilePet)</code>  
+**Kind**: instance property of [<code>FilePet</code>](#exp_module_file-pet--FilePet)  
 <a name="module_file-pet--FilePet+files"></a>
 
 #### filePet.files : <code>boolean</code>
 the prototype instance property
 
-**Kind**: instance property of <code>[FilePet](#exp_module_file-pet--FilePet)</code>  
+**Kind**: instance property of [<code>FilePet</code>](#exp_module_file-pet--FilePet)  
 **Default**: <code>true</code>  
 <a name="module_file-pet--FilePet+delete"></a>
 
 #### filePet.delete(paths)
 A prototype instance methy meth
 
-**Kind**: instance method of <code>[FilePet](#exp_module_file-pet--FilePet)</code>  
+**Kind**: instance method of [<code>FilePet</code>](#exp_module_file-pet--FilePet)  
 
 | Param | Type | Description |
 | --- | --- | --- |

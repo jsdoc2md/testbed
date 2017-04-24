@@ -12,11 +12,11 @@
 ### Documents.Newspaper
 An ordinary newspaper.
 
-**Kind**: static property of <code>[Documents](#Documents)</code>  
+**Kind**: static property of [<code>Documents</code>](#Documents)  
 <a name="Documents.Diary"></a>
 
 ### Documents.Diary ℗
 My diary.
 
-**Kind**: static property of <code>[Documents](#Documents)</code>  
+**Kind**: static property of [<code>Documents</code>](#Documents)  
 **Access**: private  

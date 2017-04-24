@@ -12,14 +12,14 @@
 ### hurl.snowball()
 Throw a snowball.
 
-**Kind**: instance method of <code>[Hurl](#Hurl)</code>  
-**Emits**: <code>[snowball](#Hurl+event_snowball)</code>  
+**Kind**: instance method of [<code>Hurl</code>](#Hurl)  
+**Emits**: [<code>snowball</code>](#Hurl+event_snowball)  
 <a name="Hurl+event_snowball"></a>
 
 ### "snowball"
 Snowball event.
 
-**Kind**: event emitted by <code>[Hurl](#Hurl)</code>  
+**Kind**: event emitted by [<code>Hurl</code>](#Hurl)  
 **Properties**
 
 | Name | Type | Description |

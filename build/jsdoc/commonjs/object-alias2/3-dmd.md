@@ -14,16 +14,16 @@ simple object export
 ### 0-src.one
 first property
 
-**Kind**: static property of <code>[0-src](#module_0-src)</code>  
+**Kind**: static property of [<code>0-src</code>](#module_0-src)  
 <a name="module_0-src.two"></a>
 
 ### 0-src.two
 second property
 
-**Kind**: static property of <code>[0-src](#module_0-src)</code>  
+**Kind**: static property of [<code>0-src</code>](#module_0-src)  
 <a name="module_0-src.three"></a>
 
 ### 0-src.three()
 a function
 
-**Kind**: static method of <code>[0-src](#module_0-src)</code>  
+**Kind**: static method of [<code>0-src</code>](#module_0-src)  

@@ -15,26 +15,26 @@
 ### category.one
 one
 
-**Kind**: static property of <code>[category](#module_category)</code>  
+**Kind**: static property of [<code>category</code>](#module_category)  
 **Category**: first  
 <a name="module_category.two"></a>
 
 ### category.two
 two
 
-**Kind**: static property of <code>[category](#module_category)</code>  
+**Kind**: static property of [<code>category</code>](#module_category)  
 **Category**: first  
 <a name="module_category.three"></a>
 
 ### category.three
 three
 
-**Kind**: static property of <code>[category](#module_category)</code>  
+**Kind**: static property of [<code>category</code>](#module_category)  
 **Category**: second  
 <a name="module_category.four"></a>
 
 ### category.four
 four
 
-**Kind**: static property of <code>[category](#module_category)</code>  
+**Kind**: static property of [<code>category</code>](#module_category)  
 **Category**: second  

@@ -8,29 +8,29 @@ In biology, a species (abbreviated sp., with the plural form species abbreviated
 * [Species](#Species)
     * _instance_
         * [.name](#Species+name) : <code>string</code>
-        * [.species](#Species+species) : <code>[Species](#Species)</code>
+        * [.species](#Species+species) : [<code>Species</code>](#Species)
     * _static_
-        * [.merge(one, two)](#Species.merge) ⇒ <code>[Species](#Species)</code>
+        * [.merge(one, two)](#Species.merge) ⇒ [<code>Species</code>](#Species)
 
 <a name="Species+name"></a>
 
 ### species.name : <code>string</code>
 the species name
 
-**Kind**: instance property of <code>[Species](#Species)</code>  
+**Kind**: instance property of [<code>Species</code>](#Species)  
 <a name="Species+species"></a>
 
-### species.species : <code>[Species](#Species)</code>
-**Kind**: instance property of <code>[Species](#Species)</code>  
+### species.species : [<code>Species</code>](#Species)
+**Kind**: instance property of [<code>Species</code>](#Species)  
 <a name="Species.merge"></a>
 
-### Species.merge(one, two) ⇒ <code>[Species](#Species)</code>
+### Species.merge(one, two) ⇒ [<code>Species</code>](#Species)
 merge two species into a new one
 
-**Kind**: static method of <code>[Species](#Species)</code>  
+**Kind**: static method of [<code>Species</code>](#Species)  
 
 | Param | Type | Description |
 | --- | --- | --- |
-| one | <code>[Species](#Species)</code> | first |
-| two | <code>[Species](#Species)</code> | second |
+| one | [<code>Species</code>](#Species) | first |
+| two | [<code>Species</code>](#Species) | second |
 
