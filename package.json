@@ -17,7 +17,7 @@
     "config-master": "^3.1.0",
     "dmd-bitbucket": "~0.1.10",
     "jsdoc-babel": "~0.3.0",
-    "jsdoc-to-markdown": "^3.0.3",
+    "jsdoc-to-markdown": "^3.0.4",
     "then-fs": "^2.0.0",
     "work": "~0.3.2"
   },
