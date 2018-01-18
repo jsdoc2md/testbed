@@ -1,15 +1,15 @@
 'use strict'
 /**
  * a global class
+ * @throws {string} A serious error occurred.
+ * @example
+ * var one = 1
  */
 class GlobalClass {
   /**
    * the global class constructor
    * @param {number} - first param
    * @param {string} - second param
-   * @throws {string} A serious error occurred.
-   * @example
-   * var one = 1
    */
   constructor (one, two) {
     /**

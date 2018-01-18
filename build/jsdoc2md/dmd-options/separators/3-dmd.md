@@ -8,14 +8,14 @@ ES6 Class (with sub-class) exported indirectly by a variable on module.exports.
     * [ExportedClass](#exp_module_es6-class--ExportedClass) ⏏
         * [new ExportedClass(one, two)](#new_module_es6-class--ExportedClass_new)
         * _instance_
-            * [.propOne](#module_es6-class--ExportedClass.ExportedClass+propOne) : <code>number</code>
+            * [.propOne](#module_es6-class--ExportedClass+propOne) : <code>number</code>
+            * [.propThree](#module_es6-class--ExportedClass..ChildClass+propThree)
             * [.methodOne()](#module_es6-class--ExportedClass+methodOne)
             * [.methodTwo()](#module_es6-class--ExportedClass+methodTwo)
         * _static_
             * [.shat()](#module_es6-class--ExportedClass.shat)
         * _inner_
             * [~ChildClass](#module_es6-class--ExportedClass..ChildClass) ⇐ <code>ExportedClass</code>
-                * [.propThree](#module_es6-class--ExportedClass..ChildClass.ChildClass+propThree)
 
 
 * * *
@@ -34,26 +34,27 @@ a class exported from a module
 #### new ExportedClass(one, two)
 the class constructor
 
-**Throws**:
-
-- <code>string</code> A serious error occurred.
-
 
 | Param | Type | Description |
 | --- | --- | --- |
 | one | <code>number</code> | first param |
 | two | <code>string</code> | second param |
 
-**Example**  
-```js
-var one = 1
-```
 
 * * *
 
-<a name="module_es6-class--ExportedClass.ExportedClass+propOne"></a>
+<a name="module_es6-class--ExportedClass+propOne"></a>
 
 #### exportedClass.propOne : <code>number</code>
+an instance property
+
+**Kind**: instance property of [<code>ExportedClass</code>](#exp_module_es6-class--ExportedClass)  
+
+* * *
+
+<a name="module_es6-class--ExportedClass..ChildClass+propThree"></a>
+
+#### exportedClass.propThree
 an instance property
 
 **Kind**: instance property of [<code>ExportedClass</code>](#exp_module_es6-class--ExportedClass)  
@@ -94,15 +95,6 @@ the child of exported class
 
 **Kind**: inner class of [<code>ExportedClass</code>](#exp_module_es6-class--ExportedClass)  
 **Extends**: <code>ExportedClass</code>  
-
-* * *
-
-<a name="module_es6-class--ExportedClass..ChildClass.ChildClass+propThree"></a>
-
-##### childClass.propThree
-an instance property
-
-**Kind**: instance property of [<code>ChildClass</code>](#module_es6-class--ExportedClass..ChildClass)  
 
 * * *
 

@@ -1,3 +1,9 @@
+<a name="phantom"></a>
+
+## phantom
+phantom mixin
+
+**Kind**: global mixin  
 <a name="Eventful"></a>
 
 ## Eventful
@@ -34,9 +40,3 @@ Fire an event, causing all handlers for that event name to run.
 | eventName | <code>string</code> | Name of the event. |
 | eventData | <code>Object</code> | The data provided to each handler. |
 
-<a name="phantom"></a>
-
-## phantom
-phantom mixin
-
-**Kind**: global mixin  

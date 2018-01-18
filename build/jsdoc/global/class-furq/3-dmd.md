@@ -101,7 +101,6 @@ kill
 **Example**  
 ```js
 var kill = uziLover.kill()
-  
 ```
 **Example**  
 ```js
