@@ -11,4 +11,5 @@
 | defaults.level | <code>string</code> | The default level for the party. |
 | defaults.treasure | <code>object</code> | The default treasure. |
 | defaults.treasure.gold | <code>number</code> | How much gold the party starts with. |
+| [optional] | <code>number</code> | An optional |
 

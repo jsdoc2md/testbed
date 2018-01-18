@@ -7,6 +7,7 @@
  * @property extraversion {*} - extraversion
  * @property agreeableness {object} - agreeableness
  * @property neuroticism {object} - neuroticism
+ * @property [optional] {number} - An optional
  */
 var personality = {
   openness: '',

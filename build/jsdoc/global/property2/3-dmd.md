@@ -13,4 +13,5 @@ A personality object, documented using the more concise `@property` notation.
 | extraversion | <code>\*</code> | extraversion |
 | agreeableness | <code>object</code> | agreeableness |
 | neuroticism | <code>object</code> | neuroticism |
+| [optional] | <code>number</code> | An optional |
 
