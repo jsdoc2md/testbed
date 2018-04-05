@@ -1,9 +1,7 @@
 /**
  * test to check deep trees render ok
- *
  * @module farm
  */
-module.exports = farm
 
 /**
  * the farm
@@ -55,5 +53,10 @@ class Tractor {
     }
   }
 
+  /**
+   * a static property on Tractor
+   */
   static something () {}
 }
+
+module.exports = Farm
