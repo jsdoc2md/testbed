@@ -4,10 +4,11 @@ const Queue = require('work').Queue
 const Task = require('work').Task
 const command = require('../lib/command')
 const fsIterable = require('../lib/iterator')
-const tool = require('command-line-tool')
 const arrayify = require('array-back')
+const commandLineArgs = require('command-line-args')
+const commandLineUsage = require('command-line-usage')
 
-const defs = [
+const optionDefinitions = [
   { name: 'help', alias: 'h', type: Boolean },
   { name: 'folders', type: String, multiple: true, defaultOption: true },
   { name: 'jsdoc', type: Boolean },
@@ -16,16 +17,19 @@ const defs = [
   { name: 'v1', type: Boolean },
   { name: 'bb', type: Boolean }
 ]
-const { options, usage } = tool.getCli(defs, { header: 'Options', optionList: defs })
+const options = commandLineArgs(optionDefinitions)
 
-if (options.help) tool.stop(usage)
+if (options.help) {
+  const usage = commandLineUsage([ { header: 'Options', optionList: optionDefinitions }])
+  console.error(usage)
+  process.exit(0)
+}
 
-function getFolderList () {
+async function getFolderList () {
   if (options.folders) {
-    return Promise.resolve(options.folders)
+    return options.folders
   } else {
     return fsIterable.getDirTree('./build')
-      .catch(tool.halt)
   }
 }
 
@@ -59,23 +63,23 @@ function buildQueue (folderList, createTasks) {
   return queue
 }
 
-getFolderList()
-  .then(folderList => {
-    let queue
-    if (options.jsdoc) {
-      queue = buildQueue(folderList, dir => new command.Jsdoc(dir))
-    } else if (options.parse) {
-      queue = buildQueue(folderList, dir => new command.JsdocParse(dir))
-    } else if (options.dmd) {
-      queue = buildQueue(folderList, dir => new command.Dmd(dir))
-    } else if (options.bb) {
-      queue = buildQueue(folderList, dir => new command.Dmd(dir, {
-        plugin: 'dmd-bitbucket',
-        outputFile: '4-dmd-bb.md'
-      }))
-    } else if (options.v1) {
-      queue = buildQueue(folderList, dir => new command.Jsdoc2md(dir))
-    }
-    if (queue) queue.process()
-  })
-  .catch(tool.halt)
+async function start () {
+  const folderList = await getFolderList()
+  let queue
+  if (options.jsdoc) {
+    queue = buildQueue(folderList, dir => new command.Jsdoc(dir))
+  } else if (options.parse) {
+    queue = buildQueue(folderList, dir => new command.JsdocParse(dir))
+  } else if (options.dmd) {
+    queue = buildQueue(folderList, dir => new command.Dmd(dir))
+  } else if (options.bb) {
+    queue = buildQueue(folderList, dir => new command.Dmd(dir, {
+      plugin: 'dmd-bitbucket',
+      outputFile: '4-dmd-bb.md'
+    }))
+  } else if (options.v1) {
+    queue = buildQueue(folderList, dir => new command.Jsdoc2md(dir))
+  }
+  return queue && queue.process()
+}
+start()
