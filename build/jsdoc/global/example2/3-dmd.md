@@ -29,7 +29,7 @@ An example with no code, just text
 **Example**  
 ```js
 This example is just plain text. Note that it's formatted as javascript
-as that's the default `--example-lang` value and dmd has no way of 
+as that's the default `--example-lang` value and dmd has no way of
 distinguishing whether the example text is, or is not source code.
 ```
 <a name="four"></a>
@@ -39,7 +39,7 @@ Another text example, using the `@lang off` sub-tag..
 
 **Kind**: global function  
 **Example**  
-This example is plain text but it has not been formatted using the default 
+This example is plain text but it has not been formatted using the default
 `--example-lang` of javascript because the `@example @lang off` was used..
 <a name="five"></a>
 
@@ -49,7 +49,7 @@ An example with text and code, with no fenced-code blocks
 **Kind**: global function  
 **Example**  
 ```js
-Here, i introduce the example: 
+Here, i introduce the example:
 
 var result = five()
 ```
@@ -60,7 +60,7 @@ An example with text and code, with fenced-code block and no lang set
 
 **Kind**: global function  
 **Example**  
-Here, i introduce the example: 
+Here, i introduce the example:
 
 ```
 var result = six()
@@ -72,7 +72,7 @@ An example with text and code, with fenced-code block and `js` lang set
 
 **Kind**: global function  
 **Example**  
-Here, i introduce the example: 
+Here, i introduce the example:
 
 ```js
 var result = seven()
@@ -90,4 +90,24 @@ this function returns data like:
 {
     "yeah": "gets?"
 }
+```
+<a name="nine"></a>
+
+## nine()
+Both caption and lang present
+
+**Kind**: global function  
+**Example** *(The caption)*  
+```java
+String a = 'a'
+```
+<a name="ten"></a>
+
+## ten()
+Both caption and lang present, order swapped around
+
+**Kind**: global function  
+**Example** *(The caption)*  
+```java
+String a = 'a'
 ```
