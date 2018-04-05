@@ -6,6 +6,7 @@ test to check deep trees render ok
 
 * [farm](#module_farm)
     * [Farm](#exp_module_farm--Farm) ⏏
+        * [new Farm()](#new_module_farm--Farm_new)
         * _instance_
             * [.equipment](#module_farm--Farm+equipment) : [<code>Equipment</code>](#module_farm--Farm..Equipment)
             * [.tractor](#module_farm--Farm..Equipment+tractor) : [<code>Tractor</code>](#module_farm--Farm..Tractor)
@@ -25,6 +26,11 @@ test to check deep trees render ok
 the farm
 
 **Kind**: Exported class  
+<a name="new_module_farm--Farm_new"></a>
+
+#### new Farm()
+the constructor
+
 <a name="module_farm--Farm+equipment"></a>
 
 #### farm.equipment : [<code>Equipment</code>](#module_farm--Farm..Equipment)
