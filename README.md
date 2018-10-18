@@ -15,3 +15,10 @@ A collection of jsdoc2md test fixtures.
     1. git status shows changes
         1. You broke something. If that was not intentional, fix the issue in your dmd fork and return to step 5.
 
+
+## Verify
+
+All output produced by jsdoc2md needs to be verified as correct on these platforms:
+
+1. github.com
+2. npmjs.org

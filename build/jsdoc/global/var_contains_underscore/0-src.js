@@ -3,4 +3,4 @@
  * @type {string}
  * @default
  */
-var globalVar = 'something'
+var global_var_underscore = 'something'
