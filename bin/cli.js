@@ -1,13 +1,4 @@
 #!/usr/bin/env node
-'use strict'
-const Queue = require('work').Queue
-const Task = require('work').Task
-const command = require('../lib/command')
-const fsIterable = require('../lib/iterator')
-const arrayify = require('array-back')
-const commandLineArgs = require('command-line-args')
-const commandLineUsage = require('command-line-usage')
-
 const optionDefinitions = [
   { name: 'help', alias: 'h', type: Boolean },
   { name: 'folders', type: String, multiple: true, defaultOption: true },
@@ -17,23 +8,20 @@ const optionDefinitions = [
   { name: 'v1', type: Boolean },
   { name: 'bb', type: Boolean }
 ]
-const options = commandLineArgs(optionDefinitions)
 
-if (options.help) {
-  const usage = commandLineUsage([ { header: 'Options', optionList: optionDefinitions }])
-  console.error(usage)
-  process.exit(0)
-}
-
-async function getFolderList () {
-  if (options.folders) {
-    return options.folders
+async function getFolderList (folders) {
+  const dirTree = require('../lib/dir-tree')
+  if (folders) {
+    return folders
   } else {
-    return fsIterable.getDirTree('./build')
+    return dirTree.getDirTree('./build')
   }
 }
 
 function buildQueue (folderList, createTasks) {
+  const Task = require('work').Task
+  const Queue = require('work').Queue
+  const arrayify = require('array-back')
   createTasks = arrayify(createTasks)
   const queue = new Queue({ maxConcurrent: 10 })
   if (createTasks.length) {
@@ -42,7 +30,7 @@ function buildQueue (folderList, createTasks) {
       createTasks.forEach(createTask => {
         taskQueue.push(createTask(dir))
       })
-      const task = new Task(function (resolve, reject) {
+      const task = new Task((resolve, reject) => {
         taskQueue
           .on('shift', task => console.log(task.name))
           .on('complete', resolve)
@@ -64,22 +52,32 @@ function buildQueue (folderList, createTasks) {
 }
 
 async function start () {
-  const folderList = await getFolderList()
+  const commandLineArgs = require('command-line-args')
+  const options = commandLineArgs(optionDefinitions)
+  const folderList = await getFolderList(options.folders)
   let queue
-  if (options.jsdoc) {
-    queue = buildQueue(folderList, dir => new command.Jsdoc(dir))
-  } else if (options.parse) {
-    queue = buildQueue(folderList, dir => new command.JsdocParse(dir))
-  } else if (options.dmd) {
-    queue = buildQueue(folderList, dir => new command.Dmd(dir))
-  } else if (options.bb) {
-    queue = buildQueue(folderList, dir => new command.Dmd(dir, {
-      plugin: 'dmd-bitbucket',
-      outputFile: '4-dmd-bb.md'
-    }))
-  } else if (options.v1) {
-    queue = buildQueue(folderList, dir => new command.Jsdoc2md(dir))
+  if (options.help) {
+    const commandLineUsage = require('command-line-usage')
+    const usage = commandLineUsage([ { header: 'Options', optionList: optionDefinitions }])
+    console.error(usage)
+  } else {
+    const command = require('../lib/command')
+    if (options.jsdoc) {
+      queue = buildQueue(folderList, dir => new command.Jsdoc(dir))
+    } else if (options.parse) {
+      queue = buildQueue(folderList, dir => new command.JsdocParse(dir))
+    } else if (options.dmd) {
+      queue = buildQueue(folderList, dir => new command.Dmd(dir))
+    } else if (options.bb) {
+      queue = buildQueue(folderList, dir => new command.Dmd(dir, {
+        plugin: 'dmd-bitbucket',
+        outputFile: '4-dmd-bb.md'
+      }))
+    } else if (options.v1) {
+      queue = buildQueue(folderList, dir => new command.Jsdoc2md(dir))
+    }
+    return queue && queue.process()
   }
-  return queue && queue.process()
 }
-start()
+
+start().catch(console.error)

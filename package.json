@@ -5,6 +5,9 @@
   "description": "testbed",
   "repository": "https://github.com/jsdoc2md/testbed.git",
   "license": "MIT",
+  "engines": {
+    "node": ">10"
+  },
   "bin": {
     "testbed": "bin/cli.js"
   },
@@ -13,14 +16,13 @@
   },
   "devDependencies": {
     "array-back": "^2.0.0",
-    "babel-core": "^6.26.0",
+    "babel-core": "^6.26.3",
     "babel-plugin-transform-async-to-generator": "^6.24.1",
     "babel-preset-es2015": "^6.24.1",
     "config-master": "^3.1.0",
     "dmd-bitbucket": "~0.1.10",
-    "jsdoc-babel": "~0.4.0",
+    "jsdoc-babel": "~0.5.0",
     "jsdoc-to-markdown": "^4.0.1",
-    "then-fs": "^2.0.0",
     "work": "~0.3.2"
   },
   "standard": {
@@ -33,7 +35,7 @@
   },
   "dependencies": {
     "command-line-args": "^5.0.2",
-    "command-line-usage": "^5.0.4",
-    "reduce-flatten": "^1.0.1"
+    "command-line-usage": "^5.0.5",
+    "reduce-flatten": "^2.0.0"
   }
 }
