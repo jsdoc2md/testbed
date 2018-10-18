@@ -62,20 +62,7 @@ async function start () {
     console.error(usage)
   } else {
     const command = require('../lib/command')
-    if (options.jsdoc) {
-      queue = buildQueue(folderList, dir => new command.Jsdoc(dir))
-    } else if (options.parse) {
-      queue = buildQueue(folderList, dir => new command.JsdocParse(dir))
-    } else if (options.dmd) {
-      queue = buildQueue(folderList, dir => new command.Dmd(dir))
-    } else if (options.bb) {
-      queue = buildQueue(folderList, dir => new command.Dmd(dir, {
-        plugin: 'dmd-bitbucket',
-        outputFile: '4-dmd-bb.md'
-      }))
-    } else if (options.v1) {
-      queue = buildQueue(folderList, dir => new command.Jsdoc2md(dir))
-    }
+    queue = buildQueue(folderList, dir => new command.Jsdoc2md(dir))
     return queue && queue.process()
   }
 }
