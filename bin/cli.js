@@ -1,17 +1,7 @@
 #!/usr/bin/env node
-const optionDefinitions = [
-  { name: 'help', alias: 'h', type: Boolean },
-  { name: 'folders', type: String, multiple: true, defaultOption: true },
-  { name: 'jsdoc', type: Boolean },
-  { name: 'parse', type: Boolean },
-  { name: 'dmd', type: Boolean },
-  { name: 'v1', type: Boolean },
-  { name: 'bb', type: Boolean }
-]
-
 async function getFolderList (folders) {
   const dirTree = require('../lib/dir-tree')
-  if (folders) {
+  if (folders.length) {
     return folders
   } else {
     return dirTree.getDirTree('./build')
@@ -52,19 +42,12 @@ function buildQueue (folderList, createTasks) {
 }
 
 async function start () {
-  const commandLineArgs = require('command-line-args')
-  const options = commandLineArgs(optionDefinitions)
-  const folderList = await getFolderList(options.folders)
+  const [ ...folders ] = process.argv.slice(2)
+  const folderList = await getFolderList(folders)
   let queue
-  if (options.help) {
-    const commandLineUsage = require('command-line-usage')
-    const usage = commandLineUsage([ { header: 'Options', optionList: optionDefinitions }])
-    console.error(usage)
-  } else {
-    const command = require('../lib/command')
-    queue = buildQueue(folderList, dir => new command.Jsdoc2md(dir))
-    return queue && queue.process()
-  }
+  const command = require('../lib/command')
+  queue = buildQueue(folderList, dir => new command.Jsdoc2md(dir))
+  return queue && queue.process()
 }
 
 start().catch(console.error)
