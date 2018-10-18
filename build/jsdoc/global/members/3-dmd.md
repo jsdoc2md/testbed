@@ -38,7 +38,7 @@ var next = "p"
 ```
 <a name="_protected"></a>
 
-## _protected
+## \_protected
 **Kind**: global variable  
 **Access**: protected  
 <a name="withAuthor"></a>
