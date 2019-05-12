@@ -1,10 +1,10 @@
 /**
- * test to check deep trees render ok
+ * Exports a farm. Documents inner classes.
  * @module farm
  */
 
 /**
- * the farm
+ * The farm
  * @alias module:farm
  */
 class Farm {

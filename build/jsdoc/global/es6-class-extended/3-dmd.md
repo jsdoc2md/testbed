@@ -83,6 +83,7 @@ an instance property
 an instance property
 
 **Kind**: instance property of [<code>GlobalChildClass</code>](#GlobalChildClass)  
+**Overrides**: [<code>propOne</code>](#GlobalClass+propOne)  
 <a name="GlobalChildClass+methodTwo"></a>
 
 ### globalChildClass.methodTwo()
@@ -96,3 +97,4 @@ overridden child methodTwo
 parent method one
 
 **Kind**: instance method of [<code>GlobalChildClass</code>](#GlobalChildClass)  
+**Overrides**: [<code>methodOne</code>](#GlobalClass+methodOne)  

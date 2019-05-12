@@ -28,12 +28,20 @@ a class exported from a module
 #### new ExportedClass(one, two)
 the class constructor
 
+**Throws**:
+
+- <code>string</code> A serious error occurred.
+
 
 | Param | Type | Description |
 | --- | --- | --- |
 | one | <code>number</code> | first param |
 | two | <code>string</code> | second param |
 
+**Example**  
+```js
+var one = 1
+```
 <a name="module_es6-class--ExportedClass+propOne"></a>
 
 #### exportedClass.propOne : <code>number</code>

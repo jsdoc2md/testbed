@@ -1,7 +1,7 @@
 <a name="module_farm"></a>
 
 ## farm
-test to check deep trees render ok
+Exports a farm. Documents inner classes.
 
 
 * [farm](#module_farm)
@@ -23,7 +23,7 @@ test to check deep trees render ok
 <a name="exp_module_farm--Farm"></a>
 
 ### Farm ⏏
-the farm
+The farm
 
 **Kind**: Exported class  
 <a name="new_module_farm--Farm_new"></a>
