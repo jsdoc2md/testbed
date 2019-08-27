@@ -32,9 +32,9 @@ enum, no type, property descriptions.
 enum function! It has a kind of 'member' not 'function'.
 
 **Kind**: global enum  
-<a name="eFunction"></a>
+<a name="eFunction2"></a>
 
-## eFunction : <code>enum</code>
+## eFunction2 : <code>enum</code>
 enum function, type, properties
 
 **Kind**: global enum  

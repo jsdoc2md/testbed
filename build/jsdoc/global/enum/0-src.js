@@ -41,4 +41,4 @@ function eFunction () {}
  * @property {number} ONE - first
  * @property {number} TWO - second
  */
-function eFunction () {}
+function eFunction2 () {}
