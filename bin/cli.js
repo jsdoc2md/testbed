@@ -42,7 +42,7 @@ function buildQueue (folderList, createTasks) {
 }
 
 async function start () {
-  const [ ...folders ] = process.argv.slice(2)
+  const [...folders] = process.argv.slice(2)
   const folderList = await getFolderList(folders)
   let queue
   const command = require('../lib/command')
