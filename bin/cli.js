@@ -42,11 +42,10 @@ function buildQueue (folderList, createTasks) {
 }
 
 async function start () {
+  const command = require('../lib/command')
   const [...folders] = process.argv.slice(2)
   const folderList = await getFolderList(folders)
-  let queue
-  const command = require('../lib/command')
-  queue = buildQueue(folderList, dir => new command.Jsdoc2md(dir))
+  const queue = buildQueue(folderList, dir => new command.Jsdoc2md(dir))
   return queue && queue.process()
 }
 

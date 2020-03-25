@@ -6,7 +6,7 @@
   "repository": "https://github.com/jsdoc2md/testbed.git",
   "license": "MIT",
   "engines": {
-    "node": ">10"
+    "node": ">=10"
   },
   "bin": {
     "testbed": "bin/cli.js"
