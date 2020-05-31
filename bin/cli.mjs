@@ -1,30 +1,28 @@
 #!/usr/bin/env node
+import { getDirTree } from '../lib/dir-tree.mjs'
+import Jsdoc2md from '../lib/command.mjs'
+import { Job, Queue } from 'work/index.mjs'
+
 async function getFolderList (folders) {
-  const dirTree = require('../lib/dir-tree')
   if (folders.length) {
     return folders
   } else {
-    return dirTree.getDirTree('./build')
+    return getDirTree('./build')
   }
 }
 
 async function start () {
-  const work = require('work')
-  const Jsdoc2md = require('../lib/command')
-  const Job = work.Job
-  const Queue = work.Queue
-
   const [...folders] = process.argv.slice(2)
   const folderList = await getFolderList(folders)
   const queue = new Queue({ maxConcurrency: 10 })
   for (const dir of folderList) {
-    // console.log(dir)
-    const cmd = new Jsdoc2md()
-    const job = new Job(cmd.run.bind(cmd))
+    const job = new Jsdoc2md()
     job.args = [dir]
-    job.onFail = new Job((err, job) => {
-      console.error('Fail: ' + err.message)
-    })
+    // job.onFail = new Job({
+    //   fn: (err, job) => {
+    //     console.error('Fail: ' + err.message)
+    //   }
+    // })
     queue.add(job)
   }
   return queue.process()
