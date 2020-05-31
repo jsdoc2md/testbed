@@ -18,11 +18,11 @@ async function start () {
   for (const dir of folderList) {
     const job = new Jsdoc2md()
     job.args = [dir]
-    // job.onFail = new Job({
-    //   fn: (err, job) => {
-    //     console.error('Fail: ' + err.message)
-    //   }
-    // })
+    job.onFail = new Job({
+      fn: (err, job) => {
+        console.error('Fail: ' + err.message)
+      }
+    })
     queue.add(job)
   }
   return queue.process()
