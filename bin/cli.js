@@ -8,45 +8,26 @@ async function getFolderList (folders) {
   }
 }
 
-function buildQueue (folderList, createTasks) {
-  const Task = require('work').Task
-  const Queue = require('work').Queue
-  const arrayify = require('array-back')
-  createTasks = arrayify(createTasks)
-  const queue = new Queue({ maxConcurrent: 10 })
-  if (createTasks.length) {
-    folderList.forEach(dir => {
-      const taskQueue = new Queue()
-      createTasks.forEach(createTask => {
-        taskQueue.push(createTask(dir))
-      })
-      const task = new Task((resolve, reject) => {
-        taskQueue
-          .on('shift', task => console.log(task.name))
-          .on('complete', resolve)
-          .on('error', reject)
-          .process()
-      })
-      queue.push(task)
-    })
-  } else {
-    folderList.forEach(dir => {
-      queue.push(createTasks[0](dir))
-    })
-  }
-  queue.on('shift', task => { if (task.name) console.log(task.name) })
-  queue.on('error', err => {
-    console.log('Queue Error: ', /do not exist/.test(err.message) ? err.message : err.stack)
-  })
-  return queue
-}
-
 async function start () {
-  const command = require('../lib/command')
+  const work = require('work')
+  const Jsdoc2md = require('../lib/command')
+  const Job = work.Job
+  const Queue = work.Queue
+
   const [...folders] = process.argv.slice(2)
   const folderList = await getFolderList(folders)
-  const queue = buildQueue(folderList, dir => new command.Jsdoc2md(dir))
-  return queue && queue.process()
+  const queue = new Queue({ maxConcurrency: 10 })
+  for (const dir of folderList) {
+    // console.log(dir)
+    const cmd = new Jsdoc2md()
+    const job = new Job(cmd.run.bind(cmd))
+    job.args = [dir]
+    job.onFail = new Job((err, job) => {
+      console.error('Fail: ' + err.message)
+    })
+    queue.add(job)
+  }
+  return queue.process()
 }
 
 start().catch(console.error)

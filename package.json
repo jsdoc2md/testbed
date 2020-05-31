@@ -22,8 +22,8 @@
     "config-master": "^3.1.0",
     "dmd-bitbucket": "~0.1.10",
     "jsdoc-babel": "~0.5.0",
-    "jsdoc-to-markdown": "^5.0.3",
-    "work": "~0.3.2"
+    "jsdoc-to-markdown": "^6.0.1",
+    "work": "~0.6.2"
   },
   "standard": {
     "ignore": [
