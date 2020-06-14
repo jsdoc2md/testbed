@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 import { getDirTree } from '../lib/dir-tree.mjs'
 import Jsdoc2md from '../lib/command.mjs'
-import { Job, Queue } from 'work/index.mjs'
+import { Job, Queue, Loop } from 'work/index.mjs'
 
 async function getFolderList (folders) {
   if (folders.length) {
@@ -13,19 +13,25 @@ async function getFolderList (folders) {
 
 async function start () {
   const [...folders] = process.argv.slice(2)
-  const folderList = await getFolderList(folders)
-  const queue = new Queue({ maxConcurrency: 10 })
-  for (const dir of folderList) {
-    const job = new Jsdoc2md()
-    job.args = [dir]
-    job.onFail = new Job({
-      fn: (err, job) => {
-        console.error('Fail: ' + err.message)
-      }
+  const job = new Job({
+    name: 'getFolderList',
+    fn: getFolderList,
+    args: [folders],
+    result: 'dirs',
+    onSuccess: new Loop({
+      name: 'processDirs',
+      maxConcurrency: 10,
+      forEach: function () { return this.scope.get('dirs') },
+      argsFn: dir => dir,
+      Node: Jsdoc2md
     })
-    queue.add(job)
-  }
-  return queue.process()
+  })
+
+  job.on('state', function (state) {
+    console.log(`${this.name}: ${state}`)
+  })
+
+  return job.process()
 }
 
 start().catch(console.error)
