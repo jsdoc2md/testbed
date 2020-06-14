@@ -4,20 +4,18 @@ This format is inspired by the [node docs](http://nodejs.org/api/).
 * [Animal](#Animal)
     * [new Animal(species, parents)](#new_Animal_new)
     * [animal.age](#Animal+age) : <code>number</code>
-    * [animal.species](#Animal+species) : <code>[Species](#Species)</code>
+    * [animal.species](#Animal+species) : [<code>Species</code>](#Species)
     * [Animal.eMood](#Animal.eMood)
 
 -
 
-* [FurQ](#FurQ) ⇐ <code>[Rapper](#Rapper)</code>
+* [FurQ](#FurQ) ⇐ [<code>Rapper</code>](#Rapper)
     * [new FurQ()](#new_FurQ_new)
     * [furQ.wannaTryIt](#FurQ+wannaTryIt) : <code>string</code>
     * [furQ.LOVE](#FurQ+LOVE) : <code>string</code>
     * [furQ.spit()](#FurQ+spit)
     * [furQ.battle()](#Rapper+battle)
     * [furQ.punch()](#FurQ+punch)
-    * ["pop" (zoop)](#FurQ+event_pop)
-    * ["slap"](#FurQ+event_slap)
     * [furQ.kill()](#FurQ+kill)
     * [furQ.respect(done)](#FurQ+respect)
     * [FurQ.enemy](#FurQ.enemy) : <code>enum</code>
@@ -44,8 +42,8 @@ This format is inspired by the [node docs](http://nodejs.org/api/).
 
 * [Species](#Species)
     * [species.name](#Species+name) : <code>string</code>
-    * [species.species](#Species+species) : <code>[Species](#Species)</code>
-    * [Species.merge(one, two)](#Species.merge) ⇒ <code>[Species](#Species)</code>
+    * [species.species](#Species+species) : [<code>Species</code>](#Species)
+    * [Species.merge(one, two)](#Species.merge) ⇒ [<code>Species</code>](#Species)
 
 -
 
@@ -61,13 +59,13 @@ If an object has members within two of more distinct scopes (instance, static or
     * [new Animal(species, parents)](#new_Animal_new)
     * _instance_
         * [.age](#Animal+age) : <code>number</code>
-        * [.species](#Animal+species) : <code>[Species](#Species)</code>
+        * [.species](#Animal+species) : [<code>Species</code>](#Species)
     * _static_
         * [.eMood](#Animal.eMood)
 
 -
 
-* [FurQ](#FurQ) ⇐ <code>[Rapper](#Rapper)</code>
+* [FurQ](#FurQ) ⇐ [<code>Rapper</code>](#Rapper)
     * [new FurQ()](#new_FurQ_new)
     * _instance_
         * [.wannaTryIt](#FurQ+wannaTryIt) : <code>string</code>
@@ -75,8 +73,6 @@ If an object has members within two of more distinct scopes (instance, static or
         * [.spit()](#FurQ+spit)
         * [.battle()](#Rapper+battle)
         * [.punch()](#FurQ+punch)
-        * ["pop" (zoop)](#FurQ+event_pop)
-        * ["slap"](#FurQ+event_slap)
         * _standard_
             * [.kill()](#FurQ+kill)
             * [.respect(done)](#FurQ+respect)
@@ -109,9 +105,9 @@ If an object has members within two of more distinct scopes (instance, static or
 * [Species](#Species)
     * _instance_
         * [.name](#Species+name) : <code>string</code>
-        * [.species](#Species+species) : <code>[Species](#Species)</code>
+        * [.species](#Species+species) : [<code>Species</code>](#Species)
     * _static_
-        * [.merge(one, two)](#Species.merge) ⇒ <code>[Species](#Species)</code>
+        * [.merge(one, two)](#Species.merge) ⇒ [<code>Species</code>](#Species)
 
 -
 

@@ -1,3 +1,4 @@
 {
+  "files": "src/*.js",
   "template": "./template.hbs"
 }
