@@ -32,10 +32,10 @@ class description</p>
     * [new Animal(species, parents)](#new_Animal_new)
     * _instance_
         * [.age](#Animal+age) : <code>number</code>
-        * [.species](#Animal+species) : <code>[Species](#Species)</code>
+        * [.species](#Animal+species) : [<code>Species</code>](#Species)
     * _static_
         * [.eMood](#Animal.eMood)
-* [FurQ](#FurQ) ⇐ <code>[Rapper](#Rapper)</code>
+* [FurQ](#FurQ) ⇐ [<code>Rapper</code>](#Rapper)
     * [new FurQ()](#new_FurQ_new)
     * _instance_
         * [.wannaTryIt](#FurQ+wannaTryIt) : <code>string</code>
@@ -43,8 +43,6 @@ class description</p>
         * [.spit()](#FurQ+spit)
         * [.battle()](#Rapper+battle)
         * [.punch()](#FurQ+punch)
-        * ["pop" (zoop)](#FurQ+event_pop)
-        * ["slap"](#FurQ+event_slap)
         * _standard_
             * [.kill()](#FurQ+kill)
             * [.respect(done)](#FurQ+respect)
@@ -68,9 +66,9 @@ class description</p>
 * [Species](#Species)
     * _instance_
         * [.name](#Species+name) : <code>string</code>
-        * [.species](#Species+species) : <code>[Species](#Species)</code>
+        * [.species](#Species+species) : [<code>Species</code>](#Species)
     * _static_
-        * [.merge(one, two)](#Species.merge) ⇒ <code>[Species](#Species)</code>
+        * [.merge(one, two)](#Species.merge) ⇒ [<code>Species</code>](#Species)
 
 
 ## `jsdoc2md --global-index-format table`
