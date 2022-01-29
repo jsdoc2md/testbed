@@ -1,15 +1,8 @@
 <a name="toSlug"></a>
 
-## toSlug(s) ⇒ <code>string</code>
+## toSlug()
 toSlug
-Takes a string and converts it into a URL-safe string,
-replacing spaces with dashes, removing capitalized letters, and
-stripping unsafe characters out.
+This should document with a kind of "Function", not "Global function".
+https://github.com/jsdoc2md/jsdoc-to-markdown/issues/181
 
 **Kind**: global function  
-**Returns**: <code>string</code> - A slugified string  
-
-| Param | Type | Description |
-| --- | --- | --- |
-| s | <code>string</code> \| <code>number</code> | A string to slugify |
-

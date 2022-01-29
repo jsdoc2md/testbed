@@ -12,7 +12,7 @@
     "testbed": "bin/cli.js"
   },
   "scripts": {
-    "test": "node bin/cli.js --v1"
+    "test": "node bin/cli.mjs --v1"
   },
   "devDependencies": {
     "array-back": "^6.2.2",
