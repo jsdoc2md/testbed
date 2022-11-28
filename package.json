@@ -9,10 +9,10 @@
     "node": ">=12"
   },
   "bin": {
-    "testbed": "bin/cli.js"
+    "testbed": "bin/cli.mjs"
   },
   "scripts": {
-    "test": "node bin/cli.mjs --v1"
+    "test": "node bin/cli.mjs"
   },
   "devDependencies": {
     "array-back": "^6.2.2",
