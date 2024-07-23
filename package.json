@@ -22,7 +22,7 @@
     "config-master": "^3.1.0",
     "dmd-bitbucket": "~0.1.10",
     "jsdoc-babel": "~0.5.0",
-    "jsdoc-to-markdown": "^8.0.0",
+    "jsdoc-to-markdown": "^8.0.2",
     "work": "^0.7.1"
   },
   "standard": {
