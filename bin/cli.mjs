@@ -20,7 +20,7 @@ async function start () {
     result: 'dirs',
     onSuccess: new Loop({
       name: 'processDirs',
-      maxConcurrency: 10,
+      maxConcurrency: 1,
       forEach: function () { return this.scope.get('dirs') },
       argsFn: dir => dir,
       Node: Jsdoc2md
