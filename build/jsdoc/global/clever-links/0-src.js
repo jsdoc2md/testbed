@@ -1,4 +1,6 @@
 /**
+ * `@link` tag behaviour with `--clever-links` enabled.
+ *
  * - link: {@link https://www.example.com}.
  * - linkcode: {@linkcode https://www.example.com}.
  * - linkplain: {@linkplain https://www.example.com}.

@@ -1,6 +1,8 @@
 <a name="monospaceLinks"></a>
 
 ## monospaceLinks()
+`@link` tag behaviour with `--monospace-links` enabled.
+
 - link: [`https://www.example.com`](https://www.example.com).
 - linkcode: [`https://www.example.com`](https://www.example.com).
 - linkplain: [https://www.example.com](https://www.example.com).
