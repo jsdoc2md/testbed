@@ -17,18 +17,15 @@
   "devDependencies": {
     "array-back": "^6.2.2",
     "config-master": "^3.1.0",
-    "dmd-bitbucket": "~0.1.10",
-    "work": "^0.7.1"
+    "dmd-bitbucket": "~0.1.10"
   },
   "standard": {
     "ignore": [
       "build",
-      "build-win32",
-      "buggy",
       "tmp"
     ]
   },
   "dependencies": {
-    "jsdoc-to-markdown": "file:../jsdoc-to-markdown"
+    "jsdoc-to-markdown": "latest"
   }
 }
