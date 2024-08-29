@@ -1,4 +1,0 @@
-## throwingFunction()
-**Kind**: global function
-
-
