@@ -3,17 +3,17 @@
 ## monospaceLinks()
 `@link` tag behaviour with `--monospace-links` enabled.
 
-- link: [https://www.example.com](https://www.example.com).
-- linkcode: {@linkcode https://www.example.com}.
-- linkplain: {@linkplain https://www.example.com}.
+- link: [`https://www.example.com`](https://www.example.com).
+- linkcode: [`https://www.example.com`](https://www.example.com).
+- linkplain: [https://www.example.com](https://www.example.com).
 
 Link to a function:
-- link: [anotherFn](#anotherFn)
-- linkcode: {@linkcode anotherFn}
-- linkplain: {@linkplain anotherFn}
+- link: [`anotherFn`](#anotherFn)
+- linkcode: [`anotherFn`](#anotherFn)
+- linkplain: [anotherFn](#anotherFn)
 
 **Kind**: global function  
-**See**: [This PR](https://github.com/jsdoc2md/dmd/pull/86)  
+**See**: [`This PR`](https://github.com/jsdoc2md/dmd/pull/86)  
 <a name="anotherFn"></a>
 
 ## anotherFn()

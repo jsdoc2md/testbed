@@ -65,6 +65,7 @@ for (const folder of folders) {
   const outputFile = options.outputFile || '3-dmd.md'
   let output
   try {
+    // console.log('OPTIONS', options)
     output = await jsdoc2md.render(options)
     await fs.writeFile(path.resolve(folder, outputFile), output)
   } catch (err) {

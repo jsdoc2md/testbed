@@ -4,13 +4,13 @@
 `@link` tag behaviour with `--clever-links` disabled.
 
 - link: [https://www.example.com](https://www.example.com).
-- linkcode: {@linkcode https://www.example.com}.
-- linkplain: {@linkplain https://www.example.com}.
+- linkcode: [`https://www.example.com`](https://www.example.com).
+- linkplain: [https://www.example.com](https://www.example.com).
 
 Link to a function:
 - link: [anotherFn](#anotherFn)
-- linkcode: {@linkcode anotherFn}
-- linkplain: {@linkplain anotherFn}
+- linkcode: [`anotherFn`](#anotherFn)
+- linkplain: [anotherFn](#anotherFn)
 
 **Kind**: global function  
 **See**: [This PR](https://github.com/jsdoc2md/dmd/pull/86)  
