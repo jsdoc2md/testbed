@@ -1,5 +1,5 @@
 /**
- * `@link` tag behaviour with `--clever-links` enabled.
+ * `@link` tag behaviour with `--clever-links` disabled.
  *
  * - link: {@link https://www.example.com}.
  * - linkcode: {@linkcode https://www.example.com}.
@@ -9,6 +9,8 @@
  * - link: {@link anotherFn}
  * - linkcode: {@linkcode anotherFn}
  * - linkplain: {@linkplain anotherFn}
+ *
+ * @see {@link https://github.com/jsdoc2md/dmd/pull/86|This PR}
  */
 function cleverLinks () {}
 

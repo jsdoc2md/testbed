@@ -15,7 +15,6 @@
     "test": "node bin/cli.mjs"
   },
   "devDependencies": {
-    "config-master": "^3.1.0",
     "dmd-bitbucket": "~0.1.10"
   },
   "standard": {

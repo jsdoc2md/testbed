@@ -1,7 +1,7 @@
 <a name="cleverLinks"></a>
 
 ## cleverLinks()
-`@link` tag behaviour with `--clever-links` enabled.
+`@link` tag behaviour with `--clever-links` disabled.
 
 - link: [https://www.example.com](https://www.example.com).
 - linkcode: {@linkcode https://www.example.com}.
@@ -13,6 +13,7 @@ Link to a function:
 - linkplain: {@linkplain anotherFn}
 
 **Kind**: global function  
+**See**: [This PR](https://github.com/jsdoc2md/dmd/pull/86)  
 <a name="anotherFn"></a>
 
 ## anotherFn()

@@ -1,17 +1,32 @@
 #!/usr/bin/env node
 import { getDirTree } from '../lib/dir-tree.mjs'
-import getConfig from 'config-master'
 import { promises as fs } from 'node:fs'
 import path from 'node:path'
 import jsdoc2md from 'jsdoc-to-markdown'
 
+async function getConfig (folder, configPath) {
+  const fullPath = path.resolve(folder, `.${configPath}.json`)
+  let config = {}
+  try {
+    config = await fs.readFile(fullPath, 'utf8')
+    config = JSON.parse(config)
+  } catch (err) {
+    if (err.code === 'ENOENT') {
+      // config file not found - no big deal
+    } else {
+      throw err
+    }
+  }
+  return config
+}
+
 /**
  * Load config in one file then potential extend it with config from a second
  */
-function loadConfig (configPath, another, folder) {
-  const options = Object.assign(getConfig(configPath, { startFrom: folder }))
+async function loadConfig (configPath, another, folder) {
+  const options = await getConfig(folder, configPath)
   if (another) {
-    Object.assign(options, getConfig(another, { startFrom: folder }))
+    Object.assign(options, await getConfig(folder, another))
   }
   return options
 }
@@ -23,7 +38,7 @@ if (!folders.length) {
 
 for (const folder of folders) {
   console.log('Processing folder: ' + folder)
-  const options = loadConfig('jsdoc2md', 'dmd', folder)
+  const options = await loadConfig('jsdoc2md', 'dmd', folder)
   if (options.template) {
     /* the options.template in dmd expects a template string */
     options.template = await fs.readFile(path.resolve(folder, options.template), 'utf8')
@@ -31,7 +46,21 @@ for (const folder of folders) {
   if (options.configure) {
     options.configure = path.resolve(folder, options.configure)
   }
-  options.files = options.files ? path.resolve(folder, options.files) : path.resolve(folder, '0-src.js')
+  if (options.files) {
+    options.files = path.resolve(folder, options.files)
+  } else {
+    options.files = path.resolve(folder, '0-src.js')
+    try {
+      await fs.stat(options.files)
+    } catch (err) {
+      if (err.code === 'ENOENT') {
+        console.log('No input files specified')
+        continue
+      } else {
+        throw err
+      }
+    }
+  }
   options['no-cache'] = true
   const outputFile = options.outputFile || '3-dmd.md'
   let output

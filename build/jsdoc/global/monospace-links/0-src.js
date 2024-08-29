@@ -9,6 +9,8 @@
  * - link: {@link anotherFn}
  * - linkcode: {@linkcode anotherFn}
  * - linkplain: {@linkplain anotherFn}
+ *
+ * @see {@link https://github.com/jsdoc2md/dmd/pull/86|This PR}
  */
 function monospaceLinks () {}
 
