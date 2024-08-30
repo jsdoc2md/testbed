@@ -63,6 +63,9 @@ You can filter on any property by regular expression.
 The `_name` attribute signifies you want to filter on the `name` property (from the input jsdoc-parse data). The underscore means *filter by regexp*. If you specified `name` instead of `_name` it would filter by exact value.
 
 for example, to print a list of names of modules beginning with "b":
+
+30/8/24 DEPRECATED: magic attributes like `_name="^b"`
+
 ```hbs
 \{{#modules _name="^b"~}}
 \{{name}}
