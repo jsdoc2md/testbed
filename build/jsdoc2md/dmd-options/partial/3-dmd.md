@@ -11,7 +11,7 @@
 
 <a name="GlobalClass"></a>
 
-## PARENT REMOVED GlobalClass
+## GlobalClass
 a global class
 
 **Kind**: global class  
@@ -27,7 +27,7 @@ a global class
 
 <a name="new_GlobalClass_new"></a>
 
-### new PARENT REMOVED GlobalClass(one, two)
+### new GlobalClass(one, two)
 the global class constructor
 
 **Throws**:
@@ -46,31 +46,31 @@ var one = 1
 ```
 <a name="GlobalClass+propOne"></a>
 
-### PARENT REMOVED .propOne : <code>number</code>
+### .propOne : <code>number</code>
 an instance property
 
 **Kind**: instance property of [<code>GlobalClass</code>](#GlobalClass)  
 <a name="GlobalClass+methodOne"></a>
 
-### PARENT REMOVED .methodOne()
+### .methodOne()
 parent method one
 
 **Kind**: instance method of [<code>GlobalClass</code>](#GlobalClass)  
 <a name="GlobalClass+methodTwo"></a>
 
-### PARENT REMOVED .methodTwo()
+### .methodTwo()
 parent method two
 
 **Kind**: instance method of [<code>GlobalClass</code>](#GlobalClass)  
 <a name="GlobalClass.shat"></a>
 
-### PARENT REMOVED .shat()
+### .shat()
 a static method
 
 **Kind**: static method of [<code>GlobalClass</code>](#GlobalClass)  
 <a name="GlobalChildClass"></a>
 
-## PARENT REMOVED GlobalChildClass ⇐ [<code>GlobalClass</code>](#GlobalClass)
+## GlobalChildClass ⇐ [<code>GlobalClass</code>](#GlobalClass)
 the child of global class
 
 **Kind**: global class  
@@ -84,27 +84,27 @@ the child of global class
 
 <a name="GlobalChildClass+propThree"></a>
 
-### PARENT REMOVED .propThree
+### .propThree
 an instance property
 
 **Kind**: instance property of [<code>GlobalChildClass</code>](#GlobalChildClass)  
 <a name="GlobalClass+propOne"></a>
 
-### PARENT REMOVED .propOne : <code>number</code>
+### .propOne : <code>number</code>
 an instance property
 
 **Kind**: instance property of [<code>GlobalChildClass</code>](#GlobalChildClass)  
 **Overrides**: [<code>propOne</code>](#GlobalClass+propOne)  
 <a name="GlobalChildClass+methodTwo"></a>
 
-### PARENT REMOVED .methodTwo()
+### .methodTwo()
 overridden child methodTwo
 
 **Kind**: instance method of [<code>GlobalChildClass</code>](#GlobalChildClass)  
 **Overrides**: [<code>methodTwo</code>](#GlobalClass+methodTwo)  
 <a name="GlobalClass+methodOne"></a>
 
-### PARENT REMOVED .methodOne()
+### .methodOne()
 parent method one
 
 **Kind**: instance method of [<code>GlobalChildClass</code>](#GlobalChildClass)  
