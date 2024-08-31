@@ -46,6 +46,9 @@ for (const folder of folders) {
   if (options.configure) {
     options.configure = path.resolve(folder, options.configure)
   }
+  if (options.partial) {
+    options.partial = path.resolve(folder, options.partial)
+  }
   if (options.files) {
     options.files = path.resolve(folder, options.files)
   } else {
