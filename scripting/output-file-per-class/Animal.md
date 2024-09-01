@@ -9,4 +9,4 @@ Animal.
 ### animal.food
 Favourite food.
 
-**Kind**: instance property of <code>[Animal](#Animal)</code>  
+**Kind**: instance property of [<code>Animal</code>](#Animal)  

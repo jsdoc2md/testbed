@@ -9,4 +9,4 @@ Habitat.
 ### habitat.wood
 Contains wood.
 
-**Kind**: instance property of <code>[Habitat](#Habitat)</code>  
+**Kind**: instance property of [<code>Habitat</code>](#Habitat)  
