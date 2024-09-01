@@ -1,9 +1,9 @@
 /**
- * @module module-exports-es6-class-var
+ * @module module-exports-class-ref
  */
 
 /**
- * @alias module:module-exports-es6-class-var
+ * @alias module:module-exports-class-ref
  */
 class Example {
   /**
