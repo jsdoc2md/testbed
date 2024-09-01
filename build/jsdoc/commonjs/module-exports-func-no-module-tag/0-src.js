@@ -1,8 +1,8 @@
 /* This file produces no output, creating the most common confusion users report. */
 
 /**
- * @param {number}
- * @param {number}
- * @returns {number}
+ * Add two values.
  */
-module.exports = function (one, two) {}
+module.exports = function add (a, b) {
+  return a + b
+}

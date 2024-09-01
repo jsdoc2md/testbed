@@ -3,11 +3,7 @@
 ## module-exports-func
 <a name="exp_module_module-exports-func--module.exports"></a>
 
-### module.exports(one, two) ⇒ <code>number</code> ⏏
+### module.exports() ⏏
+Add two values.
+
 **Kind**: Exported function  
-
-| Param | Type |
-| --- | --- |
-| one | <code>number</code> | 
-| two | <code>number</code> | 
-

@@ -1,17 +1,17 @@
-<a name="module_module-exports-es6-class-var"></a>
+<a name="module_module-exports-class-ref"></a>
 
-## module-exports-es6-class-var
+## module-exports-class-ref
 
-* [module-exports-es6-class-var](#module_module-exports-es6-class-var)
-    * [Example](#exp_module_module-exports-es6-class-var--Example) ⏏
-        * [new Example(one, two)](#new_module_module-exports-es6-class-var--Example_new)
-        * [.three](#module_module-exports-es6-class-var--Example+three)
+* [module-exports-class-ref](#module_module-exports-class-ref)
+    * [Example](#exp_module_module-exports-class-ref--Example) ⏏
+        * [new Example(one, two)](#new_module_module-exports-class-ref--Example_new)
+        * [.three](#module_module-exports-class-ref--Example+three)
 
-<a name="exp_module_module-exports-es6-class-var--Example"></a>
+<a name="exp_module_module-exports-class-ref--Example"></a>
 
 ### Example ⏏
 **Kind**: Exported class  
-<a name="new_module_module-exports-es6-class-var--Example_new"></a>
+<a name="new_module_module-exports-class-ref--Example_new"></a>
 
 #### new Example(one, two)
 
@@ -20,9 +20,9 @@
 | one | <code>number</code> | 
 | two | <code>number</code> | 
 
-<a name="module_module-exports-es6-class-var--Example+three"></a>
+<a name="module_module-exports-class-ref--Example+three"></a>
 
 #### example.three
 instance
 
-**Kind**: instance property of [<code>Example</code>](#exp_module_module-exports-es6-class-var--Example)  
+**Kind**: instance property of [<code>Example</code>](#exp_module_module-exports-class-ref--Example)  

@@ -3,8 +3,8 @@
  */
 
 /**
- * @param {number}
- * @param {number}
- * @returns {number}
+ * Add two values.
  */
-module.exports = function (one, two) {}
+module.exports = function add (a, b) {
+  return a + b
+}

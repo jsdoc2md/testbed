@@ -1,27 +1,37 @@
-<a name="module_0-src"></a>
+## Constants
 
-## 0-src
+<dl>
+<dt><a href="#pi">pi</a></dt>
+<dd><p>exported number</p>
+</dd>
+</dl>
 
-* [0-src](#module_0-src)
-    * [~pi](#module_0-src..pi)
-    * [~add()](#module_0-src..add)
-    * [~subtract()](#module_0-src..subtract)
+## Functions
 
-<a name="module_0-src..pi"></a>
+<dl>
+<dt><a href="#add">add()</a></dt>
+<dd><p>Add two values.</p>
+</dd>
+<dt><a href="#subtract">subtract()</a></dt>
+<dd><p>Subtraction.</p>
+</dd>
+</dl>
 
-### 0-src~pi
+<a name="pi"></a>
+
+## pi
 exported number
 
-**Kind**: inner constant of [<code>0-src</code>](#module_0-src)  
-<a name="module_0-src..add"></a>
+**Kind**: global constant  
+<a name="add"></a>
 
-### 0-src~add()
+## add()
 Add two values.
 
-**Kind**: inner method of [<code>0-src</code>](#module_0-src)  
-<a name="module_0-src..subtract"></a>
+**Kind**: global function  
+<a name="subtract"></a>
 
-### 0-src~subtract()
+## subtract()
 Subtraction.
 
-**Kind**: inner method of [<code>0-src</code>](#module_0-src)  
+**Kind**: global function  
