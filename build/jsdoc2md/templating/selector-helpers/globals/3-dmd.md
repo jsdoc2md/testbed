@@ -22,7 +22,6 @@ Tree
 Farm
 Equipment
 Tractor
-All
 GlobalClass
 Example
 GlobalClass
