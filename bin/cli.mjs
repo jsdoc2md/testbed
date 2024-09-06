@@ -3,6 +3,10 @@ import { getDirTree } from '../lib/dir-tree.mjs'
 import { promises as fs } from 'node:fs'
 import path from 'node:path'
 import jsdoc2md from 'jsdoc-to-markdown'
+import util from 'node:util'
+util.inspect.defaultOptions.depth = 6
+util.inspect.defaultOptions.breakLength = process.stdout.columns
+util.inspect.defaultOptions.maxArrayLength = Infinity
 
 async function getConfig (folder, configPath) {
   const fullPath = path.resolve(folder, `.${configPath}.json`)
@@ -48,6 +52,9 @@ for (const folder of folders) {
   }
   if (options.partial) {
     options.partial = path.resolve(folder, options.partial)
+  }
+  if (options.helper) {
+    options.helper = path.resolve(folder, options.helper)
   }
   if (options.files) {
     options.files = path.resolve(folder, options.files)
