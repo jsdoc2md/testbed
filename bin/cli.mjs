@@ -3,6 +3,7 @@ import { getDirTree } from '../lib/dir-tree.mjs'
 import { promises as fs } from 'node:fs'
 import path from 'node:path'
 import jsdoc2md from 'jsdoc-to-markdown'
+import arrayBack from 'array-back'
 import util from 'node:util'
 util.inspect.defaultOptions.depth = 6
 util.inspect.defaultOptions.breakLength = process.stdout.columns
@@ -57,7 +58,7 @@ for (const folder of folders) {
     options.helper = path.resolve(folder, options.helper)
   }
   if (options.files) {
-    options.files = path.resolve(folder, options.files)
+    options.files = arrayBack(options.files).map(file => path.resolve(folder, file))
   } else {
     options.files = path.resolve(folder, '0-src.js')
     try {

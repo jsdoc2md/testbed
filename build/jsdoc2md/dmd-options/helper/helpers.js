@@ -4,7 +4,6 @@ const overrides = {
   },
 
   orphans: function () {
-    console.log(this)
     return 'whatever'
   }
 }
