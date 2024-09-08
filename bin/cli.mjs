@@ -75,12 +75,23 @@ for (const folder of folders) {
   options['no-cache'] = true
   const outputFile = options.outputFile || '3-dmd.md'
   let output
-  try {
-    // console.log('OPTIONS', options)
-    output = await jsdoc2md.render(options)
-    await fs.writeFile(path.resolve(folder, outputFile), output)
-  } catch (err) {
-    console.error('FAILED', folder)
-    console.error(err)
+
+  if (process.env.SLOW) {
+    try {
+      output = await jsdoc2md.render(options)
+      await fs.writeFile(path.resolve(folder, outputFile), output)
+    } catch (err) {
+      console.error('FAILED', folder)
+      console.error(err)
+    }
+  } else {
+    jsdoc2md.render(options)
+      .then(output => {
+        return fs.writeFile(path.resolve(folder, outputFile), output)
+      })
+      .catch(err => {
+        console.error('FAILED', folder)
+        console.error(err)
+      })
   }
 }
