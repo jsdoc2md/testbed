@@ -25,6 +25,6 @@
   },
   "dependencies": {
     "array-back": "^6.2.2",
-    "jsdoc-to-markdown": "^9.0.5"
+    "jsdoc-to-markdown": "^9.1.0"
   }
 }
