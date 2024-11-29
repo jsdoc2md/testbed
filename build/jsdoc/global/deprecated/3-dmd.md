@@ -40,7 +40,7 @@ A function that's not deprecated - for comparison.
 <a name="create"></a>
 
 ## ~~create(options) ⇒ <code>Promise</code>~~
-***Deprecated. Use &#x60;something.else&#x60; instead.***
+***Deprecated. Use `something.else` [version 1](http://www.google.com) instead.***
 
 This method adds a thing to an organization by their usename.
 

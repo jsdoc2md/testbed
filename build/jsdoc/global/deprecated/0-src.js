@@ -23,7 +23,7 @@ function notDeprecated (one) {}
  * @public
  * @function
  *
- * @deprecated Deprecated. Use `something.else` instead.
+ * @deprecated Deprecated. Use `something.else` {@link http://www.google.com|version 1} instead.
  * @description This method adds a thing to an organization by their usename.
  *
  * @param {Object} options - Some param text.
