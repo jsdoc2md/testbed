@@ -11,7 +11,7 @@ A large collection of jsdoc use cases to test your changes on. The general idea 
     1. Run `npm link ../dmd/`
     1. `npm link` jsdoc-api and/or jsdoc-to-markdown if you made changes there too.
     1. Now your testbed points to your modified code
-1. Run `node bin/cli.mjs`. This runs jsdoc2md against all the test fixtures recursively in the `build` directory.
+1. Run `npm test`. This runs jsdoc2md against all the test fixtures recursively in the `build` directory.
 1. Run `git status`.
     1. git status shows no changes
         1. Well done, your local changes didn't break the jsdoc2md output!
