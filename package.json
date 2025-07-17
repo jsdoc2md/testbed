@@ -10,10 +10,10 @@
     "node": ">=12"
   },
   "bin": {
-    "testbed": "bin/cli.mjs"
+    "testbed": "bin/cli.js"
   },
   "scripts": {
-    "test": "node bin/cli.mjs"
+    "test": "node bin/cli.js && node scripting/output-file-per-class/0-src.js && node scripting/manual-file-order/0-src.js"
   },
   "devDependencies": {
     "dmd-bitbucket": "^0.1.11"
