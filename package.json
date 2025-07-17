@@ -5,6 +5,7 @@
   "description": "testbed",
   "repository": "https://github.com/jsdoc2md/testbed.git",
   "license": "MIT",
+  "type": "module",
   "engines": {
     "node": ">=12"
   },

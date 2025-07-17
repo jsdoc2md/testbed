@@ -2,6 +2,8 @@ import jsdoc2md from 'jsdoc-to-markdown'
 import { promises as fs } from 'node:fs'
 import path from 'path'
 
+/* RUN THIS IN ITS FOLDER */
+
 /* input and output paths */
 const inputFile = process.argv[2] || 'src/example.js'
 
@@ -15,6 +17,6 @@ const classNames = templateData.filter(i => i.kind === 'class').map(i => i.name)
 for (const className of classNames) {
   const template = `{{#class name="${className}"}}{{>docs}}{{/class}}`
   console.log(`rendering ${className}, template: ${template}`)
-  const output = await jsdoc2md.render({ data: templateData, template: template })
+  const output = await jsdoc2md.render({ data: templateData, template })
   await fs.writeFile(path.resolve(`${className}.md`), output)
 }
